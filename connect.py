@@ -96,6 +96,7 @@ def fetch(parties, channels_resource, key, videos_per_channel, after_date):
     except ValueError:
         print("Usage: connect.py fetch [OPTIONS] PARTIES...")
         print("Datetime: {DAY}.{MONTH}.{YEAR}")
+        return
     # Print script information
     print_information(parties, videos_per_channel, after_date)
     # Get youtube api handle for uploads fetching
