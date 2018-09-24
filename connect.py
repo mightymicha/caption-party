@@ -41,10 +41,10 @@ Specifies the maximal number of videos per channel to fetch subtitles from.
 Recent videos will get downloaded first.
 Default: 5
 
---captions-format(str):
-Specifies format of the subtitles.
-Options: srt, ass, vtt, lrc, ttml
-Default: ttml
+--after_date(string):
+Download subtitles from videos uploaded on and after a specific date.
+Specification: {DAY}.{MONTH}.{YEAR}
+Default: 01.01.2018
 """
 
 import os
@@ -52,6 +52,7 @@ import sys
 import json
 import re
 import glob
+import datetime
 try:
     import click
     import webvtt
@@ -75,8 +76,8 @@ def main():
 @click.option('--channels-resource', default='./channels.json', type=click.Path(exists=True))
 @click.option('--key', default='./client_secret.json', type=click.Path(exists=True))
 @click.option('--videos-per-channel', default=5)
-@click.option('--captions-format', default='ttml', type=click.Choice(['srt', 'ass', 'vtt', 'ttml']))
-def fetch(parties, channels_resource, key, videos_per_channel, captions_format):
+@click.option('--after-date', default="01.01.2018")
+def fetch(parties, channels_resource, key, videos_per_channel, after_date):
     # Get specified parties
     party_channels = load_json(channels_resource)
     available_parties = list(party_channels.keys())
@@ -89,17 +90,23 @@ def fetch(parties, channels_resource, key, videos_per_channel, captions_format):
         print("Usage: connect.py fetch [OPTIONS] PARTIES...")
         print("Available parties: " + ", ".join(["all"] + available_parties))
         return
+    try:
+        time = datetime.datetime.strptime(after_date, '%d.%m.%Y')
+        youtube_dl_time = time.strftime('%Y%m%d')
+    except ValueError:
+        print("Usage: connect.py fetch [OPTIONS] PARTIES...")
+        print("Datetime: {DAY}.{MONTH}.{YEAR}")
     # Print script information
-    print_information(parties)
+    print_information(parties, videos_per_channel, after_date)
     # Get youtube api handle for uploads fetching
-    handle = get_handle(key)
+    handle = get_handle(key) #TODO: Remove Youtube API
     # Download subtitles
     for party in parties:
         print("[STATUS] Party: " + party.upper())
         for channel in party_channels[party]:
             print("[STATUS] Channel: " + channel["name"])
-            uploads = get_channel_uploads_id(handle, channel["id"])
-            download_subs(party, uploads, videos_per_channel, captions_format)
+            uploads = get_channel_uploads_id(handle, channel["id"]) #TODO: Remove Youtube API
+            download_subs(party, uploads, videos_per_channel, youtube_dl_time)
         # Filter captions
         print("[STATUS] Start filtering {0} captions".format(party))
         filter_subs("./captions/" + party)
@@ -117,11 +124,13 @@ def load_json(path):
         return json.load(f)
 
 
-def print_information(parties):
+def print_information(parties, videos_per_channel, after_date):
     print("==============================")
     print("==== CAPTION PARTY v{0} ====".format(VERSION))
     print("==============================")
     print("Fetching: " + ", ".join(parties))
+    print("Subtitles per channel: " + str(videos_per_channel))
+    print("Uploaded after: " + after_date)
     print("==============================\n")
 
 
@@ -170,14 +179,14 @@ def get_channel_uploads_id(handle, channel_id):
     return json_result['items'][0]['contentDetails']['relatedPlaylists']['uploads']
 
 
-def download_subs(party, playlist, max_subtitles, captions_format):
+def download_subs(party, playlist, max_subtitles, date):
     """Runs a command to download captions from a specific playlist.
 
     Parameters:
         party(str): Subtitles get downloaded to `captions/{party}/id`.
         playlist(str): The Youtube playlist ID
         max_videos_per_channel(int): Maximal subtitles to download
-        captions_format(str): Specifies caption format preference
+        date: Upload must be after this date
     """
 
     cmd = [
@@ -187,7 +196,9 @@ def download_subs(party, playlist, max_subtitles, captions_format):
         "--sub-lang de",
         "--no-progress",
         "--max-downloads " + str(max_subtitles),
-        "--sub-format " + captions_format,
+        "--playlist-end " + str(max_subtitles + 1),
+        "--sub-format ttml",
+        "--dateafter " + date,
         "-o 'captions/" + party + "/%(id)s'",
         playlist
     ]
@@ -206,6 +217,7 @@ def filter_subs(directory):
         with open(cap, "r") as f:
             text = f.read()
         text = re.sub(r'<[^>]*>', '', text)
+        text = re.sub(r'\[[^\]]*\]', '', text)
         text = re.sub(r'\s+', ' ', text).strip()
         with open(cap[:-5] + ".txt", "w+") as f:
             f.write(text)
