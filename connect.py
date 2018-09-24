@@ -207,7 +207,7 @@ def filter_subs(directory):
             text = f.read()
         text = re.sub(r'<[^>]*>', '', text)
         text = re.sub(r'\s+', ' ', text).strip()
-        with open(directory + "/" + cap[:-5] + ".txt", "w+") as f:
+        with open(cap[:-5] + ".txt", "w+") as f:
             f.write(text)
         os.remove(cap)
 
