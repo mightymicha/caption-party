@@ -28,14 +28,6 @@ It should have the following structure:
      }
 Default: "channels.json".
 
---key(str):
-The key variable specifies the name of a file that
-contains the OAuth 2.0 information for this application,
-including its client_id and client_secret.
-You can acquire an OAuth 2.0 client ID and client secret from
-the GoogleCloud Console at https://cloud.google.com/console.
-Default: "client_secret.json"
-
 --videos-per-channel(int):
 Specifies the maximal number of videos per channel to fetch subtitles from.
 Recent videos will get downloaded first.
@@ -55,14 +47,11 @@ import glob
 import datetime
 try:
     import click
-    import webvtt
-    from apiclient.discovery import build
-    from google_auth_oauthlib.flow import InstalledAppFlow
 except ImportError:
     sys.exit(
-        "[ERROR] You need the following python packages:\nclick, webvtt, apiclient, google_auth_oauthlib")
+        "[ERROR] You need the following python packages:\nclick")
 
-VERSION = '1.0.0'
+VERSION = '1.0.5'
 
 
 @click.group()
@@ -74,10 +63,9 @@ def main():
 @main.command()
 @click.argument('parties', nargs=-1)
 @click.option('--channels-resource', default='./channels.json', type=click.Path(exists=True))
-@click.option('--key', default='./client_secret.json', type=click.Path(exists=True))
 @click.option('--videos-per-channel', default=5)
 @click.option('--after-date', default="01.01.2018")
-def fetch(parties, channels_resource, key, videos_per_channel, after_date):
+def fetch(parties, channels_resource, videos_per_channel, after_date):
     # Get specified parties
     party_channels = load_json(channels_resource)
     available_parties = list(party_channels.keys())
@@ -99,15 +87,12 @@ def fetch(parties, channels_resource, key, videos_per_channel, after_date):
         return
     # Print script information
     print_information(parties, videos_per_channel, after_date)
-    # Get youtube api handle for uploads fetching
-    handle = get_handle(key) #TODO: Remove Youtube API
     # Download subtitles
     for party in parties:
-        print("[STATUS] Party: " + party.upper())
+        print("[STATUS] Party: ", party.upper())
         for channel in party_channels[party]:
-            print("[STATUS] Channel: " + channel["name"])
-            uploads = get_channel_uploads_id(handle, channel["id"]) #TODO: Remove Youtube API
-            download_subs(party, uploads, videos_per_channel, youtube_dl_time)
+            print("[STATUS] Channel: ", channel['name'])
+            download_subs(party, channel['region'], channel['id'], videos_per_channel, youtube_dl_time)
         # Filter captions
         print("[STATUS] Start filtering {0} captions".format(party))
         filter_subs("./captions/" + party)
@@ -134,6 +119,54 @@ def print_information(parties, videos_per_channel, after_date):
     print("Uploaded after: " + after_date)
     print("==============================\n")
 
+
+def download_subs(party, region, channel, max_subtitles, date):
+    """Runs a command to download captions from a specific playlist.
+
+    Parameters:
+        party(str): Subtitles get downloaded to `captions/{party}/id`.
+        channel(str): The Youtube channel ID
+        max_videos_per_channel(int): Maximal subtitles to download
+        date: Upload must be after this date
+    """
+
+    cmd = [
+        "youtube-dl",
+        "--write-auto-sub",
+        "--skip-download",
+        "--sub-lang de",
+        "--no-progress",
+        "--max-downloads " + str(max_subtitles),
+        "--playlist-end " + str(max_subtitles * 2 + 3),
+        "--sub-format ttml",
+        "--dateafter " + date,
+        "-o '" + '/'.join(["captions", party, region + "_%(id)s'"]),
+        "https://www.youtube.com/channel/" + channel
+    ]
+    os.system(" ".join(cmd))
+
+
+def filter_subs(directory):
+    """Removes tags and redundant whitespace from files in a directory.
+
+    Parameters:
+        directory(str): folder in which all files get filtered
+    """
+
+    unfiltered_files = glob.glob(directory + "/*.ttml")
+    for cap in unfiltered_files:
+        with open(cap, "r") as f:
+            text = f.read()
+        text = re.sub(r'<[^>]*>', '', text)
+        text = re.sub(r'\[[^\]]*\]', '', text)
+        # text = re.sub(r'[^a-zA-ZäöüÄÖÜß\s]*', '', text)
+        text = re.sub(r'\s+', ' ', text).strip()
+        with open(cap[:-8] + ".txt", "w+") as f:
+            f.write(text)
+        os.remove(cap)
+
+# +-+-+--- DEPRECATED ---+-+-+-
+# Methods used before changing to youtube_dl
 
 def get_handle(key):
     """Authorize further requests and return youtube handle.
@@ -171,72 +204,13 @@ def get_handle(key):
 #     with open(party + "_corpora.txt", "w") as f:
 #         f.write(" ".join(filtered_words))
 
+
 # For given channel_id, return the 'upload playlist' id
-
-
 def get_channel_uploads_id(handle, channel_id):
     json_result = handle.channels().list(
         part='snippet,contentDetails', id=channel_id).execute()
     return json_result['items'][0]['contentDetails']['relatedPlaylists']['uploads']
 
-
-def download_subs(party, playlist, max_subtitles, date):
-    """Runs a command to download captions from a specific playlist.
-
-    Parameters:
-        party(str): Subtitles get downloaded to `captions/{party}/id`.
-        playlist(str): The Youtube playlist ID
-        max_videos_per_channel(int): Maximal subtitles to download
-        date: Upload must be after this date
-    """
-
-    cmd = [
-        "youtube-dl",
-        "--write-auto-sub",
-        "--skip-download",
-        "--sub-lang de",
-        "--no-progress",
-        "--max-downloads " + str(max_subtitles),
-        "--playlist-end " + str(max_subtitles + 1),
-        "--sub-format ttml",
-        "--dateafter " + date,
-        "-o 'captions/" + party + "/%(id)s'",
-        playlist
-    ]
-    os.system(" ".join(cmd))
-
-
-def filter_subs(directory):
-    """Removes tags and redundant whitespace from files in a directory.
-
-    Parameters:
-        directory(str): folder in which all files get filtered
-    """
-
-    unfiltered_files = glob.glob(directory + "/*.ttml")
-    for cap in unfiltered_files:
-        with open(cap, "r") as f:
-            text = f.read()
-        text = re.sub(r'<[^>]*>', '', text)
-        text = re.sub(r'\[[^\]]*\]', '', text)
-        text = re.sub(r'\s+', ' ', text).strip()
-        with open(cap[:-5] + ".txt", "w+") as f:
-            f.write(text)
-        os.remove(cap)
-
-
-# handle = get_handle()
-# handle = None
-# generate_corpus(handle, "afd", 2)
-
-# videos = get_playlist_items(handle, playlist)
-# caption = get_caption_id(handle, videos[3])
-# subtitle = get_caption_text(handle, caption)
-# filter_text(subtitle[::1000])
-
-
-# +-+-+--- DEPRECATED ---+-+-+-
-# Methods used before changing to youtube_dl
 
 def get_playlist_items(handle, playlist_id):
     json_result = handle.playlistItems().list(part='contentDetails',
@@ -267,7 +241,18 @@ def get_caption_id(handle, video_id):
 def get_caption_text(handle, caption_id):
     return handle.captions().download(id=caption_id).execute()
 
+# import webvtt
+# from apiclient.discovery import build
+# from google_auth_oauthlib.flow import InstalledAppFlow
+
+# --key(str): #TODO
+# The key variable specifies the name of a file that
+# contains the OAuth 2.0 information for this application,
+# including its client_id and client_secret.
+# You can acquire an OAuth 2.0 client ID and client secret from
+# the GoogleCloud Console at https://cloud.google.com/console.
+# Default: "client_secret.json"
+
 
 if __name__ == '__main__':
     main()
-
