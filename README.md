@@ -8,7 +8,8 @@ channels grouped by their belonging to a political party.
 
 fetch:
 *Download video captions from one or multiple parties to
-`subtitles\{party}\{video}`. Use argument `all` to fetch videos
+`subtitles\{party}\{video}`.  
+Use argument `all` to fetch videos
 from every party specified in the json file.*
 
 
