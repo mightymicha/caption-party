@@ -46,8 +46,8 @@ Default: 5*
 
 
 --after_date(string):
-*Download subtitles from videos uploaded on and after a specific date.
-Specification: <DAY>.<MONTH>.<YEAR>  
+*Download subtitles from videos uploaded on and after a specific date.  
+Specification: `<DAY>.<MONTH>.<YEAR>`  
 Default: 01.01.2018*
 
 ## Requirements
