@@ -16,26 +16,34 @@ Options:
 Specifies the json file containing information about political parties
 and related Youtube channels.
 It should have the following structure:
-    {
-        party1: [
-            channel1: [
-                name: {channel name},
-                id: {channel ID}
-                ]
-            ...
-            ]
-        ...
-     }
+```
+{
+    "<party1>": [
+        {
+            "name": "<channel1 name>",
+            "id": "<channel1 ID>"
+        },
+        {
+            "name": "<channel2 name>",
+            "id": "<channel2 ID>"
+        },
+        \\ ...
+    ],
+    "<party2>": [...],
+    "<party3>": [...],
+    \\ ...
+}
+```
 Default: "channels.json".
 
 --videos-per-channel(int):
-Specifies the maximal number of videos per channel to fetch subtitles from.
-Recent videos will get downloaded first.
+Specifies the maximal number of videos per channel.
+Recent videos will get processed first.
 Default: 5
 
 --after_date(string):
 Download subtitles from videos uploaded on and after a specific date.
-Specification: {DAY}.{MONTH}.{YEAR}
+Specification: `<DAY>.<MONTH>.<YEAR>`
 Default: 01.01.2018
 """
 
@@ -168,28 +176,28 @@ def filter_subs(directory):
 # +-+-+--- DEPRECATED ---+-+-+-
 # Methods used before changing to youtube_dl
 
-def get_handle(key):
-    """Authorize further requests and return youtube handle.
+# def get_handle(key):
+#     """Authorize further requests and return youtube handle.
 
-    Parameters:
-        key(str): The key variable specifies the name of a file that
-        contains the OAuth 2.0 information for this application,
-        including its client_id and client_secret.
-        You can acquire an OAuth 2.0 client ID and client secret from
-        the GoogleCloud Console at https://cloud.google.com/console.
-    """
-    scope = ['https://www.googleapis.com/auth/youtube.force-ssl']
-    api_service_name = "youtube"
-    api_version = "v3"
-    flow = InstalledAppFlow.from_client_secrets_file(key, scope)
-    credentials = flow.run_local_server(
-        host='localhost',
-        port=8080,
-        authorization_prompt_message='Please visit this URL:\n{url}',
-        success_message='The auth flow is complete; you may close this window.',
-        open_browser=True)
-    # credentials = flow.run_console()
-    return build(api_service_name, api_version, credentials=credentials)
+    # Parameters:
+    #     key(str): The key variable specifies the name of a file that
+    #     contains the OAuth 2.0 information for this application,
+    #     including its client_id and client_secret.
+    #     You can acquire an OAuth 2.0 client ID and client secret from
+    #     the GoogleCloud Console at https://cloud.google.com/console.
+    # """
+    # scope = ['https://www.googleapis.com/auth/youtube.force-ssl']
+    # api_service_name = "youtube"
+    # api_version = "v3"
+    # flow = InstalledAppFlow.from_client_secrets_file(key, scope)
+    # credentials = flow.run_local_server(
+    #     host='localhost',
+    #     port=8080,
+    #     authorization_prompt_message='Please visit this URL:\n{url}',
+    #     success_message='The auth flow is complete; you may close this window.',
+    #     open_browser=True)
+    # # credentials = flow.run_console()
+    # return build(api_service_name, api_version, credentials=credentials)
 
 
 # def fetch_channel_videos(handle, max_videos_per_channel):
@@ -205,47 +213,47 @@ def get_handle(key):
 #         f.write(" ".join(filtered_words))
 
 
-# For given channel_id, return the 'upload playlist' id
-def get_channel_uploads_id(handle, channel_id):
-    json_result = handle.channels().list(
-        part='snippet,contentDetails', id=channel_id).execute()
-    return json_result['items'][0]['contentDetails']['relatedPlaylists']['uploads']
+# # For given channel_id, return the 'upload playlist' id
+# def get_channel_uploads_id(handle, channel_id):
+#     json_result = handle.channels().list(
+#         part='snippet,contentDetails', id=channel_id).execute()
+#     return json_result['items'][0]['contentDetails']['relatedPlaylists']['uploads']
 
 
-def get_playlist_items(handle, playlist_id):
-    json_result = handle.playlistItems().list(part='contentDetails',
-                                              maxResults=5,
-                                              playlistId=playlist_id).execute()
-    video_array = json_result['items']
-    for ix, video in enumerate(video_array):
-        video_array[ix] = video['contentDetails']['videoId']
-    return video_array
+# def get_playlist_items(handle, playlist_id):
+#     json_result = handle.playlistItems().list(part='contentDetails',
+#                                               maxResults=5,
+#                                               playlistId=playlist_id).execute()
+#     video_array = json_result['items']
+#     for ix, video in enumerate(video_array):
+#         video_array[ix] = video['contentDetails']['videoId']
+#     return video_array
 
 
-def filter_text(text):
-    fixed_umlaute = str(text).replace('\\xc3\\xbc', 'ü').replace(
-        '\\xc3\\xb6', 'ö').replace('\\xc3\\xa4', 'ä').replace('\\xc3\\x9f', 'ß')
-    fixed_breaks = fixed_umlaute.replace('\\n', ' ').replace('\n', ' ')
-    only_alpha = re.sub("[^a-zA-ZäÄöÖüÜß€ ]", ' ', fixed_breaks)
-    return re.sub('\s+', ' ', only_alpha).strip()
+# def filter_text(text):
+#     fixed_umlaute = str(text).replace('\\xc3\\xbc', 'ü').replace(
+#         '\\xc3\\xb6', 'ö').replace('\\xc3\\xa4', 'ä').replace('\\xc3\\x9f', 'ß')
+#     fixed_breaks = fixed_umlaute.replace('\\n', ' ').replace('\n', ' ')
+#     only_alpha = re.sub("[^a-zA-ZäÄöÖüÜß€ ]", ' ', fixed_breaks)
+#     return re.sub('\s+', ' ', only_alpha).strip()
 
 
-def get_caption_id(handle, video_id):
-    json_result = handle.captions().list(part='snippet', videoId=video_id).execute()
-    captions_list = json_result['items']
-    if len(captions_list) >= 2:
-        print("OMG More than two captions!")
-    return captions_list[0]['id']
+# def get_caption_id(handle, video_id):
+#     json_result = handle.captions().list(part='snippet', videoId=video_id).execute()
+#     captions_list = json_result['items']
+#     if len(captions_list) >= 2:
+#         print("OMG More than two captions!")
+#     return captions_list[0]['id']
 
 
-def get_caption_text(handle, caption_id):
-    return handle.captions().download(id=caption_id).execute()
+# def get_caption_text(handle, caption_id):
+#     return handle.captions().download(id=caption_id).execute()
 
 # import webvtt
 # from apiclient.discovery import build
 # from google_auth_oauthlib.flow import InstalledAppFlow
 
-# --key(str): #TODO
+# --key(str):
 # The key variable specifies the name of a file that
 # contains the OAuth 2.0 information for this application,
 # including its client_id and client_secret.
