@@ -53,3 +53,4 @@ Default: 01.01.2018*
 
 ## Requirements
 - [youtube-dl](https://github.com/rg3/youtube-dl)
+- [click](https://github.com/pallets/click)
