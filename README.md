@@ -6,7 +6,7 @@ channels grouped by their belonging to a political party.
 
 ## Arguments:  
 
-**fetch**:
+- **fetch**:
 *Download video captions from one or multiple parties to
 `subtitles\{party}\{video}`.  
 Use argument `all` to fetch videos
