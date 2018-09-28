@@ -13,7 +13,7 @@ Use argument `all` to fetch videos
 from every party specified in the json file.*
 
 
-### Options:  
+#### Argument Options:  
 
 **--channel-resource**(str):
 *Specifies the json file containing information about political parties
