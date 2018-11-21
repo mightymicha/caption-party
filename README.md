@@ -22,7 +22,12 @@ captions from all fetched parties.*
 - **analyze**:
 *TBD*
 
-## Requirements
+## Examples:
+- `python connect.py fetch spd cdu --after-date 01.01.2017 --before-date 01.01.2018`
+- `python connect.py fetch all --videos-per-channel -1 --key client_secret.json`
+- `python connect.py combine all --channels-resource channels.json`
+
+## Requirements:
 - [Google API Client](https://github.com/googleapis/google-api-python-client)
 - [Google Auth Library](https://github.com/googleapis/google-auth-library-python)
 - [youtube-dl](https://github.com/rg3/youtube-dl)
