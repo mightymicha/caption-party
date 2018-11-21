@@ -1,7 +1,7 @@
 # caption-party
 
 This script allows to download and analyze subtitles from Youtube
-channels grouped by their belonging to a political party.
+channels grouped by a political party.
 
 
 ## Arguments:
