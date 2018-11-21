@@ -12,9 +12,9 @@ from itertools import chain
 from wordcloud import WordCloud
 
 # Nice party colors
-parties = ['linke', 'spd', 'gruene', 'cdu', 'fdp', 'afd']
+parties = ['linke', 'spd', 'grüne', 'cdu', 'fdp', 'afd']
 colors = {'linke': '#dc0000ff',
-          'gruene': '#42923bff',
+          'grüne': '#42923bff',
           'spd': '#e2001aff',
           'cdu': '#252422ff',
           'fdp': '#ffec01ff',
@@ -65,13 +65,13 @@ for party, ax in zip(parties, axis):
     ax.axis("off")
     ax.set_title(party.upper())
     word_weights = sorted(tfidfs[party], reverse=True, key=lambda x: x[1])[:30]
-    wordcloud = WordCloud(background_color='white').generate_from_frequencies(dict(word_weights))
+    wordcloud = WordCloud(background_color='white').generate_from_frequencies(
+        dict(word_weights))
     ax.imshow(wordcloud, interpolation='bilinear')
 
-# Functions
-
-# Term frequency - inverse document frequency.
 def tfidf(fdists, name):
+"""Term frequency - inverse document frequency."""
+
     def tf(token, fdist):
         return 0.5 + (0.5 * fdist.get(token))/fdist.most_common(1)[0][1]
 
