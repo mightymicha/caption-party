@@ -1,4 +1,4 @@
-%matplotlib qt
+%matplotlib tk
 
 # Imports
 import os
@@ -71,8 +71,6 @@ for party, ax in zip(parties, axis):
 # Functions
 
 # Term frequency - inverse document frequency.
-
-
 def tfidf(fdists, name):
     def tf(token, fdist):
         return 0.5 + (0.5 * fdist.get(token))/fdist.most_common(1)[0][1]
