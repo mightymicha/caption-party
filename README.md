@@ -29,4 +29,4 @@ captions from all fetched parties.*
 - [word_cloud](https://github.com/amueller/word_cloud)
 
 
-`sudo pip install google-api-python-client google-auth youtube-dl wordcloud`
+`sudo pip install google-api-python-client google-auth youtube-dl click wordcloud`
