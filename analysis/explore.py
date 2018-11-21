@@ -59,18 +59,18 @@ for party in parties:
 # TF-IDF
 tfidfs = {party: tfidf(fdists, party) for party in parties}
 
-fig, axs = plt.subplots(3, 2)
+fig, axs = plt.subplots(3, 2, figsize=(15,30))
 axis = chain.from_iterable(zip(*axs))
 for party, ax in zip(parties, axis):
     ax.axis("off")
     ax.set_title(party.upper())
     word_weights = sorted(tfidfs[party], reverse=True, key=lambda x: x[1])[:30]
-    wordcloud = WordCloud(background_color='white').generate_from_frequencies(
+    wordcloud = WordCloud(background_color='white', max_font_size=25, height=100).generate_from_frequencies(
         dict(word_weights))
     ax.imshow(wordcloud, interpolation='bilinear')
 
 def tfidf(fdists, name):
-"""Term frequency - inverse document frequency."""
+    """Term frequency - inverse document frequency."""
 
     def tf(token, fdist):
         return 0.5 + (0.5 * fdist.get(token))/fdist.most_common(1)[0][1]
