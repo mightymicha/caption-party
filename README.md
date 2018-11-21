@@ -3,7 +3,7 @@
 This script allows to download and analyze subtitles from Youtube
 channels grouped by a political party.
 
-![Top 20 words in a period of 3 month before the Bundestag elections] (rsc/tfidf.png)
+![Top 20 words in a period of 3 month before the Bundestag elections using (TF-IDF)[https://en.wikipedia.org/wiki/Tf%E2%80%93idf]](rsc/tfidf.png)
 
 ## Arguments:
 
