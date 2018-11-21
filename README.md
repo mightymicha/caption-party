@@ -3,6 +3,7 @@
 This script allows to download and analyze subtitles from Youtube
 channels grouped by a political party.
 
+![Top 20 words in a period of 3 month before the Bundestag elections] (rsc/tfidf.png)
 
 ## Arguments:
 
@@ -19,7 +20,7 @@ Use argument `all` to combine
 captions from all fetched parties.*
 
 - **analyze**:
-*TBA*
+*TBD*
 
 ## Requirements
 - [Google API Client](https://github.com/googleapis/google-api-python-client)
