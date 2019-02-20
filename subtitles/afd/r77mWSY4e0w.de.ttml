@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:05.370" style="s2"><span style="s3">dass</span> es auf<span style="s3"> jeden fall resultat einer</span></p>
+<p begin="00:00:02.040" end="00:00:08.099" style="s2">ganz massiven gewalteinwirkung<span style="s3"> eine die</span></p>
+<p begin="00:00:05.370" end="00:00:10.950" style="s2">meiner meinung nach nicht von hinten</p>
+<p begin="00:00:08.099" end="00:00:13.139" style="s2">sondern von vorne gekommen ist er sonst</p>
+<p begin="00:00:10.950" end="00:00:16.590" style="s2">gibt es nicht sonst resultieren nicht</p>
+<p begin="00:00:13.139" end="00:00:20.189" style="s2">solche<span style="s3"> wunden das muss ich einfach als</span></p>
+<p begin="00:00:16.590" end="00:00:22.380" style="s2">chirurg hier so sagen es wäre sehr sehr</p>
+<p begin="00:00:20.189" end="00:00:25.680" style="s2">unwahrscheinlich dass nur einen stoß von</p>
+<p begin="00:00:22.380" end="00:00:28.349" style="s2">hinten<span style="s4"> solchen</span><span style="s3"> produziert</span> und wenn man</p>
+<p begin="00:00:25.680" end="00:00:32.550" style="s2">sich das video ansieht da sieht man ja</p>
+<p begin="00:00:28.349" end="00:00:35.160" style="s2"><span style="s3">einen</span> gegenstand der von von dem einen</p>
+<p begin="00:00:32.550" end="00:00:37.649" style="s2">täter mit der linken hand angewendet</p>
+<p begin="00:00:35.160" end="00:00:41.219" style="s2">wurde und dann weitergereicht wurde</p>
+<p begin="00:00:37.649" end="00:00:48.300" style="s2">also hier ist anzunehmen dass mit einem</p>
+<p begin="00:00:41.219" end="00:00:50.899" style="s2">tatwerkzeug<span style="s3"> von</span> von frontal<span style="s3"> an</span><span style="s4"> den</span> an</p>
+<p begin="00:00:48.300" end="00:00:54.120" style="s2">das opfer heran gegangen wurde was</p>
+<p begin="00:00:50.899" end="00:00:56.340" style="s2">gezielt war das ist nicht ein zufälliger</p>
+<p begin="00:00:54.120" end="00:01:00.690" style="s2">eine zufällige attacke sondern<span style="s4"> einige</span></p>
+<p begin="00:00:56.340" end="00:01:02.910" style="s2"><span style="s4">ziele die wundheilung</span> einschätzen als</p>
+<p begin="00:01:00.690" end="00:01:05.820" style="s2">hautarzt<span style="s3"> bayern</span><span style="s4"> magens</span><span style="s3"> mutter</span> dauerhaft</p>
+<p begin="00:01:02.910" end="00:01:07.560" style="s2">mit einer breiten<span style="s4"> narbe</span> leben müssen ich</p>
+<p begin="00:01:05.820" end="00:01:10.909" style="s2">gehe mal davon aus dass das richtig</p>
+<p begin="00:01:07.560" end="00:01:13.950" style="s2">qualifiziert<span style="s4"> der rundum schneiden und</span></p>
+<p begin="00:01:10.909" end="00:01:15.630" style="s2"><span style="s3">eine naht gemacht wurde und dass da</span></p>
+<p begin="00:01:13.950" end="00:01:18.229" style="s2">resultiert natürlich dann eine längere</p>
+<p begin="00:01:15.630" end="00:01:18.229" style="s2"><span style="s4">narbe</span></p>
+</div>
+</body>
+</tt>

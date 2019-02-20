@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:07.490" end="00:00:12.179" style="s2"><span style="s3">regnet</span> nicht glücklich<span style="s3"> ist an bäumen</span></p>
+<p begin="00:00:10.110" end="00:00:17.070" style="s2"><span style="s3">aber</span><span style="s4"> ein</span> bisschen glück<span style="s4"> ja</span> wir machen</p>
+<p begin="00:00:12.179" end="00:00:18.779" style="s2">heute<span style="s4"> ihr</span> seht der bus ist ein bisschen</p>
+<p begin="00:00:17.070" end="00:00:21.510" style="s2"><span style="s4">leer</span> ich<span style="s3"> habe</span><span style="s4"> dir ich habe die</span><span style="s3"> big</span></p>
+<p begin="00:00:18.779" end="00:00:24.180" style="s2">ausgebaut<span style="s4"> die</span> sitzbänke also wir machen</p>
+<p begin="00:00:21.510" end="00:00:26.939" style="s2">heute den ersten einzug<span style="s3"> so</span><span style="s4"> ist</span> kein</p>
+<p begin="00:00:24.180" end="00:00:30.990" style="s2">umzug<span style="s3"> weil es</span><span style="s4"> natürlich</span> um obdachlosen</p>
+<p begin="00:00:26.939" end="00:00:32.489" style="s2">geht wir suchen jetzt möbel zusammen</p>
+<p begin="00:00:30.990" end="00:00:34.200" style="s2">oder befahren<span style="s3"> wir</span> zusammen<span style="s4"> also</span> mehrere</p>
+<p begin="00:00:32.489" end="00:00:34.710" style="s2"><span style="s4">menschen</span> haben sich bereit erklärt<span style="s4"> möbel</span></p>
+<p begin="00:00:34.200" end="00:00:37.350" style="s2">zu spenden</p>
+<p begin="00:00:34.710" end="00:00:39.870" style="s2">die sammlung wird<span style="s3"> erstmal eine 1</span><span style="s4"> und</span></p>
+<p begin="00:00:37.350" end="00:00:42.030" style="s2">dann waren wir<span style="s4"> zu</span><span style="s3"> marke</span> in seine neue</p>
+<p begin="00:00:39.870" end="00:00:49.289" style="s2">wohnung gibt eine menge zu tun</p>
+<p begin="00:00:42.030" end="00:00:53.280" style="s2">ich<span style="s4"> freue</span> mich<span style="s4"> drauf</span> ja ich finde das</p>
+<p begin="00:00:49.289" end="00:00:54.930" style="s2">gut dass es menschen gibt die sachen</p>
+<p begin="00:00:53.280" end="00:00:58.910" style="s2">abgeben für menschen die nichts haben</p>
+<p begin="00:00:54.930" end="00:00:58.910" style="s2">und deswegen machen wir das<span style="s3"> ja</span></p>
+<p begin="00:01:11.430" end="00:01:24.870" style="s2"><span style="s4">was</span> haben wir<span style="s3"> eigentlich geht</span></p>
+<p begin="00:01:22.340" end="00:01:27.150" style="s2"><span style="s3">so haben erst mal</span><span style="s4"> eingeladen</span><span style="s3"> sind</span> leider</p>
+<p begin="00:01:24.870" end="00:01:28.350" style="s2">völlig voll<span style="s4"> da</span><span style="s3"> mal</span> nicht<span style="s4"> mit</span> gerechnet</p>
+<p begin="00:01:27.150" end="00:01:29.940" style="s2">weil wir wollten eigentlich noch eine</p>
+<p begin="00:01:28.350" end="00:01:32.490" style="s2">couch aus herne<span style="s3"> holen</span> aber<span style="s4"> es</span> waren wir</p>
+<p begin="00:01:29.940" end="00:01:34.170" style="s2"><span style="s4">erstmal</span><span style="s3"> kirchenladen</span><span style="s4"> aus</span> und<span style="s4"> von da an</span></p>
+<p begin="00:01:32.490" end="00:01:34.530" style="s2">die couch holen also<span style="s3"> bisschen zu tun</span></p>
+<p begin="00:01:34.170" end="00:01:42.110" style="s2">heute</p>
+<p begin="00:01:34.530" end="00:01:42.110" style="s2">ich muss<span style="s3"> so ist die erste etage</span></p>
+<p begin="00:01:42.229" end="00:01:49.369" style="s2"><span style="s3">ja hab dann verschwindet er</span><span style="s4"> kommt wir</span></p>
+<p begin="00:01:45.180" end="00:01:49.369" style="s2">sind<span style="s3"> das</span><span style="s4"> hat</span><span style="s3"> die sache sagt</span></p>
+<p begin="00:02:22.530" end="00:02:34.030" style="s2">einfach<span style="s3"> superglücklich auch</span><span style="s4"> dass</span> so</p>
+<p begin="00:02:26.050" end="00:02:41.290" style="s2">viele leute mir helfen<span style="s3"> mich gar nicht so</span></p>
+<p begin="00:02:34.030" end="00:02:45.330" style="s2">weit gekommen bin und ich<span style="s4"> einfach sehr</span></p>
+<p begin="00:02:41.290" end="00:02:45.330" style="s2"><span style="s4">glücklich</span> dass<span style="s4"> wir das dürfte</span></p>
+<p begin="00:02:48.210" end="00:02:57.540" style="s2"><span style="s3">noch</span><span style="s4"> sind</span> die leute an ohne<span style="s4"> martin</span><span style="s3"> und</span></p>
+<p begin="00:02:51.380" end="00:02:59.820" style="s2"><span style="s3">guido berg endlich eine chance irgendwie</span></p>
+<p begin="00:02:57.540" end="00:03:00.300" style="s2">was zu bewerkstelligen würde ich nicht</p>
+<p begin="00:02:59.820" end="00:03:04.020" style="s2">sagen</p>
+<p begin="00:03:00.300" end="00:03:07.410" style="s2">und durch die hilfe von guido<span style="s4"> maria</span> und</p>
+<p begin="00:03:04.020" end="00:03:09.900" style="s2"><span style="s4">seid freundlich bin</span> ich<span style="s4"> immer</span> wollte<span style="s4"> ich</span></p>
+<p begin="00:03:07.410" end="00:03:13.340" style="s2">mir auch klar<span style="s4"> dass eine horde</span> oder die</p>
+<p begin="00:03:09.900" end="00:03:13.340" style="s2">hilfe<span style="s3"> welche recht hektisch</span></p>
+<p begin="00:03:19.170" end="00:03:26.410" style="s2"><span style="s3">was sagst du zu</span><span style="s4"> lange</span><span style="s3"> ich schätze mal</span></p>
+<p begin="00:03:24.280" end="00:03:30.280" style="s2"><span style="s4">jetzt</span><span style="s3"> eine dreiviertelstunde im</span> sommer</p>
+<p begin="00:03:26.410" end="00:03:31.830" style="s2">fertig dann<span style="s3"> sind</span> ja noch eine<span style="s3"> kutsche</span></p>
+<p begin="00:03:30.280" end="00:03:34.380" style="s2"><span style="s4">abgeholt</span></p>
+<p begin="00:03:31.830" end="00:03:37.470" style="s2">aber jetzt<span style="s4"> rufen</span></p>
+<p begin="00:03:34.380" end="00:03:40.530" style="s2"><span style="s4">hier</span> gibt schnee</p>
+<p begin="00:03:37.470" end="00:03:40.530" style="s2">[Musik]</p>
+<p begin="00:04:06.020" end="00:04:11.410" style="s2">[Musik]</p>
+<p begin="00:04:07.900" end="00:04:11.410" style="s2">die anlage</p>
+<p begin="00:04:58.289" end="00:05:02.809" style="s2">die schwerste<span style="s3"> kopf-</span> der welt<span style="s3"> der finne</span></p>
+<p begin="00:05:00.330" end="00:05:07.099" style="s2"><span style="s4">da drin ist und für die mitte</span><span style="s3"> will</span></p>
+<p begin="00:05:02.809" end="00:05:10.759" style="s2"><span style="s4">gottes</span> willen aber egal<span style="s4"> hat</span> spaß gemacht</p>
+<p begin="00:05:07.099" end="00:05:10.759" style="s2"><span style="s4">die</span> nächste ladung</p>
+<p begin="00:05:39.810" end="00:05:42.939" style="s2">[Musik]</p>
+<p begin="00:05:57.300" end="00:06:04.909" style="s2"><span style="s4">aus</span> der<span style="s4"> gegenüberstellung</span><span style="s3"> okay</span><span style="s4"> genau</span></p>
+<p begin="00:06:14.610" end="00:06:17.860" style="s2">[Musik]</p>
+<p begin="00:06:30.180" end="00:06:33.220" style="s2">[Musik]</p>
+<p begin="00:06:43.199" end="00:06:56.819" style="s2">jetzt kommt<span style="s4"> man leicht</span><span style="s3"> ist</span> ich hätte</p>
+<p begin="00:06:53.409" end="00:06:56.819" style="s2">auch<span style="s3"> kampermann</span> werden<span style="s4"> sie</span> unglaublich</p>
+<p begin="00:07:01.409" end="00:07:06.309" style="s2">ja<span style="s4"> mag nach zwei jahren wieder zum</span></p>
+<p begin="00:07:04.419" end="00:07:13.869" style="s2">ersten mal<span style="s4"> in den eigenen vier wänden</span></p>
+<p begin="00:07:06.309" end="00:07:16.749" style="s2">wie fühlst du dich<span style="s3"> richtig blogger</span><span style="s4"> haben</span></p>
+<p begin="00:07:13.869" end="00:07:18.759" style="s2"><span style="s4">diese</span> erstaunt oder<span style="s3"> eine</span><span style="s4"> ja so viel</span></p>
+<p begin="00:07:16.749" end="00:07:22.089" style="s2">hilfe die ich<span style="s3"> dann</span><span style="s4"> bekommen wollte ich</span></p>
+<p begin="00:07:18.759" end="00:07:23.529" style="s2">eigentlich<span style="s4"> ja ich kann</span><span style="s3"> es den</span><span style="s4"> worten gar</span></p>
+<p begin="00:07:22.089" end="00:07:26.229" style="s2">nicht beschreiben<span style="s3"> sondern es</span><span style="s4"> ist weil</span></p>
+<p begin="00:07:23.529" end="00:07:27.849" style="s2"><span style="s4">wenn</span><span style="s3"> die</span><span style="s4"> gesellschaft an guckst du hast</span></p>
+<p begin="00:07:26.229" end="00:07:30.819" style="s2"><span style="s3">immer</span><span style="s4"> notiert</span> und jetzt kommen auf</p>
+<p begin="00:07:27.849" end="00:07:32.529" style="s2">einmal fremde menschen die mir von<span style="s3"> die</span></p>
+<p begin="00:07:30.819" end="00:07:34.080" style="s2">haben ja das leben irgendwo ich vorher</p>
+<p begin="00:07:32.529" end="00:07:38.169" style="s2">gar nichts<span style="s3"> und</span> jetzt<span style="s3"> habe ich auf einmal</span></p>
+<p begin="00:07:34.080" end="00:07:43.509" style="s2"><span style="s4">schrank</span> die kühlschrank<span style="s3"> ofen</span><span style="s4"> eine</span></p>
+<p begin="00:07:38.169" end="00:07:45.069" style="s2">wohnung<span style="s3"> oder</span><span style="s4"> ist ja danke das</span> ist<span style="s3"> also</span></p>
+<p begin="00:07:43.509" end="00:07:47.199" style="s2">uns als wahnsinnig spaß gemacht hier zu</p>
+<p begin="00:07:45.069" end="00:07:48.639" style="s2">helfen und wir haben<span style="s4"> auch</span> gesehen und</p>
+<p begin="00:07:47.199" end="00:07:50.740" style="s2"><span style="s3">allein nicht geschafft</span><span style="s4"> also sein</span></p>
+<p begin="00:07:48.639" end="00:07:52.389" style="s2">gesundheitszustand wieder angekommen ist</p>
+<p begin="00:07:50.740" end="00:07:53.889" style="s2"><span style="s4">dass</span> du<span style="s4"> keine lust bekommen</span> was aber<span style="s3"> ich</span></p>
+<p begin="00:07:52.389" end="00:07:55.509" style="s2">glaube<span style="s3"> das</span> sieht jeder du brauchst<span style="s3"> du</span></p>
+<p begin="00:07:53.889" end="00:07:57.849" style="s2"><span style="s3">hilfe gepflegt ist</span> keiner von denen die</p>
+<p begin="00:07:55.509" end="00:07:59.979" style="s2"><span style="s3">rocker</span><span style="s4"> und schwarzen</span></p>
+<p begin="00:07:57.849" end="00:08:01.959" style="s2">du<span style="s3"> hast dich</span><span style="s4"> pech</span> gehabt im leben<span style="s4"> du</span></p>
+<p begin="00:07:59.979" end="00:08:03.639" style="s2">bist krank geworden aber trotzdem hast</p>
+<p begin="00:08:01.959" end="00:08:05.790" style="s2">du nie aufgegeben<span style="s3"> das gekämpft</span><span style="s4"> was sich</span></p>
+<p begin="00:08:03.639" end="00:08:07.440" style="s2">gekümmert und deswegen<span style="s3"> so keynote</span></p>
+<p begin="00:08:05.790" end="00:08:10.050" style="s2"><span style="s3">die</span> brauchen<span style="s3"> unterstützung</span> und das ist</p>
+<p begin="00:08:07.440" end="00:08:11.700" style="s2">ganz ganz wichtig so<span style="s3"> einen</span> wunsch eine</p>
+<p begin="00:08:10.050" end="00:08:12.870" style="s2"><span style="s4">große</span><span style="s3"> gedachte mag</span><span style="s4"> noch</span><span style="s3"> der braucht noch</span></p>
+<p begin="00:08:11.700" end="00:08:15.390" style="s2"><span style="s3">dringender</span> waschmaschinen</p>
+<p begin="00:08:12.870" end="00:08:17.460" style="s2">also wenn ihr jetzt jeder<span style="s4"> gegend also</span></p>
+<p begin="00:08:15.390" end="00:08:19.980" style="s2"><span style="s3">wie</span><span style="s4"> sieht</span><span style="s3"> die</span><span style="s4"> gelsenkirchen also ich mag</span></p>
+<p begin="00:08:17.460" end="00:08:21.120" style="s2"><span style="s4">essen</span> bottrop also<span style="s3"> von vorn ehe</span> dann</p>
+<p begin="00:08:19.980" end="00:08:24.320" style="s2"><span style="s4">kommen auch vorbei und oder</span></p>
+<p begin="00:08:21.120" end="00:08:26.580" style="s2"><span style="s4">waschmaschine</span><span style="s3"> ist</span><span style="s4"> beim ganz zentral</span></p>
+<p begin="00:08:24.320" end="00:08:27.300" style="s2"><span style="s3">profitiert die</span><span style="s4"> möglichen</span><span style="s3"> bieter nur</span></p>
+<p begin="00:08:26.580" end="00:08:29.400" style="s2"><span style="s3">runde geht</span></p>
+<p begin="00:08:27.300" end="00:08:30.900" style="s2"><span style="s4">und</span> all das ist natürlich auch nur</p>
+<p begin="00:08:29.400" end="00:08:32.460" style="s2"><span style="s3">möglich</span><span style="s4"> geworden</span> weil<span style="s3"> wir</span><span style="s4"> viele</span> spenden</p>
+<p begin="00:08:30.900" end="00:08:35.310" style="s2">bekommen haben<span style="s4"> auch</span><span style="s3"> finanzieren</span><span style="s4"> spinnen</span></p>
+<p begin="00:08:32.460" end="00:08:37.500" style="s2"><span style="s4">jeder</span> vergangenheit kennwort<span style="s3"> ja wärme</span></p>
+<p begin="00:08:35.310" end="00:08:39.960" style="s2"><span style="s4">muss da haben wir darüber gedanken</span></p>
+<p begin="00:08:37.500" end="00:08:41.729" style="s2">gemacht<span style="s4"> um</span> flexibler handeln zu können</p>
+<p begin="00:08:39.960" end="00:08:44.090" style="s2"><span style="s4">die</span> spenden<span style="s4"> viel</span> flexibler ausgeben zu</p>
+<p begin="00:08:41.729" end="00:08:46.740" style="s2">können<span style="s3"> denn</span> nicht mal<span style="s4"> das</span> neue</p>
+<p begin="00:08:44.090" end="00:08:48.300" style="s2"><span style="s4">skateboard</span> für die spenden sind machen</p>
+<p begin="00:08:46.740" end="00:08:50.130" style="s2"><span style="s4">würde</span><span style="s3"> aber ich</span><span style="s4"> würde</span> sagen wenn ihr noch</p>
+<p begin="00:08:48.300" end="00:08:51.480" style="s2">mal spenden<span style="s4"> möchte dann nur noch unter</span></p>
+<p begin="00:08:50.130" end="00:08:53.370" style="s2">dem kennwort alternative</p>
+<p begin="00:08:51.480" end="00:08:55.020" style="s2">wir werden jetzt oder alternative hilft</p>
+<p begin="00:08:53.370" end="00:08:56.910" style="s2"><span style="s3">es dann gesagt wir werden</span><span style="s4"> alles</span><span style="s3"> ruhstorf</span></p>
+<p begin="00:08:55.020" end="00:08:58.620" style="s2">alternative weil damit<span style="s3"> können wie</span></p>
+<p begin="00:08:56.910" end="00:09:00.510" style="s2">unglaublich<span style="s3"> breite gehen und</span> können</p>
+<p begin="00:08:58.620" end="00:09:02.670" style="s2"><span style="s4">alles</span> machen im prinzip überall da wo</p>
+<p begin="00:09:00.510" end="00:09:04.200" style="s2"><span style="s3">wir schon</span><span style="s4"> gebraucht wird kann</span><span style="s3"> betätigt</span></p>
+<p begin="00:09:02.670" end="00:09:05.760" style="s2">werden<span style="s3"> das</span> ist unser<span style="s4"> ziel</span><span style="s3"> deutlich die</span></p>
+<p begin="00:09:04.200" end="00:09:07.260" style="s2"><span style="s4">zukunft</span> und wir werden nicht noch weiter</p>
+<p begin="00:09:05.760" end="00:09:09.060" style="s2">begleiten<span style="s4"> wir</span> regelmäßig vorbeikommen</p>
+<p begin="00:09:07.260" end="00:09:10.440" style="s2">und das nächste mal wieder nicht mit</p>
+<p begin="00:09:09.060" end="00:09:12.590" style="s2">leeren händen<span style="s3"> da ist er mit der</span></p>
+<p begin="00:09:10.440" end="00:09:12.590" style="s2">waschmaschine</p>
+</div>
+</body>
+</tt>

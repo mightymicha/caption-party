@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.500" style="s2">sehr geehrte frau präsidentin sehr</p>
+<p begin="00:00:02.669" end="00:00:07.470" style="s2">geehrte<span style="s3"> kollegen</span> abgeordnete sehr</p>
+<p begin="00:00:04.500" end="00:00:10.349" style="s2">geehrte besucher auf der tribüne<span style="s3"> am 29</span></p>
+<p begin="00:00:07.470" end="00:00:11.910" style="s2">november<span style="s3"> 2008 10 hat der bundestag die</span></p>
+<p begin="00:00:10.349" end="00:00:15.630" style="s2">änderung des grundgesetzes beschlossen</p>
+<p begin="00:00:11.910" end="00:00:17.369" style="s2">zukünftig soll es für den bund einfacher</p>
+<p begin="00:00:15.630" end="00:00:19.680" style="s2">werden die länder bei der finanzierung</p>
+<p begin="00:00:17.369" end="00:00:22.199" style="s2">von investitionsvorhaben in den</p>
+<p begin="00:00:19.680" end="00:00:24.840" style="s2">bereichen bildung infrastruktur und</p>
+<p begin="00:00:22.199" end="00:00:27.359" style="s2">sozialer wohnungsbau zu unterstützen</p>
+<p begin="00:00:24.840" end="00:00:29.220" style="s2">die regelung sehen vor dass die länder</p>
+<p begin="00:00:27.359" end="00:00:32.460" style="s2">mindestens die hälfte der<span style="s4"> investitionen</span></p>
+<p begin="00:00:29.220" end="00:00:34.320" style="s2"><span style="s4">zu</span> steuern müssen ja<span style="s4"> vor</span> diesem</p>
+<p begin="00:00:32.460" end="00:00:35.640" style="s2"><span style="s4">hintergrund</span> muss man sorge haben und</p>
+<p begin="00:00:34.320" end="00:00:38.219" style="s2">daher danke ich der spd für die</p>
+<p begin="00:00:35.640" end="00:00:40.020" style="s2">einbringung<span style="s3"> dieser</span> aktuellen stunde<span style="s3"> dass</span></p>
+<p begin="00:00:38.219" end="00:00:41.760" style="s2"><span style="s3">unser hoch verschuldeter</span> freistaat nicht</p>
+<p begin="00:00:40.020" end="00:00:44.910" style="s2">die notwendigen finanzmittel aufbringen</p>
+<p begin="00:00:41.760" end="00:00:48.000" style="s2">kann um die bundesmittel abzuschöpfen</p>
+<p begin="00:00:44.910" end="00:00:50.039" style="s2">aber ich gebe gerne zu dass das meine</p>
+<p begin="00:00:48.000" end="00:00:51.480" style="s2">kleinere sorge ist und in diesem</p>
+<p begin="00:00:50.039" end="00:00:53.340" style="s2">zusammenhang möchte ich gerne daran</p>
+<p begin="00:00:51.480" end="00:00:55.460" style="s2">erinnern<span style="s4"> erstens</span> diese</p>
+<p begin="00:00:53.340" end="00:00:58.039" style="s2">grundgesetzänderung wurde</p>
+<p begin="00:00:55.460" end="00:00:59.550" style="s2"><span style="s4">durchgepeitscht</span> obwohl sich die</p>
+<p begin="00:00:58.039" end="00:01:02.550" style="s2"><span style="s4">bundestagsfraktionsvorsitzenden der</span></p>
+<p begin="00:00:59.550" end="00:01:06.740" style="s2"><span style="s3">alten</span> parteien erst wenige tage vor dem</p>
+<p begin="00:01:02.550" end="00:01:09.380" style="s2">29<span style="s4"> november</span><span style="s3"> 2008 10</span><span style="s4"> auf</span> den<span style="s3"> textentwurf</span></p>
+<p begin="00:01:06.740" end="00:01:11.640" style="s2"><span style="s3">geeinigt</span> hatten und<span style="s3"> das</span> bei der</p>
+<p begin="00:01:09.380" end="00:01:13.950" style="s2">verdichteten begrifflichkeit eines</p>
+<p begin="00:01:11.640" end="00:01:15.180" style="s2">verfassungstext<span style="s4"> zweitens</span> diese</p>
+<p begin="00:01:13.950" end="00:01:18.119" style="s2">grundgesetzänderung wurde</p>
+<p begin="00:01:15.180" end="00:01:20.250" style="s2">durchgepeitscht<span style="s4"> obwohl</span> sie weit über den</p>
+<p begin="00:01:18.119" end="00:01:23.340" style="s2">konkreten anlass ich meine den digital</p>
+<p begin="00:01:20.250" end="00:01:26.330" style="s2"><span style="s3">packt</span> hinaus wirkt und<span style="s4"> drittens</span> und</p>
+<p begin="00:01:23.340" end="00:01:29.280" style="s2">letztens dieser grundgesetzänderung</p>
+<p begin="00:01:26.330" end="00:01:31.189" style="s2">wurde<span style="s4"> durchgepeitscht</span> obwohl sie tief in</p>
+<p begin="00:01:29.280" end="00:01:35.130" style="s2">die grundprinzipien unserer</p>
+<p begin="00:01:31.189" end="00:01:36.860" style="s2">bundesstaatlichen ordnung eingreift es</p>
+<p begin="00:01:35.130" end="00:01:39.060" style="s2">wird sie vielleicht wundern</p>
+<p begin="00:01:36.860" end="00:01:40.530" style="s2">es wird sie vielleicht wundern aber ich</p>
+<p begin="00:01:39.060" end="00:01:43.500" style="s2">muss an dieser stelle</p>
+<p begin="00:01:40.530" end="00:01:45.240" style="s2">winfried kretschmann recht geben der</p>
+<p begin="00:01:43.500" end="00:01:49.049" style="s2">über diese änderung des grundgesetzes</p>
+<p begin="00:01:45.240" end="00:01:51.780" style="s2">urteilte das ist ein frontalangriff auf</p>
+<p begin="00:01:49.049" end="00:01:53.310" style="s2">den bildungsföderalismus<span style="s3"> und</span><span style="s4"> die</span> setzte</p>
+<p begin="00:01:51.780" end="00:01:55.079" style="s2">noch eins drauf sehr geehrte<span style="s3"> kollegen</span></p>
+<p begin="00:01:53.310" end="00:01:57.719" style="s2">abgeordnete<span style="s4"> diese</span> grundgesetzänderung</p>
+<p begin="00:01:55.079" end="00:02:00.200" style="s2">ist ein frontalangriff auf den</p>
+<p begin="00:01:57.719" end="00:02:02.950" style="s2">föderalismus insgesamt</p>
+<p begin="00:02:00.200" end="00:02:06.140" style="s2">[Applaus]</p>
+<p begin="00:02:02.950" end="00:02:08.630" style="s2">in hessen wahlkampf<span style="s3"> denen</span> wir vor kurzem</p>
+<p begin="00:02:06.140" end="00:02:11.590" style="s2">absolvierten bemühten die wahlkämpfer<span style="s3"> wo</span></p>
+<p begin="00:02:08.630" end="00:02:14.110" style="s2"><span style="s3">vier</span> und merkel für die aushöhlung der</p>
+<p begin="00:02:11.590" end="00:02:17.150" style="s2">bundesstaatlichen ordnung der<span style="s4"> mann</span> noch</p>
+<p begin="00:02:14.110" end="00:02:18.650" style="s2">2006 stichwort föderalismusreform<span style="s3"> ich</span></p>
+<p begin="00:02:17.150" end="00:02:20.750" style="s2"><span style="s3">erinnere gern in diesem zusammenhang</span></p>
+<p begin="00:02:18.650" end="00:02:23.540" style="s2">daran<span style="s3"> entgegen getreten</span><span style="s4"> war</span></p>
+<p begin="00:02:20.750" end="00:02:27.350" style="s2">die wohlfühl formel vom kooperativen</p>
+<p begin="00:02:23.540" end="00:02:29.750" style="s2">föderalismus<span style="s4"> kooperativer</span> föderalismus</p>
+<p begin="00:02:27.350" end="00:02:32.690" style="s2">das hört sich zunächst einmal gut an</p>
+<p begin="00:02:29.750" end="00:02:34.640" style="s2"><span style="s3">aber hinter dieser politik phase</span> steht</p>
+<p begin="00:02:32.690" end="00:02:36.140" style="s2">in letzter konsequenz die in kauf</p>
+<p begin="00:02:34.640" end="00:02:40.910" style="s2">genommene verletzung des</p>
+<p begin="00:02:36.140" end="00:02:42.650" style="s2">demokratieprinzips und man wünschte dass</p>
+<p begin="00:02:40.910" end="00:02:45.340" style="s2">der<span style="s3"> sogenannte</span> verfassungsschutz jetzt</p>
+<p begin="00:02:42.650" end="00:02:48.319" style="s2">mal sehr gut zuhört in kooperativer</p>
+<p begin="00:02:45.340" end="00:02:50.840" style="s2"><span style="s4">föderalismus</span> ist nicht nur arbeiten hand</p>
+<p begin="00:02:48.319" end="00:02:53.209" style="s2">in hand kooperativer föderalismus<span style="s4"> meint</span></p>
+<p begin="00:02:50.840" end="00:02:55.040" style="s2">in der politischen praxis dieses landes</p>
+<p begin="00:02:53.209" end="00:02:57.260" style="s2">leider vor allen dingen die</p>
+<p begin="00:02:55.040" end="00:02:59.120" style="s2">verschleierung von verantwortung</p>
+<p begin="00:02:57.260" end="00:03:01.730" style="s2">zur erinnerung sehr geehrte<span style="s4"> kollegen</span></p>
+<p begin="00:02:59.120" end="00:03:04.310" style="s2">abgeordnete unsere verfassung sieht</p>
+<p begin="00:03:01.730" end="00:03:06.560" style="s2">nicht vor dass die eine ebene die andere</p>
+<p begin="00:03:04.310" end="00:03:09.590" style="s2">finanziell alimentiert grundsätzlich</p>
+<p begin="00:03:06.560" end="00:03:13.030" style="s2">gilt die autonomie der ebenen und die</p>
+<p begin="00:03:09.590" end="00:03:16.040" style="s2">wahrung der autonomie der ebenen damit</p>
+<p begin="00:03:13.030" end="00:03:17.750" style="s2">verantwortung auch gelebt werden kann</p>
+<p begin="00:03:16.040" end="00:03:22.519" style="s2">das bundesverfassungsgericht hat diese</p>
+<p begin="00:03:17.750" end="00:03:24.410" style="s2">auffassung 2017 auch<span style="s3"> nochmal</span><span style="s4"> 2007</span><span style="s3"> pardon</span></p>
+<p begin="00:03:22.519" end="00:03:26.450" style="s2">auch<span style="s3"> nochmal begründet die</span></p>
+<p begin="00:03:24.410" end="00:03:29.209" style="s2">kompetenzaufteilung dient dazu die</p>
+<p begin="00:03:26.450" end="00:03:31.340" style="s2">länder vor einem eindringen des bundes</p>
+<p begin="00:03:29.209" end="00:03:34.130" style="s2">in die verwaltungshoheit von ländern und</p>
+<p begin="00:03:31.340" end="00:03:36.170" style="s2">kommunen zu schützen erstens soll durch</p>
+<p begin="00:03:34.130" end="00:03:38.209" style="s2">diese klare und vollständig angelegte</p>
+<p begin="00:03:36.170" end="00:03:40.760" style="s2">zuordnung von kompetenzen im interesse</p>
+<p begin="00:03:38.209" end="00:03:43.250" style="s2">der bürger die verantwortung der jeweils</p>
+<p begin="00:03:40.760" end="00:03:46.310" style="s2">handelnden<span style="s4"> stelle</span> gewährleistet werden</p>
+<p begin="00:03:43.250" end="00:03:48.829" style="s2">zweitens wird allein bei einer klaren</p>
+<p begin="00:03:46.310" end="00:03:50.500" style="s2">kompetenzverteilung die<span style="s3"> verwaltung</span> ihren</p>
+<p begin="00:03:48.829" end="00:03:54.310" style="s2">zuständigkeiten und verantwortlichkeiten</p>
+<p begin="00:03:50.500" end="00:03:56.239" style="s2">für den einzelnen staatsbürger greifbar</p>
+<p begin="00:03:54.310" end="00:03:59.590" style="s2">nur so sehr geehrte<span style="s3"> kolleginnen</span></p>
+<p begin="00:03:56.239" end="00:04:02.329" style="s2"><span style="s4">abgeordnete</span> kann dem demokratieprinzip</p>
+<p begin="00:03:59.590" end="00:04:05.720" style="s2">rechnung getragen werden und nur so weiß</p>
+<p begin="00:04:02.329" end="00:04:08.900" style="s2">der bürger<span style="s4"> wenn</span> er wen er als souverän</p>
+<p begin="00:04:05.720" end="00:04:11.120" style="s2">wofür durch vergabe oder eventuell auch</p>
+<p begin="00:04:08.900" end="00:04:12.860" style="s2">entzug seiner stimme voran</p>
+<p begin="00:04:11.120" end="00:04:14.420" style="s2"><span style="s3">ford ich machen kann</span><span style="s4"> aber</span> über</p>
+<p begin="00:04:12.860" end="00:04:16.430" style="s2">demokratie reden und demokratie</p>
+<p begin="00:04:14.420" end="00:04:18.709" style="s2">ermöglichen sind leider in diesem land</p>
+<p begin="00:04:16.430" end="00:04:19.900" style="s2">im jahre 2018<span style="s3"> zwei</span> völlig</p>
+<p begin="00:04:18.709" end="00:04:22.449" style="s2">unterschiedliche dinge</p>
+<p begin="00:04:19.900" end="00:04:24.410" style="s2">die grundgesetzänderung der</p>
+<p begin="00:04:22.449" end="00:04:27.110" style="s2">bundestagsfraktion läuft dem alten</p>
+<p begin="00:04:24.410" end="00:04:29.389" style="s2">grundsatz zuwider der da lautet das geld</p>
+<p begin="00:04:27.110" end="00:04:31.460" style="s2">folgt der aufgabe und ich<span style="s4"> ergänze</span> gerne</p>
+<p begin="00:04:29.389" end="00:04:33.800" style="s2"><span style="s4">und</span><span style="s3"> verdi</span> finanzierte aufgabe hat der</p>
+<p begin="00:04:31.460" end="00:04:35.930" style="s2">trägt auch die verantwortung und zwar</p>
+<p begin="00:04:33.800" end="00:04:37.669" style="s2"><span style="s4">voll umfänglich</span><span style="s3"> hans günter</span><span style="s4"> henneke</span> hat</p>
+<p begin="00:04:35.930" end="00:04:40.790" style="s2">in diesem in einem beitrag für die faz</p>
+<p begin="00:04:37.669" end="00:04:44.539" style="s2"><span style="s4">am 29 november 18 darauf hingewiesen</span></p>
+<p begin="00:04:40.790" end="00:04:46.100" style="s2"><span style="s4">dass</span><span style="s3"> dem</span><span style="s4"> artikel 106 grundgesetz eine</span></p>
+<p begin="00:04:44.539" end="00:04:47.930" style="s2">kluge<span style="s3"> alt bewährte lösung für die</span></p>
+<p begin="00:04:46.100" end="00:04:50.210" style="s2">projekte zur verfügung steht die bund</p>
+<p begin="00:04:47.930" end="00:04:50.960" style="s2">und länder gemeinsam stemmen müssen und</p>
+<p begin="00:04:50.210" end="00:04:52.940" style="s2">stemmen wollen</p>
+<p begin="00:04:50.960" end="00:04:56.090" style="s2">und das ist die flexible festsetzung der</p>
+<p begin="00:04:52.940" end="00:04:59.150" style="s2">umsatzsteuer<span style="s4"> die sich im jahre 2018 auf</span></p>
+<p begin="00:04:56.090" end="00:05:00.320" style="s2">19 milliarden euro belief es bleibt mir</p>
+<p begin="00:04:59.150" end="00:05:01.940" style="s2">abschließend die vermutung zu</p>
+<p begin="00:05:00.320" end="00:05:03.710" style="s2">artikulieren<span style="s4"> dass</span> es bei der</p>
+<p begin="00:05:01.940" end="00:05:06.139" style="s2">grundgesetzänderung in erster linie</p>
+<p begin="00:05:03.710" end="00:05:08.539" style="s2">darum<span style="s3"> ging</span> wählerwirksam und in großer</p>
+<p begin="00:05:06.139" end="00:05:11.510" style="s2">breite und<span style="s4"> in großem umfang geld aus dem</span></p>
+<p begin="00:05:08.539" end="00:05:14.479" style="s2">bundeshaushalt in die schulen lotsen zu</p>
+<p begin="00:05:11.510" end="00:05:16.370" style="s2">können kurz für kurzfristige wahlerfolge</p>
+<p begin="00:05:14.479" end="00:05:18.740" style="s2"><span style="s3">schaut</span><span style="s4"> man</span> nicht vor der aushöhlung des</p>
+<p begin="00:05:16.370" end="00:05:21.280" style="s2">föderalismus und des demokratieprinzips</p>
+<p begin="00:05:18.740" end="00:05:23.960" style="s2">zurück was für ein<span style="s3"> besorgniserregendes</span></p>
+<p begin="00:05:21.280" end="00:05:25.520" style="s2">staatsverständnis drückt sich<span style="s4"> hier aus</span></p>
+<p begin="00:05:23.960" end="00:05:27.919" style="s2">man kann nur hoffen dass dieses</p>
+<p begin="00:05:25.520" end="00:05:29.720" style="s2">unterfangen<span style="s3"> im</span> bundesrat dann scheitern</p>
+<p begin="00:05:27.919" end="00:05:32.330" style="s2">wird mein dank gilt abschließend der</p>
+<p begin="00:05:29.720" end="00:05:35.000" style="s2">fraktion geld einzige<span style="s3"> diesem</span> vorhaben<span style="s4"> im</span></p>
+<p begin="00:05:32.330" end="00:05:37.010" style="s2">bundestag ihre stimme verweigert hat</p>
+<p begin="00:05:35.000" end="00:05:42.470" style="s2">mein dank gilt der afg<span style="s4"> fraktion des</span></p>
+<p begin="00:05:37.010" end="00:05:44.449" style="s2"><span style="s4">deutschen bundestags</span><span style="s3"> dankeschön</span></p>
+<p begin="00:05:42.470" end="00:05:47.440" style="s2">als nächstes hat das<span style="s4"> wort</span><span style="s3"> der</span></p>
+<p begin="00:05:44.449" end="00:05:47.440" style="s2">abgeordnete<span style="s3"> kalisch</span></p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.660" end="00:00:08.190" style="s2">[Musik]</p>
+<p begin="00:00:09.590" end="00:00:16.950" style="s2"><span style="s3">ja</span> lieber stefan<span style="s3"> liebe</span> daniela<span style="s4"> liebe</span></p>
+<p begin="00:00:13.040" end="00:00:18.750" style="s2">delegierte wir haben gesagt<span style="s3"> 2009/10</span> es</p>
+<p begin="00:00:16.950" end="00:00:21.649" style="s2">ist das jahr der entscheidung es ist das</p>
+<p begin="00:00:18.750" end="00:00:23.700" style="s2">jahr für europa am 26</p>
+<p begin="00:00:21.649" end="00:00:26.189" style="s2">aber wir haben für uns selbst auch</p>
+<p begin="00:00:23.700" end="00:00:27.810" style="s2">festgehalten<span style="s4"> wir</span> wollen<span style="s3"> 2009 10 auch zum</span></p>
+<p begin="00:00:26.189" end="00:00:29.610" style="s2">jahr der erneuerung machen zum jahr der</p>
+<p begin="00:00:27.810" end="00:00:31.520" style="s2">erneuerung und wir möchten auch von</p>
+<p begin="00:00:29.610" end="00:00:34.170" style="s2">diesem parteitag<span style="s4"> genau</span> dieses signal</p>
+<p begin="00:00:31.520" end="00:00:35.699" style="s2">aussenden dass wir uns selbst dieses</p>
+<p begin="00:00:34.170" end="00:00:38.730" style="s2">themas erneuerung annehmen</p>
+<p begin="00:00:35.699" end="00:00:41.100" style="s2">ich sage vorweg wir sind volkspartei</p>
+<p begin="00:00:38.730" end="00:00:43.260" style="s2">liebe freunde wir sind volkspartei und</p>
+<p begin="00:00:41.100" end="00:00:45.420" style="s2">wir sagen auch mit stolz<span style="s4"> wir</span> sind<span style="s3"> die</span></p>
+<p begin="00:00:43.260" end="00:00:46.769" style="s2">letzte verbliebene volkspartei in diesem</p>
+<p begin="00:00:45.420" end="00:00:49.019" style="s2">land in diesem fall<span style="s3"> statt bayern</span><span style="s4"> liebe</span></p>
+<p begin="00:00:46.769" end="00:00:50.460" style="s2">freunde<span style="s4"> und</span> diesen<span style="s3"> anspruch</span> und diese</p>
+<p begin="00:00:49.019" end="00:00:52.010" style="s2">tatsache lassen wir uns auch von</p>
+<p begin="00:00:50.460" end="00:00:54.420" style="s2">niemandem absprechen</p>
+<p begin="00:00:52.010" end="00:00:57.409" style="s2">wir geben das konzept der volkspartei</p>
+<p begin="00:00:54.420" end="00:00:59.940" style="s2">nicht auf wir glauben an die volkspartei</p>
+<p begin="00:00:57.409" end="00:01:02.699" style="s2"><span style="s4">auch</span> wenn<span style="s4"> sich</span> die bedingungen in ganz</p>
+<p begin="00:00:59.940" end="00:01:05.909" style="s2">europa für volksparteien geändert haben</p>
+<p begin="00:01:02.699" end="00:01:07.320" style="s2">auch wenn wir erlebt haben<span style="s3"> dass</span> bei den</p>
+<p begin="00:01:05.909" end="00:01:09.149" style="s2"><span style="s3">letzten</span> wahlen wahlergebnisse</p>
+<p begin="00:01:07.320" end="00:01:10.380" style="s2">schwieriger zu erreichen waren<span style="s4"> die wir</span></p>
+<p begin="00:01:09.149" end="00:01:12.479" style="s2"><span style="s4">die früher gewohnt waren</span></p>
+<p begin="00:01:10.380" end="00:01:14.640" style="s2">wir bemühen uns trotzdem wir geben uns</p>
+<p begin="00:01:12.479" end="00:01:16.140" style="s2">nicht ab mit diesen wahlergebnissen<span style="s4"> wir</span></p>
+<p begin="00:01:14.640" end="00:01:18.570" style="s2">wollen wie es markus söder heute gesagt</p>
+<p begin="00:01:16.140" end="00:01:21.299" style="s2">hat den weg zurück antreten zu neuer</p>
+<p begin="00:01:18.570" end="00:01:23.399" style="s2">stärke und auch wenn andere parteien und</p>
+<p begin="00:01:21.299" end="00:01:25.259" style="s2">bürgerliche wähler<span style="s4"> buhlen machen wir</span></p>
+<p begin="00:01:23.399" end="00:01:28.469" style="s2">trotzdem klar als christlich soziale</p>
+<p begin="00:01:25.259" end="00:01:30.990" style="s2">union wir sind die heimat für<span style="s4"> bürgerlich</span></p>
+<p begin="00:01:28.469" end="00:01:32.399" style="s2">überzeugungen für konservative genauso</p>
+<p begin="00:01:30.990" end="00:01:34.560" style="s2">wie für<span style="s4"> christlich</span><span style="s3"> sozial und für</span></p>
+<p begin="00:01:32.399" end="00:01:37.380" style="s2">liberale liebe freunde<span style="s4"> das ist die</span><span style="s3"> uhr</span></p>
+<p begin="00:01:34.560" end="00:01:40.229" style="s2">dna der csu an der werden wir alle zeit</p>
+<p begin="00:01:37.380" end="00:01:42.149" style="s2">festhalten<span style="s4"> wir</span> wollen volkspartei</p>
+<p begin="00:01:40.229" end="00:01:44.759" style="s2">bleiben wir wollen volkspartei bleiben</p>
+<p begin="00:01:42.149" end="00:01:46.920" style="s2">und deshalb wissen wir dass wir uns auch</p>
+<p begin="00:01:44.759" end="00:01:50.159" style="s2">verändern müssen nicht aus selbstzweck</p>
+<p begin="00:01:46.920" end="00:01:52.259" style="s2">und<span style="s4"> mich</span> deshalb weil wir csu</p>
+<p begin="00:01:50.159" end="00:01:54.359" style="s2">volkspartei einfach<span style="s3"> hingenommen haben</span></p>
+<p begin="00:01:52.259" end="00:01:56.850" style="s2">sondern<span style="s4"> liebe</span> freunde weil wir der</p>
+<p begin="00:01:54.359" end="00:01:59.549" style="s2">festen überzeugung sind dass dieses land</p>
+<p begin="00:01:56.850" end="00:02:00.450" style="s2">und diese zeiten<span style="s3"> starke</span><span style="s4"> volksparteien</span></p>
+<p begin="00:01:59.549" end="00:02:03.630" style="s2">brauchen</p>
+<p begin="00:02:00.450" end="00:02:05.820" style="s2">ich frage<span style="s4"> euch</span> umgekehrt wer soll dieses</p>
+<p begin="00:02:03.630" end="00:02:07.649" style="s2">land zusammenhalten wer soll die</p>
+<p begin="00:02:05.820" end="00:02:10.520" style="s2">politische klammer dieses landes<span style="s4"> sein</span></p>
+<p begin="00:02:07.649" end="00:02:14.160" style="s2">wenn ich die<span style="s3"> starke</span><span style="s4"> volkspartei</span> csu</p>
+<p begin="00:02:10.520" end="00:02:15.190" style="s2">klientel parteien wie die fdp<span style="s3"> sie werden</span></p>
+<p begin="00:02:14.160" end="00:02:17.560" style="s2">sicherlich nicht sein</p>
+<p begin="00:02:15.190" end="00:02:19.810" style="s2">denn ich sage ganz deutlich wir sind der</p>
+<p begin="00:02:17.560" end="00:02:21.610" style="s2">anwalt der bürger und nicht nur<span style="s4"> der</span></p>
+<p begin="00:02:19.810" end="00:02:23.770" style="s2"><span style="s4">besserverdienenden</span> wir denken auch an</p>
+<p begin="00:02:21.610" end="00:02:25.450" style="s2">die<span style="s3"> normalen</span> leute die<span style="s3"> jeden</span> tag ihr</p>
+<p begin="00:02:23.770" end="00:02:27.280" style="s2">leben selbst in die hand nehmen und wenn</p>
+<p begin="00:02:25.450" end="00:02:30.490" style="s2">es auch noch so<span style="s3"> schweers</span> über freunde</p>
+<p begin="00:02:27.280" end="00:02:32.710" style="s2">ich frage<span style="s4"> euch wer soll denn wirklich</span></p>
+<p begin="00:02:30.490" end="00:02:34.480" style="s2">der anwalt der bürger<span style="s3"> seien in diesen</span></p>
+<p begin="00:02:32.710" end="00:02:36.490" style="s2">zeiten von unsicherheit von</p>
+<p begin="00:02:34.480" end="00:02:38.020" style="s2">zerrissenheit in der gesellschaft da</p>
+<p begin="00:02:36.490" end="00:02:40.240" style="s2">braucht es einen<span style="s3"> staat ein</span><span style="s4"> anwalt</span> und</p>
+<p begin="00:02:38.020" end="00:02:41.500" style="s2"><span style="s4">wir</span> dürfen dieses geschäft und dieses</p>
+<p begin="00:02:40.240" end="00:02:43.540" style="s2">thema das vertrauen der menschen</p>
+<p begin="00:02:41.500" end="00:02:44.980" style="s2">zurückzugewinnen nicht den populisten</p>
+<p begin="00:02:43.540" end="00:02:45.880" style="s2">und schon gar nicht den extremisten</p>
+<p begin="00:02:44.980" end="00:02:47.650" style="s2">überlassen</p>
+<p begin="00:02:45.880" end="00:02:50.410" style="s2">ich sage ganz deutlich auch in<span style="s4"> richtung</span></p>
+<p begin="00:02:47.650" end="00:02:52.390" style="s2"><span style="s3">kfd</span><span style="s4"> wer</span> selbst mit verfassung und gesetz</p>
+<p begin="00:02:50.410" end="00:02:54.310" style="s2">in konflikt steht der braucht niemandem</p>
+<p begin="00:02:52.390" end="00:02:56.530" style="s2">erklären in diesem land was recht und</p>
+<p begin="00:02:54.310" end="00:02:58.180" style="s2">ordnung bedeutet liebe freunde<span style="s4"> der ist</span></p>
+<p begin="00:02:56.530" end="00:02:59.740" style="s2">eher ein fall für verfassungsschutz oder</p>
+<p begin="00:02:58.180" end="00:03:00.400" style="s2">an manchen stellen sogar<span style="s3"> für</span> den</p>
+<p begin="00:02:59.740" end="00:03:02.470" style="s2">staatsanwalt</p>
+<p begin="00:03:00.400" end="00:03:04.840" style="s2">liebe freunde wir umgekehrt die</p>
+<p begin="00:03:02.470" end="00:03:06.550" style="s2"><span style="s4">christlich soziale union</span><span style="s3"> wir</span> sind der</p>
+<p begin="00:03:04.840" end="00:03:08.440" style="s2">anwalt der bürger wir sind<span style="s4"> näher</span><span style="s3"> am</span></p>
+<p begin="00:03:06.550" end="00:03:11.110" style="s2">menschen und<span style="s4"> wir</span> wollen diesen anspruch</p>
+<p begin="00:03:08.440" end="00:03:14.590" style="s2">auch jeden tag<span style="s3"> hoch halten</span><span style="s4"> und</span><span style="s3"> zum</span></p>
+<p begin="00:03:11.110" end="00:03:17.500" style="s2"><span style="s4">dritten</span> wer sorgt dafür dass in einer</p>
+<p begin="00:03:14.590" end="00:03:19.989" style="s2">zeit wo<span style="s4"> manche</span> sich aus der öffentlichen</p>
+<p begin="00:03:17.500" end="00:03:21.040" style="s2">debatte ausgegrenzt fühlen alle bürger</p>
+<p begin="00:03:19.989" end="00:03:23.200" style="s2">eine stimme haben</p>
+<p begin="00:03:21.040" end="00:03:25.780" style="s2">es ist die volkspartei es ist die</p>
+<p begin="00:03:23.200" end="00:03:28.150" style="s2">volkspartei csu die<span style="s4"> unterschiedlichen</span></p>
+<p begin="00:03:25.780" end="00:03:30.250" style="s2">überzeugungen<span style="s4"> raum</span> gibt in der</p>
+<p begin="00:03:28.150" end="00:03:32.020" style="s2">öffentlichen debatte die nicht darüber</p>
+<p begin="00:03:30.250" end="00:03:33.850" style="s2">entscheidet was richtig und was falsch</p>
+<p begin="00:03:32.020" end="00:03:35.770" style="s2">ist sondern die<span style="s3"> in</span><span style="s4"> unterschiedlichen</span></p>
+<p begin="00:03:33.850" end="00:03:36.760" style="s2">überzeugungen<span style="s4"> auch</span> die möglichkeit gibt</p>
+<p begin="00:03:35.770" end="00:03:38.140" style="s2">in der öffentlichen debatte</p>
+<p begin="00:03:36.760" end="00:03:39.959" style="s2"><span style="s3">stattzufinden</span></p>
+<p begin="00:03:38.140" end="00:03:43.000" style="s2">ich sage aus tiefer innerer überzeugung</p>
+<p begin="00:03:39.959" end="00:03:46.540" style="s2">es braucht die starke volkspartei csu</p>
+<p begin="00:03:43.000" end="00:03:48.430" style="s2">auch weil andere<span style="s4"> volksparteien leider</span></p>
+<p begin="00:03:46.540" end="00:03:51.700" style="s2">nicht mehr heute in diesem land wirken</p>
+<p begin="00:03:48.430" end="00:03:54.010" style="s2">wie sie das früher getan haben deswegen</p>
+<p begin="00:03:51.700" end="00:03:56.590" style="s2">weil wir volkspartei bleiben wollen</p>
+<p begin="00:03:54.010" end="00:03:58.720" style="s2"><span style="s4">deswegen sind wir auch bereit und wissen</span></p>
+<p begin="00:03:56.590" end="00:04:00.850" style="s2">um die verantwortung dass wir uns selbst</p>
+<p begin="00:03:58.720" end="00:04:04.060" style="s2">erneuern müssen und<span style="s4"> das was wir</span> mit</p>
+<p begin="00:04:00.850" end="00:04:06.550" style="s2">diesem leitantrag einleiten wollen ist</p>
+<p begin="00:04:04.060" end="00:04:07.900" style="s2">keine neue erfindung ist nichts was zum</p>
+<p begin="00:04:06.550" end="00:04:09.580" style="s2">ersten mal in der geschichte der</p>
+<p begin="00:04:07.900" end="00:04:11.680" style="s2">christlich sozialen union stattfindet</p>
+<p begin="00:04:09.580" end="00:04:13.930" style="s2">sondern es etwas was immer zur csu</p>
+<p begin="00:04:11.680" end="00:04:15.459" style="s2">gehört hat sich kontinuierlich und</p>
+<p begin="00:04:13.930" end="00:04:17.620" style="s2">fortgesetzt zu erneuern</p>
+<p begin="00:04:15.459" end="00:04:19.450" style="s2">wir wollen neue begeisterung entfachen</p>
+<p begin="00:04:17.620" end="00:04:21.850" style="s2">wir wissen nur wenn wir es schaffen</p>
+<p begin="00:04:19.450" end="00:04:23.710" style="s2">gerade auch junge menschen zu begeistern</p>
+<p begin="00:04:21.850" end="00:04:25.690" style="s2">nur wenn wir es schaffen gerade auch bei</p>
+<p begin="00:04:23.710" end="00:04:27.400" style="s2">zugereisten die bindekraft der</p>
+<p begin="00:04:25.690" end="00:04:28.750" style="s2">volkspartei csu zum tragen zu bringen</p>
+<p begin="00:04:27.400" end="00:04:31.780" style="s2">werden die auch<span style="s4"> in</span></p>
+<p begin="00:04:28.750" end="00:04:32.710" style="s2">zukunft erfolg haben wir<span style="s3"> wissen</span><span style="s4"> nur</span> wenn</p>
+<p begin="00:04:31.780" end="00:04:34.360" style="s2">wir uns bemühen</p>
+<p begin="00:04:32.710" end="00:04:35.860" style="s2">auch jürgen<span style="s3"> ein</span> weiblicher zu werden</p>
+<p begin="00:04:34.360" end="00:04:37.990" style="s2">auch dann werden wir es schaffen in</p>
+<p begin="00:04:35.860" end="00:04:39.220" style="s2">allen bevölkerungsschichten tief</p>
+<p begin="00:04:37.990" end="00:04:41.110" style="s2">verankert zu bleiben</p>
+<p begin="00:04:39.220" end="00:04:43.870" style="s2">und deswegen ist mein vorschlag liebe</p>
+<p begin="00:04:41.110" end="00:04:45.030" style="s2">freunde ist unser vorschlag als csu dass</p>
+<p begin="00:04:43.870" end="00:04:47.650" style="s2">wir uns heute mit diesem parteitag</p>
+<p begin="00:04:45.030" end="00:04:50.080" style="s2">beginnen auf den weg zu machen dass wir</p>
+<p begin="00:04:47.650" end="00:04:51.850" style="s2">in den nächsten monaten miteinander<span style="s4"> das</span></p>
+<p begin="00:04:50.080" end="00:04:53.520" style="s2"><span style="s3">heißt</span> mit unseren mitgliedern mit</p>
+<p begin="00:04:51.850" end="00:04:55.870" style="s2">unserer basis mit den anhängern</p>
+<p begin="00:04:53.520" end="00:04:58.480" style="s2">diskutieren<span style="s4"> an</span> welchen stellen und in</p>
+<p begin="00:04:55.870" end="00:05:00.700" style="s2">welcher weise wie<span style="s4"> es csu diese große</span></p>
+<p begin="00:04:58.480" end="00:05:03.220" style="s2">aufgabe annehmen wollen dass wir die</p>
+<p begin="00:05:00.700" end="00:05:05.140" style="s2">erfolgreiche moderne volkspartei des</p>
+<p begin="00:05:03.220" end="00:05:05.680" style="s2"><span style="s3">einundzwanzigsten jahrhunderts sind und</span></p>
+<p begin="00:05:05.140" end="00:05:07.810" style="s2">bleiben</p>
+<p begin="00:05:05.680" end="00:05:10.420" style="s2">deswegen möchten wir mit diesem</p>
+<p begin="00:05:07.810" end="00:05:12.520" style="s2">leitantrag den startschuss geben<span style="s4"> dass</span></p>
+<p begin="00:05:10.420" end="00:05:14.680" style="s2">wir<span style="s4"> in</span> acht handlungsfeldern<span style="s4"> dass</span> wir in</p>
+<p begin="00:05:12.520" end="00:05:16.720" style="s2">acht handlungsfeldern miteinander</p>
+<p begin="00:05:14.680" end="00:05:18.880" style="s2">konzepte entwickeln und vorschläge</p>
+<p begin="00:05:16.720" end="00:05:19.450" style="s2">prüfen wie wir selbst<span style="s4"> diesem</span> ziel näher</p>
+<p begin="00:05:18.880" end="00:05:22.180" style="s2">kommen</p>
+<p begin="00:05:19.450" end="00:05:24.130" style="s2">das erste unsere mitglieder liebe</p>
+<p begin="00:05:22.180" end="00:05:26.260" style="s2">freunde das ist unsere basis markus</p>
+<p begin="00:05:24.130" end="00:05:27.880" style="s2">söder<span style="s3"> das</span> heute gesagt wir müssen uns</p>
+<p begin="00:05:26.260" end="00:05:29.530" style="s2">überlegen wie können wir die</p>
+<p begin="00:05:27.880" end="00:05:31.420" style="s2">mitgliedschaft in der csu<span style="s3"> noch</span><span style="s4"> noch</span></p>
+<p begin="00:05:29.530" end="00:05:33.550" style="s2">attraktiver machen was müssen wir tun</p>
+<p begin="00:05:31.420" end="00:05:35.350" style="s2">was erwarten heute menschen die sich</p>
+<p begin="00:05:33.550" end="00:05:37.300" style="s2">einer partei<span style="s4"> anschließend</span> von ihrer</p>
+<p begin="00:05:35.350" end="00:05:39.040" style="s2">mitgliedschaft darüber<span style="s4"> miteinander</span> zu</p>
+<p begin="00:05:37.300" end="00:05:41.620" style="s2">befinden<span style="s3"> und</span><span style="s4"> auch</span> zu überlegen<span style="s4"> lieber</span></p>
+<p begin="00:05:39.040" end="00:05:44.350" style="s2">die basis<span style="s3"> verjüngen</span> können<span style="s4"> ein</span> zentrales</p>
+<p begin="00:05:41.620" end="00:05:46.870" style="s2">element unserer reformüberlegungen<span style="s4"> das</span></p>
+<p begin="00:05:44.350" end="00:05:47.770" style="s2">zweite<span style="s4"> wir</span> müssen uns auch um unsere</p>
+<p begin="00:05:46.870" end="00:05:50.530" style="s2">anhänger kümmern</p>
+<p begin="00:05:47.770" end="00:05:52.900" style="s2">wir wollen diesen alten leitsatz der csu</p>
+<p begin="00:05:50.530" end="00:05:54.220" style="s2">näher am menschen diesen<span style="s3"> leitsatz auch</span></p>
+<p begin="00:05:52.900" end="00:05:55.780" style="s2">mit ganz neuem leben füllen</p>
+<p begin="00:05:54.220" end="00:05:58.390" style="s2">weil<span style="s4"> wir</span> wissen dass der weg zu neuer</p>
+<p begin="00:05:55.780" end="00:06:01.810" style="s2">stärke gerade über starke anhänger führt</p>
+<p begin="00:05:58.390" end="00:06:04.120" style="s2"><span style="s4">csu es bewegung</span> ja es ist gut und zu</p>
+<p begin="00:06:01.810" end="00:06:06.070" style="s2">wissen dass wir fast<span style="s3"> 140.000</span> mitglieder</p>
+<p begin="00:06:04.120" end="00:06:07.720" style="s2"><span style="s3">haben</span><span style="s4"> aber</span> wir wollen mehr wir wollen</p>
+<p begin="00:06:06.070" end="00:06:09.550" style="s2">neue menschen<span style="s3"> begeistert</span> die vielleicht</p>
+<p begin="00:06:07.720" end="00:06:11.470" style="s2">nicht sofort mitglied werden aber die</p>
+<p begin="00:06:09.550" end="00:06:12.220" style="s2"><span style="s3">trotzdem</span><span style="s4"> bereits</span> in die sache der csu zu</p>
+<p begin="00:06:11.470" end="00:06:14.020" style="s2">unterstützen</p>
+<p begin="00:06:12.220" end="00:06:15.310" style="s2">wir wollen an der partnerschaft und an</p>
+<p begin="00:06:14.020" end="00:06:17.970" style="s2">der bindung gerade auch im</p>
+<p begin="00:06:15.310" end="00:06:20.560" style="s2">vorpolitischen raum arbeiten<span style="s4"> das</span> dritte</p>
+<p begin="00:06:17.970" end="00:06:22.090" style="s2">wir wollen die besten köpfe für die csu</p>
+<p begin="00:06:20.560" end="00:06:23.680" style="s2">gewinnen wir wollen uns bemühen um</p>
+<p begin="00:06:22.090" end="00:06:25.600" style="s2">unsere<span style="s4"> verwandten</span> verantwortungsträger</p>
+<p begin="00:06:23.680" end="00:06:26.980" style="s2">und müssen uns deswegen überlegen wie</p>
+<p begin="00:06:25.600" end="00:06:28.690" style="s2">wir beim thema<span style="s3"> personalauswahl</span></p>
+<p begin="00:06:26.980" end="00:06:30.820" style="s2"><span style="s4">vielleicht</span> auch das<span style="s3"> ein oder andere</span></p>
+<p begin="00:06:28.690" end="00:06:32.980" style="s2">prüfen und verändern können</p>
+<p begin="00:06:30.820" end="00:06:35.740" style="s2"><span style="s4">das</span> hat unmittelbar zu tun<span style="s3"> im</span> vierten</p>
+<p begin="00:06:32.980" end="00:06:37.900" style="s2">punkt<span style="s4"> zeitgemäße</span> frauenförderung<span style="s4"> liebe</span></p>
+<p begin="00:06:35.740" end="00:06:38.800" style="s2">freunde und angelika niebler<span style="s3"> vorhin</span></p>
+<p begin="00:06:37.900" end="00:06:41.260" style="s2">schon angesprochen</p>
+<p begin="00:06:38.800" end="00:06:42.169" style="s2">die zeiten sind<span style="s4"> vorbei</span> wo man sich</p>
+<p begin="00:06:41.260" end="00:06:44.120" style="s2">entschuldigen kann</p>
+<p begin="00:06:42.169" end="00:06:46.009" style="s2">sagen kann<span style="s4"> wir</span> haben<span style="s4"> leider</span> nicht mehr</p>
+<p begin="00:06:44.120" end="00:06:46.580" style="s2">frauen bei uns<span style="s3"> seiner</span> basis nein liebe</p>
+<p begin="00:06:46.009" end="00:06:48.469" style="s2">freunde</p>
+<p begin="00:06:46.580" end="00:06:50.120" style="s2">es muss ein zentrales thema der</p>
+<p begin="00:06:48.469" end="00:06:51.919" style="s2"><span style="s3">christlich sozialen union sein dass</span> wir</p>
+<p begin="00:06:50.120" end="00:06:53.330" style="s2"><span style="s4">schaffen</span> mehr frauen für die csu zu</p>
+<p begin="00:06:51.919" end="00:06:55.310" style="s2">gewinnen<span style="s4"> und</span> dass<span style="s4"> wir</span> auch für eine</p>
+<p begin="00:06:53.330" end="00:06:56.870" style="s2">bessere repräsentanz gemeinsam von</p>
+<p begin="00:06:55.310" end="00:07:00.430" style="s2">frauen in<span style="s3"> führenden verantwortung sorgen</span></p>
+<p begin="00:06:56.870" end="00:07:04.219" style="s2"><span style="s3">das</span> ist<span style="s3"> ein</span> zentraler auftrag der csu</p>
+<p begin="00:07:00.430" end="00:07:07.159" style="s2"><span style="s4">das</span> fünfte<span style="s3"> digitaler</span><span style="s4"> fortschritt</span> wir</p>
+<p begin="00:07:04.219" end="00:07:08.449" style="s2">wissen alle dass die aufgabe einer</p>
+<p begin="00:07:07.159" end="00:07:11.150" style="s2">volkspartei in zeiten von</p>
+<p begin="00:07:08.449" end="00:07:13.610" style="s2">digitalisierung dem<span style="s4"> kerne nach dieselbe</span></p>
+<p begin="00:07:11.150" end="00:07:15.289" style="s2">bleibt aber die möglichkeiten<span style="s4"> die</span> neuen</p>
+<p begin="00:07:13.610" end="00:07:15.860" style="s2">technologien zu nutzen sind völlig</p>
+<p begin="00:07:15.289" end="00:07:18.050" style="s2">andere</p>
+<p begin="00:07:15.860" end="00:07:19.639" style="s2">wir erleben gerade eine ganz<span style="s4"> große</span></p>
+<p begin="00:07:18.050" end="00:07:20.810" style="s2"><span style="s4">beteiligung</span> der csu beim thema</p>
+<p begin="00:07:19.639" end="00:07:22.490" style="s2">mitgliederbefragung</p>
+<p begin="00:07:20.810" end="00:07:24.439" style="s2">tausende haben sich innerhalb von</p>
+<p begin="00:07:22.490" end="00:07:27.050" style="s2">stunden beteiligt an der umfrage<span style="s3"> die</span><span style="s4"> zum</span></p>
+<p begin="00:07:24.439" end="00:07:28.909" style="s2">thema europa läuft eine ganz neue chance</p>
+<p begin="00:07:27.050" end="00:07:30.979" style="s2">die uns hier die möglichkeiten bieten</p>
+<p begin="00:07:28.909" end="00:07:32.900" style="s2">wir wollen<span style="s4"> unterm</span> strich die</p>
+<p begin="00:07:30.979" end="00:07:34.909" style="s2">mitgliedschaft attraktiver machen echt</p>
+<p begin="00:07:32.900" end="00:07:36.979" style="s2">digitale angebote auf den weg bringen</p>
+<p begin="00:07:34.909" end="00:07:38.479" style="s2">und gleichzeitig<span style="s4"> auch</span> das ehrenamt durch</p>
+<p begin="00:07:36.979" end="00:07:40.819" style="s2">die digitalisierung entlasten</p>
+<p begin="00:07:38.479" end="00:07:42.439" style="s2">das sechste mir ein herzensanliegen</p>
+<p begin="00:07:40.819" end="00:07:44.180" style="s2"><span style="s3">genau so wie es schon bei alexander</span></p>
+<p begin="00:07:42.439" end="00:07:46.069" style="s2">dobrindt und andreas scheuer war</p>
+<p begin="00:07:44.180" end="00:07:48.379" style="s2">wir wollen die csu zur echten</p>
+<p begin="00:07:46.069" end="00:07:50.210" style="s2">mitmachpartei<span style="s4"> mitmachen und da muss uns</span></p>
+<p begin="00:07:48.379" end="00:07:50.899" style="s2">noch eine spur mehr einfallen als in der</p>
+<p begin="00:07:50.210" end="00:07:53.479" style="s2">vergangenheit</p>
+<p begin="00:07:50.899" end="00:07:55.279" style="s2"><span style="s3">für echte mitmachpartei</span><span style="s4"> das</span> heißt wir</p>
+<p begin="00:07:53.479" end="00:07:57.409" style="s2">wollen auch<span style="s3"> den</span><span style="s4"> schatz</span> heben der in</p>
+<p begin="00:07:55.279" end="00:07:59.449" style="s2">unserer partei ist dann inhaltliche</p>
+<p begin="00:07:57.409" end="00:08:01.729" style="s2">expertise an leidenschaft<span style="s3"> den</span> einsatz</p>
+<p begin="00:07:59.449" end="00:08:03.469" style="s2">vor ort in den<span style="s3"> orts-</span> und kreisverbänden</p>
+<p begin="00:08:01.729" end="00:08:05.629" style="s2">aber auch in unseren<span style="s4"> arbeitskreise</span> und</p>
+<p begin="00:08:03.469" end="00:08:07.789" style="s2">arbeitsgemeinschaften und ich sage</p>
+<p begin="00:08:05.629" end="00:08:10.009" style="s2">durchaus selbstkritisch da gibt es</p>
+<p begin="00:08:07.789" end="00:08:11.960" style="s2">bereiche<span style="s4"> da</span> können dann müssen wir</p>
+<p begin="00:08:10.009" end="00:08:13.370" style="s2">besser werden<span style="s3"> wenn</span><span style="s4"> ich sehe mit welcher</span></p>
+<p begin="00:08:11.960" end="00:08:14.569" style="s2">leidenschaft gerade in unseren</p>
+<p begin="00:08:13.370" end="00:08:17.270" style="s2"><span style="s3">arbeitskreise</span> und<span style="s3"> arbeitsgemeinschaft</span></p>
+<p begin="00:08:14.569" end="00:08:19.370" style="s2"><span style="s3">und</span> kommissionen inhaltlich diskutiert</p>
+<p begin="00:08:17.270" end="00:08:21.860" style="s2">wird weit in die zukunft voraus gedacht</p>
+<p begin="00:08:19.370" end="00:08:23.870" style="s2">wird dann möchte ich<span style="s4"> dass</span> diese aufgabe</p>
+<p begin="00:08:21.860" end="00:08:25.610" style="s2">nicht eine aufgabe ist die irgendwo</p>
+<p begin="00:08:23.870" end="00:08:27.439" style="s2">vermeintlich am rande der<span style="s3"> partei</span></p>
+<p begin="00:08:25.610" end="00:08:29.149" style="s2"><span style="s3">stattfindet</span> nein es sind zentrale</p>
+<p begin="00:08:27.439" end="00:08:31.430" style="s2">aufgaben der partei sich bei den</p>
+<p begin="00:08:29.149" end="00:08:32.930" style="s2">zentralen themen unserer zeit sei es</p>
+<p begin="00:08:31.430" end="00:08:35.750" style="s2">umwelt und klimaschutz sei es</p>
+<p begin="00:08:32.930" end="00:08:38.060" style="s2">wirtschaftspolitik sei es energiepolitik</p>
+<p begin="00:08:35.750" end="00:08:41.659" style="s2">dass wir uns gemeinsam<span style="s4"> da</span> positionieren</p>
+<p begin="00:08:38.060" end="00:08:43.819" style="s2">das<span style="s4"> heißt</span> unmittelbar punkt<span style="s3"> 7</span> bemühen</p>
+<p begin="00:08:41.659" end="00:08:45.110" style="s2">darum dass wir unsere inhaltliche arbeit</p>
+<p begin="00:08:43.819" end="00:08:46.940" style="s2">so organisieren dass wir in den</p>
+<p begin="00:08:45.110" end="00:08:49.699" style="s2">zentralen themenfeldern als csu</p>
+<p begin="00:08:46.940" end="00:08:51.300" style="s2">erkennbar<span style="s3"> wie sibel sind und auch</span></p>
+<p begin="00:08:49.699" end="00:08:52.589" style="s2">entsprechend<span style="s4"> zu hause sind</span></p>
+<p begin="00:08:51.300" end="00:08:54.750" style="s2">dazu müssen wir<span style="s3"> zukunftsfeldern</span></p>
+<p begin="00:08:52.589" end="00:08:56.700" style="s2"><span style="s4">ausfüllen</span> müssen uns überlegen wo wir</p>
+<p begin="00:08:54.750" end="00:08:58.860" style="s2">neue inhaltliche akzente setzen wollen</p>
+<p begin="00:08:56.700" end="00:09:01.140" style="s2">brauchen eine vision für<span style="s4"> großstädte</span></p>
+<p begin="00:08:58.860" end="00:09:02.730" style="s2">markus<span style="s4"> söder</span> hat gesagt die städte nicht</p>
+<p begin="00:09:01.140" end="00:09:04.500" style="s2">den anderen überlassen<span style="s4"> jawohl</span> das ist</p>
+<p begin="00:09:02.730" end="00:09:07.260" style="s2">richtig da müssen wir uns selbst<span style="s3"> das csu</span></p>
+<p begin="00:09:04.500" end="00:09:09.029" style="s2">bemühen<span style="s4"> und</span> das achte wir wollen</p>
+<p begin="00:09:07.260" end="00:09:10.890" style="s2">gemeinsam überlegen was unsere</p>
+<p begin="00:09:09.029" end="00:09:13.170" style="s2">mitglieder heute von uns erwarten<span style="s4"> an</span></p>
+<p begin="00:09:10.890" end="00:09:16.050" style="s2">schneller kommunikation an<span style="s3"> passgenauer</span></p>
+<p begin="00:09:13.170" end="00:09:18.990" style="s2"><span style="s3">information informationen die</span><span style="s4"> einfach</span><span style="s3"> an</span></p>
+<p begin="00:09:16.050" end="00:09:20.610" style="s2"><span style="s3">kommt das alles</span><span style="s4"> liebe</span> freunde<span style="s4"> das macht</span></p>
+<p begin="00:09:18.990" end="00:09:22.709" style="s2">nach meinem dafürhalten eine moderne</p>
+<p begin="00:09:20.610" end="00:09:25.079" style="s2">volkspartei aus<span style="s4"> und</span> wir wollen euch mit</p>
+<p begin="00:09:22.709" end="00:09:26.970" style="s2">diesem leitantrag einen vorschlag</p>
+<p begin="00:09:25.079" end="00:09:28.740" style="s2">unterbreiten<span style="s4"> die</span> nächsten monate</p>
+<p begin="00:09:26.970" end="00:09:30.570" style="s2">intensiv zu nutzen<span style="s4"> darüber zu befinden</span></p>
+<p begin="00:09:28.740" end="00:09:33.480" style="s2"><span style="s3">wie</span> wir in diesen acht handlungsfeldern</p>
+<p begin="00:09:30.570" end="00:09:36.480" style="s2">alles tun können um ende sagen zu können</p>
+<p begin="00:09:33.480" end="00:09:38.760" style="s2"><span style="s3">jawohl wir sind</span> als csu die moderne</p>
+<p begin="00:09:36.480" end="00:09:41.339" style="s2">volkspartei des<span style="s3"> 21</span> jahrhunderts</p>
+<p begin="00:09:38.760" end="00:09:42.930" style="s2">wenn wir das erfolgreich beherzigen wenn</p>
+<p begin="00:09:41.339" end="00:09:44.940" style="s2">ihr die leidenschaft zeigt die auch</p>
+<p begin="00:09:42.930" end="00:09:46.470" style="s2">heute zeigt an diesem parteitag wenn ihr</p>
+<p begin="00:09:44.940" end="00:09:48.000" style="s2">euch einbringt in den letzten nächsten</p>
+<p begin="00:09:46.470" end="00:09:50.070" style="s2">wochen und monaten liebe freunde</p>
+<p begin="00:09:48.000" end="00:09:52.290" style="s2">dann werden wir am ende sagen können wir</p>
+<p begin="00:09:50.070" end="00:09:54.420" style="s2">sind volkspartei<span style="s4"> wir</span> wollen volkspartei</p>
+<p begin="00:09:52.290" end="00:09:56.520" style="s2">bleiben und wir werden auch volkspartei</p>
+<p begin="00:09:54.420" end="00:09:58.380" style="s2">bleiben<span style="s4"> liebe</span> freunde das ist die</p>
+<p begin="00:09:56.520" end="00:10:01.339" style="s2">aufgabe der<span style="s4"> christlich sozialen union</span></p>
+<p begin="00:09:58.380" end="00:10:01.339" style="s2"><span style="s4">vielen</span><span style="s3"> dank</span> dafür</p>
+<p begin="00:10:05.050" end="00:10:10.639" style="s2">vielen dank markus blume wir kommen</p>
+<p begin="00:10:08.120" end="00:10:14.050" style="s2">damit zu der aussprache über den</p>
+<p begin="00:10:10.639" end="00:10:14.050" style="s2"><span style="s3">leitantrag</span><span style="s4"> und</span> ich</p>
+</div>
+</body>
+</tt>

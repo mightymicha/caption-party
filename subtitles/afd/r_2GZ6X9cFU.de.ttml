@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.589" style="s2">[Applaus]</p>
+<p begin="00:00:01.850" end="00:00:07.649" style="s2">frau<span style="s3"> präsident</span> särge der<span style="s3"> abgeordnete</span></p>
+<p begin="00:00:04.589" end="00:00:09.870" style="s2"><span style="s4">frau</span> berg der antrag ist<span style="s4"> denn</span> das wissen</p>
+<p begin="00:00:07.649" end="00:00:10.860" style="s2"><span style="s4">energie</span> energie politik auch<span style="s3"> aber</span> wer</p>
+<p begin="00:00:09.870" end="00:00:12.630" style="s2">glaubt<span style="s3"> dass</span> man strom<span style="s4"> in netzen</span></p>
+<p begin="00:00:10.860" end="00:00:14.880" style="s2"><span style="s4">speichern kann sollte zur energiepolitik</span></p>
+<p begin="00:00:12.630" end="00:00:16.770" style="s2">ohnehin<span style="s4"> nichts</span> sagen<span style="s4"> zu den lippen</span> ja</p>
+<p begin="00:00:14.880" end="00:00:18.150" style="s2">sehr gehen sich wieder in<span style="s3"> ihrem</span></p>
+<p begin="00:00:16.770" end="00:00:20.130" style="s2"><span style="s4">enteignungs</span><span style="s3"> fantasien sind stolz</span> darauf</p>
+<p begin="00:00:18.150" end="00:00:22.490" style="s2">kinder zu<span style="s3"> unserem metallisierten wir</span></p>
+<p begin="00:00:20.130" end="00:00:24.449" style="s2"><span style="s3">wissen</span> alle was das bedeutet</p>
+<p begin="00:00:22.490" end="00:00:25.980" style="s2">nachhaltigkeit<span style="s4"> die</span><span style="s3"> nummer</span><span style="s4"> 7</span> der</p>
+<p begin="00:00:24.449" end="00:00:27.449" style="s2"><span style="s3">vereinten</span> nationen fordert die</p>
+<p begin="00:00:25.980" end="00:00:29.609" style="s2">sicherstellung des zugangs zu</p>
+<p begin="00:00:27.449" end="00:00:32.070" style="s2">bezahlbarer verlässlicher und moderner</p>
+<p begin="00:00:29.609" end="00:00:33.960" style="s2">energie für alle<span style="s3"> die</span> vorliegenden</p>
+<p begin="00:00:32.070" end="00:00:35.910" style="s2">anträge von grünen linken und auch der</p>
+<p begin="00:00:33.960" end="00:00:38.010" style="s2"><span style="s3">fdp</span> erfüllt aber kein einziges kriterium</p>
+<p begin="00:00:35.910" end="00:00:40.620" style="s2">der strom in deutschland würde damit</p>
+<p begin="00:00:38.010" end="00:00:43.200" style="s2">weder<span style="s3"> bezahlbar noch verlässlicher</span> noch</p>
+<p begin="00:00:40.620" end="00:00:44.879" style="s2">moderner<span style="s3"> ganz</span> im gegenteil<span style="s4"> die</span> anzahl</p>
+<p begin="00:00:43.200" end="00:00:46.590" style="s2">der<span style="s4"> netzangriffe</span> zur<span style="s4"> stabilisierung</span> des</p>
+<p begin="00:00:44.879" end="00:00:48.719" style="s2">deutschen stromnetzes steigt mit der</p>
+<p begin="00:00:46.590" end="00:00:50.190" style="s2">menge an ökologisch erzeugtem<span style="s3"> strom</span></p>
+<p begin="00:00:48.719" end="00:00:52.020" style="s2">die frage eines zusammenbruchs des</p>
+<p begin="00:00:50.190" end="00:00:54.469" style="s2"><span style="s4">netzes</span><span style="s3"> stellt</span> sich nicht als<span style="s4"> ob sondern</span></p>
+<p begin="00:00:52.020" end="00:00:57.930" style="s2"><span style="s4">als</span><span style="s3"> mann</span></p>
+<p begin="00:00:54.469" end="00:00:59.640" style="s2">die grünen die grünen<span style="s3"> wollen</span> in ihrem</p>
+<p begin="00:00:57.930" end="00:01:01.199" style="s2">antrag planungssicherheit<span style="s3"> schafften mit</span></p>
+<p begin="00:00:59.640" end="00:01:03.750" style="s2"><span style="s4">es</span> an der stromversorgung die gar nicht</p>
+<p begin="00:01:01.199" end="00:01:05.070" style="s2">planbar ist deutschland braucht zur</p>
+<p begin="00:01:03.750" end="00:01:07.830" style="s2">aufrechterhaltung seines lebens</p>
+<p begin="00:01:05.070" end="00:01:10.409" style="s2">standards zwischen 55 und 85 gigawatt an</p>
+<p begin="00:01:07.830" end="00:01:12.450" style="s2"><span style="s4">geregelter</span> energie die sogenannten</p>
+<p begin="00:01:10.409" end="00:01:15.689" style="s2">erneuerbaren lieferten in<span style="s3"> 2018</span> aber nur</p>
+<p begin="00:01:12.450" end="00:01:18.360" style="s2">unzureichende 15 bis 75 gigawatt</p>
+<p begin="00:01:15.689" end="00:01:20.460" style="s2"><span style="s4">heranpirschen</span><span style="s3"> gestatten</span> sie<span style="s3"> eine</span> frage</p>
+<p begin="00:01:18.360" end="00:01:23.270" style="s2">oder bemerkung des abgeordneten</p>
+<p begin="00:01:20.460" end="00:01:23.270" style="s2"><span style="s3">selbstverständlich</span></p>
+<p begin="00:01:29.460" end="00:01:34.990" style="s2"><span style="s3">denn</span> ob sie nicht wenn sie<span style="s4"> so eben über</span></p>
+<p begin="00:01:33.220" end="00:01:36.760" style="s2"><span style="s4">die</span> schülerinnen und schüler auf die da</p>
+<p begin="00:01:34.990" end="00:01:38.740" style="s2">auf die straße gehen<span style="s4"> dann nicht</span></p>
+<p begin="00:01:36.760" end="00:01:40.050" style="s2">mitbekommen dass die teilweise sich in</p>
+<p begin="00:01:38.740" end="00:01:42.100" style="s2">der schule mit dem thema</p>
+<p begin="00:01:40.050" end="00:01:44.290" style="s2"><span style="s3">auseinandersetzen dass sie sich</span> in<span style="s4"> den</span></p>
+<p begin="00:01:42.100" end="00:01:46.120" style="s2">familien<span style="s4"> damit auseinandersetzt und dass</span></p>
+<p begin="00:01:44.290" end="00:01:49.090" style="s2">sie teilweise auf einem<span style="s4"> wissenstand</span> im</p>
+<p begin="00:01:46.120" end="00:01:52.940" style="s2">sinn der<span style="s3"> jedenfalls ihrem möglicherweise</span></p>
+<p begin="00:01:49.090" end="00:01:59.210" style="s2">auch ein stück weit überlegen ist</p>
+<p begin="00:01:52.940" end="00:02:02.659" style="s2">[Applaus]</p>
+<p begin="00:01:59.210" end="00:02:02.659" style="s2">nein das glaube ich nicht</p>
+<p begin="00:02:05.090" end="00:02:10.590" style="s2">unzureichende 15 bis<span style="s4"> 75</span><span style="s3"> gigawatt</span> wann</p>
+<p begin="00:02:08.069" end="00:02:12.510" style="s2">sie will wo sie will und wie sie will</p>
+<p begin="00:02:10.590" end="00:02:14.430" style="s2">wer aber die verfügbarkeit von<span style="s3"> wetter</span></p>
+<p begin="00:02:12.510" end="00:02:15.360" style="s2">bingo abhängig macht<span style="s3"> der</span> regiert an den</p>
+<p begin="00:02:14.430" end="00:02:20.700" style="s2">ansprüchen an<span style="s4"> die</span> industrienationen</p>
+<p begin="00:02:15.360" end="00:02:22.410" style="s2"><span style="s3">vorbei</span> und bereits jetzt kann die</p>
+<p begin="00:02:20.700" end="00:02:24.120" style="s2">netzstabilität nur noch durch den</p>
+<p begin="00:02:22.410" end="00:02:25.769" style="s2"><span style="s3">sogenannten last</span><span style="s4"> abwurf</span> dem abschalten</p>
+<p begin="00:02:24.120" end="00:02:26.220" style="s2">von großverbrauchern gewährleistet</p>
+<p begin="00:02:25.769" end="00:02:28.680" style="s2">werden</p>
+<p begin="00:02:26.220" end="00:02:30.510" style="s2"><span style="s4">das</span> wird vergütet<span style="s3"> reicht</span> aber nicht mehr</p>
+<p begin="00:02:28.680" end="00:02:32.120" style="s2">aus um die wirtschaftlichen ausfälle der</p>
+<p begin="00:02:30.510" end="00:02:33.750" style="s2"><span style="s3">abschaltung</span> zu kompensieren</p>
+<p begin="00:02:32.120" end="00:02:35.640" style="s2">liefertermine und projekt meilensteine</p>
+<p begin="00:02:33.750" end="00:02:37.680" style="s2">warten eben nicht darauf<span style="s4"> an</span> wind und</p>
+<p begin="00:02:35.640" end="00:02:40.200" style="s2"><span style="s4">wetter</span> sich<span style="s3"> bequem</span><span style="s4"> in</span><span style="s3"> strom</span> zu</p>
+<p begin="00:02:37.680" end="00:02:41.850" style="s2">produzieren<span style="s3"> und so werden weiter</span></p>
+<p begin="00:02:40.200" end="00:02:43.080" style="s2">unmengen an strom<span style="s3"> planwirtschaftlich</span></p>
+<p begin="00:02:41.850" end="00:02:44.880" style="s2">produziert und von den stromkunden</p>
+<p begin="00:02:43.080" end="00:02:46.530" style="s2"><span style="s4">vergütet</span><span style="s3"> die</span> gar nicht gebraucht werden</p>
+<p begin="00:02:44.880" end="00:02:49.260" style="s2">weil sie auf falschen zeit am falschen</p>
+<p begin="00:02:46.530" end="00:02:51.239" style="s2">ort entstehen durch<span style="s3"> hundertprozentige</span></p>
+<p begin="00:02:49.260" end="00:02:53.430" style="s2">überkapazität werden milliarden</p>
+<p begin="00:02:51.239" end="00:02:56.010" style="s2">kilowattstunden ins ausland verschenkt</p>
+<p begin="00:02:53.430" end="00:02:57.750" style="s2">und gleichzeitig ist unser land auf</p>
+<p begin="00:02:56.010" end="00:03:00.120" style="s2">stromimporte<span style="s4"> formationen mit</span><span style="s3"> einem</span> hohen</p>
+<p begin="00:02:57.750" end="00:03:02.760" style="s2">anteil an<span style="s4"> planbarer</span> kernkraft angewiesen</p>
+<p begin="00:03:00.120" end="00:03:05.280" style="s2"><span style="s4">die</span> importe<span style="s4"> aus</span> frankreich waren in<span style="s4"> 2018</span></p>
+<p begin="00:03:02.760" end="00:03:06.989" style="s2"><span style="s3">fast</span><span style="s4"> sechsmal</span> so hoch wie<span style="s3"> die</span><span style="s4"> im</span> wie die</p>
+<p begin="00:03:05.280" end="00:03:09.570" style="s2">exporte im falle von schweden fast</p>
+<p begin="00:03:06.989" end="00:03:11.280" style="s2"><span style="s3">dreimal</span> so hoch in summe ist die</p>
+<p begin="00:03:09.570" end="00:03:13.799" style="s2">energiewende auf drei ebenen schädlich</p>
+<p begin="00:03:11.280" end="00:03:15.630" style="s2">erstens<span style="s3"> gefährt</span> sie durch verteuerung</p>
+<p begin="00:03:13.799" end="00:03:19.739" style="s2">von energie die wirtschaft und damit den</p>
+<p begin="00:03:15.630" end="00:03:21.030" style="s2">wohlstand des landes<span style="s3"> zum</span> zweiten zum</p>
+<p begin="00:03:19.739" end="00:03:22.739" style="s2">zweiten<span style="s4"> vertieften</span> die kluft<span style="s3"> zwischen</span></p>
+<p begin="00:03:21.030" end="00:03:24.150" style="s2">arm und reich in unserem land dadurch</p>
+<p begin="00:03:22.739" end="00:03:26.430" style="s2"><span style="s3">die</span> umlage eine umverteilung von unten</p>
+<p begin="00:03:24.150" end="00:03:29.010" style="s2">nach oben<span style="s3"> stattfindet</span> zahlen für den</p>
+<p begin="00:03:26.430" end="00:03:30.930" style="s2">teuren strom muss jeder aber nur die</p>
+<p begin="00:03:29.010" end="00:03:33.420" style="s2">mittleren obere schicht kann von den</p>
+<p begin="00:03:30.930" end="00:03:35.040" style="s2"><span style="s3">umverteilungs</span> gewinnen profitieren und</p>
+<p begin="00:03:33.420" end="00:03:36.329" style="s2">in diesem szenario der sozialen</p>
+<p begin="00:03:35.040" end="00:03:37.859" style="s2">spannungen wollen alle fraktionen in</p>
+<p begin="00:03:36.329" end="00:03:39.390" style="s2">diesem haus bis auf die afd</p>
+<p begin="00:03:37.859" end="00:03:40.980" style="s2">den beschäftigten eines ganzen</p>
+<p begin="00:03:39.390" end="00:03:41.760" style="s2">industriezweigs die lebensgrundlage</p>
+<p begin="00:03:40.980" end="00:03:43.650" style="s2">zerstören</p>
+<p begin="00:03:41.760" end="00:03:45.389" style="s2">sie sind es die sich damit als<span style="s3"> die</span></p>
+<p begin="00:03:43.650" end="00:03:46.829" style="s2"><span style="s3">zerstörung des sozialen sozialen</span></p>
+<p begin="00:03:45.389" end="00:03:49.470" style="s2"><span style="s4">zusammenhaltes in deutschland in hofen</span></p>
+<p begin="00:03:46.829" end="00:03:51.000" style="s2"><span style="s4">und drittens wird</span><span style="s3"> die</span> gefährdung<span style="s3"> der</span></p>
+<p begin="00:03:49.470" end="00:03:53.069" style="s2">netzstabilität<span style="s4"> betont</span> die energiewende</p>
+<p begin="00:03:51.000" end="00:03:54.780" style="s2">den inneren frieden im land<span style="s3"> wie</span> ein</p>
+<p begin="00:03:53.069" end="00:03:56.489" style="s2">bereits ältere bericht des bundestages</p>
+<p begin="00:03:54.780" end="00:03:58.019" style="s2"><span style="s3">ausweist</span> hätte ein länger andauernder</p>
+<p begin="00:03:56.489" end="00:03:59.519" style="s2">und<span style="s4"> flächendeckender</span> stromausfall in</p>
+<p begin="00:03:58.019" end="00:04:02.670" style="s2">deutschland katastrophale konsequenzen</p>
+<p begin="00:03:59.519" end="00:04:04.500" style="s2">mit vielen opfern<span style="s3"> durch</span> ihre politik der</p>
+<p begin="00:04:02.670" end="00:04:05.880" style="s2">förderung<span style="s4"> unzuverlässigen zapel stroms</span></p>
+<p begin="00:04:04.500" end="00:04:08.790" style="s2">bevor<span style="s3"> sie</span> die wahrscheinlichkeit</p>
+<p begin="00:04:05.880" end="00:04:11.040" style="s2">einer solchen katastrophe wir stellen</p>
+<p begin="00:04:08.790" end="00:04:13.680" style="s2">also fest die energiewende ist</p>
+<p begin="00:04:11.040" end="00:04:15.330" style="s2">unwirtschaftlich<span style="s3"> unsozial</span> und unsicher</p>
+<p begin="00:04:13.680" end="00:04:17.220" style="s2">sie wird nicht<span style="s3"> zu</span> bezahlbarer</p>
+<p begin="00:04:15.330" end="00:04:17.959" style="s2">verlässlicher und moderne energie für</p>
+<p begin="00:04:17.220" end="00:04:20.430" style="s2">alle</p>
+<p begin="00:04:17.959" end="00:04:22.950" style="s2">mithin ist<span style="s3"> sie</span> auch nicht nachhaltig</p>
+<p begin="00:04:20.430" end="00:04:24.540" style="s2">sondern verletzt sowohl die agenda 20<span style="s3"> 30</span></p>
+<p begin="00:04:22.950" end="00:04:27.290" style="s2"><span style="s4">nationen</span><span style="s3"> als</span> auch die nationale</p>
+<p begin="00:04:24.540" end="00:04:30.300" style="s2">nachhaltigkeitsstrategie<span style="s3"> deutschlands</span></p>
+<p begin="00:04:27.290" end="00:04:31.620" style="s2">aber<span style="s4"> kein</span><span style="s3"> überstrapazieren</span> staatlicher</p>
+<p begin="00:04:30.300" end="00:04:33.270" style="s2"><span style="s4">zwangs</span><span style="s3"> und</span> verteilung wird diese</p>
+<p begin="00:04:31.620" end="00:04:36.240" style="s2">sozialistische energiewende jemals zu</p>
+<p begin="00:04:33.270" end="00:04:37.890" style="s2">einem erfolg machen<span style="s3"> ihre</span> politik treibt</p>
+<p begin="00:04:36.240" end="00:04:40.610" style="s2">unser land<span style="s4"> tief in</span><span style="s3"> die</span> abhängigkeit von</p>
+<p begin="00:04:37.890" end="00:04:42.810" style="s2">gasimporten<span style="s3"> neben</span> gas aus russland</p>
+<p begin="00:04:40.610" end="00:04:44.910" style="s2">müssen<span style="s3"> wir</span> dann gas aus katar und</p>
+<p begin="00:04:42.810" end="00:04:47.100" style="s2"><span style="s3">fracking gas aus amerika</span><span style="s4"> verfeuern stadt</span></p>
+<p begin="00:04:44.910" end="00:04:49.440" style="s2">preiswerter kohle aus der lausitz</p>
+<p begin="00:04:47.100" end="00:04:51.980" style="s2">abhängigkeit erhöht volksvermögen</p>
+<p begin="00:04:49.440" end="00:04:51.980" style="s2">vernichtet</p>
+<p begin="00:04:52.040" end="00:04:55.710" style="s2">diese energiepolitik vernichtet</p>
+<p begin="00:04:54.180" end="00:04:57.330" style="s2">arbeitsplätze zerstört den</p>
+<p begin="00:04:55.710" end="00:04:58.310" style="s2">gesellschaftlichen zusammenhalt und die</p>
+<p begin="00:04:57.330" end="00:05:02.220" style="s2"><span style="s4">veddel menschenleben</span></p>
+<p begin="00:04:58.310" end="00:05:03.960" style="s2">das wall street journal und hier sollten</p>
+<p begin="00:05:02.220" end="00:05:05.730" style="s2">sie aufpassen denn alle fraktionen bis</p>
+<p begin="00:05:03.960" end="00:05:07.590" style="s2">auf die<span style="s4"> afg</span> unterstützen diese politik</p>
+<p begin="00:05:05.730" end="00:05:11.040" style="s2">das wall street journal<span style="s4"> beteiligen</span><span style="s3"> das</span></p>
+<p begin="00:05:07.590" end="00:05:13.910" style="s2">als die dümmste energiepolitik der welt</p>
+<p begin="00:05:11.040" end="00:05:13.910" style="s2">vielen dank</p>
+<p begin="00:05:19.050" end="00:05:26.030" style="s2">jetzt<span style="s3"> kanal</span> abonnieren und nicht</p>
+<p begin="00:05:21.270" end="00:05:26.030" style="s2">vergessen<span style="s3"> wenn nach richtigen aktivieren</span></p>
+</div>
+</body>
+</tt>

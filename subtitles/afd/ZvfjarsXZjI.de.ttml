@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:03.899" style="s2">die heutige aktuelle stunde ist nach</p>
+<p begin="00:00:01.949" end="00:00:06.810" style="s2">überzeugung nach unserer überzeugung</p>
+<p begin="00:00:03.899" end="00:00:07.680" style="s2">weit mehr als eine debatte über busse</p>
+<p begin="00:00:06.810" end="00:00:09.710" style="s2">und bahnen</p>
+<p begin="00:00:07.680" end="00:00:12.929" style="s2">vielmehr geht es um 30 jahre</p>
+<p begin="00:00:09.710" end="00:00:15.000" style="s2">regierungsversagen der altparteien<span style="s3"> 30</span></p>
+<p begin="00:00:12.929" end="00:00:18.210" style="s2">jahre in denen außer der fdp</p>
+<p begin="00:00:15.000" end="00:00:21.750" style="s2">jeder von ihnen schon<span style="s4"> einmal</span> erfolglos</p>
+<p begin="00:00:18.210" end="00:00:24.180" style="s2">versuchen durfte<span style="s3"> 30</span><span style="s4"> drei</span> jahre in denen</p>
+<p begin="00:00:21.750" end="00:00:27.920" style="s2"><span style="s4">eine</span> aber immer mit dabei war die</p>
+<p begin="00:00:24.180" end="00:00:27.920" style="s2">ehemalige volkspartei spd</p>
+<p begin="00:00:28.460" end="00:00:34.710" style="s2">ich gestehe auch ich habe sie einmal</p>
+<p begin="00:00:32.099" end="00:00:38.100" style="s2">gewählt wegen<span style="s3"> ihrer</span> ostpolitik unter</p>
+<p begin="00:00:34.710" end="00:00:38.940" style="s2">willy brandt aber das ist lange sehr</p>
+<p begin="00:00:38.100" end="00:00:41.370" style="s2">lange her</p>
+<p begin="00:00:38.940" end="00:00:43.860" style="s2">heute stehen die sozialdemokraten für</p>
+<p begin="00:00:41.370" end="00:00:45.050" style="s2">professionelles regierungsversagen auf</p>
+<p begin="00:00:43.860" end="00:00:48.000" style="s2">allen ebenen</p>
+<p begin="00:00:45.050" end="00:00:51.600" style="s2">das merkt auch der wähler und stimmt</p>
+<p begin="00:00:48.000" end="00:00:55.289" style="s2">entsprechend ab die folge<span style="s3"> ist natürlich</span></p>
+<p begin="00:00:51.600" end="00:00:57.719" style="s2">bei der sozialdemokratie sozis in angst</p>
+<p begin="00:00:55.289" end="00:00:59.969" style="s2">um ihre mandate und posten werden</p>
+<p begin="00:00:57.719" end="00:01:02.670" style="s2">plötzlich zu<span style="s3"> aufgescheuchten hühnern</span></p>
+<p begin="00:00:59.969" end="00:01:05.519" style="s2">sie fliegen wild durcheinander ohne</p>
+<p begin="00:01:02.670" end="00:01:06.960" style="s2">wirklich<span style="s4"> boden</span> zu gewinnen<span style="s3"> und</span> hatten</p>
+<p begin="00:01:05.519" end="00:01:09.060" style="s2">dann auf den nächsten<span style="s3"> ein</span></p>
+<p begin="00:01:06.960" end="00:01:11.570" style="s2">auf der suche<span style="s4"> nach</span> schuldigen für die</p>
+<p begin="00:01:09.060" end="00:01:13.830" style="s2"><span style="s3">selbstverschuldete</span> misere</p>
+<p begin="00:01:11.570" end="00:01:16.560" style="s2">da ist einmal die<span style="s3"> afd</span></p>
+<p begin="00:01:13.830" end="00:01:19.049" style="s2">die dann im internet live stream von der</p>
+<p begin="00:01:16.560" end="00:01:21.240" style="s2">letzten klausurtagung der spd fraktion</p>
+<p begin="00:01:19.049" end="00:01:25.170" style="s2">von ihnen herr<span style="s4"> sah leser sind jetzt</span></p>
+<p begin="00:01:21.240" end="00:01:27.390" style="s2">gerade draußen<span style="s4"> in</span><span style="s3"> widerlicher ns sprache</span></p>
+<p begin="00:01:25.170" end="00:01:30.329" style="s2">aufgefordert wird in<span style="s4"> ihre raten löcher</span></p>
+<p begin="00:01:27.390" end="00:01:32.460" style="s2"><span style="s3">zurückzukehren als geschichts</span></p>
+<p begin="00:01:30.329" end="00:01:34.710" style="s2">beflissener<span style="s4"> spd politiker sollte herr</span></p>
+<p begin="00:01:32.460" end="00:01:36.930" style="s2"><span style="s4">sali</span> eigentlich wissen dass<span style="s3"> der</span> ratten</p>
+<p begin="00:01:34.710" end="00:01:40.650" style="s2">vergleich aus dem<span style="s3"> antisemitischen</span><span style="s4"> ns</span></p>
+<p begin="00:01:36.930" end="00:01:43.020" style="s2">machwerk der ewige jude stammt oder<span style="s4"> frau</span></p>
+<p begin="00:01:40.650" end="00:01:45.119" style="s2"><span style="s3">twitter</span> staatssekretärin<span style="s4"> chili</span> die die</p>
+<p begin="00:01:43.020" end="00:01:47.399" style="s2"><span style="s3">berüchtigte</span><span style="s4"> wannseekonferenz</span><span style="s3"> also</span> die</p>
+<p begin="00:01:45.119" end="00:01:50.189" style="s2">planung des industriellen<span style="s3"> massenmordes</span></p>
+<p begin="00:01:47.399" end="00:01:51.509" style="s2">an<span style="s3"> juden</span> zur diskreditierung der<span style="s3"> afg</span></p>
+<p begin="00:01:50.189" end="00:01:54.689" style="s2">übrigens<span style="s4"> ihren</span> politischen</p>
+<p begin="00:01:51.509" end="00:01:56.430" style="s2">lieblingsfeind instrumentalisiert da</p>
+<p begin="00:01:54.689" end="00:01:58.969" style="s2">stellt sich mir die frage wer angesichts</p>
+<p begin="00:01:56.430" end="00:02:01.079" style="s2">solcher latent<span style="s4"> antisemitischer</span> ausfälle</p>
+<p begin="00:01:58.969" end="00:02:03.979" style="s2"><span style="s3">eigentlich</span> der echte prüfung für den</p>
+<p begin="00:02:01.079" end="00:02:03.979" style="s2">verfassungsschutz ist</p>
+<p begin="00:02:06.130" end="00:02:12.730" style="s2">aber auch andere haben die zweifelhafte</p>
+<p begin="00:02:10.149" end="00:02:14.080" style="s2">ehre ziel ihrer kreativen<span style="s3"> verantwortungs</span></p>
+<p begin="00:02:12.730" end="00:02:17.050" style="s2">verschiebungen zu werden</p>
+<p begin="00:02:14.080" end="00:02:17.560" style="s2">diese woche war<span style="s4"> bvg chefin nikutta an</span></p>
+<p begin="00:02:17.050" end="00:02:20.800" style="s2">der reihe</p>
+<p begin="00:02:17.560" end="00:02:23.140" style="s2">in luzern hat wurde sie zum rapport</p>
+<p begin="00:02:20.800" end="00:02:25.050" style="s2">bestellt obwohl sich selbst kaum für</p>
+<p begin="00:02:23.140" end="00:02:27.540" style="s2">jahrzehnte verfehlte verkehrspolitik</p>
+<p begin="00:02:25.050" end="00:02:30.220" style="s2">verantwortlich gemacht werden kann</p>
+<p begin="00:02:27.540" end="00:02:32.680" style="s2">durch all diese aktion wird aber nichts</p>
+<p begin="00:02:30.220" end="00:02:33.250" style="s2">besser<span style="s3"> die</span> menschen<span style="s4"> wählen</span> sie<span style="s4"> weiterhin</span></p>
+<p begin="00:02:32.680" end="00:02:35.590" style="s2"><span style="s3">nicht</span></p>
+<p begin="00:02:33.250" end="00:02:37.900" style="s2">und die bvg ist auch morgen nicht in der</p>
+<p begin="00:02:35.590" end="00:02:40.150" style="s2">lage ihren auftrag zu erfüllen</p>
+<p begin="00:02:37.900" end="00:02:42.730" style="s2">auch<span style="s4"> wenn</span> das von grüner seite immer</p>
+<p begin="00:02:40.150" end="00:02:45.130" style="s2">wieder behauptet wird<span style="s3"> neue</span><span style="s4"> u-bahn</span> oder</p>
+<p begin="00:02:42.730" end="00:02:48.069" style="s2"><span style="s4">zusätzliche</span><span style="s3"> busfahrer</span> kann<span style="s3"> man</span> nicht</p>
+<p begin="00:02:45.130" end="00:02:53.080" style="s2">herbeibomben oder am senats tisch</p>
+<p begin="00:02:48.069" end="00:02:55.180" style="s2">beschließen<span style="s3"> die</span> einzige reale messbare</p>
+<p begin="00:02:53.080" end="00:02:57.610" style="s2">wirkung die die sozialdemokraten mit</p>
+<p begin="00:02:55.180" end="00:02:59.230" style="s2">ihrer<span style="s3"> verzweiflung</span> politik erzielen ist</p>
+<p begin="00:02:57.610" end="00:03:04.150" style="s2">die spaltung der gesellschaft</p>
+<p begin="00:02:59.230" end="00:03:07.329" style="s2">sie treibe einen keil zwischen politik</p>
+<p begin="00:03:04.150" end="00:03:10.600" style="s2">bürgern<span style="s3"> zwischen senat und unternehmen</span></p>
+<p begin="00:03:07.329" end="00:03:12.430" style="s2">sie<span style="s3"> hinterlasse</span> verbrannte erde<span style="s3"> wie</span> eine</p>
+<p begin="00:03:10.600" end="00:03:13.090" style="s2">geschlagene<span style="s3"> verbitterter</span> armee auf dem</p>
+<p begin="00:03:12.430" end="00:03:15.370" style="s2">rückzug</p>
+<p begin="00:03:13.090" end="00:03:17.200" style="s2">sogar mit behinderungen wurde schon</p>
+<p begin="00:03:15.370" end="00:03:19.920" style="s2">begonnen nur<span style="s3"> heißen</span> sie heute</p>
+<p begin="00:03:17.200" end="00:03:19.920" style="s2">enteignungen</p>
+<p begin="00:03:22.190" end="00:03:26.970" style="s2">meine damen und herren die folgen dieser</p>
+<p begin="00:03:24.569" end="00:03:27.900" style="s2">verbrannte erde politik sind schon heute</p>
+<p begin="00:03:26.970" end="00:03:30.209" style="s2">spürbar</p>
+<p begin="00:03:27.900" end="00:03:31.940" style="s2">im dritten jahr von rot rot grün sind</p>
+<p begin="00:03:30.209" end="00:03:34.319" style="s2">die berliner nur noch pessimistisch</p>
+<p begin="00:03:31.940" end="00:03:36.540" style="s2">jedem ist<span style="s3"> klar</span> dass die rückkehr zur</p>
+<p begin="00:03:34.319" end="00:03:38.549" style="s2">wohnungspolitik der ddr<span style="s4"> kein</span><span style="s3"> wohnraum</span></p>
+<p begin="00:03:36.540" end="00:03:40.849" style="s2">schafft und<span style="s4"> in</span> der kompletten</p>
+<p begin="00:03:38.549" end="00:03:44.150" style="s2">verwahrlosung unserer stadt enden muss</p>
+<p begin="00:03:40.849" end="00:03:48.120" style="s2">und diese stimmung ist messbar</p>
+<p begin="00:03:44.150" end="00:03:50.370" style="s2">konkret und aktuell im dezember<span style="s3"> 2018</span></p>
+<p begin="00:03:48.120" end="00:03:52.319" style="s2">haben wir das institut nach den</p>
+<p begin="00:03:50.370" end="00:03:53.430" style="s2">zukunftsaussichten der bürger unserer</p>
+<p begin="00:03:52.319" end="00:03:56.970" style="s2">stadt fragen lassen</p>
+<p begin="00:03:53.430" end="00:03:58.799" style="s2">die<span style="s3"> ergebnisse</span> sind ernüchternd<span style="s3"> nur</span> noch</p>
+<p begin="00:03:56.970" end="00:04:00.359" style="s2">ein viertel der berliner glaubt dass</p>
+<p begin="00:03:58.799" end="00:04:01.319" style="s2">unsere stadt für die zukunft gut</p>
+<p begin="00:04:00.359" end="00:04:04.829" style="s2">gerüstet ist</p>
+<p begin="00:04:01.319" end="00:04:07.980" style="s2">fast 60 prozent halten dies für eine</p>
+<p begin="00:04:04.829" end="00:04:09.900" style="s2">unerreichbare illusion frauen sind</p>
+<p begin="00:04:07.980" end="00:04:11.430" style="s2">übrigens noch skeptischer oder man</p>
+<p begin="00:04:09.900" end="00:04:12.000" style="s2">könnte auch sagen realistischer als</p>
+<p begin="00:04:11.430" end="00:04:14.489" style="s2">männer</p>
+<p begin="00:04:12.000" end="00:04:15.750" style="s2">wir haben<span style="s4"> immer auch</span><span style="s3"> fragen</span><span style="s4"> lassen wie</span></p>
+<p begin="00:04:14.489" end="00:04:17.519" style="s2">die berliner die lage zu den</p>
+<p begin="00:04:15.750" end="00:04:21.199" style="s2">verschiedenen bereichen des menschlichen</p>
+<p begin="00:04:17.519" end="00:04:24.210" style="s2">zusammenlebens in zehn jahren<span style="s4"> einschätzt</span></p>
+<p begin="00:04:21.199" end="00:04:26.039" style="s2"><span style="s4">wird</span><span style="s3"> die lage dann besser schlechter</span></p>
+<p begin="00:04:24.210" end="00:04:27.900" style="s2"><span style="s3">oder</span> gleich sein</p>
+<p begin="00:04:26.039" end="00:04:30.900" style="s2">auch hier gab es erschütternde</p>
+<p begin="00:04:27.900" end="00:04:34.289" style="s2">ergebnisse<span style="s3"> eine</span> direkte folge rot rot</p>
+<p begin="00:04:30.900" end="00:04:36.300" style="s2">grüner politik 72 prozent der berliner</p>
+<p begin="00:04:34.289" end="00:04:39.210" style="s2">sagen die lage auf dem wohnungsmarkt</p>
+<p begin="00:04:36.300" end="00:04:41.630" style="s2">wird sich in<span style="s3"> zehn</span> jahren verschlechtern</p>
+<p begin="00:04:39.210" end="00:04:44.460" style="s2">wird schlechter sein als heute</p>
+<p begin="00:04:41.630" end="00:04:47.180" style="s2">66<span style="s4"> prozent</span> erwarten eine</p>
+<p begin="00:04:44.460" end="00:04:50.130" style="s2">verschlechterung beim verkehr</p>
+<p begin="00:04:47.180" end="00:04:51.599" style="s2">61 prozent<span style="s3"> erwarten</span> weniger sozialen</p>
+<p begin="00:04:50.130" end="00:04:54.479" style="s2">zusammenhalt als heute</p>
+<p begin="00:04:51.599" end="00:04:56.720" style="s2">und 57<span style="s4"> prozent</span> erwarten weniger</p>
+<p begin="00:04:54.479" end="00:04:59.849" style="s2">sicherheit und mehr kriminalität</p>
+<p begin="00:04:56.720" end="00:05:01.620" style="s2">meine damen<span style="s4"> und</span> herren der senat und sie</p>
+<p begin="00:04:59.849" end="00:05:03.930" style="s2"><span style="s4">herr müller vermitteln keine</span></p>
+<p begin="00:05:01.620" end="00:05:07.800" style="s2">aufbruchstimmung sie bleiben auch im</p>
+<p begin="00:05:03.930" end="00:05:09.690" style="s2">dritten jahr unbeliebt und ungeliebt<span style="s3"> die</span></p>
+<p begin="00:05:07.800" end="00:05:12.930" style="s2">ganze propaganda von der angeblich</p>
+<p begin="00:05:09.690" end="00:05:15.599" style="s2">offenen zukunftsorientierten und<span style="s4"> fairen</span></p>
+<p begin="00:05:12.930" end="00:05:17.370" style="s2"><span style="s4">stadt prallt</span><span style="s3"> an</span> den erfahrungen die die</p>
+<p begin="00:05:15.599" end="00:05:17.849" style="s2">berliner tag für<span style="s4"> tag</span><span style="s3"> in</span> ihrer stadt</p>
+<p begin="00:05:17.370" end="00:05:21.720" style="s2">machen</p>
+<p begin="00:05:17.849" end="00:05:23.970" style="s2">in der u- und<span style="s3"> s-bahn</span> in den schulen<span style="s4"> in</span></p>
+<p begin="00:05:21.720" end="00:05:26.370" style="s2">kontakt<span style="s4"> mit</span> der verwaltung in der</p>
+<p begin="00:05:23.970" end="00:05:28.710" style="s2">notaufnahme der krankenhäuser in den</p>
+<p begin="00:05:26.370" end="00:05:29.750" style="s2">staus auf den straßen oder bei der</p>
+<p begin="00:05:28.710" end="00:05:32.860" style="s2">wohnungssuche</p>
+<p begin="00:05:29.750" end="00:05:34.919" style="s2">hier kommt einiges zusammen</p>
+<p begin="00:05:32.860" end="00:05:37.659" style="s2">die unzufriedenheit mit dem status quo</p>
+<p begin="00:05:34.919" end="00:05:40.419" style="s2"><span style="s3">die</span> sorge um die zukunft unseres landes</p>
+<p begin="00:05:37.659" end="00:05:42.520" style="s2">und unserer stadt<span style="s3"> das</span> mangelnde</p>
+<p begin="00:05:40.419" end="00:05:44.409" style="s2">vertrauen in die fähigkeit der</p>
+<p begin="00:05:42.520" end="00:05:45.210" style="s2">altparteien die tränken probleme zu</p>
+<p begin="00:05:44.409" end="00:05:48.009" style="s2">lösen</p>
+<p begin="00:05:45.210" end="00:05:51.819" style="s2">alles zusammen macht die verlierer</p>
+<p begin="00:05:48.009" end="00:05:55.210" style="s2">partei spd verzagt unberechenbar und</p>
+<p begin="00:05:51.819" end="00:05:58.270" style="s2">aggressiv<span style="s3"> und</span> wir bekommen es ab frau</p>
+<p begin="00:05:55.210" end="00:06:00.370" style="s2">sigrid nikutta und die<span style="s3"> afg</span> sind aber nur</p>
+<p begin="00:05:58.270" end="00:06:02.889" style="s2">zwei von vielen bei denen sie die schuld</p>
+<p begin="00:06:00.370" end="00:06:04.680" style="s2">für den eigenen niedergang suchen aber</p>
+<p begin="00:06:02.889" end="00:06:07.860" style="s2">niemals finden werden</p>
+<p begin="00:06:04.680" end="00:06:12.099" style="s2">denn dafür bräuchten sie ein spiegel</p>
+<p begin="00:06:07.860" end="00:06:14.409" style="s2">dessen benutzung wird<span style="s3"> er</span> aber dessen</p>
+<p begin="00:06:12.099" end="00:06:16.900" style="s2"><span style="s3">benutzung würde aber von der politischen</span></p>
+<p begin="00:06:14.409" end="00:06:20.169" style="s2">linken in deutschland konsequent</p>
+<p begin="00:06:16.900" end="00:06:23.259" style="s2">verlernt aber wir alle wissen<span style="s3"> nach dem</span></p>
+<p begin="00:06:20.169" end="00:06:25.150" style="s2"><span style="s3">hochmut</span><span style="s4"> kommt</span><span style="s3"> der</span> fall<span style="s3"> unausweichlich</span></p>
+<p begin="00:06:23.259" end="00:06:28.479" style="s2">meine damen und herren die</p>
+<p begin="00:06:25.150" end="00:06:30.039" style="s2">meinungsforscher von<span style="s3"> ebay</span><span style="s4"> setzen</span> hier</p>
+<p begin="00:06:28.479" end="00:06:32.889" style="s2">noch einen drauf und stellten diese</p>
+<p begin="00:06:30.039" end="00:06:35.529" style="s2">woche zusätzlich fest bürger<span style="s4"> sähen</span> keine</p>
+<p begin="00:06:32.889" end="00:06:36.180" style="s2">klare kompetenz bei der spd<span style="s4"> sprechen</span></p>
+<p begin="00:06:35.529" end="00:06:38.529" style="s2">bedienen</p>
+<p begin="00:06:36.180" end="00:06:40.810" style="s2"><span style="s3">und</span> weiter heißt es mit blick auf die</p>
+<p begin="00:06:38.529" end="00:06:43.180" style="s2">kommenden europawahlen die die meisten</p>
+<p begin="00:06:40.810" end="00:06:46.839" style="s2"><span style="s4">all</span><span style="s3"> parteien inzwischen fürchten wie die</span></p>
+<p begin="00:06:43.180" end="00:06:49.750" style="s2">pest nur 13,2 prozent der befragten</p>
+<p begin="00:06:46.839" end="00:06:52.300" style="s2">sehen bei der<span style="s4"> europapolitik</span><span style="s3"> die</span> größte</p>
+<p begin="00:06:49.750" end="00:06:57.389" style="s2">kompetenz bei der spd damit liegt die</p>
+<p begin="00:06:52.300" end="00:06:57.389" style="s2">spd auch hier bereits hinter der afd</p>
+<p begin="00:06:58.169" end="00:07:01.680" style="s2">vielleicht</p>
+<p begin="00:06:59.670" end="00:07:05.310" style="s2">vielleicht ein letzter nebeneffekt des</p>
+<p begin="00:07:01.680" end="00:07:07.290" style="s2"><span style="s3">zuges</span> wer<span style="s3"> weiß in jedem fall kann man da</span></p>
+<p begin="00:07:05.310" end="00:07:09.630" style="s2">als sie schon ein bisschen in panik</p>
+<p begin="00:07:07.290" end="00:07:12.210" style="s2">geraten und die neigung<span style="s3"> ausleben</span> sich</p>
+<p begin="00:07:09.630" end="00:07:14.460" style="s2">wie immer alles schön zu reden<span style="s4"> solange</span></p>
+<p begin="00:07:12.210" end="00:07:16.080" style="s2"><span style="s4">es</span><span style="s3"> irgendwie</span> geht nur eines<span style="s3"> gerät</span><span style="s4"> an</span></p>
+<p begin="00:07:14.460" end="00:07:18.060" style="s2"><span style="s3">zwangsläufig</span> ins hintertreffen</p>
+<p begin="00:07:16.080" end="00:07:20.760" style="s2">die einsicht und der wille zur</p>
+<p begin="00:07:18.060" end="00:07:23.280" style="s2">veränderung den gibt es nur bei der afd</p>
+<p begin="00:07:20.760" end="00:07:25.290" style="s2">alle anderen parteien<span style="s4"> schwören</span> weiter</p>
+<p begin="00:07:23.280" end="00:07:27.180" style="s2">auf die einheitsfront ohne dass sie</p>
+<p begin="00:07:25.290" end="00:07:28.470" style="s2">bereit wären irgendetwas an ihrer</p>
+<p begin="00:07:27.180" end="00:07:29.970" style="s2">politik zu ändern</p>
+<p begin="00:07:28.470" end="00:07:33.090" style="s2"><span style="s3">ein kollege</span><span style="s4"> stoppt sofort sind</span></p>
+<p begin="00:07:29.970" end="00:07:35.370" style="s2"><span style="s4">dazwischen formel 1 1</span><span style="s3"> lasse ich nicht zu</span></p>
+<p begin="00:07:33.090" end="00:07:36.510" style="s2">es könnte ja auch ihr eigenes bequemes</p>
+<p begin="00:07:35.370" end="00:07:38.670" style="s2">leben verändern</p>
+<p begin="00:07:36.510" end="00:07:40.380" style="s2">schauen wir zum beispiel lieber<span style="s3"> spd</span> auf</p>
+<p begin="00:07:38.670" end="00:07:42.480" style="s2">den tagungsort ihrer zu beginn meiner</p>
+<p begin="00:07:40.380" end="00:07:45.420" style="s2">ausführungen bereits erwähnten</p>
+<p begin="00:07:42.480" end="00:07:47.820" style="s2">klausurtagung die mit dem nazi<span style="s4"> sprecher</span></p>
+<p begin="00:07:45.420" end="00:07:50.070" style="s2">von herrn<span style="s4"> sara lee sie haben sich</span></p>
+<p begin="00:07:47.820" end="00:07:53.850" style="s2">getroffen in der yachthafenresidenz hohe</p>
+<p begin="00:07:50.070" end="00:07:55.740" style="s2">düne in warnemünde dieser tagungsort</p>
+<p begin="00:07:53.850" end="00:07:57.120" style="s2">zeigt überdeutlich warum die spd schon</p>
+<p begin="00:07:55.740" end="00:08:03.440" style="s2">lange nicht mehr die partei der kleinen</p>
+<p begin="00:07:57.120" end="00:08:06.120" style="s2">leute ist die genossen die genossen</p>
+<p begin="00:08:03.440" end="00:08:09.720" style="s2">diskutierten in einem laut eigener</p>
+<p begin="00:08:06.120" end="00:08:14.210" style="s2">internetseite exklusiven<span style="s4"> 5 sterne hotel</span></p>
+<p begin="00:08:09.720" end="00:08:17.460" style="s2"><span style="s4">mit michelin stern</span> restaurant<span style="s4"> fünf bares</span></p>
+<p begin="00:08:14.210" end="00:08:21.930" style="s2">preisgekrönten spa exklusiver wellness</p>
+<p begin="00:08:17.460" end="00:08:24.110" style="s2">oase und marmor badezimmern<span style="s4"> wie</span> wie</p>
+<p begin="00:08:21.930" end="00:08:27.330" style="s2">dürfen wir uns das eigentlich vorstellen</p>
+<p begin="00:08:24.110" end="00:08:29.190" style="s2">wenn sie im luxus schwelgen versuchen</p>
+<p begin="00:08:27.330" end="00:08:31.650" style="s2">sie in feucht fröhlichen debattierenden</p>
+<p begin="00:08:29.190" end="00:08:34.550" style="s2">perspektiven zu erfinden für marode</p>
+<p begin="00:08:31.650" end="00:08:36.600" style="s2">schulen schimmlige<span style="s3"> polizeiwachen</span> und</p>
+<p begin="00:08:34.550" end="00:08:39.630" style="s2"><span style="s3">überlastete</span> behörden in denen der putz</p>
+<p begin="00:08:36.600" end="00:08:41.900" style="s2">von der decke fällt bei ihrem luxus</p>
+<p begin="00:08:39.630" end="00:08:44.550" style="s2">ausflug nach warnemünde haben sie pro</p>
+<p begin="00:08:41.900" end="00:08:45.630" style="s2">abgeordneten steuergelder in höhe des</p>
+<p begin="00:08:44.550" end="00:08:48.450" style="s2">monats verdienstes eines</p>
+<p begin="00:08:45.630" end="00:08:50.510" style="s2">durchschnittlichen arbeitslos oder</p>
+<p begin="00:08:48.450" end="00:08:53.310" style="s2"><span style="s4">arbeiters</span> verpasst</p>
+<p begin="00:08:50.510" end="00:08:56.400" style="s2">ferdinand<span style="s4"> lassalle</span> und august bebel</p>
+<p begin="00:08:53.310" end="00:08:57.990" style="s2"><span style="s3">würden</span> sich im grabe umdrehen wenn sie</p>
+<p begin="00:08:56.400" end="00:09:02.180" style="s2">wüssten was aus ihrer ehemaligen</p>
+<p begin="00:08:57.990" end="00:09:02.180" style="s2">arbeiterpartei spd geworden ist</p>
+<p begin="00:09:03.320" end="00:09:10.320" style="s2">das lässt eine diagnose zu absoluter</p>
+<p begin="00:09:07.560" end="00:09:11.820" style="s2">realitätsverlust bei der spd<span style="s4"> in</span> diese</p>
+<p begin="00:09:10.320" end="00:09:15.029" style="s2">schublade gehört letztlich auch der</p>
+<p begin="00:09:11.820" end="00:09:18.440" style="s2">umgang mit der<span style="s4"> bvg</span> jahrzehntelang kürzen</p>
+<p begin="00:09:15.029" end="00:09:21.120" style="s2">kürzen kürzen und sich dann über die</p>
+<p begin="00:09:18.440" end="00:09:23.750" style="s2">unternehmensführung personalmangel und</p>
+<p begin="00:09:21.120" end="00:09:25.970" style="s2">fehlende züge<span style="s4"> auf regen</span></p>
+<p begin="00:09:23.750" end="00:09:28.770" style="s2">meine damen und herren</p>
+<p begin="00:09:25.970" end="00:09:29.640" style="s2"><span style="s3">verantwortungsloser</span> und absurder geht es</p>
+<p begin="00:09:28.770" end="00:09:31.680" style="s2">wirklich nicht</p>
+<p begin="00:09:29.640" end="00:09:35.020" style="s2">vielen dank für ihre aufmerksamkeit</p>
+<p begin="00:09:31.680" end="00:09:35.020" style="s2">[Applaus]</p>
+</div>
+</body>
+</tt>

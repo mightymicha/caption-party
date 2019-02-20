@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:06.690" style="s2">herr präsident liebe kollegen<span style="s3"> wer die</span></p>
+<p begin="00:00:03.929" end="00:00:08.460" style="s2"><span style="s4">gäste</span> auf den rängen organspenden in</p>
+<p begin="00:00:06.690" end="00:00:11.940" style="s2">deutschland reichen nicht</p>
+<p begin="00:00:08.460" end="00:00:14.940" style="s2"><span style="s4">seit 2012 bis heute ist die zahl der</span></p>
+<p begin="00:00:11.940" end="00:00:16.590" style="s2"><span style="s3">organspender zurückgegangen deshalb</span></p>
+<p begin="00:00:14.940" end="00:00:18.060" style="s2">finden wir einen gesetzentwurf der</p>
+<p begin="00:00:16.590" end="00:00:20.640" style="s2">bundesregierung zur änderung des</p>
+<p begin="00:00:18.060" end="00:00:21.510" style="s2">transplantationsgesetzes zunächst eine</p>
+<p begin="00:00:20.640" end="00:00:23.340" style="s2">sehr gute idee</p>
+<p begin="00:00:21.510" end="00:00:25.580" style="s2">speziell die verbesserung der</p>
+<p begin="00:00:23.340" end="00:00:27.359" style="s2">zusammenarbeit und die stärkung der</p>
+<p begin="00:00:25.580" end="00:00:30.390" style="s2">transplantationsbeauftragten in der</p>
+<p begin="00:00:27.359" end="00:00:34.200" style="s2">opposition sind in der tat die richtigen</p>
+<p begin="00:00:30.390" end="00:00:36.450" style="s2">hebel<span style="s3"> aber wenn man etwas macht dann</span></p>
+<p begin="00:00:34.200" end="00:00:38.309" style="s2">sollte man es auch gut machen und vor</p>
+<p begin="00:00:36.450" end="00:00:40.800" style="s2">allem zu ende diskutiert haben</p>
+<p begin="00:00:38.309" end="00:00:43.079" style="s2">das<span style="s4"> ziel</span> muss eine lösung sein die<span style="s4"> den</span></p>
+<p begin="00:00:40.800" end="00:00:46.350" style="s2">menschen in unserem land das vertrauen</p>
+<p begin="00:00:43.079" end="00:00:49.710" style="s2">in die institutionen wieder<span style="s3"> zurückgibt</span></p>
+<p begin="00:00:46.350" end="00:00:51.870" style="s2">eine<span style="s3"> vertrauens-</span> lösung gewissermaßen</p>
+<p begin="00:00:49.710" end="00:00:54.809" style="s2">ansonsten wird man mit dem gesetz eher</p>
+<p begin="00:00:51.870" end="00:00:57.390" style="s2">das gegenteil bewirken nämlich<span style="s3"> weniger</span></p>
+<p begin="00:00:54.809" end="00:00:59.190" style="s2">organspendebereitschaft<span style="s4"> und</span><span style="s3"> das</span> meine</p>
+<p begin="00:00:57.390" end="00:01:02.100" style="s2">damen<span style="s3"> und</span> herren wäre tatsächlich</p>
+<p begin="00:00:59.190" end="00:01:04.080" style="s2">verteilt<span style="s4"> die</span></p>
+<p begin="00:01:02.100" end="00:01:06.210" style="s2">transplantationsbeauftragten erhalten</p>
+<p begin="00:01:04.080" end="00:01:08.700" style="s2">weitreichende kompetenzen durch das</p>
+<p begin="00:01:06.210" end="00:01:11.520" style="s2">gesetz<span style="s4"> so weit so gut was sie</span> allerdings</p>
+<p begin="00:01:08.700" end="00:01:14.490" style="s2">nicht beachtet haben ist<span style="s4"> das</span> nur durch</p>
+<p begin="00:01:11.520" end="00:01:16.049" style="s2">ein strenges bundesweit einheitliches</p>
+<p begin="00:01:14.490" end="00:01:18.350" style="s2"><span style="s4">ausbildungs</span> curriculum der</p>
+<p begin="00:01:16.049" end="00:01:21.259" style="s2">bundesärztekammer<span style="s3"> die</span> notwendige</p>
+<p begin="00:01:18.350" end="00:01:23.250" style="s2">qualitätssicherung erreicht werden kann</p>
+<p begin="00:01:21.259" end="00:01:26.060" style="s2">das sollte allerdings mit einer</p>
+<p begin="00:01:23.250" end="00:01:29.450" style="s2">entsprechenden fachlichen und ethischen</p>
+<p begin="00:01:26.060" end="00:01:31.140" style="s2">eignungsprüfung von den zukünftigen</p>
+<p begin="00:01:29.450" end="00:01:34.310" style="s2">transplantationsbeauftragten unter</p>
+<p begin="00:01:31.140" end="00:01:36.750" style="s2">beweis gestellt werden</p>
+<p begin="00:01:34.310" end="00:01:38.659" style="s2">ansonsten mit voller<span style="s4"> bereichen</span> sie nur</p>
+<p begin="00:01:36.750" end="00:01:41.479" style="s2">chaos</p>
+<p begin="00:01:38.659" end="00:01:42.479" style="s2">wir möchten bemängeln<span style="s4"> dass</span></p>
+<p begin="00:01:41.479" end="00:01:44.610" style="s2">transplantationsbeauftragte</p>
+<p begin="00:01:42.479" end="00:01:46.500" style="s2">selbstständig eigene verfahrensabläufe</p>
+<p begin="00:01:44.610" end="00:01:48.420" style="s2"><span style="s3">zu organentnahmen der klinik erstellen</span></p>
+<p begin="00:01:46.500" end="00:01:51.780" style="s2">können in<span style="s4"> deutschland</span> sind derzeit</p>
+<p begin="00:01:48.420" end="00:01:52.590" style="s2"><span style="s4">mindestens</span><span style="s3"> 1306</span> einnahmemöglichkeiten</p>
+<p begin="00:01:51.780" end="00:01:56.290" style="s2">verfügbar</p>
+<p begin="00:01:52.590" end="00:01:59.470" style="s2">wollen sie allen ernstes riskieren</p>
+<p begin="00:01:56.290" end="00:02:02.600" style="s2">1306 verfahrensweisen<span style="s4"> zur</span> organentnahme</p>
+<p begin="00:01:59.470" end="00:02:04.869" style="s2"><span style="s4">einzeln irgendwie</span><span style="s3"> handeln</span> zu<span style="s3"> müssen</span></p>
+<p begin="00:02:02.600" end="00:02:06.409" style="s2">was ist denn<span style="s4"> wenn</span> ein</p>
+<p begin="00:02:04.869" end="00:02:07.940" style="s2">transplantationsbeauftragter vertreten</p>
+<p begin="00:02:06.409" end="00:02:09.590" style="s2">werden muss vielleicht von einem</p>
+<p begin="00:02:07.940" end="00:02:11.630" style="s2">kollegen aus einem ganz anderen teil von</p>
+<p begin="00:02:09.590" end="00:02:13.640" style="s2">deutschland<span style="s3"> wird an das</span><span style="s4"> selbst</span></p>
+<p begin="00:02:11.630" end="00:02:16.340" style="s2"><span style="s3">installiertes</span> system<span style="s4"> der organentnahme</span></p>
+<p begin="00:02:13.640" end="00:02:18.980" style="s2">von der<span style="s4"> vorbereitung</span> bis zur betreuung</p>
+<p begin="00:02:16.340" end="00:02:21.290" style="s2">der hinterbliebenen dann etwa von einem</p>
+<p begin="00:02:18.980" end="00:02:23.959" style="s2">tag zum anderen komplett umgekrempelt</p>
+<p begin="00:02:21.290" end="00:02:26.480" style="s2">oder<span style="s4"> schlimmer</span> noch<span style="s3"> sollten</span> ein</p>
+<p begin="00:02:23.959" end="00:02:29.269" style="s2">vertreter im eigenen haus der nach ihrem</p>
+<p begin="00:02:26.480" end="00:02:31.550" style="s2">vorschlag noch nicht einmal<span style="s3"> arzt</span> sein</p>
+<p begin="00:02:29.269" end="00:02:35.120" style="s2">muss die verantwortung dieses zu</p>
+<p begin="00:02:31.550" end="00:02:41.870" style="s2"><span style="s4">hochsensiblen</span><span style="s3"> prozedere</span> übernehmen nein</p>
+<p begin="00:02:35.120" end="00:02:43.790" style="s2">nein und nochmals nein<span style="s4"> sollte</span> man<span style="s4"> nicht</span></p>
+<p begin="00:02:41.870" end="00:02:46.489" style="s2">auch gerade hier bei der so massiven</p>
+<p begin="00:02:43.790" end="00:02:48.769" style="s2">erweiterung der<span style="s3"> privilegien</span> privilegien</p>
+<p begin="00:02:46.489" end="00:02:51.190" style="s2">der transplantationsbeauftragten nicht</p>
+<p begin="00:02:48.769" end="00:02:53.900" style="s2">auch bestimmte verhaltensregeln und</p>
+<p begin="00:02:51.190" end="00:02:56.480" style="s2"><span style="s3">verpflichtung</span> juristisch verankert</p>
+<p begin="00:02:53.900" end="00:02:59.810" style="s2">abverlangt wir denken dass dies</p>
+<p begin="00:02:56.480" end="00:03:01.970" style="s2">unumgänglich ist schaffen sie bitte eine</p>
+<p begin="00:02:59.810" end="00:03:04.579" style="s2">bundeseinheitliche richtlinie die im</p>
+<p begin="00:03:01.970" end="00:03:06.430" style="s2">einzelnen die zugeständnisse zu ständig</p>
+<p begin="00:03:04.579" end="00:03:08.510" style="s2"><span style="s3">keiten</span> sowie<span style="s3"> handlungs</span> und</p>
+<p begin="00:03:06.430" end="00:03:11.420" style="s2">prozessabläufe in entnahme kliniken</p>
+<p begin="00:03:08.510" end="00:03:14.470" style="s2"><span style="s4">festlegt</span> ein<span style="s3"> qualitätsmanagementsystem</span></p>
+<p begin="00:03:11.420" end="00:03:17.209" style="s2">für die prozessablauf der organspende</p>
+<p begin="00:03:14.470" end="00:03:20.630" style="s2">verbindlich für alle entnahme kliniken</p>
+<p begin="00:03:17.209" end="00:03:22.480" style="s2">und transplantationszentren<span style="s3"> dass</span> meine</p>
+<p begin="00:03:20.630" end="00:03:25.480" style="s2"><span style="s3">damen</span> und herren schafft vertrauen und</p>
+<p begin="00:03:22.480" end="00:03:25.480" style="s2">kontinuität</p>
+<p begin="00:03:27.710" end="00:03:33.170" style="s2">aber last<span style="s3"> but</span> not least erkennen sie</p>
+<p begin="00:03:30.350" end="00:03:35.060" style="s2">auch die spendebereitschaft als ehrenamt</p>
+<p begin="00:03:33.170" end="00:03:36.890" style="s2">an verbessern sie die überlebenschancen</p>
+<p begin="00:03:35.060" end="00:03:38.960" style="s2">von<span style="s3"> dialysepatienten</span><span style="s4"> durch</span> die</p>
+<p begin="00:03:36.890" end="00:03:41.960" style="s2">einführung und vergütung der crossover</p>
+<p begin="00:03:38.960" end="00:03:45.110" style="s2">spende und bitte liebe kolleginnen und</p>
+<p begin="00:03:41.960" end="00:03:47.240" style="s2">kollegen hier im bundestag lehnen sie</p>
+<p begin="00:03:45.110" end="00:03:50.170" style="s2">nicht gleich ohne nachzudenken jeden</p>
+<p begin="00:03:47.240" end="00:03:53.210" style="s2">antrag der<span style="s4"> afg</span> ab die grundidee des</p>
+<p begin="00:03:50.170" end="00:03:56.060" style="s2">gesetzentwurfs ist gut aber es fehlt an</p>
+<p begin="00:03:53.210" end="00:03:58.700" style="s2">strukturierung und<span style="s3"> qualitäts absicherung</span></p>
+<p begin="00:03:56.060" end="00:04:00.800" style="s2">stimmen sie zu<span style="s4"> unsere zusatzanträge an</span></p>
+<p begin="00:03:58.700" end="00:04:02.960" style="s2">den ausschuss zu überweisen damit wir</p>
+<p begin="00:04:00.800" end="00:04:05.510" style="s2"><span style="s4">noch mal gemeinsam beraten ich</span> bin mir</p>
+<p begin="00:04:02.960" end="00:04:07.430" style="s2">sicher dass wir eine gute lösung finden</p>
+<p begin="00:04:05.510" end="00:04:10.160" style="s2">werden mit der<span style="s4"> wird</span> das vertrauen in die</p>
+<p begin="00:04:07.430" end="00:04:12.170" style="s2">organspende wieder<span style="s4"> zurückgewinnen</span> können</p>
+<p begin="00:04:10.160" end="00:04:14.180" style="s2">es geht hier nicht um uns meine damen</p>
+<p begin="00:04:12.170" end="00:04:17.300" style="s2">und herren es geht einzig und allein um</p>
+<p begin="00:04:14.180" end="00:04:20.239" style="s2">das interesse und das wohl<span style="s4"> unsere</span> bürger</p>
+<p begin="00:04:17.300" end="00:04:22.300" style="s2">unsere<span style="s4"> patienten</span> in unserem land vielen</p>
+<p begin="00:04:20.239" end="00:04:22.300" style="s2">dank</p>
+<p begin="00:04:23.440" end="00:04:30.940" style="s2">jetzt kann man abonnieren und nicht</p>
+<p begin="00:04:26.210" end="00:04:30.940" style="s2">vergessen<span style="s4"> benachrichtigungen</span> aktivieren</p>
+<p begin="00:04:31.340" end="00:04:34.470" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

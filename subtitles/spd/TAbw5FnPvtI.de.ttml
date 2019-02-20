@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.530" end="00:00:07.080" style="s2">sehr geehrte frau präsidentin sehr</p>
+<p begin="00:00:03.899" end="00:00:09.179" style="s2">geehrte kolleginnen kollegen<span style="s3"> da</span> ist ja</p>
+<p begin="00:00:07.080" end="00:00:10.889" style="s2">im endeffekt heute eine vielzahl von</p>
+<p begin="00:00:09.179" end="00:00:12.210" style="s2">themen angesprochen worden und bei</p>
+<p begin="00:00:10.889" end="00:00:15.120" style="s2">vielen dieser themen habe ich den</p>
+<p begin="00:00:12.210" end="00:00:16.980" style="s2">eindruck da ist viel heiße luft</p>
+<p begin="00:00:15.120" end="00:00:18.090" style="s2">produziert es mal freundlich</p>
+<p begin="00:00:16.980" end="00:00:20.130" style="s2">auszudrücken</p>
+<p begin="00:00:18.090" end="00:00:22.500" style="s2">ich<span style="s3"> würde</span> mich<span style="s4"> bemühen</span> die einzelnen</p>
+<p begin="00:00:20.130" end="00:00:24.990" style="s2">fragen hier mal<span style="s4"> abzuarbeiten</span> und<span style="s4"> ich</span></p>
+<p begin="00:00:22.500" end="00:00:27.449" style="s2">fange als erstes wenn sie das<span style="s3"> gestalten</span></p>
+<p begin="00:00:24.990" end="00:00:29.820" style="s2">mit etwas an was nicht mit dem inhalt</p>
+<p begin="00:00:27.449" end="00:00:31.650" style="s2">der heutigen debatte zu tun hat sondern</p>
+<p begin="00:00:29.820" end="00:00:33.660" style="s2">mit der aufregung mit der künstlichen</p>
+<p begin="00:00:31.650" end="00:00:36.030" style="s2">aufregung der fraktion die linke darüber</p>
+<p begin="00:00:33.660" end="00:00:38.280" style="s2"><span style="s4">dass</span> die ministerin mit einem</p>
+<p begin="00:00:36.030" end="00:00:42.750" style="s2">abgeordneten dieses landtags<span style="s3"> ist</span></p>
+<p begin="00:00:38.280" end="00:00:46.350" style="s2">gesprochen hat und und frau kollegin</p>
+<p begin="00:00:42.750" end="00:00:48.000" style="s2">oldenburg und offensichtlich auch ich</p>
+<p begin="00:00:46.350" end="00:00:51.660" style="s2"><span style="s3">hab</span> selber nicht erlebt ich nehme nur</p>
+<p begin="00:00:48.000" end="00:00:53.449" style="s2">das mit was er<span style="s3"> dr</span> jetzt<span style="s4"> vom</span> podium aus</p>
+<p begin="00:00:51.660" end="00:00:57.300" style="s2">gesagt hat und offensichtlich</p>
+<p begin="00:00:53.449" end="00:00:59.100" style="s2">informationen unterlagen daten was auch</p>
+<p begin="00:00:57.300" end="00:01:01.230" style="s2">immer ich kann<span style="s3"> es</span><span style="s4"> nicht</span> spezifizieren</p>
+<p begin="00:00:59.100" end="00:01:03.420" style="s2"><span style="s4">aus</span> ihrer rede mit gegeben hat und sehr</p>
+<p begin="00:01:01.230" end="00:01:04.890" style="s2">geehrte frau kollegin oldenburgs bin</p>
+<p begin="00:01:03.420" end="00:01:06.869" style="s2">jetzt etwas länger in diesem parlament</p>
+<p begin="00:01:04.890" end="00:01:09.750" style="s2">als sie da sind<span style="s4"> und</span><span style="s3"> ich</span> kann mich an</p>
+<p begin="00:01:06.869" end="00:01:11.850" style="s2">gute zeiten erinnern da war auch ihre</p>
+<p begin="00:01:09.750" end="00:01:14.340" style="s2">fraktion schon in der opposition</p>
+<p begin="00:01:11.850" end="00:01:16.650" style="s2">da sind abgeordnete aus ihrer fraktion</p>
+<p begin="00:01:14.340" end="00:01:19.770" style="s2">auch an mitglieder der landesregierung</p>
+<p begin="00:01:16.650" end="00:01:22.020" style="s2">herangegangen und haben tatsächlich dort</p>
+<p begin="00:01:19.770" end="00:01:24.270" style="s2">darum gebeten<span style="s4"> sie</span> können sich sie können</p>
+<p begin="00:01:22.020" end="00:01:26.670" style="s2">sich herr kollege<span style="s3"> ritter</span> herr kollege</p>
+<p begin="00:01:24.270" end="00:01:29.549" style="s2">ritter sie können sich gerne darüber</p>
+<p begin="00:01:26.670" end="00:01:33.540" style="s2">aufregen ob der umgang der in dem</p>
+<p begin="00:01:29.549" end="00:01:35.939" style="s2">zusammenhang mit dem kollegen dr<span style="s3"> yes</span></p>
+<p begin="00:01:33.540" end="00:01:36.479" style="s2">weil er mitglied der afg anders bewertet</p>
+<p begin="00:01:35.939" end="00:01:38.970" style="s2">werden soll</p>
+<p begin="00:01:36.479" end="00:01:41.700" style="s2">aber die frage als solche<span style="s3"> dass</span> ein</p>
+<p begin="00:01:38.970" end="00:01:44.909" style="s2"><span style="s4">mitglied</span> dieser landesregierung daten</p>
+<p begin="00:01:41.700" end="00:01:47.070" style="s2">auch an einen abgeordneten dieses haus</p>
+<p begin="00:01:44.909" end="00:01:49.710" style="s2"><span style="s3">weiter gibt das sollte eigentlich hier</span></p>
+<p begin="00:01:47.070" end="00:01:53.490" style="s2">nicht diskussionsgrundlage sein und sehr</p>
+<p begin="00:01:49.710" end="00:01:55.619" style="s2">geehrte<span style="s3"> kolleginnen</span> kollegen<span style="s4"> dann</span> lassen</p>
+<p begin="00:01:53.490" end="00:01:56.689" style="s2">sie mich mal mit der<span style="s4"> zweiten</span> mehr</p>
+<p begin="00:01:55.619" end="00:01:59.189" style="s2"><span style="s4">anfangen</span></p>
+<p begin="00:01:56.689" end="00:02:02.070" style="s2">da wird hier und das ist ja auch im</p>
+<p begin="00:01:59.189" end="00:02:04.100" style="s2">vorfeld der pressearbeit durch die</p>
+<p begin="00:02:02.070" end="00:02:06.899" style="s2"><span style="s4">fraktion</span> die<span style="s3"> linke</span> immer wieder</p>
+<p begin="00:02:04.100" end="00:02:09.479" style="s2">angesprochen worden da ge wird hier von</p>
+<p begin="00:02:06.899" end="00:02:11.390" style="s2">gewinnorientierten<span style="s3"> sondervergütung</span></p>
+<p begin="00:02:09.479" end="00:02:13.459" style="s2">oder<span style="s3"> boni zahlungen</span><span style="s4"> für</span></p>
+<p begin="00:02:11.390" end="00:02:16.650" style="s2">vorstandsmitglieder universität rostock</p>
+<p begin="00:02:13.459" end="00:02:18.090" style="s2">gesprochen und die<span style="s4"> ministerin hat ja in</span></p>
+<p begin="00:02:16.650" end="00:02:19.260" style="s2">ihrer rede schon mal<span style="s4"> darauf</span> hingewiesen</p>
+<p begin="00:02:18.090" end="00:02:22.680" style="s2">aber ich will es an dieser stelle</p>
+<p begin="00:02:19.260" end="00:02:24.540" style="s2"><span style="s3">nochmal schon was sie offensichtlich von</span></p>
+<p begin="00:02:22.680" end="00:02:28.250" style="s2">dem<span style="s3"> einen</span> oder anderen nicht verstanden</p>
+<p begin="00:02:24.540" end="00:02:31.819" style="s2">wird oder er es nicht verstehen will ist</p>
+<p begin="00:02:28.250" end="00:02:33.569" style="s2">ein qualitativer unterschied zwischen</p>
+<p begin="00:02:31.819" end="00:02:35.459" style="s2"><span style="s4">bonuszahlungen</span><span style="s3"> und der</span></p>
+<p begin="00:02:33.569" end="00:02:38.760" style="s2">vergütungsregelung die an der un<span style="s3"> er</span></p>
+<p begin="00:02:35.459" end="00:02:41.870" style="s2"><span style="s4">besteht</span> bei der<span style="s4"> un gibt es</span><span style="s3"> nämlich</span> keine</p>
+<p begin="00:02:38.760" end="00:02:44.010" style="s2"><span style="s3">bonuszahlung</span> es gibt ein<span style="s3"> malus-system</span></p>
+<p begin="00:02:41.870" end="00:02:46.290" style="s2"><span style="s4">und</span> sehr geehrte kolleginnen kollegen</p>
+<p begin="00:02:44.010" end="00:02:49.440" style="s2"><span style="s4">das</span> mag in der wirtschaftlichen</p>
+<p begin="00:02:46.290" end="00:02:51.269" style="s2">betrachtung am ende wenn sie die</p>
+<p begin="00:02:49.440" end="00:02:53.940" style="s2">zielvorgaben erreicht haben</p>
+<p begin="00:02:51.269" end="00:02:56.670" style="s2">für den betreffenden beschäftigten egal</p>
+<p begin="00:02:53.940" end="00:03:00.209" style="s2">sein<span style="s3"> aber es gibt</span> einen qualitativen</p>
+<p begin="00:02:56.670" end="00:03:01.950" style="s2">unterschied es gibt<span style="s3"> eine</span><span style="s4"> vielzahl</span> von</p>
+<p begin="00:03:00.209" end="00:03:03.000" style="s2">untersuchungen<span style="s4"> beziehen</span> sich<span style="s4"> übrigens</span></p>
+<p begin="00:03:01.950" end="00:03:05.220" style="s2">nicht nur<span style="s4"> auf</span> vorstandsmitglieder</p>
+<p begin="00:03:03.000" end="00:03:06.209" style="s2"><span style="s4">sondern</span> auf alle bereiche<span style="s3"> vom</span></p>
+<p begin="00:03:05.220" end="00:03:08.819" style="s2">beschäftigten</p>
+<p begin="00:03:06.209" end="00:03:12.510" style="s2">das ist für den betriebswirtschaftlichen</p>
+<p begin="00:03:08.819" end="00:03:14.690" style="s2">erfolg eines unternehmens für die</p>
+<p begin="00:03:12.510" end="00:03:18.180" style="s2">erreichung wirtschaftliche parameter</p>
+<p begin="00:03:14.690" end="00:03:20.790" style="s2">deutlich besser ist nicht<span style="s4"> bonuszahlung</span></p>
+<p begin="00:03:18.180" end="00:03:23.730" style="s2">zu vereinbaren sondern<span style="s3"> mal</span><span style="s4"> auszahlung</span></p>
+<p begin="00:03:20.790" end="00:03:25.829" style="s2">das<span style="s4"> heißt</span> ich erkläre gegenüber einem</p>
+<p begin="00:03:23.730" end="00:03:27.410" style="s2">beschäftigten in dem fall gegenüber den</p>
+<p begin="00:03:25.829" end="00:03:30.450" style="s2">vorstandsmitgliedern der</p>
+<p begin="00:03:27.410" end="00:03:33.329" style="s2">universitätsklinik rostock das ist die</p>
+<p begin="00:03:30.450" end="00:03:35.430" style="s2">vergütung die du bekommst aber du</p>
+<p begin="00:03:33.329" end="00:03:36.799" style="s2">bekommst sie nur und<span style="s4"> frau ministerin</span></p>
+<p begin="00:03:35.430" end="00:03:39.599" style="s2">hesse hat ja schon darauf hingewiesen</p>
+<p begin="00:03:36.799" end="00:03:41.700" style="s2">wenn bestimmte wirtschaftliche ziele</p>
+<p begin="00:03:39.599" end="00:03:43.680" style="s2">erreicht werden was allerdings auch</p>
+<p begin="00:03:41.700" end="00:03:45.720" style="s2">heißt<span style="s3"> herr kopien wenn ich sie</span></p>
+<p begin="00:03:43.680" end="00:03:48.120" style="s2">überschreite<span style="s3"> krieg</span> auch nicht<span style="s4"> mehr</span></p>
+<p begin="00:03:45.720" end="00:03:50.280" style="s2">und das führt dazu<span style="s4"> und</span> wie<span style="s4"> gesagt</span> ich</p>
+<p begin="00:03:48.120" end="00:03:54.079" style="s2"><span style="s4">habe</span> eben schon angesprochen<span style="s3"> dass</span> im</p>
+<p begin="00:03:50.280" end="00:03:56.700" style="s2">schnitt eine 17<span style="s4"> prozent</span> höhere</p>
+<p begin="00:03:54.079" end="00:03:58.560" style="s2">wirtschaftlichkeit in<span style="s4"> dem</span> unternehmen</p>
+<p begin="00:03:56.700" end="00:03:59.760" style="s2">erreicht werden kann und sehr geehrte</p>
+<p begin="00:03:58.560" end="00:04:02.280" style="s2">kolleginnen und kollegen</p>
+<p begin="00:03:59.760" end="00:04:04.859" style="s2">ich komme da später<span style="s4"> noch mal in meiner</span></p>
+<p begin="00:04:02.280" end="00:04:08.310" style="s2">rede darauf zu aber ich glaube es sollte</p>
+<p begin="00:04:04.859" end="00:04:11.280" style="s2">kein dissens in diesem haus geben dass</p>
+<p begin="00:04:08.310" end="00:04:13.300" style="s2">auch die universitätsklinika in diesem</p>
+<p begin="00:04:11.280" end="00:04:16.540" style="s2">land wirtschaftlich</p>
+<p begin="00:04:13.300" end="00:04:19.480" style="s2">und effizient betrieben werden soll das</p>
+<p begin="00:04:16.540" end="00:04:21.250" style="s2">ist etwas nein herr wild ich deswegen</p>
+<p begin="00:04:19.480" end="00:04:23.170" style="s2">habe ich auch extra gesagt es sollte</p>
+<p begin="00:04:21.250" end="00:04:24.640" style="s2">konsens sein<span style="s4"> wenn wir bei den</span> kollegen</p>
+<p begin="00:04:23.170" end="00:04:27.160" style="s2"><span style="s3">kopplin</span> da<span style="s4"> sage ich aber gleich</span> noch was</p>
+<p begin="00:04:24.640" end="00:04:28.720" style="s2">dazu<span style="s4"> nicht</span><span style="s3"> ganz</span> so sicher<span style="s3"> und meine</span></p>
+<p begin="00:04:27.160" end="00:04:30.400" style="s2">damen und herren wenn man das jetzt</p>
+<p begin="00:04:28.720" end="00:04:32.110" style="s2">schon<span style="s4"> mal</span> ausgeräumt<span style="s4"> hat dass es</span></p>
+<p begin="00:04:30.400" end="00:04:34.120" style="s2">tatsächlich keine bonuszahlungen gibt</p>
+<p begin="00:04:32.110" end="00:04:36.220" style="s2">sondern die vorstandsmitglieder</p>
+<p begin="00:04:34.120" end="00:04:38.610" style="s2">tatsächlich nur die möglichkeit haben</p>
+<p begin="00:04:36.220" end="00:04:41.620" style="s2">ihr<span style="s3"> fix um auch tatsächlich zu</span> erreichen</p>
+<p begin="00:04:38.610" end="00:04:43.300" style="s2">wenn der laden entsprechend dem</p>
+<p begin="00:04:41.620" end="00:04:44.890" style="s2">wirtschaftsplan im regelfall betrieben</p>
+<p begin="00:04:43.300" end="00:04:47.470" style="s2">wird dann sind wir auf einmal auf einer</p>
+<p begin="00:04:44.890" end="00:04:48.790" style="s2">ganz anderen<span style="s4"> diskussions</span> ebene und sehr</p>
+<p begin="00:04:47.470" end="00:04:50.440" style="s2">geehrte kollegen<span style="s3"> da</span><span style="s4"> lassen</span> sie<span style="s4"> mich</span></p>
+<p begin="00:04:48.790" end="00:04:51.130" style="s2"><span style="s4">denselben</span><span style="s3"> punkt genau</span><span style="s4"> den</span> nächsten<span style="s4"> punkt</span></p>
+<p begin="00:04:50.440" end="00:04:54.400" style="s2"><span style="s3">mal</span> ansprechen</p>
+<p begin="00:04:51.130" end="00:04:56.200" style="s2">dann wird hier der<span style="s4"> ministerin</span> hesse</p>
+<p begin="00:04:54.400" end="00:04:58.510" style="s2">vorgeworfen dass das ministerium mit</p>
+<p begin="00:04:56.200" end="00:05:00.730" style="s2">hilfe eines bonussystems das hoffe ich</p>
+<p begin="00:04:58.510" end="00:05:03.220" style="s2">habe ich eben abgeräumt eines ein</p>
+<p begin="00:05:00.730" end="00:05:05.250" style="s2">mechanismus in gang gesetzt<span style="s4"> der auf eine</span></p>
+<p begin="00:05:03.220" end="00:05:07.690" style="s2"><span style="s4">gewinn</span><span style="s3"> erwartungen</span><span style="s4"> abzielte</span></p>
+<p begin="00:05:05.250" end="00:05:10.000" style="s2">und das hat wenn ich das richtig sehe</p>
+<p begin="00:05:07.690" end="00:05:11.560" style="s2">herr kollege<span style="s3"> hublin ja das ist ja auch</span></p>
+<p begin="00:05:10.000" end="00:05:12.460" style="s2">die pressemitteilung des kollegen<span style="s3"> kopien</span></p>
+<p begin="00:05:11.560" end="00:05:16.720" style="s2"><span style="s4">der</span> fraktion die linke</p>
+<p begin="00:05:12.460" end="00:05:18.850" style="s2">vom 16<span style="s4"> dieses</span> jahres so behauptet nur</p>
+<p begin="00:05:16.720" end="00:05:22.000" style="s2">sehr geehrte kolleginnen kollegen wo</p>
+<p begin="00:05:18.850" end="00:05:23.020" style="s2">stehen wir denn da überhaupt<span style="s4"> und</span> ich</p>
+<p begin="00:05:22.000" end="00:05:24.220" style="s2"><span style="s4">nenne ihnen jetzt mal einfach mal ein</span></p>
+<p begin="00:05:23.020" end="00:05:26.200" style="s2">paar zahlen<span style="s4"> die</span> können sie alle</p>
+<p begin="00:05:24.220" end="00:05:28.390" style="s2"><span style="s4">nachlesen</span> damit wir noch mal einfach</p>
+<p begin="00:05:26.200" end="00:05:30.730" style="s2"><span style="s4">einordnen</span> können und frau<span style="s4"> minister</span></p>
+<p begin="00:05:28.390" end="00:05:32.380" style="s2"><span style="s4">ministerin</span> hesse hat hier auch schon das</p>
+<p begin="00:05:30.730" end="00:05:34.690" style="s2">genannt was die universitätsmedizin</p>
+<p begin="00:05:32.380" end="00:05:37.120" style="s2">rostock erwirtschaftet hat ich habe</p>
+<p begin="00:05:34.690" end="00:05:39.370" style="s2"><span style="s3">jetzt</span> mal die zahlen von 2016 weil die</p>
+<p begin="00:05:37.120" end="00:05:40.990" style="s2">tatsächlich öffentlich sind und dann</p>
+<p begin="00:05:39.370" end="00:05:43.810" style="s2">greife ich mir mal ein paar kliniken</p>
+<p begin="00:05:40.990" end="00:05:46.090" style="s2">hier in diesem land raus und dann ist es</p>
+<p begin="00:05:43.810" end="00:05:48.040" style="s2">zb<span style="s4"> in</span> vorpommern<span style="s4"> das</span> evangelische</p>
+<p begin="00:05:46.090" end="00:05:52.960" style="s2">krankenhaus bethanien</p>
+<p begin="00:05:48.040" end="00:05:55.510" style="s2">das hat 1,9 millionen im jahr 2016<span style="s3"> an</span></p>
+<p begin="00:05:52.960" end="00:05:57.610" style="s2">gewinn<span style="s3"> erwirtschaftet und dann ist das</span></p>
+<p begin="00:05:55.510" end="00:05:58.720" style="s2">sana krankenhauses<span style="s3"> rügen</span> gmbh<span style="s4"> das</span> ist</p>
+<p begin="00:05:57.610" end="00:05:59.440" style="s2">übrigens alles nachzulesen im</p>
+<p begin="00:05:58.720" end="00:06:01.419" style="s2">bundesanzeiger</p>
+<p begin="00:05:59.440" end="00:06:02.830" style="s2">das sind juristische personen<span style="s3"> des</span><span style="s4"> wird</span></p>
+<p begin="00:06:01.419" end="00:06:04.270" style="s2">veröffentlicht<span style="s3"> dass</span> kein<span style="s4"> geheimnis</span> kann</p>
+<p begin="00:06:02.830" end="00:06:06.280" style="s2">jeder hätte auch<span style="s4"> er kopien vorher</span></p>
+<p begin="00:06:04.270" end="00:06:07.870" style="s2">nachlesen können das ist das sana</p>
+<p begin="00:06:06.280" end="00:06:10.450" style="s2">krankenhaus<span style="s4"> rügen</span> gmbh</p>
+<p begin="00:06:07.870" end="00:06:11.860" style="s2">die haben da nicht ganz so viel wenn ich</p>
+<p begin="00:06:10.450" end="00:06:12.460" style="s2">das jetzt<span style="s3"> sehe</span> ich<span style="s4"> muss</span> in der spalte</p>
+<p begin="00:06:11.860" end="00:06:16.419" style="s2">nicht verrutschen</p>
+<p begin="00:06:12.460" end="00:06:17.860" style="s2">das sind nur 600 gut<span style="s4"> 600.000</span> dann das</p>
+<p begin="00:06:16.419" end="00:06:20.590" style="s2">ist dann schon ein ordentlicher brocken</p>
+<p begin="00:06:17.860" end="00:06:23.470" style="s2">sind<span style="s3"> wir bei</span><span style="s4"> der</span> diakonie dietrich</p>
+<p begin="00:06:20.590" end="00:06:24.409" style="s2">bonhoeffer gmbh das sind über sechs</p>
+<p begin="00:06:23.470" end="00:06:26.269" style="s2">millionen</p>
+<p begin="00:06:24.409" end="00:06:27.860" style="s2">dann haben wir<span style="s4"> das</span> südstadt klinikum</p>
+<p begin="00:06:26.269" end="00:06:29.689" style="s2">rostock das weiß ich<span style="s4"> nur noch aus</span></p>
+<p begin="00:06:27.860" end="00:06:30.739" style="s2">eigener erfahrung da könnte<span style="s4"> auch</span> frau</p>
+<p begin="00:06:29.689" end="00:06:32.059" style="s2"><span style="s3">kröger</span> noch mitreden</p>
+<p begin="00:06:30.739" end="00:06:33.979" style="s2"><span style="s4">die</span> hat das ja auch öfters<span style="s4"> geld</span></p>
+<p begin="00:06:32.059" end="00:06:36.589" style="s2"><span style="s3">hinterher</span> verteilt<span style="s4"> das</span> waren<span style="s4"> über</span><span style="s3"> drei</span></p>
+<p begin="00:06:33.979" end="00:06:38.989" style="s2"><span style="s4">millionen</span> euro<span style="s3"> in</span> bad doberan das</p>
+<p begin="00:06:36.589" end="00:06:41.509" style="s2">krankenhaus knapp drei millionen euro</p>
+<p begin="00:06:38.989" end="00:06:44.149" style="s2">und dann das klinikum<span style="s3"> wissen wir sehr</span></p>
+<p begin="00:06:41.509" end="00:06:46.189" style="s2"><span style="s4">geehrter</span> kollege grund lag knapp<span style="s3"> vier</span></p>
+<p begin="00:06:44.149" end="00:06:49.550" style="s2">millionen 3,4 millionen euro</p>
+<p begin="00:06:46.189" end="00:06:53.209" style="s2">und wie gesagt im jahr 2016<span style="s4"> denn</span> die</p>
+<p begin="00:06:49.550" end="00:06:53.989" style="s2">universitätsmedizin rostock dann 5,5</p>
+<p begin="00:06:53.209" end="00:06:57.769" style="s2">millionen</p>
+<p begin="00:06:53.989" end="00:06:59.239" style="s2">das ist<span style="s3"> erst mal viel geld</span><span style="s4"> und frau</span></p>
+<p begin="00:06:57.769" end="00:07:00.949" style="s2"><span style="s4">ministerin</span> hesse hat ja auch darauf</p>
+<p begin="00:06:59.239" end="00:07:02.300" style="s2">hingewiesen in welcher relation dass sie</p>
+<p begin="00:07:00.949" end="00:07:04.999" style="s2">da<span style="s3"> hab ich sage</span><span style="s4"> ich</span> nochmals<span style="s3"> anderes</span> zu</p>
+<p begin="00:07:02.300" end="00:07:07.429" style="s2">eine vielzahl dieser kliniken die ich</p>
+<p begin="00:07:04.999" end="00:07:09.409" style="s2"><span style="s4">ihn</span> eben<span style="s4"> genannt</span> habe sind ungefähr nur</p>
+<p begin="00:07:07.429" end="00:07:12.679" style="s2">halb so groß wie die universitätsmedizin</p>
+<p begin="00:07:09.409" end="00:07:14.659" style="s2">rostock das heißt sie haben ungefähr den</p>
+<p begin="00:07:12.679" end="00:07:16.519" style="s2">gleichen gewinn oder ähnliche gewinne</p>
+<p begin="00:07:14.659" end="00:07:19.579" style="s2">erzielt wie die universitätsmedizin</p>
+<p begin="00:07:16.519" end="00:07:22.009" style="s2">rostock mit der hälfte der betten und</p>
+<p begin="00:07:19.579" end="00:07:23.449" style="s2">sehr geehrte<span style="s3"> südstadtklinikum</span><span style="s4"> ist</span> auch</p>
+<p begin="00:07:22.009" end="00:07:25.639" style="s2">nicht spezialisiert herr kollege<span style="s3"> wild</span></p>
+<p begin="00:07:23.449" end="00:07:27.679" style="s2">das ist ein allgemein vorsorge genauso</p>
+<p begin="00:07:25.639" end="00:07:28.849" style="s2">wie die universitätsmedizin rostock und</p>
+<p begin="00:07:27.679" end="00:07:30.849" style="s2">sie liegen deutlich darüber</p>
+<p begin="00:07:28.849" end="00:07:34.039" style="s2">und sehr geehrte kolleginnen kollegen</p>
+<p begin="00:07:30.849" end="00:07:36.169" style="s2">das ist<span style="s4"> erstmal</span> vom grundsatz her auch</p>
+<p begin="00:07:34.039" end="00:07:38.959" style="s2">richtig und ich will ihnen ja auch keine</p>
+<p begin="00:07:36.169" end="00:07:41.179" style="s2">zahl ersparen nur damit sie mal dann</p>
+<p begin="00:07:38.959" end="00:07:43.519" style="s2">auch etwas sehen wenn ein unternehmen</p>
+<p begin="00:07:41.179" end="00:07:46.039" style="s2">wirklich privatwirtschaftlich auf<span style="s3"> gewinn</span></p>
+<p begin="00:07:43.519" end="00:07:48.349" style="s2"><span style="s3">orientiert</span> ist<span style="s4"> und</span><span style="s3"> die</span> zahlen habe ich</p>
+<p begin="00:07:46.039" end="00:07:51.319" style="s2">allerdings<span style="s4"> da nur aus entsprechenden</span></p>
+<p begin="00:07:48.349" end="00:07:52.459" style="s2">pressemitteilung weil der sc<span style="s4"> helios</span></p>
+<p begin="00:07:51.319" end="00:07:56.449" style="s2"><span style="s4">kliniken</span> sind<span style="s4"> da</span> etwas zurückhaltender</p>
+<p begin="00:07:52.459" end="00:07:59.779" style="s2">aber<span style="s4"> da</span> sollen es dann im jahr 2016</p>
+<p begin="00:07:56.449" end="00:08:00.349" style="s2">knapp 32 millionen euro gewinn gewesen</p>
+<p begin="00:07:59.779" end="00:08:02.289" style="s2">sein</p>
+<p begin="00:08:00.349" end="00:08:05.449" style="s2">das ist der qualitative unterschied</p>
+<p begin="00:08:02.289" end="00:08:08.419" style="s2">zwischen der trägerschaft durch das land</p>
+<p begin="00:08:05.449" end="00:08:10.339" style="s2">und dann tatsächlich ein privat orient</p>
+<p begin="00:08:08.419" end="00:08:13.129" style="s2">wirtschaftlich auf gewinnmaximierung</p>
+<p begin="00:08:10.339" end="00:08:16.849" style="s2">herr kollege<span style="s3"> kopplin</span><span style="s4"> ausgerichtete</span></p>
+<p begin="00:08:13.129" end="00:08:19.539" style="s2">klinik das ist tatsächlich die tatsachen</p>
+<p begin="00:08:16.849" end="00:08:19.539" style="s2">in diesem land</p>
+<p begin="00:08:20.620" end="00:08:25.190" style="s2">und sehr geehrte kolleginnen kollegen</p>
+<p begin="00:08:22.840" end="00:08:27.920" style="s2">herr kollege<span style="s3"> kopplin</span> hat es<span style="s4"> ja</span> schon</p>
+<p begin="00:08:25.190" end="00:08:30.250" style="s2">versucht ein bisschen so abzuräumen<span style="s3"> dem</span></p>
+<p begin="00:08:27.920" end="00:08:32.960" style="s2">umstand dass das landeshochschulgesetz</p>
+<p begin="00:08:30.250" end="00:08:34.760" style="s2">tatsächlich nicht erst vor 14 tagen so</p>
+<p begin="00:08:32.960" end="00:08:36.590" style="s2">geschaffen wurde sondern schon etwas</p>
+<p begin="00:08:34.760" end="00:08:38.419" style="s2">älter ist aber ich<span style="s4"> werde</span> mir trotzdem</p>
+<p begin="00:08:36.590" end="00:08:41.150" style="s2">erlauben dann<span style="s3"> nochmal</span><span style="s4"> darauf einzugehen</span></p>
+<p begin="00:08:38.419" end="00:08:43.600" style="s2">ja das landeshochschulgesetz ist</p>
+<p begin="00:08:41.150" end="00:08:47.210" style="s2">tatsächlich aus dem jahr 2002</p>
+<p begin="00:08:43.600" end="00:08:50.300" style="s2">und ich war schon dabei 2002<span style="s4"> ich</span> bin<span style="s4"> so</span></p>
+<p begin="00:08:47.210" end="00:08:52.820" style="s2">alt und ich kann mich auch erinnern dass</p>
+<p begin="00:08:50.300" end="00:08:55.190" style="s2">die spd damals mit der fraktion ich</p>
+<p begin="00:08:52.820" end="00:08:57.020" style="s2">glaube damals noch pds die linke nicht</p>
+<p begin="00:08:55.190" end="00:09:00.140" style="s2"><span style="s3">das</span> richtig im kopf habe zusammen</p>
+<p begin="00:08:57.020" end="00:09:01.790" style="s2">regiert und wenn ich mich<span style="s3"> ja</span> da lasse</p>
+<p begin="00:09:00.140" end="00:09:03.170" style="s2">ich mich verbessern bei dem punkt herr</p>
+<p begin="00:09:01.790" end="00:09:04.640" style="s2">kollege ritter lasse ich mich von ihnen</p>
+<p begin="00:09:03.170" end="00:09:08.540" style="s2">gerne verbessern</p>
+<p begin="00:09:04.640" end="00:09:10.520" style="s2">ob sie nur pds pupsi ob sie nur<span style="s3"> pdfs</span></p>
+<p begin="00:09:08.540" end="00:09:12.890" style="s2">oder schon pds die linke</p>
+<p begin="00:09:10.520" end="00:09:15.260" style="s2">das ist mir<span style="s3"> so was von egal das</span> können</p>
+<p begin="00:09:12.890" end="00:09:17.780" style="s2"><span style="s3">sich gar nicht vorstellen das ist der</span></p>
+<p begin="00:09:15.260" end="00:09:20.210" style="s2">punkt herr kollege ritter wenn das ist</p>
+<p begin="00:09:17.780" end="00:09:21.980" style="s2">doch<span style="s3"> herr</span><span style="s4"> kollege</span> ritter<span style="s3"> der</span> kollege</p>
+<p begin="00:09:20.210" end="00:09:23.180" style="s2"><span style="s4">ritter</span> ist doch schon symptomatisch dass</p>
+<p begin="00:09:21.980" end="00:09:24.980" style="s2"><span style="s3">sie</span> sich offensichtlich an solchen</p>
+<p begin="00:09:23.180" end="00:09:26.510" style="s2">punkten hochziehen müssen weil sie in</p>
+<p begin="00:09:24.980" end="00:09:30.140" style="s2">der sache doch eigentlich nichts</p>
+<p begin="00:09:26.510" end="00:09:33.560" style="s2">einzuwenden haben und sehr<span style="s4"> geehrte</span> sehr</p>
+<p begin="00:09:30.140" end="00:09:35.900" style="s2">geehrte<span style="s4"> sehr</span> geehrte kolleginnen sehr</p>
+<p begin="00:09:33.560" end="00:09:37.580" style="s2">geehrte kolleginnen sehr geehrte</p>
+<p begin="00:09:35.900" end="00:09:38.960" style="s2">kolleginnen und kollegen<span style="s4"> herr</span> kollege</p>
+<p begin="00:09:37.580" end="00:09:40.910" style="s2"><span style="s4">ritter</span> nicht dass ich mir sorgen wegen</p>
+<p begin="00:09:38.960" end="00:09:44.180" style="s2">ihres<span style="s4"> bluthochdrucks machen muss sehr</span></p>
+<p begin="00:09:40.910" end="00:09:46.400" style="s2">geehrte kolleginnen und kollegen damals</p>
+<p begin="00:09:44.180" end="00:09:48.830" style="s2">ist das landeshochschulgesetz<span style="s4"> hier</span> in</p>
+<p begin="00:09:46.400" end="00:09:51.040" style="s2">diesem haus verabschiedet wurden mit den</p>
+<p begin="00:09:48.830" end="00:09:54.470" style="s2">stimmen der damaligen koalition</p>
+<p begin="00:09:51.040" end="00:09:58.010" style="s2">und nach diesem landeshochschulgesetz</p>
+<p begin="00:09:54.470" end="00:10:00.230" style="s2">2002<span style="s3"> na</span> die haben<span style="s4"> nicht</span> mitgemacht das</p>
+<p begin="00:09:58.010" end="00:10:03.320" style="s2">ist richtig gegen die stimmen der cdu</p>
+<p begin="00:10:00.230" end="00:10:06.920" style="s2">die waren damals noch nicht so weit nach</p>
+<p begin="00:10:03.320" end="00:10:10.670" style="s2">diesem landeshochschulgesetz 2002 waren</p>
+<p begin="00:10:06.920" end="00:10:12.460" style="s2">die vorstände in den kliniken bereits</p>
+<p begin="00:10:10.670" end="00:10:14.270" style="s2">auf die gewährleistung der</p>
+<p begin="00:10:12.460" end="00:10:16.640" style="s2">leistungsfähigkeit und der</p>
+<p begin="00:10:14.270" end="00:10:21.350" style="s2">wirtschaftlichkeit des klinikums</p>
+<p begin="00:10:16.640" end="00:10:23.630" style="s2">verpflichtet<span style="s4"> schon im jahr 2002 und sehr</span></p>
+<p begin="00:10:21.350" end="00:10:26.810" style="s2">geehrte kolleginnen kollegen damit wird</p>
+<p begin="00:10:23.630" end="00:10:28.040" style="s2">er auch den letzten irrtum<span style="s3"> aus rom</span><span style="s4"> in</span></p>
+<p begin="00:10:26.810" end="00:10:30.320" style="s2">der befürchtung dass vielleicht die</p>
+<p begin="00:10:28.040" end="00:10:31.740" style="s2">fraktion die<span style="s4"> heutige fraktion die linke</span></p>
+<p begin="00:10:30.320" end="00:10:33.330" style="s2">und ihre<span style="s3"> namens</span></p>
+<p begin="00:10:31.740" end="00:10:36.270" style="s2"><span style="s3">vorgänger</span><span style="s4"> damals</span> nicht wussten was sie</p>
+<p begin="00:10:33.330" end="00:10:38.430" style="s2">taten die damit<span style="s4"> eingebundene</span><span style="s3"> gesundheits</span></p>
+<p begin="00:10:36.270" end="00:10:40.770" style="s2">und sozialministerin<span style="s4"> damals</span> waren erst</p>
+<p begin="00:10:38.430" end="00:10:44.190" style="s2">frau<span style="s4"> doktor</span> bunge und<span style="s3"> anschließend</span> frau</p>
+<p begin="00:10:40.770" end="00:10:46.260" style="s2">marianne linke und die waren<span style="s4"> damit</span></p>
+<p begin="00:10:44.190" end="00:10:48.300" style="s2">beteiligt und dann gehe ich noch weiter</p>
+<p begin="00:10:46.260" end="00:10:49.950" style="s2">sehr geehrte kolleginnen kollegen dann</p>
+<p begin="00:10:48.300" end="00:10:52.590" style="s2">erlaube ich mir doch mal ich<span style="s3"> habe</span><span style="s4"> mal</span></p>
+<p begin="00:10:49.950" end="00:10:54.690" style="s2"><span style="s4">das</span> ist ja<span style="s4"> das</span> gute heutzutage man kann</p>
+<p begin="00:10:52.590" end="00:10:56.010" style="s2">alles mögliche nachlesen</p>
+<p begin="00:10:54.690" end="00:10:58.320" style="s2">dann habe ich und auch die</p>
+<p begin="00:10:56.010" end="00:10:59.610" style="s2"><span style="s4">plenarprotokoll von damals von der</span></p>
+<p begin="00:10:58.320" end="00:11:02.730" style="s2">beschlussfassung der ersten und zweiten</p>
+<p begin="00:10:59.610" end="00:11:04.700" style="s2">lesung dazu gelesen und dann habe ich</p>
+<p begin="00:11:02.730" end="00:11:07.410" style="s2">mal geschaut was der damalige</p>
+<p begin="00:11:04.700" end="00:11:09.420" style="s2"><span style="s4">fachpolitischen</span> sprecher der fraktion</p>
+<p begin="00:11:07.410" end="00:11:11.820" style="s2">pds ich hoffe ich habe jetzt den</p>
+<p begin="00:11:09.420" end="00:11:13.800" style="s2">richtigen namen gewählt herr<span style="s4"> dr</span> bartels</p>
+<p begin="00:11:11.820" end="00:11:15.930" style="s2">gesagt hat im zusammenhang mit dem</p>
+<p begin="00:11:13.800" end="00:11:18.660" style="s2">umgang mit hochschulkliniken<span style="s4"> und</span> das</p>
+<p begin="00:11:15.930" end="00:11:19.380" style="s2">einzige das einzige was ich gefunden</p>
+<p begin="00:11:18.660" end="00:11:22.160" style="s2">habe</p>
+<p begin="00:11:19.380" end="00:11:24.560" style="s2">in<span style="s4"> dem</span> gesamten kontext<span style="s3"> diskussion</span></p>
+<p begin="00:11:22.160" end="00:11:26.970" style="s2"><span style="s4">landeshochschulgesetz</span> und<span style="s4"> universitäten</span></p>
+<p begin="00:11:24.560" end="00:11:29.640" style="s2">universitätskliniken war die forderung</p>
+<p begin="00:11:26.970" end="00:11:32.970" style="s2">und die anmerkung des kollegen dr</p>
+<p begin="00:11:29.640" end="00:11:35.310" style="s2">bartels<span style="s3"> dass</span> ein zitat effizientere</p>
+<p begin="00:11:32.970" end="00:11:38.340" style="s2">effizienterer umgang mit<span style="s3"> den mitteln der</span></p>
+<p begin="00:11:35.310" end="00:11:39.810" style="s2">krankenversorgung erforderlich sei und</p>
+<p begin="00:11:38.340" end="00:11:41.820" style="s2">sehr geehrte kolleginnen und kollegen</p>
+<p begin="00:11:39.810" end="00:11:43.710" style="s2">das ist ja auch kein wunder dass er das</p>
+<p begin="00:11:41.820" end="00:11:46.770" style="s2">damals schon gefordert hat<span style="s4"> dass</span> da</p>
+<p begin="00:11:43.710" end="00:11:49.290" style="s2">entsprechend mehr und stärker darauf</p>
+<p begin="00:11:46.770" end="00:11:51.540" style="s2">geachtet werden soll<span style="s3"> das</span> entsprechend</p>
+<p begin="00:11:49.290" end="00:11:53.730" style="s2">wirtschaftlich sinnvoll gearbeitet</p>
+<p begin="00:11:51.540" end="00:11:56.040" style="s2">werden soll und wirtschaftlich sinnvoll</p>
+<p begin="00:11:53.730" end="00:11:58.260" style="s2">heißt und auch da hat die ministerin</p>
+<p begin="00:11:56.040" end="00:12:01.470" style="s2">darauf hingewiesen dass in einem betrieb</p>
+<p begin="00:11:58.260" end="00:12:04.620" style="s2">und die universitätskliniken sind eben</p>
+<p begin="00:12:01.470" end="00:12:06.620" style="s2">auch betrieb dass dort tatsächlich auch</p>
+<p begin="00:12:04.620" end="00:12:09.030" style="s2">die ziele die in einem wirtschaftsplan</p>
+<p begin="00:12:06.620" end="00:12:10.070" style="s2">erreicht<span style="s3"> wurde</span> formuliert werden sollen</p>
+<p begin="00:12:09.030" end="00:12:12.570" style="s2">erreicht werden</p>
+<p begin="00:12:10.070" end="00:12:14.760" style="s2">das ist kein wunder war sehr geehrte</p>
+<p begin="00:12:12.570" end="00:12:17.100" style="s2">kolleginnen kollegen dass ich damals der</p>
+<p begin="00:12:14.760" end="00:12:19.140" style="s2">kollege dr bartels nicht weiter damit</p>
+<p begin="00:12:17.100" end="00:12:21.540" style="s2">beschäftigt hat nicht vielleicht gesagt</p>
+<p begin="00:12:19.140" end="00:12:22.770" style="s2">hat<span style="s4"> naja aber die</span> gewinnorientierung das</p>
+<p begin="00:12:21.540" end="00:12:24.810" style="s2">wollen wir nicht im</p>
+<p begin="00:12:22.770" end="00:12:26.190" style="s2">landeshochschulgesetz stehen haben das</p>
+<p begin="00:12:24.810" end="00:12:28.530" style="s2">sage ich<span style="s4"> hier</span> ausdrücklich<span style="s4"> dass</span> das</p>
+<p begin="00:12:26.190" end="00:12:30.150" style="s2">nicht der wille der pds<span style="s3"> es</span> das hat ja</p>
+<p begin="00:12:28.530" end="00:12:33.240" style="s2">seinen grund sehr geehrte<span style="s4"> kolleginnen</span></p>
+<p begin="00:12:30.150" end="00:12:34.260" style="s2">kolleg weil der gesetzentwurf<span style="s4"> der</span></p>
+<p begin="00:12:33.240" end="00:12:37.560" style="s2">gesetzentwurf des</p>
+<p begin="00:12:34.260" end="00:12:41.160" style="s2">landeshochschulgesetzes von 2002 ist ja</p>
+<p begin="00:12:37.560" end="00:12:42.720" style="s2">nicht wie manna vom himmel gefallen das</p>
+<p begin="00:12:41.160" end="00:12:44.570" style="s2">denke ich manchmal<span style="s4"> wenn</span> ich einige</p>
+<p begin="00:12:42.720" end="00:12:46.760" style="s2">anträge heute<span style="s3"> lese</span><span style="s4"> aber</span><span style="s3"> dass</span></p>
+<p begin="00:12:44.570" end="00:12:49.880" style="s2"><span style="s3">an</span> diesem gesetzentwurf<span style="s4"> damals</span> nicht</p>
+<p begin="00:12:46.760" end="00:12:52.750" style="s2">vorwerfen<span style="s4"> diesem</span> gesetzentwurf ist ein</p>
+<p begin="00:12:49.880" end="00:12:55.340" style="s2">langer<span style="s3"> diskussions</span> und arbeitsprozess</p>
+<p begin="00:12:52.750" end="00:12:58.220" style="s2">vorangegangen unter anderem auch mit</p>
+<p begin="00:12:55.340" end="00:13:00.440" style="s2">einem bericht der landesregierung unter</p>
+<p begin="00:12:58.220" end="00:13:02.480" style="s2">einbeziehung der<span style="s4"> hochschulen</span> hier an den</p>
+<p begin="00:13:00.440" end="00:13:05.060" style="s2">landtag<span style="s3"> ist</span> auch das können sie</p>
+<p begin="00:13:02.480" end="00:13:07.370" style="s2">nachlesen dass der entsprechende bericht</p>
+<p begin="00:13:05.060" end="00:13:07.750" style="s2">liegt auch hier<span style="s3"> der parlament datenbank</span></p>
+<p begin="00:13:07.370" end="00:13:11.900" style="s2">vor</p>
+<p begin="00:13:07.750" end="00:13:13.340" style="s2">und auf dieser grundlage ist<span style="s4"> dann</span> das</p>
+<p begin="00:13:11.900" end="00:13:15.770" style="s2">landeshochschulgesetz entwickelt worden</p>
+<p begin="00:13:13.340" end="00:13:17.770" style="s2"><span style="s4">und jetzt sage</span> ich ihnen noch etwas an</p>
+<p begin="00:13:15.770" end="00:13:20.390" style="s2">diesem bericht</p>
+<p begin="00:13:17.770" end="00:13:21.110" style="s2">da war nicht nur das finanzministerium</p>
+<p begin="00:13:20.390" end="00:13:22.970" style="s2">beteiligt</p>
+<p begin="00:13:21.110" end="00:13:25.460" style="s2">da war nicht nur damals das</p>
+<p begin="00:13:22.970" end="00:13:28.070" style="s2">bildungsministerium beteiligt da war</p>
+<p begin="00:13:25.460" end="00:13:31.190" style="s2">auch herr kollege wild nein das gehört</p>
+<p begin="00:13:28.070" end="00:13:33.680" style="s2">dazu weil da sind die da sind die linien</p>
+<p begin="00:13:31.190" end="00:13:35.780" style="s2">gelegt worden<span style="s3"> herr</span> kollege<span style="s3"> wild</span> auch</p>
+<p begin="00:13:33.680" end="00:13:38.270" style="s2">wenn<span style="s4"> sie</span> das nicht hören wollen da sind</p>
+<p begin="00:13:35.780" end="00:13:40.340" style="s2">die linien für die arbeitsweise<span style="s4"> für die</span></p>
+<p begin="00:13:38.270" end="00:13:42.470" style="s2">wirtschaftliche arbeitsweise in den</p>
+<p begin="00:13:40.340" end="00:13:44.480" style="s2">universitätskliniken gelegt<span style="s4"> wird</span> und sie</p>
+<p begin="00:13:42.470" end="00:13:46.700" style="s2">sind gelegt<span style="s3"> worden</span><span style="s4"> mit</span> den<span style="s3"> stimmen</span> der</p>
+<p begin="00:13:44.480" end="00:13:48.710" style="s2">damaligen pds und wenn<span style="s4"> sich</span> heute ein</p>
+<p begin="00:13:46.700" end="00:13:50.020" style="s2">kollege der fraktion die linke hinstellt</p>
+<p begin="00:13:48.710" end="00:13:52.160" style="s2">und sagt wir sind gegen</p>
+<p begin="00:13:50.020" end="00:13:53.780" style="s2">gewinnorientierung dann müsste er<span style="s4"> erst</span></p>
+<p begin="00:13:52.160" end="00:13:55.670" style="s2"><span style="s4">mal</span><span style="s3"> hier</span> darüber diskutieren was er</p>
+<p begin="00:13:53.780" end="00:13:57.560" style="s2">damals selber getan hat weil der kollege</p>
+<p begin="00:13:55.670" end="00:13:59.330" style="s2"><span style="s3">kopplin</span> war wenn ich das richtig im kopf</p>
+<p begin="00:13:57.560" end="00:14:01.250" style="s2">habe zum damaligen zeitpunkt</p>
+<p begin="00:13:59.330" end="00:14:03.680" style="s2">stellvertretender vorsitzender und dann</p>
+<p begin="00:14:01.250" end="00:14:05.270" style="s2">haben des sozialausschusses und sehr</p>
+<p begin="00:14:03.680" end="00:14:06.740" style="s2">geehrte<span style="s4"> kolleginnen</span> kollegen<span style="s4"> dann</span> lassen</p>
+<p begin="00:14:05.270" end="00:14:08.180" style="s2">sie mich dann auch mal ein paar stellen</p>
+<p begin="00:14:06.740" end="00:14:10.420" style="s2">aus<span style="s3"> diesen</span><span style="s4"> bericht</span> zitieren</p>
+<p begin="00:14:08.180" end="00:14:13.480" style="s2">da wird dann unter anderem gefordert</p>
+<p begin="00:14:10.420" end="00:14:15.890" style="s2"><span style="s3">wirtschaftliche</span> effizientere</p>
+<p begin="00:14:13.480" end="00:14:17.620" style="s2">organisation der universitätskliniken</p>
+<p begin="00:14:15.890" end="00:14:19.390" style="s2">mehr<span style="s4"> marktorientierte</span></p>
+<p begin="00:14:17.620" end="00:14:21.920" style="s2"><span style="s4">strukturveränderung</span> sie<span style="s4"> müssten</span></p>
+<p begin="00:14:19.390" end="00:14:24.460" style="s2">konkurrenzfähiger<span style="s3"> sein</span> krankenversorgung</p>
+<p begin="00:14:21.920" end="00:14:26.450" style="s2">ist in zukunft nur unter strengen</p>
+<p begin="00:14:24.460" end="00:14:29.200" style="s2">betriebswirtschaftlichen regeln zu</p>
+<p begin="00:14:26.450" end="00:14:31.250" style="s2">garantieren dann heißt es<span style="s4"> weiter</span></p>
+<p begin="00:14:29.200" end="00:14:32.680" style="s2">organisationsform müssen aufgezeigt</p>
+<p begin="00:14:31.250" end="00:14:34.640" style="s2">werden die krankenversorgung</p>
+<p begin="00:14:32.680" end="00:14:36.730" style="s2">wirtschaftlicher betrieben werden<span style="s4"> das</span></p>
+<p begin="00:14:34.640" end="00:14:38.960" style="s2">klinikum wirtschaftlich effizienter</p>
+<p begin="00:14:36.730" end="00:14:40.970" style="s2">optimalere binnen<span style="s3"> organisieren ich</span></p>
+<p begin="00:14:38.960" end="00:14:43.610" style="s2">könnte ihnen<span style="s4"> das stundenlang aus diesem</span></p>
+<p begin="00:14:40.970" end="00:14:46.040" style="s2">bericht der damals dem gesetzestext</p>
+<p begin="00:14:43.610" end="00:14:48.440" style="s2"><span style="s3">sowie</span><span style="s4"> hier</span> beschlossen worden ist dann</p>
+<p begin="00:14:46.040" end="00:14:50.780" style="s2">nachher<span style="s3"> zu grunde lag auch tatsächlich</span></p>
+<p begin="00:14:48.440" end="00:14:52.520" style="s2">dann umgesetzt worden<span style="s3"> dass</span> und sehr</p>
+<p begin="00:14:50.780" end="00:14:53.240" style="s2">geehrte<span style="s4"> kollegen</span><span style="s3"> kollegen</span> das ist auch</p>
+<p begin="00:14:52.520" end="00:14:55.220" style="s2">richtig</p>
+<p begin="00:14:53.240" end="00:14:56.690" style="s2">es ist richtig dass wir eine vernünftige</p>
+<p begin="00:14:55.220" end="00:14:58.280" style="s2">wirtschaftliche<span style="s4"> organ</span></p>
+<p begin="00:14:56.690" end="00:15:01.190" style="s2"><span style="s3">sensation</span><span style="s4"> der</span> universitätskliniken</p>
+<p begin="00:14:58.280" end="00:15:02.840" style="s2">wollen<span style="s4"> und</span> das ist dann auch der kontext</p>
+<p begin="00:15:01.190" end="00:15:05.570" style="s2"><span style="s3">zu</span> heute weil wir wollen ihn auch heute</p>
+<p begin="00:15:02.840" end="00:15:07.790" style="s2"><span style="s4">sehr</span> geehrte kolleginnen kollegen und</p>
+<p begin="00:15:05.570" end="00:15:10.280" style="s2">deswegen sind die vorwürfe die vorwürfe</p>
+<p begin="00:15:07.790" end="00:15:12.440" style="s2">die hier erhoben werden von der fraktion</p>
+<p begin="00:15:10.280" end="00:15:14.300" style="s2">die linke<span style="s3"> ja</span> letztendlich<span style="s4"> auch</span> so</p>
+<p begin="00:15:12.440" end="00:15:16.070" style="s2">hanebüchen und sehr geehrte kolleginnen</p>
+<p begin="00:15:14.300" end="00:15:17.870" style="s2">kollegen dann lassen sie mich das an</p>
+<p begin="00:15:16.070" end="00:15:20.090" style="s2">dieser stelle<span style="s4"> weil</span> sie herr kollege</p>
+<p begin="00:15:17.870" end="00:15:21.530" style="s2"><span style="s3">weltmeeren</span> und quasi vorgehalten haben</p>
+<p begin="00:15:20.090" end="00:15:23.870" style="s2">ich<span style="s4"> würde</span> hier nur auf die vergangenheit</p>
+<p begin="00:15:21.530" end="00:15:26.240" style="s2">abstellen ich<span style="s3"> komme</span> jetzt mal in die</p>
+<p begin="00:15:23.870" end="00:15:28.280" style="s2">nähere vergangenheit nicht noch ganz so</p>
+<p begin="00:15:26.240" end="00:15:30.740" style="s2"><span style="s4">waren</span> wie den letzten wochen und tagen</p>
+<p begin="00:15:28.280" end="00:15:34.040" style="s2">aber nicht ganz<span style="s4"> so weit entfernt nämlich</span></p>
+<p begin="00:15:30.740" end="00:15:36.440" style="s2">ins<span style="s3"> schuljahr</span> 2017<span style="s3"> und er ging es um die</span></p>
+<p begin="00:15:34.040" end="00:15:39.290" style="s2">universitätsmedizin greifswald<span style="s3"> und</span> da</p>
+<p begin="00:15:36.440" end="00:15:41.450" style="s2"><span style="s3">gibt es am 9</span><span style="s4"> märz eine pressemitteilung</span></p>
+<p begin="00:15:39.290" end="00:15:44.030" style="s2">der fraktion die linke<span style="s3"> im</span><span style="s4"> landtag</span></p>
+<p begin="00:15:41.450" end="00:15:47.600" style="s2"><span style="s3">mecklenburg vorpommern wo der kollege</span></p>
+<p begin="00:15:44.030" end="00:15:49.220" style="s2"><span style="s3">kopplin</span> dann unter anderem fordert in</p>
+<p begin="00:15:47.600" end="00:15:53.140" style="s2">bezug<span style="s4"> auf</span> die universitätsmedizin</p>
+<p begin="00:15:49.220" end="00:15:55.910" style="s2">greifswald<span style="s4"> das</span> mit externem sachverstand</p>
+<p begin="00:15:53.140" end="00:15:56.540" style="s2">eine task force eingerichtet werden</p>
+<p begin="00:15:55.910" end="00:16:00.580" style="s2">sollte</p>
+<p begin="00:15:56.540" end="00:16:03.380" style="s2">zitat zur rückkehr in die gewinnzone am</p>
+<p begin="00:16:00.580" end="00:16:06.130" style="s2">universitätsklinikum<span style="s4"> in greifswald zur</span></p>
+<p begin="00:16:03.380" end="00:16:08.840" style="s2">rückkehr in die gewinnzone des</p>
+<p begin="00:16:06.130" end="00:16:11.660" style="s2"><span style="s4">universitätsklinikum</span> kreis hat das<span style="s4"> was</span></p>
+<p begin="00:16:08.840" end="00:16:13.310" style="s2">der kollege<span style="s3"> kopplin</span> in den letzten tagen</p>
+<p begin="00:16:11.660" end="00:16:16.550" style="s2">der ministerin vorgeworfen hat dass</p>
+<p begin="00:16:13.310" end="00:16:19.010" style="s2">diese landesregierung darauf achtet dass</p>
+<p begin="00:16:16.550" end="00:16:21.010" style="s2">die universitätsklinik in rostock aber</p>
+<p begin="00:16:19.010" end="00:16:22.850" style="s2">auch<span style="s3"> in greif als möglichst</span></p>
+<p begin="00:16:21.010" end="00:16:24.950" style="s2">betriebswirtschaftlich sinnvoll geführt</p>
+<p begin="00:16:22.850" end="00:16:27.760" style="s2">wird dass die betreffenden vorstände</p>
+<p begin="00:16:24.950" end="00:16:29.510" style="s2">darauf achten dass sie tatsächlich auch</p>
+<p begin="00:16:27.760" end="00:16:31.280" style="s2">gewinnorientiert arbeiten weil</p>
+<p begin="00:16:29.510" end="00:16:32.930" style="s2"><span style="s4">gewinnorientiert ist</span><span style="s3"> erstmal</span><span style="s4"> nichts</span></p>
+<p begin="00:16:31.280" end="00:16:35.150" style="s2"><span style="s4">schlechtes</span><span style="s3"> frau</span> ministerin hesse hat ja</p>
+<p begin="00:16:32.930" end="00:16:36.860" style="s2">darauf hingewiesen<span style="s4"> dass es notwendig um</span></p>
+<p begin="00:16:35.150" end="00:16:38.930" style="s2">rücklagen zu bilden und spätere</p>
+<p begin="00:16:36.860" end="00:16:41.210" style="s2">investitionen<span style="s4"> tätigen</span> zu können<span style="s4"> es</span> ist</p>
+<p begin="00:16:38.930" end="00:16:42.920" style="s2"><span style="s4">notwendig</span> um gegebenenfalls auch in den</p>
+<p begin="00:16:41.210" end="00:16:43.280" style="s2">folgejahren verluste ausgleichen zu</p>
+<p begin="00:16:42.920" end="00:16:46.850" style="s2">können</p>
+<p begin="00:16:43.280" end="00:16:49.160" style="s2">genau das hat der kollege<span style="s3"> copley</span><span style="s4"> hier</span> in</p>
+<p begin="00:16:46.850" end="00:16:50.930" style="s2"><span style="s4">diesem</span> landtag dann auch gefordert mit</p>
+<p begin="00:16:49.160" end="00:16:51.920" style="s2">der entsprechenden pressemitteilung der</p>
+<p begin="00:16:50.930" end="00:16:54.200" style="s2">fraktion die linke</p>
+<p begin="00:16:51.920" end="00:16:55.580" style="s2">und<span style="s4"> das ist schon hanebüchen sehr</span></p>
+<p begin="00:16:54.200" end="00:16:58.490" style="s2">geehrte<span style="s3"> kolleginnen</span> kollegen</p>
+<p begin="00:16:55.580" end="00:17:00.770" style="s2">wenn man sich dann<span style="s3"> hinstellt</span> dann</p>
+<p begin="00:16:58.490" end="00:17:02.240" style="s2">hinstellt und sagt<span style="s4"> ja</span> das<span style="s4"> ist</span> jetzt aber</p>
+<p begin="00:17:00.770" end="00:17:03.920" style="s2"><span style="s4">dringlich</span> dass wir über dieses thema</p>
+<p begin="00:17:02.240" end="00:17:05.240" style="s2"><span style="s3">noch mal diskutiert</span> auf<span style="s4"> einmal</span></p>
+<p begin="00:17:03.920" end="00:17:07.100" style="s2">gewinnorientierung bei einer</p>
+<p begin="00:17:05.240" end="00:17:07.580" style="s2">universitätsklinik<span style="s4"> ich habe das geht</span></p>
+<p begin="00:17:07.100" end="00:17:09.800" style="s2">doch gar</p>
+<p begin="00:17:07.580" end="00:17:11.600" style="s2">und deswegen um das klarzustellen sehr</p>
+<p begin="00:17:09.800" end="00:17:13.000" style="s2">geehrte<span style="s4"> kolleginnen</span> kollegen hat meine</p>
+<p begin="00:17:11.600" end="00:17:14.630" style="s2">fraktion beziehungsweise<span style="s4"> die</span></p>
+<p begin="00:17:13.000" end="00:17:16.790" style="s2"><span style="s3">koalitionsfraktionen</span><span style="s4"> dieser</span></p>
+<p begin="00:17:14.630" end="00:17:18.440" style="s2">dringlichkeit dann auch<span style="s4"> zugestimmt</span> und</p>
+<p begin="00:17:16.790" end="00:17:19.660" style="s2">ich hoffe dass<span style="s3"> das</span> damit<span style="s4"> auch</span> erledigt</p>
+<p begin="00:17:18.440" end="00:17:24.549" style="s2">ist vielen dank</p>
+<p begin="00:17:19.660" end="00:17:24.549" style="s2">[Applaus]</p>
+</div>
+</body>
+</tt>

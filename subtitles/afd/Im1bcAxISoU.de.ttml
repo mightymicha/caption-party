@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.670" style="s2"><span style="s3">einen wunderschönen</span><span style="s4"> guten tag herzlich</span></p>
+<p begin="00:00:02.010" end="00:00:08.389" style="s2">willkommen hier in sachsen hier in riesa</p>
+<p begin="00:00:04.670" end="00:00:12.590" style="s2">alle bundesländer alle gemeinsam ihre</p>
+<p begin="00:00:08.389" end="00:00:12.590" style="s2">delegierten herzlich willkommen</p>
+<p begin="00:00:15.199" end="00:00:22.619" style="s2">wir alle sind hier nicht im glänzenden</p>
+<p begin="00:00:18.390" end="00:00:24.390" style="s2">dresden im boomenden leipzig wir sind</p>
+<p begin="00:00:22.619" end="00:00:26.640" style="s2">hier nicht in einer höllischen</p>
+<p begin="00:00:24.390" end="00:00:28.859" style="s2">postkarten idylle<span style="s4"> von</span> der sächsischen</p>
+<p begin="00:00:26.640" end="00:00:30.840" style="s2">schweiz sondern in einer<span style="s3"> macher</span><span style="s4"> und</span></p>
+<p begin="00:00:28.859" end="00:00:33.170" style="s2">einer<span style="s3"> politiker statt in einer stadt</span></p>
+<p begin="00:00:30.840" end="00:00:35.100" style="s2">wohl stahl geschmolzen wurde und wird</p>
+<p begin="00:00:33.170" end="00:00:37.559" style="s2">wir sind hier</p>
+<p begin="00:00:35.100" end="00:00:41.730" style="s2">dort wo wir hingehören bei den menschen</p>
+<p begin="00:00:37.559" end="00:00:43.190" style="s2">vor ort<span style="s3"> die</span><span style="s4"> zusammen</span> mit uns hier die</p>
+<p begin="00:00:41.730" end="00:00:53.910" style="s2">stärkste partei</p>
+<p begin="00:00:43.190" end="00:00:56.760" style="s2">2017 gewählt haben die menschen<span style="s3"> hier</span></p>
+<p begin="00:00:53.910" end="00:00:59.070" style="s2">haben etliche<span style="s4"> soldaten nach der wende</span></p>
+<p begin="00:00:56.760" end="00:01:01.559" style="s2">sie haben ihren job verloren dann könnte</p>
+<p begin="00:00:59.070" end="00:01:04.830" style="s2">man<span style="s4"> ihn</span><span style="s3"> man</span> hat<span style="s3"> ihnen</span> auch teilweise das</p>
+<p begin="00:01:01.559" end="00:01:07.320" style="s2">selbstvertrauen genommen<span style="s4"> aber ihre würde</span></p>
+<p begin="00:01:04.830" end="00:01:09.659" style="s2">hat man<span style="s4"> ihnen</span><span style="s3"> nie</span> nehmen können<span style="s3"> das sind</span></p>
+<p begin="00:01:07.320" end="00:01:13.140" style="s2"><span style="s4">sachsen</span> die stehen immer wieder auf</p>
+<p begin="00:01:09.659" end="00:01:15.330" style="s2">genau wie wir und ich es wird nicht</p>
+<p begin="00:01:13.140" end="00:01:17.430" style="s2">passieren dass sie die unsere</p>
+<p begin="00:01:15.330" end="00:01:20.869" style="s2"><span style="s4">mitbewerber</span> sind uns in die ecke<span style="s4"> drängen</span></p>
+<p begin="00:01:17.430" end="00:01:20.869" style="s2">uns nicht</p>
+<p begin="00:01:25.740" end="00:01:32.500" style="s2">mein name ist<span style="s3"> bond viele von euch kennen</span></p>
+<p begin="00:01:29.820" end="00:01:34.720" style="s2"><span style="s3">mich</span> als verschiedenen<span style="s4"> wahlkämpfen</span> die</p>
+<p begin="00:01:32.500" end="00:01:38.200" style="s2">ich mit bestritten habe in<span style="s3"> allen</span></p>
+<p begin="00:01:34.720" end="00:01:40.660" style="s2"><span style="s4">bundesländern in hessen voriges jahr in</span></p>
+<p begin="00:01:38.200" end="00:01:44.530" style="s2">bayern in baden württemberg<span style="s4"> nur</span><span style="s3"> leider</span></p>
+<p begin="00:01:40.660" end="00:01:48.369" style="s2"><span style="s3">nicht</span><span style="s4"> dafür in allen ost ländern</span> als</p>
+<p begin="00:01:44.530" end="00:01:51.750" style="s2">vertreter von sachsen damit<span style="s3"> wir</span> euch<span style="s4"> uns</span></p>
+<p begin="00:01:48.369" end="00:01:51.750" style="s2">selber helfen werden</p>
+<p begin="00:01:55.719" end="00:02:02.390" style="s2">ich bin kandidat<span style="s4"> unserer</span> sächsischen</p>
+<p begin="00:01:58.159" end="00:02:06.950" style="s2">landesverbandes<span style="s4"> stamme aus freiberg der</span></p>
+<p begin="00:02:02.390" end="00:02:10.729" style="s2"><span style="s4">wiege</span><span style="s3"> des sächsischen verbandes</span><span style="s4"> bin</span> seit</p>
+<p begin="00:02:06.950" end="00:02:16.099" style="s2">30 jahren arbeitstätig das heißt immer</p>
+<p begin="00:02:10.729" end="00:02:18.769" style="s2">noch zu<span style="s3"> packen</span><span style="s4"> direkt</span> pragmatisch und</p>
+<p begin="00:02:16.099" end="00:02:21.500" style="s2">selbst muss man es machen<span style="s4"> ich</span> bin ein</p>
+<p begin="00:02:18.769" end="00:02:29.690" style="s2">macher der nichts auslässt damit wir</p>
+<p begin="00:02:21.500" end="00:02:33.200" style="s2"><span style="s3">vorwärtskommen</span><span style="s4"> darf die gehöre ich</span> seit</p>
+<p begin="00:02:29.690" end="00:02:36.079" style="s2">2005<span style="s4"> bin</span> mitglied was selbstverständlich</p>
+<p begin="00:02:33.200" end="00:02:39.380" style="s2">immer seine beiträge bezahlt hat<span style="s4"> bin</span></p>
+<p begin="00:02:36.079" end="00:02:41.450" style="s2">mitglied des landesvorstandes und dort</p>
+<p begin="00:02:39.380" end="00:02:44.930" style="s2">zuständig für die<span style="s3"> veranstaltungs-</span> und</p>
+<p begin="00:02:41.450" end="00:02:46.790" style="s2"><span style="s4">kampagnen</span> koordination also das was ihr</p>
+<p begin="00:02:44.930" end="00:02:49.130" style="s2">spürt und manche<span style="s3"> kennt</span><span style="s4"> auch</span> nur meine</p>
+<p begin="00:02:46.790" end="00:02:51.680" style="s2"><span style="s4">stimme</span> von chemnitz als</p>
+<p begin="00:02:49.130" end="00:02:55.040" style="s2">veranstaltungsleiter wo wir die größte</p>
+<p begin="00:02:51.680" end="00:02:58.099" style="s2">demo<span style="s4"> aller</span><span style="s3"> afd</span> mitglieder und freunde</p>
+<p begin="00:02:55.040" end="00:03:00.849" style="s2">hatten die<span style="s4"> ist</span> bundesweit durch alle</p>
+<p begin="00:02:58.099" end="00:03:00.849" style="s2">medien gegangen</p>
+<p begin="00:03:04.180" end="00:03:11.359" style="s2">dort wo ich ja<span style="s3"> kreis</span> mittelsachsen steht</p>
+<p begin="00:03:07.250" end="00:03:14.600" style="s2">unsere stärkste<span style="s4"> wahl ohne</span><span style="s3"> 55%</span> und<span style="s3"> ich</span></p>
+<p begin="00:03:11.359" end="00:03:16.880" style="s2">werde dieses jahr 55 jahre<span style="s4"> und</span> ich<span style="s3"> las</span></p>
+<p begin="00:03:14.600" end="00:03:20.820" style="s2">nichts aus dieses ergebnis<span style="s4"> wieder</span></p>
+<p begin="00:03:16.880" end="00:03:26.240" style="s2">anzustreben<span style="s4"> was</span> 55 und nicht strom da</p>
+<p begin="00:03:20.820" end="00:03:29.910" style="s2">[Applaus]</p>
+<p begin="00:03:26.240" end="00:03:31.890" style="s2">wir gehen in einer europawahl<span style="s4"> wir</span> gehen</p>
+<p begin="00:03:29.910" end="00:03:35.460" style="s2">in sachsen in<span style="s4"> eine</span> landtagswahl in eine</p>
+<p begin="00:03:31.890" end="00:03:37.650" style="s2">kommunalwahl in europa und überall</p>
+<p begin="00:03:35.460" end="00:03:40.860" style="s2"><span style="s3">anders</span><span style="s4"> stellen</span><span style="s3"> die</span> uns gegen eine clique</p>
+<p begin="00:03:37.650" end="00:03:43.830" style="s2">von politikern die kein verständnis mehr</p>
+<p begin="00:03:40.860" end="00:03:47.180" style="s2">hat für die menschen vor<span style="s4"> ort eine</span><span style="s3"> elite</span></p>
+<p begin="00:03:43.830" end="00:03:51.420" style="s2">die einfache leute verachtet jeden tag</p>
+<p begin="00:03:47.180" end="00:03:55.320" style="s2">deutlich sichtbar<span style="s3"> ihre</span><span style="s4"> anliegen</span></p>
+<p begin="00:03:51.420" end="00:03:57.450" style="s2">ignoriert wir gegen wir<span style="s4"> gegen</span> wir gehen</p>
+<p begin="00:03:55.320" end="00:04:02.870" style="s2">gegen die schlaumeier und besserwisser</p>
+<p begin="00:03:57.450" end="00:04:02.870" style="s2">und idioten vor nichts<span style="s4"> anderes</span> sind<span style="s4"> als</span></p>
+<p begin="00:04:04.940" end="00:04:10.110" style="s2">wenn ich<span style="s4"> stehe</span> und wenn ich höre<span style="s4"> wer</span></p>
+<p begin="00:04:07.380" end="00:04:12.030" style="s2"><span style="s4">sich</span><span style="s3"> statt</span> diese position nur arbeit hat</p>
+<p begin="00:04:10.110" end="00:04:13.020" style="s2">in den parlamenten dann<span style="s4"> sage</span> ich euch</p>
+<p begin="00:04:12.030" end="00:04:16.709" style="s2">meine freunde</p>
+<p begin="00:04:13.020" end="00:04:18.930" style="s2">die müssen wir<span style="s4"> raus</span> schlagen und wir</p>
+<p begin="00:04:16.709" end="00:04:21.030" style="s2">müssen sie jagen und<span style="s4"> wir</span><span style="s3"> werben sie</span></p>
+<p begin="00:04:18.930" end="00:04:23.760" style="s2"><span style="s4">jagen</span> unterlegen<span style="s4"> das</span> ist und mein</p>
+<p begin="00:04:21.030" end="00:04:26.960" style="s2">erklärtes ziel diesen saustall<span style="s3"> werde</span></p>
+<p begin="00:04:23.760" end="00:04:26.960" style="s2">deutlich ausräumen</p>
+<p begin="00:04:27.710" end="00:04:32.370" style="s2">es klingt vielleicht<span style="s3"> habt</span><span style="s4"> aber</span> wir</p>
+<p begin="00:04:30.240" end="00:04:36.360" style="s2">müssen es tun wenn wir die zukunft</p>
+<p begin="00:04:32.370" end="00:04:39.900" style="s2">unserer kinder und davon<span style="s3"> hab ich</span><span style="s4"> dich</span><span style="s3"> um</span></p>
+<p begin="00:04:36.360" end="00:04:42.030" style="s2">wenn wir altersarmut verhindern und wenn</p>
+<p begin="00:04:39.900" end="00:04:44.040" style="s2">wir eine zukunft für dieses deutschland</p>
+<p begin="00:04:42.030" end="00:04:46.800" style="s2">und europa gestalten wollen<span style="s4"> dann</span> geht</p>
+<p begin="00:04:44.040" end="00:04:48.960" style="s2"><span style="s4">das</span> nur so<span style="s4"> dass</span> wir deutlich sagen was</p>
+<p begin="00:04:46.800" end="00:04:51.000" style="s2">wir wollen deutlich machen was wir tun</p>
+<p begin="00:04:48.960" end="00:04:55.760" style="s2">werden und darauf könnt ihr euch</p>
+<p begin="00:04:51.000" end="00:04:55.760" style="s2">verlassen dass ich das auch durchziehen</p>
+<p begin="00:05:00.670" end="00:05:05.950" style="s2">wir sind die einzige partei<span style="s4"> für</span> dieses</p>
+<p begin="00:05:02.770" end="00:05:07.900" style="s2">parlament<span style="s3"> die</span> wichtig<span style="s3"> ist</span> wir haben</p>
+<p begin="00:05:05.950" end="00:05:09.940" style="s2">keinen einfluss im moment auf die</p>
+<p begin="00:05:07.900" end="00:05:12.880" style="s2">kommission<span style="s3"> wir</span> haben keinen<span style="s4"> einfluss</span> auf</p>
+<p begin="00:05:09.940" end="00:05:16.780" style="s2">den<span style="s3"> christoph</span><span style="s4"> und</span> den rat unsere stimme</p>
+<p begin="00:05:12.880" end="00:05:19.540" style="s2">in der eu können wir<span style="s3"> nun</span> deutlicher</p>
+<p begin="00:05:16.780" end="00:05:22.030" style="s2">werden<span style="s4"> lassen</span> wenn wir dort mit einer</p>
+<p begin="00:05:19.540" end="00:05:25.120" style="s2">großen anzahl von leuten<span style="s3"> reingehen</span> und</p>
+<p begin="00:05:22.030" end="00:05:30.130" style="s2"><span style="s4">uns</span> mit denen<span style="s3"> zusammen tun</span><span style="s4"> die</span> unserer</p>
+<p begin="00:05:25.120" end="00:05:32.830" style="s2">seele<span style="s3"> unserer</span> gedanken<span style="s3"> und</span><span style="s4"> unseren mut</span></p>
+<p begin="00:05:30.130" end="00:05:36.250" style="s2"><span style="s4">das</span> muss<span style="s4"> man</span><span style="s3"> dazu sagen mittragen dann</span></p>
+<p begin="00:05:32.830" end="00:05:40.360" style="s2">werden wir diese<span style="s4"> eu ändern</span><span style="s3"> von nord-</span></p>
+<p begin="00:05:36.250" end="00:05:42.520" style="s2"><span style="s3">süd- west- und</span> mitteleuropa wir werden</p>
+<p begin="00:05:40.360" end="00:05:51.610" style="s2">uns verbinden und vernetzen damit wir</p>
+<p begin="00:05:42.520" end="00:05:55.240" style="s2">diese<span style="s4"> ändern</span> werden<span style="s3"> wir sachsen haben</span></p>
+<p begin="00:05:51.610" end="00:05:58.020" style="s2">einen<span style="s4"> hohen</span> anspruch<span style="s4"> wir</span> wollen<span style="s3"> gewinnen</span></p>
+<p begin="00:05:55.240" end="00:06:01.960" style="s2">wir wollen<span style="s4"> das</span><span style="s3"> für den 8</span></p>
+<p begin="00:05:58.020" end="00:06:04.390" style="s2"><span style="s3">danke</span> für das zeichen<span style="s3"> glaubte 1 wie</span><span style="s4"> aus</span></p>
+<p begin="00:06:01.960" end="00:06:07.270" style="s2"><span style="s4">sachsen</span> haben es gezeigt wie es geht wir</p>
+<p begin="00:06:04.390" end="00:06:10.390" style="s2">sachsen werden weiterhin zeigen wie es</p>
+<p begin="00:06:07.270" end="00:06:13.210" style="s2">geht deshalb bitte ich euch<span style="s3"> eure stimme</span></p>
+<p begin="00:06:10.390" end="00:06:15.970" style="s2">mehr zu geben damit ich das im<span style="s4"> eu</span></p>
+<p begin="00:06:13.210" end="00:06:20.220" style="s2"><span style="s4">parlament</span> ebenfalls<span style="s4"> tun</span> kann und in der</p>
+<p begin="00:06:15.970" end="00:06:20.220" style="s2">region tätig sein<span style="s4"> darf</span><span style="s3"> dankeschön</span></p>
+</div>
+</body>
+</tt>

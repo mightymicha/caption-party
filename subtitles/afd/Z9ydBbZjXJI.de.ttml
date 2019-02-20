@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:06.240" end="00:00:10.210" style="s2">dieses gesetz<span style="s3"> unserer</span> landesregierung</p>
+<p begin="00:00:08.110" end="00:00:10.660" style="s2"><span style="s4">könnte</span> und dafür muss man kein prophet</p>
+<p begin="00:00:10.210" end="00:00:12.340" style="s2">sein</p>
+<p begin="00:00:10.660" end="00:00:14.590" style="s2">die<span style="s3"> konditionen</span> für unsere beamten<span style="s4"> im</span></p>
+<p begin="00:00:12.340" end="00:00:15.820" style="s2">land natürlich etwas besser<span style="s3"> waren</span> das</p>
+<p begin="00:00:14.590" end="00:00:17.830" style="s2">will schon was heißen denn nicht alle</p>
+<p begin="00:00:15.820" end="00:00:19.180" style="s2">aktivitäten der roten roten koalition</p>
+<p begin="00:00:17.830" end="00:00:20.710" style="s2">die sich das in den letzten jahren auf</p>
+<p begin="00:00:19.180" end="00:00:21.910" style="s2">die fahnen geschrieben hatten und das</p>
+<p begin="00:00:20.710" end="00:00:22.530" style="s2">waren wirklich nicht viele haben das</p>
+<p begin="00:00:21.910" end="00:00:24.970" style="s2">geschafft</p>
+<p begin="00:00:22.530" end="00:00:26.350" style="s2">ganz uneigennützig ist der oberste</p>
+<p begin="00:00:24.970" end="00:00:28.300" style="s2">dienstherr aber natürlich auch nicht</p>
+<p begin="00:00:26.350" end="00:00:30.220" style="s2"><span style="s4">stellt</span> sich das land doch damit<span style="s4"> dem</span></p>
+<p begin="00:00:28.300" end="00:00:32.050" style="s2">wettbewerb um neue beamte zu den übrigen</p>
+<p begin="00:00:30.220" end="00:00:34.629" style="s2">ländern ein kleines bisschen besser<span style="s3"> darf</span></p>
+<p begin="00:00:32.050" end="00:00:36.190" style="s2">außer brandenburg hat nur hamburg seit</p>
+<p begin="00:00:34.629" end="00:00:36.780" style="s2">dem letzten sommer<span style="s3"> ein</span> vergleichbares</p>
+<p begin="00:00:36.190" end="00:00:38.770" style="s2">gesetz</p>
+<p begin="00:00:36.780" end="00:00:40.360" style="s2">brandenburg will seinen beamten den weg</p>
+<p begin="00:00:38.770" end="00:00:41.260" style="s2">in die gesetzliche krankenversicherung</p>
+<p begin="00:00:40.360" end="00:00:43.239" style="s2">nun erleichtern</p>
+<p begin="00:00:41.260" end="00:00:45.430" style="s2">denn bisher gab es für diese kaum<span style="s4"> ein</span></p>
+<p begin="00:00:43.239" end="00:00:47.739" style="s2"><span style="s4">anreiz</span> nicht gesetzlich zu versichern</p>
+<p begin="00:00:45.430" end="00:00:49.600" style="s2">zwar stehen die krankenkassen auch<span style="s3"> ihnen</span></p>
+<p begin="00:00:47.739" end="00:00:51.280" style="s2">offen aber sie müssen dann sowohl den</p>
+<p begin="00:00:49.600" end="00:00:54.070" style="s2">arbeitgeberanteil als<span style="s3"> auf</span> den</p>
+<p begin="00:00:51.280" end="00:00:55.570" style="s2">arbeitnehmeranteil zahlen wenn sich</p>
+<p begin="00:00:54.070" end="00:00:57.130" style="s2">beamte hingegen für eine private</p>
+<p begin="00:00:55.570" end="00:00:58.780" style="s2">krankenvollversicherung entscheidend</p>
+<p begin="00:00:57.130" end="00:01:00.660" style="s2">übernimmt der dienstherr einen teil der</p>
+<p begin="00:00:58.780" end="00:01:04.540" style="s2">kosten über die individuelle beihilfe</p>
+<p begin="00:01:00.660" end="00:01:06.340" style="s2">ziel ist es<span style="s3"> nun das landesbeamte</span> ab 2020</p>
+<p begin="00:01:04.540" end="00:01:07.440" style="s2">eine pauschale beihilfe für die</p>
+<p begin="00:01:06.340" end="00:01:09.180" style="s2">freiwillige gesetzliche</p>
+<p begin="00:01:07.440" end="00:01:12.460" style="s2">krankenversicherung erhalten</p>
+<p begin="00:01:09.180" end="00:01:14.049" style="s2">der arbeitgeberanteil sondern die hälfte</p>
+<p begin="00:01:12.460" end="00:01:16.180" style="s2">der kranken kosten decken</p>
+<p begin="00:01:14.049" end="00:01:18.580" style="s2">analog zu der<span style="s4"> regelung</span> in der privaten</p>
+<p begin="00:01:16.180" end="00:01:20.049" style="s2">wirtschaft gelten soll<span style="s4"> das</span> für alle in</p>
+<p begin="00:01:18.580" end="00:01:21.790" style="s2"><span style="s4">brandenburg</span> bestehenden sowie<span style="s3"> neue</span></p>
+<p begin="00:01:20.049" end="00:01:24.100" style="s2">verbeamteten landesdiener die dann</p>
+<p begin="00:01:21.790" end="00:01:25.840" style="s2">wählen können ob sie die individuelle</p>
+<p begin="00:01:24.100" end="00:01:27.310" style="s2">beihilfen verbindet mit einer privaten</p>
+<p begin="00:01:25.840" end="00:01:29.650" style="s2">krankenversicherung in anspruch nehmen</p>
+<p begin="00:01:27.310" end="00:01:30.040" style="s2">wollen wie bisher oder sich freiwillig</p>
+<p begin="00:01:29.650" end="00:01:33.010" style="s2">in einer gesetzlichen</p>
+<p begin="00:01:30.040" end="00:01:34.560" style="s2">krankenversicherung anmelden dann<span style="s3"> wurde</span></p>
+<p begin="00:01:33.010" end="00:01:36.640" style="s2">die hier zur debatte stehen eine</p>
+<p begin="00:01:34.560" end="00:01:38.140" style="s2">pauschale<span style="s3"> wird quasi den</span></p>
+<p begin="00:01:36.640" end="00:01:40.479" style="s2">arbeitgeberanteil abdecken</p>
+<p begin="00:01:38.140" end="00:01:42.670" style="s2">mit diesem gesetz verbessert sich also</p>
+<p begin="00:01:40.479" end="00:01:45.369" style="s2">die situation für alle<span style="s3"> die</span> erstmalig vor</p>
+<p begin="00:01:42.670" end="00:01:47.320" style="s2">dieser wahl stehen und damit nun<span style="s4"> hat</span></p>
+<p begin="00:01:45.369" end="00:01:49.810" style="s2"><span style="s4">zwei</span> tatsächlich gleichwertige lösungen</p>
+<p begin="00:01:47.320" end="00:01:51.130" style="s2">zur auswahl haben<span style="s4"> verbessern</span> wird sich</p>
+<p begin="00:01:49.810" end="00:01:53.740" style="s2">aber auch die situation für all jene</p>
+<p begin="00:01:51.130" end="00:01:55.030" style="s2"><span style="s4">beamten die sich schon bisher für eine</span></p>
+<p begin="00:01:53.740" end="00:01:56.409" style="s2">gesetzliche krankenversicherung</p>
+<p begin="00:01:55.030" end="00:01:58.090" style="s2">entschieden hatten aber den vollen</p>
+<p begin="00:01:56.409" end="00:01:59.350" style="s2">versicherungsbeitrags bislang aus der</p>
+<p begin="00:01:58.090" end="00:02:01.720" style="s2">eigenen tasche zahlen mussten</p>
+<p begin="00:01:59.350" end="00:02:03.610" style="s2">sie werden nun durch die monatliche</p>
+<p begin="00:02:01.720" end="00:02:06.340" style="s2">zahlung der pauschalen beihilfe</p>
+<p begin="00:02:03.610" end="00:02:08.829" style="s2">entlastet schätzungen gehen davon aus</p>
+<p begin="00:02:06.340" end="00:02:10.479" style="s2">der<span style="s3"> finanzminister aventis</span><span style="s4"> dass</span> es sich</p>
+<p begin="00:02:08.829" end="00:02:11.970" style="s2">bei dieser gruppe in brandenburg um etwa</p>
+<p begin="00:02:10.479" end="00:02:14.070" style="s2"><span style="s3">4000</span> landesdiener</p>
+<p begin="00:02:11.970" end="00:02:15.930" style="s2"><span style="s4">könnte so ganz</span> genau weiß dass die</p>
+<p begin="00:02:14.070" end="00:02:17.430" style="s2">regierung aber anscheinend auch nicht</p>
+<p begin="00:02:15.930" end="00:02:19.790" style="s2">und das ist nicht die<span style="s3"> eins</span> das einzige</p>
+<p begin="00:02:17.430" end="00:02:22.080" style="s2">fragezeichen<span style="s4"> an</span> diesem<span style="s3"> gesetzentwurf</span></p>
+<p begin="00:02:19.790" end="00:02:23.820" style="s2">was wird das ganze die landeskasse</p>
+<p begin="00:02:22.080" end="00:02:24.810" style="s2">kosten das kann derzeit niemand genau</p>
+<p begin="00:02:23.820" end="00:02:26.790" style="s2">vorhersagen</p>
+<p begin="00:02:24.810" end="00:02:28.830" style="s2">es hängt von der genauen zahl der</p>
+<p begin="00:02:26.790" end="00:02:30.570" style="s2"><span style="s4">bestands</span> fälle aber auch davon ab<span style="s4"> wie</span></p>
+<p begin="00:02:28.830" end="00:02:32.220" style="s2"><span style="s4">viele</span> der<span style="s3"> neue</span> verbeamteten sich</p>
+<p begin="00:02:30.570" end="00:02:32.880" style="s2">zukünftig für welche lösung entscheiden</p>
+<p begin="00:02:32.220" end="00:02:35.160" style="s2">werden</p>
+<p begin="00:02:32.880" end="00:02:36.660" style="s2">so reden wir nach prognosen des</p>
+<p begin="00:02:35.160" end="00:02:38.610" style="s2">finanzministeriums über mehrkosten</p>
+<p begin="00:02:36.660" end="00:02:42.900" style="s2">zwischen<span style="s3"> 11</span> einhalb millionen euro<span style="s4"> und</span></p>
+<p begin="00:02:38.610" end="00:02:45.630" style="s2"><span style="s4">2020 und 16 9 millionen euro</span> und 2024</p>
+<p begin="00:02:42.900" end="00:02:47.340" style="s2">das ist eine menge geld und ob die</p>
+<p begin="00:02:45.630" end="00:02:48.690" style="s2"><span style="s4">beamten</span> dann wirklich zufriedener sind</p>
+<p begin="00:02:47.340" end="00:02:50.490" style="s2"><span style="s3">da von ihm zumindest die</span></p>
+<p begin="00:02:48.690" end="00:02:53.940" style="s2">verfahrensbeteiligten<span style="s3"> die</span> werk schafften</p>
+<p begin="00:02:50.490" end="00:02:55.440" style="s2">aus und das bleibt abzuwarten ob sich</p>
+<p begin="00:02:53.940" end="00:02:57.150" style="s2">mit dieser<span style="s3"> maßnahme</span> entscheidend mehr</p>
+<p begin="00:02:55.440" end="00:02:58.980" style="s2">neue landes die er gewinnen und halten</p>
+<p begin="00:02:57.150" end="00:02:59.820" style="s2">lassen werden das wird man auch erst</p>
+<p begin="00:02:58.980" end="00:03:02.130" style="s2">recht sehen müssen</p>
+<p begin="00:02:59.820" end="00:03:03.780" style="s2">die rendite dieser<span style="s4"> pauschalen</span> beihilfe</p>
+<p begin="00:03:02.130" end="00:03:04.620" style="s2">ist im moment also noch mit fragezeichen</p>
+<p begin="00:03:03.780" end="00:03:07.140" style="s2">versehen</p>
+<p begin="00:03:04.620" end="00:03:08.490" style="s2">dies einmal mehr als die privaten</p>
+<p begin="00:03:07.140" end="00:03:10.380" style="s2">krankenversicherung nicht untätig</p>
+<p begin="00:03:08.490" end="00:03:12.420" style="s2">bleiben werden<span style="s4"> ihr</span> angebot<span style="s3"> für</span></p>
+<p begin="00:03:10.380" end="00:03:14.340" style="s2">landesbedienstete attraktiver zu machen</p>
+<p begin="00:03:12.420" end="00:03:16.050" style="s2">ihre seit jahren bestehende</p>
+<p begin="00:03:14.340" end="00:03:17.970" style="s2">eröffnungsaktion für<span style="s4"> beide</span><span style="s3"> verbrechen</span></p>
+<p begin="00:03:16.050" end="00:03:19.530" style="s2"><span style="s4">der beamte wird erweitert und gilt seit</span></p>
+<p begin="00:03:17.970" end="00:03:20.780" style="s2">diesem jahr<span style="s3"> nur</span> nun auch schon für</p>
+<p begin="00:03:19.530" end="00:03:23.040" style="s2">beamte auf widerruf</p>
+<p begin="00:03:20.780" end="00:03:24.720" style="s2">damit<span style="s3"> zielt</span> man<span style="s4"> jetzt</span> auf<span style="s4"> dieselbe</span></p>
+<p begin="00:03:23.040" end="00:03:26.610" style="s2">zielgruppe<span style="s4"> die</span> auch unsere</p>
+<p begin="00:03:24.720" end="00:03:28.140" style="s2">landesregierung mit der pauschalen<span style="s3"> weise</span></p>
+<p begin="00:03:26.610" end="00:03:30.209" style="s2">erreichen will nämlich all die</p>
+<p begin="00:03:28.140" end="00:03:32.070" style="s2">kandidaten die man gerne als neue</p>
+<p begin="00:03:30.209" end="00:03:34.080" style="s2"><span style="s3">beamten</span> im landesdienst<span style="s3"> sehen</span> würde um</p>
+<p begin="00:03:32.070" end="00:03:35.090" style="s2">diese zu verstärken<span style="s3"> aber vor allem auch</span></p>
+<p begin="00:03:34.080" end="00:03:37.590" style="s2">zu verjüngen</p>
+<p begin="00:03:35.090" end="00:03:39.239" style="s2">da<span style="s3"> wiegt es umso schwerer</span><span style="s4"> dass</span> die neue</p>
+<p begin="00:03:37.590" end="00:03:41.280" style="s2">regelung in<span style="s3"> brandenburg</span> frühestens ab</p>
+<p begin="00:03:39.239" end="00:03:42.510" style="s2">januar 2020 gelten soll</p>
+<p begin="00:03:41.280" end="00:03:45.959" style="s2">warum nicht schon ab dem zweiten</p>
+<p begin="00:03:42.510" end="00:03:48.209" style="s2">halbjahr<span style="s4"> 2009 10 wieder die</span><span style="s3"> dgs</span> anregt</p>
+<p begin="00:03:45.959" end="00:03:50.670" style="s2">hier räumt die regierung ein dass noch</p>
+<p begin="00:03:48.209" end="00:03:52.140" style="s2">viele technische verfahrens<span style="s3"> mäßige</span><span style="s4"> und</span></p>
+<p begin="00:03:50.670" end="00:03:54.570" style="s2">personelle voraussetzungen für die</p>
+<p begin="00:03:52.140" end="00:03:56.519" style="s2">einführung zu schaffen sein<span style="s4"> um</span> zum start</p>
+<p begin="00:03:54.570" end="00:03:57.980" style="s2">der<span style="s3"> start um alle versprochenen</span></p>
+<p begin="00:03:56.519" end="00:03:59.519" style="s2">leistungen allen anspruchsberechtigten</p>
+<p begin="00:03:57.980" end="00:04:01.860" style="s2">liefern zu können</p>
+<p begin="00:03:59.519" end="00:04:03.630" style="s2">hier sehe ich meine damen und herren das</p>
+<p begin="00:04:01.860" end="00:04:05.760" style="s2"><span style="s3">fast</span> das größte problem in diesem</p>
+<p begin="00:04:03.630" end="00:04:07.080" style="s2">projekt<span style="s4"> ich</span> habe<span style="s4"> den</span> eindruck hier soll</p>
+<p begin="00:04:05.760" end="00:04:08.610" style="s2">noch vor der wahl ein gesetz</p>
+<p begin="00:04:07.080" end="00:04:09.959" style="s2">durchgedrückt werden welches<span style="s3"> bayerisch</span></p>
+<p begin="00:04:08.610" end="00:04:10.739" style="s2">bei licht betrachtet noch gar nicht</p>
+<p begin="00:04:09.959" end="00:04:12.840" style="s2">marktreif ist</p>
+<p begin="00:04:10.739" end="00:04:14.340" style="s2">man will mit erheblichen<span style="s3"> einführungs-</span></p>
+<p begin="00:04:12.840" end="00:04:16.200" style="s2">und später durch schulungsaufwand eine</p>
+<p begin="00:04:14.340" end="00:04:18.750" style="s2">zielgruppe bedienen<span style="s4"> die</span> man heute noch</p>
+<p begin="00:04:16.200" end="00:04:20.580" style="s2">gar nicht quantifizieren kann und deren</p>
+<p begin="00:04:18.750" end="00:04:22.049" style="s2"><span style="s3">gequälten</span><span style="s4"> ausschreibungen ungerechte</span><span style="s3"> und</span></p>
+<p begin="00:04:20.580" end="00:04:23.460" style="s2"><span style="s3">ungerechter ungleich</span></p>
+<p begin="00:04:22.049" end="00:04:26.069" style="s2">nun habe ich<span style="s4"> bisher</span> auch<span style="s4"> noch gar nicht</span></p>
+<p begin="00:04:23.460" end="00:04:27.300" style="s2">gehört es scheint abgesehen von hamburg</p>
+<p begin="00:04:26.069" end="00:04:28.770" style="s2">auch in anderen ländern nicht so</p>
+<p begin="00:04:27.300" end="00:04:29.970" style="s2">fürchterlich<span style="s4"> laut</span> zu tönen</p>
+<p begin="00:04:28.770" end="00:04:31.979" style="s2">sonst hätten schon mehr länder</p>
+<p begin="00:04:29.970" end="00:04:34.500" style="s2">handlungsbedarf erkannt und<span style="s3"> ehrliche</span></p>
+<p begin="00:04:31.979" end="00:04:36.360" style="s2"><span style="s4">gesetzes</span><span style="s3"> vorentwürfe</span><span style="s4"> in</span> vorbereitung</p>
+<p begin="00:04:34.500" end="00:04:38.569" style="s2"><span style="s4">meines</span> wissens ist<span style="s3"> das</span> aber nicht der</p>
+<p begin="00:04:36.360" end="00:04:41.099" style="s2">fall und was ist mein fazit daraus</p>
+<p begin="00:04:38.569" end="00:04:42.930" style="s2"><span style="s4">entsteht</span> möglicherweise etwas gutes für</p>
+<p begin="00:04:41.099" end="00:04:44.789" style="s2"><span style="s4">unsere</span> heutigen und<span style="s4"> zukünftigen</span> beamten</p>
+<p begin="00:04:42.930" end="00:04:46.319" style="s2"><span style="s3">zudem wollen wir</span><span style="s4"> uns</span> keinesfalls als</p>
+<p begin="00:04:44.789" end="00:04:48.120" style="s2">bedenkenträger in den weg stellen<span style="s3"> und</span></p>
+<p begin="00:04:46.319" end="00:04:49.560" style="s2"><span style="s3">deshalb</span> stimmen wir für die<span style="s4"> überweisung</span></p>
+<p begin="00:04:48.120" end="00:04:50.849" style="s2"><span style="s4">im</span><span style="s3"> haushalts</span> und finanzausschuss und</p>
+<p begin="00:04:49.560" end="00:04:52.530" style="s2">auch in den sozialausschuss</p>
+<p begin="00:04:50.849" end="00:04:54.750" style="s2">dort werden wir uns mit den eben</p>
+<p begin="00:04:52.530" end="00:04:57.870" style="s2">skizzierten fragen intensiv beschäftigen</p>
+<p begin="00:04:54.750" end="00:04:59.550" style="s2">und sehen ob wir<span style="s3"> ob</span> und wie wir aus</p>
+<p begin="00:04:57.870" end="00:05:01.169" style="s2">diesem<span style="s3"> gesetzesentwurf</span> einen wirklichen</p>
+<p begin="00:04:59.550" end="00:05:02.810" style="s2">gewinn für unser land machen können</p>
+<p begin="00:05:01.169" end="00:05:06.560" style="s2">vielen dank</p>
+<p begin="00:05:02.810" end="00:05:06.560" style="s2">[Applaus]</p>
+</div>
+</body>
+</tt>

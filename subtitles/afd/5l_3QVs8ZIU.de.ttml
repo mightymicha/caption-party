@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:02.770" end="00:00:10.740" style="s2">[Applaus]</p>
+<p begin="00:00:15.570" end="00:00:18.939" style="s2"><span style="s3">schönen</span> guten<span style="s3"> abend</span> liebe freunde<span style="s3"> liebe</span></p>
+<p begin="00:00:18.550" end="00:00:21.610" style="s2"><span style="s3">gäste</span></p>
+<p begin="00:00:18.939" end="00:00:23.769" style="s2">ich gehe davon<span style="s4"> aus ist</span><span style="s3"> überwiegend auf</span></p>
+<p begin="00:00:21.610" end="00:00:27.189" style="s2"><span style="s4">die</span><span style="s3"> mitglieder</span> und sympathisanten hier</p>
+<p begin="00:00:23.769" end="00:00:29.220" style="s2">im raum sind<span style="s4"> höhere</span> kein laut lauten</p>
+<p begin="00:00:27.189" end="00:00:31.599" style="s2"><span style="s4">widerhall</span> also wird es<span style="s3"> so</span> sein</p>
+<p begin="00:00:29.220" end="00:00:35.559" style="s2">das ist gut und das ist auch schön so</p>
+<p begin="00:00:31.599" end="00:00:37.960" style="s2">obwohl wir opposition kennen und auch</p>
+<p begin="00:00:35.559" end="00:00:40.269" style="s2">opposition können<span style="s3"> bevor</span> ich zu meinem</p>
+<p begin="00:00:37.960" end="00:00:43.479" style="s2">thema und sebastian<span style="s3"> schulze</span> hat es</p>
+<p begin="00:00:40.269" end="00:00:45.280" style="s2">erwähnt ihnen etwas<span style="s3"> sagen</span> möchte ich</p>
+<p begin="00:00:43.479" end="00:00:48.210" style="s2"><span style="s3">eine</span> kleine<span style="s3"> einleitung</span> geben um über</p>
+<p begin="00:00:45.280" end="00:00:51.040" style="s2">sicherheit allgemein zu sprechen<span style="s4"> aber</span></p>
+<p begin="00:00:48.210" end="00:00:53.049" style="s2"><span style="s4">ich möchte auch weil mein kollege</span></p>
+<p begin="00:00:51.040" end="00:00:56.140" style="s2"><span style="s3">gottschalk richtigerweise</span><span style="s4"> unser</span> polizei</p>
+<p begin="00:00:53.049" end="00:00:58.239" style="s2">gedankt hat sebastian<span style="s3"> schulze</span> und seinem</p>
+<p begin="00:00:56.140" end="00:01:00.220" style="s2">team die<span style="s3"> das hier vorbereitet haben</span></p>
+<p begin="00:00:58.239" end="00:01:01.629" style="s2">organisiert und geplant haben und uns</p>
+<p begin="00:01:00.220" end="00:01:03.339" style="s2">heute zur verfügung gestellt haben für</p>
+<p begin="00:01:01.629" end="00:01:05.760" style="s2">diese veranstaltung recht herzlich</p>
+<p begin="00:01:03.339" end="00:01:05.760" style="s2"><span style="s4">danken</span></p>
+<p begin="00:01:09.610" end="00:01:13.130" style="s2">liebe freunde und ich bleibe ja mal<span style="s4"> aber</span></p>
+<p begin="00:01:11.780" end="00:01:17.620" style="s2"><span style="s4">dieser</span> andere<span style="s4"> idee</span><span style="s3"> wir</span> erleben seit</p>
+<p begin="00:01:13.130" end="00:01:20.240" style="s2">einigen jahren eine<span style="s4"> links-grüne</span></p>
+<p begin="00:01:17.620" end="00:01:24.580" style="s2">meinungsführerschaft in unserem land die</p>
+<p begin="00:01:20.240" end="00:01:28.970" style="s2">uns eine bunte offene und teilbare</p>
+<p begin="00:01:24.580" end="00:01:30.970" style="s2">gesellschaft gesellschaft eine bunte</p>
+<p begin="00:01:28.970" end="00:01:32.540" style="s2"><span style="s4">teilbare</span> und offene gesellschaft</p>
+<p begin="00:01:30.970" end="00:01:34.810" style="s2">überführen will</p>
+<p begin="00:01:32.540" end="00:01:38.240" style="s2">wir erleben einen<span style="s3"> einen</span> gutmenschentum</p>
+<p begin="00:01:34.810" end="00:01:42.140" style="s2"><span style="s3">das ausschließlich auf</span><span style="s4"> konz ihren auf</span></p>
+<p begin="00:01:38.240" end="00:01:43.940" style="s2">konsens und auf schlichtung ausgelegt</p>
+<p begin="00:01:42.140" end="00:01:46.280" style="s2">ist und dabei<span style="s3"> wähle</span> ich jetzt nur noch</p>
+<p begin="00:01:43.940" end="00:01:49.030" style="s2">in diesem fall eine sehr<span style="s3"> positives</span></p>
+<p begin="00:01:46.280" end="00:01:52.480" style="s2"><span style="s3">tische</span> darstellung dieser</p>
+<p begin="00:01:49.030" end="00:01:55.220" style="s2">bewusstseinsebene in meiner aufgabe als</p>
+<p begin="00:01:52.480" end="00:01:58.400" style="s2">mandatsträger erlebe ich diese menschen</p>
+<p begin="00:01:55.220" end="00:02:01.880" style="s2">tagtäglich leider befinden sie sich auch</p>
+<p begin="00:01:58.400" end="00:02:04.520" style="s2">in regierungsverantwortung sie ergehen</p>
+<p begin="00:02:01.880" end="00:02:08.030" style="s2">sich in unendlichen verfahrens</p>
+<p begin="00:02:04.520" end="00:02:10.730" style="s2"><span style="s3">diskussion</span> besitzen aber nicht die</p>
+<p begin="00:02:08.030" end="00:02:15.290" style="s2">fähigkeit entscheidung zu treffen</p>
+<p begin="00:02:10.730" end="00:02:19.459" style="s2">diese diese infantile weltfremdheit die</p>
+<p begin="00:02:15.290" end="00:02:22.459" style="s2">sich dazu noch im daueren moralisieren</p>
+<p begin="00:02:19.459" end="00:02:24.500" style="s2">und in einer besserwisserei ausdrückt</p>
+<p begin="00:02:22.459" end="00:02:28.120" style="s2">ist typisch typisch für diesen</p>
+<p begin="00:02:24.500" end="00:02:31.940" style="s2"><span style="s4">rot-grünen sogenannten</span><span style="s3"> mainstream</span></p>
+<p begin="00:02:28.120" end="00:02:34.750" style="s2">großbritannien und auch frankreich sind</p>
+<p begin="00:02:31.940" end="00:02:38.270" style="s2">diesbezüglich viel viel weiter</p>
+<p begin="00:02:34.750" end="00:02:40.459" style="s2">und die wissen zum beispiel<span style="s3"> diese</span> länder</p>
+<p begin="00:02:38.270" end="00:02:43.730" style="s2">wissen zum beispiel dass ein souveräner</p>
+<p begin="00:02:40.459" end="00:02:47.000" style="s2">staat seine grenzen kontrolliert und sie</p>
+<p begin="00:02:43.730" end="00:02:49.670" style="s2">tun es auch wenn merkel sagt wir können</p>
+<p begin="00:02:47.000" end="00:02:53.360" style="s2">diese wir können unsere grenze gar nicht</p>
+<p begin="00:02:49.670" end="00:02:56.360" style="s2">kontrollieren<span style="s4"> reize sich in</span> die liga der</p>
+<p begin="00:02:53.360" end="00:02:57.320" style="s2">verfallenen staaten wie zum beispiel in</p>
+<p begin="00:02:56.360" end="00:02:59.900" style="s2">afrika ein</p>
+<p begin="00:02:57.320" end="00:03:03.080" style="s2">ein franzose ein<span style="s4"> brite</span> ein schweizer</p>
+<p begin="00:02:59.900" end="00:03:05.300" style="s2">würde das<span style="s3"> lieber</span> sagen die wundern sich</p>
+<p begin="00:03:03.080" end="00:03:08.769" style="s2">nur darüber was bei uns in deutschland</p>
+<p begin="00:03:05.300" end="00:03:11.190" style="s2">abgeht was läuft falsch in unserem staat</p>
+<p begin="00:03:08.769" end="00:03:13.440" style="s2"><span style="s3">die</span> bedürfnisse</p>
+<p begin="00:03:11.190" end="00:03:15.960" style="s2">der menschen werden nicht mehr ernst</p>
+<p begin="00:03:13.440" end="00:03:16.920" style="s2">genommen seit 50 jahren entwickelt sich</p>
+<p begin="00:03:15.960" end="00:03:20.910" style="s2">in deutschland ein</p>
+<p begin="00:03:16.920" end="00:03:23.060" style="s2"><span style="s4">das</span><span style="s3"> system</span> von<span style="s3"> schmarotzenden</span> eliten die</p>
+<p begin="00:03:20.910" end="00:03:26.370" style="s2">sich auf kosten der wertschöpfenden</p>
+<p begin="00:03:23.060" end="00:03:27.160" style="s2">arbeitenden bevölkerung<span style="s3"> bereichen wie</span></p>
+<p begin="00:03:26.370" end="00:03:30.950" style="s2">konnte es</p>
+<p begin="00:03:27.160" end="00:03:33.390" style="s2">[Applaus]</p>
+<p begin="00:03:30.950" end="00:03:38.180" style="s2">wie konnte es dazu kommen</p>
+<p begin="00:03:33.390" end="00:03:42.660" style="s2"><span style="s3">ein</span><span style="s4"> zerstörerischer</span><span style="s3"> krieg</span> eine 68er</p>
+<p begin="00:03:38.180" end="00:03:45.870" style="s2">revolution ein hass auf<span style="s3"> deutschland</span> von</p>
+<p begin="00:03:42.660" end="00:03:48.960" style="s2">innen heraus und ein<span style="s4"> hoch stilisierte</span></p>
+<p begin="00:03:45.870" end="00:03:51.870" style="s2">schuldkomplex der den nachfolgenden</p>
+<p begin="00:03:48.960" end="00:03:54.660" style="s2"><span style="s3">generation</span> bis heute in den</p>
+<p begin="00:03:51.870" end="00:03:56.970" style="s2">bildungseinrichtungen in denen die<span style="s4"> links</span></p>
+<p begin="00:03:54.660" end="00:03:59.550" style="s2">links<span style="s3"> grün</span> die deutungshoheit haben</p>
+<p begin="00:03:56.970" end="00:04:02.640" style="s2">gewonnen haben<span style="s4"> ein geimpft</span><span style="s3"> werden</span></p>
+<p begin="00:03:59.550" end="00:04:04.830" style="s2">wie konnte es so weit kommen dass diese</p>
+<p begin="00:04:02.640" end="00:04:07.230" style="s2">menschen<span style="s4"> den und</span><span style="s3"> dessen</span> land<span style="s3"> all</span> das</p>
+<p begin="00:04:04.830" end="00:04:07.740" style="s2">fremde lieben aber das eigene so sehr</p>
+<p begin="00:04:07.230" end="00:04:11.840" style="s2">hassen</p>
+<p begin="00:04:07.740" end="00:04:14.510" style="s2"><span style="s4">frei nach</span><span style="s3"> max</span> weber hat sich die</p>
+<p begin="00:04:11.840" end="00:04:17.330" style="s2"><span style="s4">verantwortung tätig bei diesem</span> menschen</p>
+<p begin="00:04:14.510" end="00:04:20.370" style="s2">verabschiedet und ist zu einer reinen</p>
+<p begin="00:04:17.330" end="00:04:21.959" style="s2">gesinnungsethik<span style="s3"> rüber gelaufen und</span></p>
+<p begin="00:04:20.370" end="00:04:24.660" style="s2">darüber gelassen worden</p>
+<p begin="00:04:21.959" end="00:04:27.710" style="s2">in dieser logik hat sich auch der</p>
+<p begin="00:04:24.660" end="00:04:31.800" style="s2">sprachgebrauch geändert wir befinden uns</p>
+<p begin="00:04:27.710" end="00:04:34.530" style="s2">ich<span style="s4"> sags</span> mal<span style="s4"> so</span> in der ddr 2.0<span style="s3"> sagen</span></p>
+<p begin="00:04:31.800" end="00:04:37.020" style="s2">gesagt werden darf nur das was der</p>
+<p begin="00:04:34.530" end="00:04:40.470" style="s2"><span style="s4">hertie</span> herrschenden elite opportun</p>
+<p begin="00:04:37.020" end="00:04:43.380" style="s2">erscheint wer nicht spurt den wird die</p>
+<p begin="00:04:40.470" end="00:04:45.660" style="s2">deutsche schuld und wenn das nicht</p>
+<p begin="00:04:43.380" end="00:04:47.940" style="s2">reicht die rassismus keule und die</p>
+<p begin="00:04:45.660" end="00:04:51.110" style="s2">nazikeule vorgehalten<span style="s3"> und</span> das erleben</p>
+<p begin="00:04:47.940" end="00:04:54.030" style="s2"><span style="s3">sie und das erleben wir tagtäglich aber</span></p>
+<p begin="00:04:51.110" end="00:04:56.550" style="s2">es<span style="s3"> gibt ja jetzt uns die afd</span></p>
+<p begin="00:04:54.030" end="00:04:58.320" style="s2">die alternative für deutschland wir</p>
+<p begin="00:04:56.550" end="00:04:59.700" style="s2">werden unseren<span style="s3"> staat</span> wieder zu einem</p>
+<p begin="00:04:58.320" end="00:05:03.720" style="s2"><span style="s3">rechtsstaat</span> entwickeln</p>
+<p begin="00:04:59.700" end="00:05:06.570" style="s2">wir werden als abgeordnete<span style="s4"> den</span><span style="s3"> auftrag</span></p>
+<p begin="00:05:03.720" end="00:05:08.640" style="s2">dem wohl des deutschen volkes zu dienen</p>
+<p begin="00:05:06.570" end="00:05:10.830" style="s2"><span style="s4">nachkommen</span> wir werden die grundlage</p>
+<p begin="00:05:08.640" end="00:05:12.300" style="s2">eines souveränen staates<span style="s4"> wieder</span></p>
+<p begin="00:05:10.830" end="00:05:12.750" style="s2"><span style="s4">herstellen</span><span style="s3"> und</span> darauf<span style="s4"> wirklich</span><span style="s3"> noch</span></p>
+<p begin="00:05:12.300" end="00:05:16.919" style="s2">kommen</p>
+<p begin="00:05:12.750" end="00:05:19.770" style="s2"><span style="s4">kurz gefasst wir wollen das was in der</span></p>
+<p begin="00:05:16.919" end="00:05:23.380" style="s2">drei elementen<span style="s4"> lehre</span> verhaftet ist</p>
+<p begin="00:05:19.770" end="00:05:25.300" style="s2">staatsvolk staatsgebiet und</p>
+<p begin="00:05:23.380" end="00:05:28.810" style="s2">staatsgewalt<span style="s3"> wieder herstellen denn sie</span></p>
+<p begin="00:05:25.300" end="00:05:31.960" style="s2">sind diese drei dinge sind die basis</p>
+<p begin="00:05:28.810" end="00:05:34.450" style="s2">unseres rechtsstaats sie zu schätzen und</p>
+<p begin="00:05:31.960" end="00:05:37.200" style="s2">zu bewahren muss<span style="s4"> aller</span> unser aller</p>
+<p begin="00:05:34.450" end="00:05:37.200" style="s2">aufgabe<span style="s4"> sein</span></p>
+<p begin="00:05:39.210" end="00:05:44.010" style="s2">nur ein funktionierender staat</p>
+<p begin="00:05:42.030" end="00:05:47.710" style="s2">garantiert den menschen sicherheit</p>
+<p begin="00:05:44.010" end="00:05:50.940" style="s2">sicherheit ist eine schutzhülle</p>
+<p begin="00:05:47.710" end="00:05:54.520" style="s2">schutzhülle sie bietet den raum für die</p>
+<p begin="00:05:50.940" end="00:05:57.250" style="s2">kulturelle und soziale geistige und</p>
+<p begin="00:05:54.520" end="00:05:59.130" style="s2">wissenschaftliche sowie wirtschaftliche</p>
+<p begin="00:05:57.250" end="00:06:02.860" style="s2">und technologische entwicklung</p>
+<p begin="00:05:59.130" end="00:06:05.590" style="s2">sicherheit bietet bietet den raum für</p>
+<p begin="00:06:02.860" end="00:06:08.080" style="s2">die entwicklung einer gesellschaft in</p>
+<p begin="00:06:05.590" end="00:06:10.840" style="s2">frieden und freiheit das leben von</p>
+<p begin="00:06:08.080" end="00:06:18.940" style="s2">völkern und nationen nebeneinander und</p>
+<p begin="00:06:10.840" end="00:06:21.040" style="s2"><span style="s4">in</span> das war also<span style="s3"> was jan</span><span style="s4"> schulze das</span></p>
+<p begin="00:06:18.940" end="00:06:23.860" style="s2"><span style="s3">wissen</span><span style="s4"> schon</span> das leben von völkern und</p>
+<p begin="00:06:21.040" end="00:06:26.770" style="s2">nationen in nebeneinander und in</p>
+<p begin="00:06:23.860" end="00:06:30.180" style="s2">friedlicher koexistenz so wie wir es</p>
+<p begin="00:06:26.770" end="00:06:32.970" style="s2">wollen ist kein widerspruch dazu die</p>
+<p begin="00:06:30.180" end="00:06:36.030" style="s2">argumentation der<span style="s4"> sogenannten</span></p>
+<p begin="00:06:32.970" end="00:06:38.560" style="s2"><span style="s4">linksgrünen</span> eliten<span style="s4"> das</span></p>
+<p begin="00:06:36.030" end="00:06:41.380" style="s2">nationalstaatlichkeit oder sogar die</p>
+<p begin="00:06:38.560" end="00:06:45.220" style="s2"><span style="s3">entwerten</span> der definition von</p>
+<p begin="00:06:41.380" end="00:06:47.770" style="s2">nationalismus zu kriegen<span style="s3"> führen</span> ist zu</p>
+<p begin="00:06:45.220" end="00:06:51.190" style="s2">widerlegen<span style="s3"> den</span> mitgliedern und</p>
+<p begin="00:06:47.770" end="00:06:53.890" style="s2">sympathisanten der afg also ihnen<span style="s3"> kommt</span></p>
+<p begin="00:06:51.190" end="00:06:58.420" style="s2">bei der existenzsicherung<span style="s3"> unserer</span> nation</p>
+<p begin="00:06:53.890" end="00:07:02.680" style="s2">eine<span style="s4"> bedeutendere</span> bedeutung zu wir sie</p>
+<p begin="00:06:58.420" end="00:07:06.240" style="s2">haben<span style="s3"> zu</span> beweisen dass wir die wahren</p>
+<p begin="00:07:02.680" end="00:07:09.210" style="s2">patrioten sind und warum patriotismus</p>
+<p begin="00:07:06.240" end="00:07:13.600" style="s2">mehr ist als nur eine emotionale</p>
+<p begin="00:07:09.210" end="00:07:15.750" style="s2">verbundenheit<span style="s4"> unserer</span> patriotismus so</p>
+<p begin="00:07:13.600" end="00:07:18.970" style="s2">wie wir ihn kennen und leben wollen</p>
+<p begin="00:07:15.750" end="00:07:23.590" style="s2">definiert die ethnische kulturelle</p>
+<p begin="00:07:18.970" end="00:07:26.440" style="s2">historische christliche politische und</p>
+<p begin="00:07:23.590" end="00:07:28.800" style="s2">historische internet identität im</p>
+<p begin="00:07:26.440" end="00:07:33.710" style="s2">deutschen sprachraum in<span style="s3"> zentraleuropa</span></p>
+<p begin="00:07:28.800" end="00:07:36.040" style="s2"><span style="s4">die</span><span style="s3"> mär</span> von der offenen<span style="s4"> wunden</span></p>
+<p begin="00:07:33.710" end="00:07:37.190" style="s2">teil<span style="s3"> waren</span> gesellschaft ist zu</p>
+<p begin="00:07:36.040" end="00:07:39.950" style="s2">widerlegen</p>
+<p begin="00:07:37.190" end="00:07:40.940" style="s2">sie hat nämlich genau die da ihre</p>
+<p begin="00:07:39.950" end="00:07:44.600" style="s2">grenzen</p>
+<p begin="00:07:40.940" end="00:07:47.380" style="s2">genau da ihre grenzen wo die<span style="s4"> nutznießer</span></p>
+<p begin="00:07:44.600" end="00:07:50.600" style="s2"><span style="s3">dieser</span> strömung für ihr lebenskonzept</p>
+<p begin="00:07:47.380" end="00:07:53.900" style="s2">auf der basis und ich wiederhole mich</p>
+<p begin="00:07:50.600" end="00:07:56.830" style="s2">einer definierten einer definierten</p>
+<p begin="00:07:53.900" end="00:07:59.720" style="s2">menge von wirtschaftenden menschen</p>
+<p begin="00:07:56.830" end="00:08:03.890" style="s2">ausbeuterisch leben und sich aufbauen</p>
+<p begin="00:07:59.720" end="00:08:05.800" style="s2"><span style="s3">das</span> was diese menschen machen<span style="s3"> das</span> ist es</p>
+<p begin="00:08:03.890" end="00:08:15.220" style="s2">in wahrheit was unsere gesellschaft</p>
+<p begin="00:08:05.800" end="00:08:19.520" style="s2">spaltet in der in der politischen</p>
+<p begin="00:08:15.220" end="00:08:21.460" style="s2">parteien landschaft spiegelt die</p>
+<p begin="00:08:19.520" end="00:08:23.660" style="s2">entwicklung dieser ausrichtung</p>
+<p begin="00:08:21.460" end="00:08:25.970" style="s2">letztendlich das<span style="s4"> wieder</span><span style="s3"> was</span> wir im</p>
+<p begin="00:08:23.660" end="00:08:32.750" style="s2">moment erleben die polarisierung</p>
+<p begin="00:08:25.970" end="00:08:35.510" style="s2">zwischen den grünen und der pds ist ja</p>
+<p begin="00:08:32.750" end="00:08:37.850" style="s2">es ist eine entwicklung der antipoden</p>
+<p begin="00:08:35.510" end="00:08:39.860" style="s2">über die anderen parteien die kleineren</p>
+<p begin="00:08:37.850" end="00:08:43.460" style="s2">werde ich vielleicht kurz<span style="s4"> noch mal</span><span style="s3"> reden</span></p>
+<p begin="00:08:39.860" end="00:08:45.710" style="s2">gleich wir werden bekämpft und<span style="s3"> warum</span></p>
+<p begin="00:08:43.460" end="00:08:48.290" style="s2">werden<span style="s4"> bekämpft</span> wir stellen eine</p>
+<p begin="00:08:45.710" end="00:08:50.990" style="s2">bedrohung für diese<span style="s4"> linksgrüne</span></p>
+<p begin="00:08:48.290" end="00:08:53.780" style="s2">deutungshoheit her<span style="s4"> aber</span> immer mehr</p>
+<p begin="00:08:50.990" end="00:08:56.180" style="s2">menschen und ich sage das<span style="s3"> bewusste</span> in</p>
+<p begin="00:08:53.780" end="00:08:58.970" style="s2">anspielung wachen auf und schließen sich</p>
+<p begin="00:08:56.180" end="00:09:02.060" style="s2"><span style="s3">unserer</span> demokratie bewegung an</p>
+<p begin="00:08:58.970" end="00:09:03.290" style="s2">in ostdeutschland können wir dieses jahr</p>
+<p begin="00:09:02.060" end="00:09:06.410" style="s2">bereits mit deutlichen mehrheiten</p>
+<p begin="00:09:03.290" end="00:09:08.300" style="s2"><span style="s3">rechnern</span> und wir werden gleich darüber</p>
+<p begin="00:09:06.410" end="00:09:10.730" style="s2">etwas von andreas kalbitz<span style="s4"> hören</span> davon</p>
+<p begin="00:09:08.300" end="00:09:12.320" style="s2"><span style="s3">bin</span> ich überzeugt ich möchte nur an</p>
+<p begin="00:09:10.730" end="00:09:15.770" style="s2">dieser stelle trotzdem einen anderen</p>
+<p begin="00:09:12.320" end="00:09:18.950" style="s2">ostdeutschen kollegen zitieren den</p>
+<p begin="00:09:15.770" end="00:09:23.630" style="s2">landesvorsitzenden der fdp ringen er hat</p>
+<p begin="00:09:18.950" end="00:09:26.210" style="s2">gesagt<span style="s4"> jetzt ist er ich verbessere die</span></p>
+<p begin="00:09:23.630" end="00:09:28.730" style="s2"><span style="s3">hysterische die herrschende klasse</span></p>
+<p begin="00:09:26.210" end="00:09:32.830" style="s2">ich<span style="s3"> verbessere</span><span style="s4"> noch mal anfangen neu</span> an</p>
+<p begin="00:09:28.730" end="00:09:36.020" style="s2"><span style="s4">die</span> hysterische<span style="s4"> die</span> herrschende kaste</p>
+<p begin="00:09:32.830" end="00:09:38.270" style="s2"><span style="s4">reagiert</span> je aggressiver sie um sich</p>
+<p begin="00:09:36.020" end="00:09:40.610" style="s2">schlägt wie ein kleines bockiges kind</p>
+<p begin="00:09:38.270" end="00:09:43.670" style="s2">dem man das spielzeug wegnehmen möchte</p>
+<p begin="00:09:40.610" end="00:09:45.430" style="s2">desto ruhiger sollten wir werden und den</p>
+<p begin="00:09:43.670" end="00:09:49.360" style="s2">ganzen ätzenden spott</p>
+<p begin="00:09:45.430" end="00:09:52.690" style="s2"><span style="s3">den</span> sie über uns<span style="s3"> aus</span><span style="s4"> köpfen</span> souverän und</p>
+<p begin="00:09:49.360" end="00:09:54.990" style="s2"><span style="s3">stoisch</span> abtropfen lassen<span style="s3"> wir</span><span style="s4"> wir</span><span style="s3"> sie</span></p>
+<p begin="00:09:52.690" end="00:09:57.790" style="s2">alle brauchen sich vor nichts</p>
+<p begin="00:09:54.990" end="00:10:00.550" style="s2">rechtfertigen schon gar nicht vor den</p>
+<p begin="00:09:57.790" end="00:10:01.340" style="s2">zerstörern unseres landes so weit zu</p>
+<p begin="00:10:00.550" end="00:10:04.549" style="s2">diesem<span style="s3"> thema</span></p>
+<p begin="00:10:01.340" end="00:10:04.549" style="s2">[Applaus]</p>
+<p begin="00:10:06.230" end="00:10:10.830" style="s2">und wie sie wissen ohne<span style="s3"> dass</span> sich die</p>
+<p begin="00:10:08.640" end="00:10:12.720" style="s2">namen genannt habe so ein mann soll</p>
+<p begin="00:10:10.830" end="00:10:16.590" style="s2">durch den verfassungsschutz beobachtet</p>
+<p begin="00:10:12.720" end="00:10:19.200" style="s2">werden das ist mehr als ddr 2.0<span style="s4"> der</span></p>
+<p begin="00:10:16.590" end="00:10:22.560" style="s2"><span style="s3">verfassungsschutz</span> wurde mit dem neuen</p>
+<p begin="00:10:19.200" end="00:10:26.220" style="s2">präsidenten politisch instrumentalisiert</p>
+<p begin="00:10:22.560" end="00:10:30.150" style="s2">die medienwirksame aufbereitung die die</p>
+<p begin="00:10:26.220" end="00:10:32.340" style="s2">kfd zum<span style="s4"> prüfer</span> machen soll<span style="s4"> es</span></p>
+<p begin="00:10:30.150" end="00:10:35.970" style="s2">schlichtweg ein skandal</p>
+<p begin="00:10:32.340" end="00:10:38.820" style="s2">nach diesen maßstäben<span style="s3"> hätte frau merkel</span></p>
+<p begin="00:10:35.970" end="00:10:41.720" style="s2">nach der<span style="s4"> unrechtmäßigen</span> öffnung unserer</p>
+<p begin="00:10:38.820" end="00:10:44.970" style="s2">grenzen im september 2015 oder</p>
+<p begin="00:10:41.720" end="00:10:48.750" style="s2"><span style="s3">massenhaften</span> zulassung von illegaler</p>
+<p begin="00:10:44.970" end="00:10:50.410" style="s2">migration auch zum<span style="s3"> beobachtungs</span> fall</p>
+<p begin="00:10:48.750" end="00:10:57.080" style="s2">werden müssen</p>
+<p begin="00:10:50.410" end="00:10:59.340" style="s2">[Applaus]</p>
+<p begin="00:10:57.080" end="00:11:01.410" style="s2">aber<span style="s3"> dies</span> ist auch schon vorher<span style="s4"> vor</span></p>
+<p begin="00:10:59.340" end="00:11:04.830" style="s2">meinem<span style="s3"> kollegen</span><span style="s4"> kein</span> gottschalk<span style="s3"> gehört</span></p>
+<p begin="00:11:01.410" end="00:11:08.700" style="s2">haben wir<span style="s3"> wir</span> sagen nicht ständig</p>
+<p begin="00:11:04.830" end="00:11:13.530" style="s2">wogegen wir sind wir sagen wofür wir</p>
+<p begin="00:11:08.700" end="00:11:16.550" style="s2">sind und jeder ich sie alle anderen</p>
+<p begin="00:11:13.530" end="00:11:19.650" style="s2">menschen da draußen müssen nicht die cdu</p>
+<p begin="00:11:16.550" end="00:11:22.620" style="s2">müsse nicht die grünen müssen auch nicht</p>
+<p begin="00:11:19.650" end="00:11:25.940" style="s2">die<span style="s4"> afd</span><span style="s3"> mögen aber wenn ich demokratie</span></p>
+<p begin="00:11:22.620" end="00:11:32.280" style="s2">mag dann muss ich sie alle akzeptieren</p>
+<p begin="00:11:25.940" end="00:11:35.580" style="s2"><span style="s3">wir</span> wollen<span style="s4"> wir</span> wollen<span style="s3"> wir</span> zukünftig</p>
+<p begin="00:11:32.280" end="00:11:38.550" style="s2">leben wir wollen als freie bürger in</p>
+<p begin="00:11:35.580" end="00:11:41.580" style="s2">einem souveränen<span style="s3"> staat</span> leben der seine</p>
+<p begin="00:11:38.550" end="00:11:43.620" style="s2">bürger und die meinungsfreiheit schützen</p>
+<p begin="00:11:41.580" end="00:11:47.670" style="s2">kann<span style="s4"> und der für ein friedliches</span></p>
+<p begin="00:11:43.620" end="00:11:50.460" style="s2">miteinander der völker in europa und in</p>
+<p begin="00:11:47.670" end="00:11:53.670" style="s2">der welt steht wir wollen ja wir wollen</p>
+<p begin="00:11:50.460" end="00:11:57.120" style="s2">eine<span style="s4"> volt</span> weltoffene gast freundliche</p>
+<p begin="00:11:53.670" end="00:11:59.490" style="s2">und hilfsbereite gesellschaft<span style="s4"> seien die</span></p>
+<p begin="00:11:57.120" end="00:12:01.740" style="s2">menschen in<span style="s3"> unserem</span> land haben viel</p>
+<p begin="00:11:59.490" end="00:12:03.990" style="s2">geschaffen<span style="s3"> deswegen</span> wollen</p>
+<p begin="00:12:01.740" end="00:12:05.520" style="s2">offensichtlich auch so viele menschen in</p>
+<p begin="00:12:03.990" end="00:12:08.240" style="s2">dieses land migrieren</p>
+<p begin="00:12:05.520" end="00:12:11.430" style="s2">aber wir haben das recht zu bestimmen</p>
+<p begin="00:12:08.240" end="00:12:14.340" style="s2">wer in unser land kommen kann und zu</p>
+<p begin="00:12:11.430" end="00:12:15.600" style="s2">welchen regeln<span style="s4"> die</span> integration</p>
+<p begin="00:12:14.340" end="00:12:17.420" style="s2">stattzufinden hat</p>
+<p begin="00:12:15.600" end="00:12:22.889" style="s2">wer das nicht beachtet</p>
+<p begin="00:12:17.420" end="00:12:24.999" style="s2">[Applaus]</p>
+<p begin="00:12:22.889" end="00:12:29.259" style="s2">lassen sie mich jetzt in der letzten</p>
+<p begin="00:12:24.999" end="00:12:29.740" style="s2">hälfte kurz auf das kapitel staatsgewalt</p>
+<p begin="00:12:29.259" end="00:12:32.769" style="s2">kommen</p>
+<p begin="00:12:29.740" end="00:12:35.709" style="s2">ein funktionierender staat<span style="s3"> muss</span> sein</p>
+<p begin="00:12:32.769" end="00:12:37.660" style="s2">gewaltmonopol ausüben können wir</p>
+<p begin="00:12:35.709" end="00:12:40.720" style="s2">brauchen eine funktionierende</p>
+<p begin="00:12:37.660" end="00:12:43.079" style="s2">gewaltenteilung eine funktionierende<span style="s3"> mit</span></p>
+<p begin="00:12:40.720" end="00:12:46.509" style="s2">der<span style="s3"> strikten</span> trennung von legislative</p>
+<p begin="00:12:43.079" end="00:12:49.240" style="s2">judikative und exekutive</p>
+<p begin="00:12:46.509" end="00:12:51.339" style="s2">es ist gleichsam eine beugung unseres</p>
+<p begin="00:12:49.240" end="00:12:53.529" style="s2">rechtsstaats wenn die mitglieder der</p>
+<p begin="00:12:51.339" end="00:12:57.550" style="s2">bundesregierung also kanzlerin minister</p>
+<p begin="00:12:53.529" end="00:13:00.850" style="s2">staatssekretäre fast allesamt auch ein</p>
+<p begin="00:12:57.550" end="00:13:03.879" style="s2">bundestagsmandat<span style="s4"> innehaben</span> also sowohl</p>
+<p begin="00:13:00.850" end="00:13:05.740" style="s2">der der der exekutive als der</p>
+<p begin="00:13:03.879" end="00:13:08.230" style="s2">legislative angehören und wir haben es</p>
+<p begin="00:13:05.740" end="00:13:11.439" style="s2">vor wenigen wochen im bundestag erlebt</p>
+<p begin="00:13:08.230" end="00:13:13.990" style="s2">als wir<span style="s3"> die abstimmungs fähigkeit im</span></p>
+<p begin="00:13:11.439" end="00:13:16.360" style="s2">bundestag bezweifelt haben<span style="s4"> da</span><span style="s3"> sind</span> auf</p>
+<p begin="00:13:13.990" end="00:13:17.949" style="s2">einmal von der regierungsbank<span style="s4"> bei was</span></p>
+<p begin="00:13:16.360" end="00:13:20.709" style="s2">vielleicht<span style="s4"> hast</span> kann sich erinnern wie</p>
+<p begin="00:13:17.949" end="00:13:22.929" style="s2">alle mitglieder staatssekretäre<span style="s3"> in</span> die</p>
+<p begin="00:13:20.709" end="00:13:25.329" style="s2">reihen ihrer fraktion gegangen und was</p>
+<p begin="00:13:22.929" end="00:13:27.749" style="s2">war die regierungsbank<span style="s3"> war</span><span style="s4"> ja</span> im prinzip</p>
+<p begin="00:13:25.329" end="00:13:34.569" style="s2"><span style="s3">ein</span> schönes bild was ich ihnen sagen ja</p>
+<p begin="00:13:27.749" end="00:13:39.220" style="s2"><span style="s4">aber die bürger sie alle bekommen</span><span style="s3"> die</span></p>
+<p begin="00:13:34.569" end="00:13:41.499" style="s2">exekutive als unmittelbare gewalt als</p>
+<p begin="00:13:39.220" end="00:13:45.639" style="s2">gewalt unmittelbar zu spüren das ist im</p>
+<p begin="00:13:41.499" end="00:13:48.100" style="s2">prinzip auch so aber sie bekommen damit</p>
+<p begin="00:13:45.639" end="00:13:50.970" style="s2">auch wenn sie heute<span style="s3"> mit</span> wachen augen</p>
+<p begin="00:13:48.100" end="00:13:54.279" style="s2">durch die straßen gehen das unmittelbare</p>
+<p begin="00:13:50.970" end="00:13:57.009" style="s2">staatsversagen zu spüren viele bürger</p>
+<p begin="00:13:54.279" end="00:13:59.829" style="s2">fühlen sich nicht mehr sicher<span style="s3"> sie</span> fühlen</p>
+<p begin="00:13:57.009" end="00:14:02.799" style="s2">sich vom staat verlassen und haben angst</p>
+<p begin="00:13:59.829" end="00:14:05.160" style="s2">wesentlich mittel der sicherstellung der</p>
+<p begin="00:14:02.799" end="00:14:07.959" style="s2"><span style="s4">äußeren</span> sicherheit<span style="s3"> sind</span> unsere</p>
+<p begin="00:14:05.160" end="00:14:09.269" style="s2">streitkräfte und als obmann im</p>
+<p begin="00:14:07.959" end="00:14:10.809" style="s2">verteidigungsausschuss und</p>
+<p begin="00:14:09.269" end="00:14:13.059" style="s2">verteidigungspolitischer sprecher</p>
+<p begin="00:14:10.809" end="00:14:14.769" style="s2">und es wurde<span style="s3"> ja schon</span><span style="s4"> erleben</span> kann<span style="s3"> ich</span></p>
+<p begin="00:14:13.059" end="00:14:17.470" style="s2">ihnen sagen um die<span style="s3"> äußere</span> sicherheit</p>
+<p begin="00:14:14.769" end="00:14:20.290" style="s2">unseres landes steht es sehr<span style="s4"> sehr</span></p>
+<p begin="00:14:17.470" end="00:14:23.079" style="s2"><span style="s3">schlecht</span> bestellt und um<span style="s4"> ihnen das als</span></p>
+<p begin="00:14:20.290" end="00:14:25.240" style="s2">insider<span style="s4"> zu sagen noch schlimmer ist es</span></p>
+<p begin="00:14:23.079" end="00:14:26.889" style="s2">um die bundeswehr bestellt als sie es</p>
+<p begin="00:14:25.240" end="00:14:29.949" style="s2">vielleicht in vielen berichten<span style="s4"> die sie</span></p>
+<p begin="00:14:26.889" end="00:14:32.100" style="s2">zurzeit jede menge bekommen<span style="s3"> tatsächlich</span></p>
+<p begin="00:14:29.949" end="00:14:34.110" style="s2"><span style="s4">der</span> fall ist und</p>
+<p begin="00:14:32.100" end="00:14:36.300" style="s2">sie wissen ist<span style="s4"> u boote</span><span style="s3"> sind</span> nicht</p>
+<p begin="00:14:34.110" end="00:14:39.079" style="s2">einsatzbereit eurofighter fliegen nicht</p>
+<p begin="00:14:36.300" end="00:14:42.680" style="s2">hubschrauber sind nur zu<span style="s3"> 30</span><span style="s4"> prozent</span></p>
+<p begin="00:14:39.079" end="00:14:44.550" style="s2">einsatzbereit<span style="s4"> und</span> die trendwende der</p>
+<p begin="00:14:42.680" end="00:14:46.680" style="s2"><span style="s3">verteidigungsministerin sie müssen es</span></p>
+<p begin="00:14:44.550" end="00:14:48.389" style="s2">mir nachsehen den namen zu nennen fällt</p>
+<p begin="00:14:46.680" end="00:14:53.100" style="s2">mir relativ schwer</p>
+<p begin="00:14:48.389" end="00:14:56.550" style="s2">und das werde ich auch vermeiden es ist</p>
+<p begin="00:14:53.100" end="00:15:00.690" style="s2"><span style="s3">die</span><span style="s4"> bis</span> jetzt es ist jetzt bereits</p>
+<p begin="00:14:56.550" end="00:15:04.709" style="s2">absehbar dass die zusage die die</p>
+<p begin="00:15:00.690" end="00:15:09.029" style="s2">kanzlerin das letzte letzten<span style="s3"> herbst</span> auf</p>
+<p begin="00:15:04.709" end="00:15:11.069" style="s2">einer bundeswehrtagung gemacht hat und</p>
+<p begin="00:15:09.029" end="00:15:15.290" style="s2">die die<span style="s4"> verteilung des ministerin auch</span></p>
+<p begin="00:15:11.069" end="00:15:17.579" style="s2">immer<span style="s4"> wiederholt das sind 20 25</span> 1,5</p>
+<p begin="00:15:15.290" end="00:15:20.069" style="s2"><span style="s4">prozentpunkte inlandsprodukt für</span></p>
+<p begin="00:15:17.579" end="00:15:22.050" style="s2">verteidigung ausgegeben werden nicht</p>
+<p begin="00:15:20.069" end="00:15:24.839" style="s2">gehalten werden kann und wir werden es</p>
+<p begin="00:15:22.050" end="00:15:26.970" style="s2">im nächsten finanzplan und in dem</p>
+<p begin="00:15:24.839" end="00:15:29.430" style="s2">eckwertebeschluss<span style="s3"> den wir sicherlich zur</span></p>
+<p begin="00:15:26.970" end="00:15:32.660" style="s2"><span style="s4">malerei</span> zur<span style="s3"> kenntnis</span> nehmen werden<span style="s4"> auch</span></p>
+<p begin="00:15:29.430" end="00:15:36.060" style="s2">nachgewiesen bekommen<span style="s3"> denn</span> nicht<span style="s4"> umsonst</span></p>
+<p begin="00:15:32.660" end="00:15:40.410" style="s2">wird der finanzminister im moment nicht</p>
+<p begin="00:15:36.060" end="00:15:42.540" style="s2">müde<span style="s3"> das</span> finanzloch<span style="s3"> zu</span><span style="s4"> betreiben</span> und es</p>
+<p begin="00:15:40.410" end="00:15:45.149" style="s2">werden sich alle ressorts und vor allen</p>
+<p begin="00:15:42.540" end="00:15:46.880" style="s2">dingen verteidigung danach halten daran</p>
+<p begin="00:15:45.149" end="00:15:49.259" style="s2">halten müssen der<span style="s3"> nächste</span></p>
+<p begin="00:15:46.880" end="00:15:51.569" style="s2">koalitionskrach ist nicht nur allein</p>
+<p begin="00:15:49.259" end="00:15:55.079" style="s2">deswegen<span style="s4"> ist natürlich auch schon wegen</span></p>
+<p begin="00:15:51.569" end="00:15:57.480" style="s2">des rente versprechens der spd die die</p>
+<p begin="00:15:55.079" end="00:16:00.630" style="s2">renten<span style="s4"> der</span><span style="s3"> in</span> großem maße schmieren will</p>
+<p begin="00:15:57.480" end="00:16:03.230" style="s2">bevor sie selbst abschmiert ist schon</p>
+<p begin="00:16:00.630" end="00:16:03.230" style="s2">programmiert</p>
+<p begin="00:16:04.540" end="00:16:12.740" style="s2">[Applaus]</p>
+<p begin="00:16:07.850" end="00:16:15.360" style="s2">die bundeswehr ist nach der</p>
+<p begin="00:16:12.740" end="00:16:16.710" style="s2">friedensdividende der<span style="s3"> 90er jahre die</span></p>
+<p begin="00:16:15.360" end="00:16:19.650" style="s2">vielleicht in den köpfen mancher</p>
+<p begin="00:16:16.710" end="00:16:20.720" style="s2">menschen auch mit verstand so gewählt</p>
+<p begin="00:16:19.650" end="00:16:23.490" style="s2">worden war</p>
+<p begin="00:16:20.720" end="00:16:27.210" style="s2">diese friedensdividende hätte spätestens</p>
+<p begin="00:16:23.490" end="00:16:29.490" style="s2">zur jahrtausendwende<span style="s3"> eine</span> umkehr finden</p>
+<p begin="00:16:27.210" end="00:16:31.920" style="s2">müssen<span style="s4"> umschwung</span> finden müssen<span style="s3"> dass</span> es</p>
+<p begin="00:16:29.490" end="00:16:33.450" style="s2"><span style="s3">aber</span> nie geschehen das ist ganz<span style="s3"> das</span></p>
+<p begin="00:16:31.920" end="00:16:35.280" style="s2">gegenteil<span style="s3"> ist</span> der fall gewesen</p>
+<p begin="00:16:33.450" end="00:16:37.170" style="s2">man<span style="s3"> hat</span> noch mehr aus der substanz</p>
+<p begin="00:16:35.280" end="00:16:39.960" style="s2">gelebt und eine lichtgestalt<span style="s3"> wie</span></p>
+<p begin="00:16:37.170" end="00:16:42.330" style="s2"><span style="s3">guttenberg</span> hat 2011 nicht nur die</p>
+<p begin="00:16:39.960" end="00:16:44.550" style="s2">wehrpflicht<span style="s4"> abgespült</span><span style="s3"> abgeschafft</span></p>
+<p begin="00:16:42.330" end="00:16:49.050" style="s2">sondern oder sie ausgesetzt sondern er</p>
+<p begin="00:16:44.550" end="00:16:51.870" style="s2">war auch so wohlfeil 8,6 milliarden so</p>
+<p begin="00:16:49.050" end="00:16:54.150" style="s2">dass man sich mal<span style="s4"> reinziehen 8,6</span></p>
+<p begin="00:16:51.870" end="00:16:57.180" style="s2">milliarden des verteidigungshaushalts</p>
+<p begin="00:16:54.150" end="00:16:59.100" style="s2">zur disposition zu stellen<span style="s3"> seitdem</span> geht</p>
+<p begin="00:16:57.180" end="00:17:00.330" style="s2">es noch steiler bergab mit der</p>
+<p begin="00:16:59.100" end="00:17:01.350" style="s2">bundeswehr sie müssen sich das</p>
+<p begin="00:17:00.330" end="00:17:03.630" style="s2">vorstellen</p>
+<p begin="00:17:01.350" end="00:17:05.430" style="s2">sie sitzen in einem blockhaus heizen</p>
+<p begin="00:17:03.630" end="00:17:08.820" style="s2">ihren kamin irgendwann ist der</p>
+<p begin="00:17:05.430" end="00:17:12.450" style="s2">holzvorrat beendet und sie fangen an die</p>
+<p begin="00:17:08.820" end="00:17:15.300" style="s2"><span style="s3">die</span> die baumstämme aus dem<span style="s4"> blockhaus</span></p>
+<p begin="00:17:12.450" end="00:17:17.339" style="s2">herauszunehmen und da steht die</p>
+<p begin="00:17:15.300" end="00:17:19.890" style="s2">bundeswehr jetzt<span style="s4"> dank</span> in</p>
+<p begin="00:17:17.339" end="00:17:22.920" style="s2">anführungszeichen dieser miserablen</p>
+<p begin="00:17:19.890" end="00:17:25.640" style="s2">führung und diese<span style="s4"> maße miserable führung</span></p>
+<p begin="00:17:22.920" end="00:17:29.790" style="s2">drückt sich auch aus in dem was sie</p>
+<p begin="00:17:25.640" end="00:17:33.900" style="s2">gerade erfahren die berater affäre<span style="s3"> von</span></p>
+<p begin="00:17:29.790" end="00:17:36.030" style="s2">der leyen und auch das thema<span style="s3"> durch</span><span style="s4"> fock</span></p>
+<p begin="00:17:33.900" end="00:17:40.160" style="s2"><span style="s3">und abschließend vielleicht nur zu</span></p>
+<p begin="00:17:36.030" end="00:17:42.570" style="s2">diesen beiden weiteren themen ja die fdp</p>
+<p begin="00:17:40.160" end="00:17:43.890" style="s2">bundestagsfraktion und meine kollegen</p>
+<p begin="00:17:42.570" end="00:17:46.680" style="s2">und ich haben es im</p>
+<p begin="00:17:43.890" end="00:17:50.310" style="s2">verteidigungsausschuss geschafft</p>
+<p begin="00:17:46.680" end="00:17:52.080" style="s2">die drei kleinen oppositionsparteien das</p>
+<p begin="00:17:50.310" end="00:17:54.660" style="s2">ist immer<span style="s4"> mein</span><span style="s3"> stichwort</span><span style="s4"> dass</span> ich sage</p>
+<p begin="00:17:52.080" end="00:17:57.060" style="s2">auch vor den medien<span style="s3"> die</span> drei kleinen</p>
+<p begin="00:17:54.660" end="00:17:59.790" style="s2">oppositionsparteien so weit zu treiben</p>
+<p begin="00:17:57.060" end="00:18:01.080" style="s2">dass sie nicht mehr konnten darum</p>
+<p begin="00:17:59.790" end="00:18:03.240" style="s2"><span style="s3">konnten</span> nachdem sie<span style="s4"> so viel</span></p>
+<p begin="00:18:01.080" end="00:18:06.630" style="s2"><span style="s3">schaufensterpolitik</span><span style="s4"> gemacht</span> haben ein</p>
+<p begin="00:18:03.240" end="00:18:09.330" style="s2">untersuchungsausschuss einzusetzen<span style="s4"> der</span></p>
+<p begin="00:18:06.630" end="00:18:11.910" style="s2"><span style="s4">iss</span> eingesetzt<span style="s4"> wo</span> wir werden nächste</p>
+<p begin="00:18:09.330" end="00:18:13.250" style="s2">woche donnerstag die erste sitzung haben</p>
+<p begin="00:18:11.910" end="00:18:15.340" style="s2">beginnt schon mit der<span style="s4"> weiß</span></p>
+<p begin="00:18:13.250" end="00:18:17.260" style="s2">beweiserhebung und ich kann</p>
+<p begin="00:18:15.340" end="00:18:18.490" style="s2">nur sagen damit sie das auch als</p>
+<p begin="00:18:17.260" end="00:18:21.520" style="s2">zuversicht mitnehmen</p>
+<p begin="00:18:18.490" end="00:18:24.130" style="s2">sie glauben gar nicht wie viele menschen</p>
+<p begin="00:18:21.520" end="00:18:26.500" style="s2">sich aus den industrien die<span style="s4"> betroffen</span></p>
+<p begin="00:18:24.130" end="00:18:28.390" style="s2"><span style="s3">sind das sind dabei hauptsächlich die</span></p>
+<p begin="00:18:26.500" end="00:18:30.100" style="s2"><span style="s4">bundes</span><span style="s3"> beteiligungsgesellschaften</span> des</p>
+<p begin="00:18:28.390" end="00:18:32.910" style="s2">bundesministeriums der verteidigung aber</p>
+<p begin="00:18:30.100" end="00:18:35.800" style="s2">eben halt auch ehemalige<span style="s3"> bis</span></p>
+<p begin="00:18:32.910" end="00:18:38.920" style="s2">staatssekretäre<span style="s3"> bei</span> mir direkt oder auf</p>
+<p begin="00:18:35.800" end="00:18:42.070" style="s2">umwegen melden weil sie ihre<span style="s4"> information</span></p>
+<p begin="00:18:38.920" end="00:18:43.960" style="s2">loswerden möchten und teilweise auch</p>
+<p begin="00:18:42.070" end="00:18:47.860" style="s2">schon bereit sind dann wenn ich die</p>
+<p begin="00:18:43.960" end="00:18:50.440" style="s2">preiserhebung beantrage als zeugen im</p>
+<p begin="00:18:47.860" end="00:18:51.920" style="s2">untersuchungsausschuss auszusagen</p>
+<p begin="00:18:50.440" end="00:18:59.530" style="s2">nehmen sie das<span style="s3"> als</span><span style="s4"> zuversicht</span></p>
+<p begin="00:18:51.920" end="00:19:03.470" style="s2">[Applaus]</p>
+<p begin="00:18:59.530" end="00:19:07.130" style="s2">das ganze wird aber<span style="s4"> dass</span> prognostiziere</p>
+<p begin="00:19:03.470" end="00:19:08.350" style="s2">ich mal durch die koalitionsparteien die</p>
+<p begin="00:19:07.130" end="00:19:10.760" style="s2"><span style="s4">natürliche</span> im gesamten</p>
+<p begin="00:19:08.350" end="00:19:13.909" style="s2">verteidigungsausschuss von<span style="s3"> uns 36</span></p>
+<p begin="00:19:10.760" end="00:19:18.200" style="s2">mitgliedern<span style="s3"> die</span> mehrheit haben wird<span style="s3"> das</span></p>
+<p begin="00:19:13.909" end="00:19:21.110" style="s2">verschleppt<span style="s4"> so lange</span><span style="s3"> bis</span> nicht bis die</p>
+<p begin="00:19:18.200" end="00:19:23.419" style="s2">regierung nicht noch mehr beschädigt</p>
+<p begin="00:19:21.110" end="00:19:25.940" style="s2">wird als sie ohnehin<span style="s4"> schließlich</span> schon</p>
+<p begin="00:19:23.419" end="00:19:28.460" style="s2">selbst beschädigt es sei denn wir haben</p>
+<p begin="00:19:25.940" end="00:19:30.530" style="s2">dieses jahr noch ein wechsel nicht<span style="s4"> den</span></p>
+<p begin="00:19:28.460" end="00:19:34.700" style="s2"><span style="s4">der</span> neuwahlen den<span style="s3"> sich</span><span style="s4"> nicht</span> zu sehr</p>
+<p begin="00:19:30.530" end="00:19:36.860" style="s2"><span style="s3">aber den einer neuen koalition und man</span></p>
+<p begin="00:19:34.700" end="00:19:38.000" style="s2"><span style="s4">spürte es auch in den ausschüssen</span><span style="s3"> ich</span></p>
+<p begin="00:19:36.860" end="00:19:41.690" style="s2"><span style="s4">bin</span> übrigens<span style="s3"> auch</span> im haushaltsausschuss</p>
+<p begin="00:19:38.000" end="00:19:43.940" style="s2">dass die dass die fdp und die grünen</p>
+<p begin="00:19:41.690" end="00:19:46.630" style="s2">sich da schon positionieren sie setzten</p>
+<p begin="00:19:43.940" end="00:19:49.100" style="s2">zwar marken nadelstiche was sie als</p>
+<p begin="00:19:46.630" end="00:19:51.440" style="s2">oppositionspartei machen müssen aber</p>
+<p begin="00:19:49.100" end="00:19:53.480" style="s2">richtig angreifen tun sie nicht weil sie</p>
+<p begin="00:19:51.440" end="00:19:56.380" style="s2">sich schon auf<span style="s4"> jamaica</span> innerlich</p>
+<p begin="00:19:53.480" end="00:19:59.750" style="s2"><span style="s4">vorbereiten aber auch</span> das<span style="s4"> ist</span> für uns</p>
+<p begin="00:19:56.380" end="00:20:02.390" style="s2">ein lohnenswertes und<span style="s3"> dankenswerte</span><span style="s4"> stil</span></p>
+<p begin="00:19:59.750" end="00:20:04.549" style="s2"><span style="s3">das</span> wird uns in<span style="s3"> eine</span> unserer arbeit kein</p>
+<p begin="00:20:02.390" end="00:20:05.179" style="s2">stück behindern auf unserem weg nach</p>
+<p begin="00:20:04.549" end="00:20:08.900" style="s2">vorne</p>
+<p begin="00:20:05.179" end="00:20:11.059" style="s2">morgen werde ich in bremerhaven<span style="s3"> sein</span> und</p>
+<p begin="00:20:08.900" end="00:20:14.780" style="s2">mit dieser frau<span style="s4"> ist essen</span><span style="s3"> nahm</span> ich nicht</p>
+<p begin="00:20:11.059" end="00:20:20.090" style="s2"><span style="s3">sage</span> zusammen die gorch fock besichtigen</p>
+<p begin="00:20:14.780" end="00:20:21.650" style="s2">und die werft und das firmengeflecht was</p>
+<p begin="00:20:20.090" end="00:20:25.490" style="s2">ich<span style="s4"> ihn</span> jetzt<span style="s3"> schon</span> sagen kann<span style="s4"> und</span> ich</p>
+<p begin="00:20:21.650" end="00:20:27.350" style="s2">weiß es geht nicht so sehr darum<span style="s3"> und</span> das</p>
+<p begin="00:20:25.490" end="00:20:30.110" style="s2">gilt auch<span style="s4"> genau so gleichsam</span><span style="s3"> für</span> die</p>
+<p begin="00:20:27.350" end="00:20:33.260" style="s2"><span style="s3">berater</span> affäre<span style="s4"> das</span> hier millionen</p>
+<p begin="00:20:30.110" end="00:20:35.150" style="s2">verschleudert werden an<span style="s4"> diesem</span></p>
+<p begin="00:20:33.260" end="00:20:37.940" style="s2">schiffsneubau oder der instandhaltung</p>
+<p begin="00:20:35.150" end="00:20:40.820" style="s2">der gorch fock<span style="s3"> so</span> ist es im moment ja</p>
+<p begin="00:20:37.940" end="00:20:45.320" style="s2">noch sondern es geht darum dass sie hier</p>
+<p begin="00:20:40.820" end="00:20:48.140" style="s2">firmen firmen bedient haben in einer art</p>
+<p begin="00:20:45.320" end="00:20:52.010" style="s2">und weise die ist perfide</p>
+<p begin="00:20:48.140" end="00:20:54.350" style="s2">aber nicht die firmen sind schuld wenn</p>
+<p begin="00:20:52.010" end="00:20:55.909" style="s2">sie rechtswidrig gehandelt haben dann</p>
+<p begin="00:20:54.350" end="00:21:00.080" style="s2">werden die staatsanwaltschaften sich</p>
+<p begin="00:20:55.909" end="00:21:02.330" style="s2">schon daran ausrichten nein<span style="s4"> die</span> aufsicht</p>
+<p begin="00:21:00.080" end="00:21:03.700" style="s2">in der bundesregierung die aufsicht vor</p>
+<p begin="00:21:02.330" end="00:21:06.320" style="s2">allen dingen im bundesministerium</p>
+<p begin="00:21:03.700" end="00:21:07.789" style="s2">verteidigung und die<span style="s3"> bundesministerin</span></p>
+<p begin="00:21:06.320" end="00:21:09.130" style="s2"><span style="s4">das</span><span style="s3"> inhaberin</span> der<span style="s4"> befehls</span> und</p>
+<p begin="00:21:07.789" end="00:21:11.950" style="s2">kommandogewalt</p>
+<p begin="00:21:09.130" end="00:21:14.530" style="s2">die ungeteilte<span style="s3"> verantwortung</span> für das was</p>
+<p begin="00:21:11.950" end="00:21:16.630" style="s2">dort geschehen ist sie ist<span style="s3"> nicht</span> in der</p>
+<p begin="00:21:14.530" end="00:21:18.370" style="s2">lage das system bundeswehr zu verstehen</p>
+<p begin="00:21:16.630" end="00:21:21.670" style="s2">und in dem maße wie sie es nicht</p>
+<p begin="00:21:18.370" end="00:21:25.450" style="s2">versteht hat sie private berater externe</p>
+<p begin="00:21:21.670" end="00:21:27.250" style="s2">berater zugelassen<span style="s3"> um</span><span style="s4"> um</span> für sie das</p>
+<p begin="00:21:25.450" end="00:21:31.060" style="s2">system zu erklären aber in wirklichkeit</p>
+<p begin="00:21:27.250" end="00:21:33.940" style="s2">hat sich da eine lehmschicht unter der</p>
+<p begin="00:21:31.060" end="00:21:36.970" style="s2">leitung des hauses bmvg gebildet aus</p>
+<p begin="00:21:33.940" end="00:21:40.690" style="s2">externen beratern mit stundensätzen von</p>
+<p begin="00:21:36.970" end="00:21:45.610" style="s2"><span style="s4">400-500</span> 460 euro mit boni<span style="s4"> den</span><span style="s3"> die</span></p>
+<p begin="00:21:40.690" end="00:21:48.100" style="s2"><span style="s3">bekommen</span> haben und<span style="s3"> sie ist sie ist das</span></p>
+<p begin="00:21:45.610" end="00:21:51.550" style="s2">schlimme ist noch<span style="s3"> dass</span><span style="s4"> sich</span><span style="s3"> sogar</span> hohe</p>
+<p begin="00:21:48.100" end="00:21:52.420" style="s2">beamte und sogar generale ja<span style="s4"> so gar</span></p>
+<p begin="00:21:51.550" end="00:21:55.480" style="s2">keine rolle</p>
+<p begin="00:21:52.420" end="00:21:58.150" style="s2">in diese reihe mit eingereiht haben und</p>
+<p begin="00:21:55.480" end="00:22:00.550" style="s2">zumindest ein system der</p>
+<p begin="00:21:58.150" end="00:22:03.840" style="s2">vetternwirtschaft mit unterstützt haben</p>
+<p begin="00:22:00.550" end="00:22:07.450" style="s2">und teilweise auch<span style="s3"> teil</span> auch</p>
+<p begin="00:22:03.840" end="00:22:09.850" style="s2">systemimmanent verhalten haben und diese</p>
+<p begin="00:22:07.450" end="00:22:11.740" style="s2">vetternwirtschaft begünstigt haben das</p>
+<p begin="00:22:09.850" end="00:22:15.010" style="s2">werden wir<span style="s4"> aufdecken und das wird ein</span></p>
+<p begin="00:22:11.740" end="00:22:17.950" style="s2">baustein sein um diese bundesregierung</p>
+<p begin="00:22:15.010" end="00:22:20.680" style="s2">immer<span style="s3"> unsicher</span> zu machen<span style="s3"> und</span> in dem maße</p>
+<p begin="00:22:17.950" end="00:22:23.260" style="s2">wie wir das als<span style="s3"> verteidigungspolitischer</span></p>
+<p begin="00:22:20.680" end="00:22:25.390" style="s2">politiker aber alle<span style="s3"> anderen</span> kollegen in</p>
+<p begin="00:22:23.260" end="00:22:27.130" style="s2">ihren ressorts auch schaffen diese</p>
+<p begin="00:22:25.390" end="00:22:30.010" style="s2">verunsicherung herbeizuführen</p>
+<p begin="00:22:27.130" end="00:22:33.130" style="s2">verbunden mit<span style="s4"> guten</span> wahlergebnissen bei</p>
+<p begin="00:22:30.010" end="00:22:35.410" style="s2">europa für guten wahlergebnissen im</p>
+<p begin="00:22:33.130" end="00:22:38.800" style="s2">herbst in den ostdeutschen bundesländern</p>
+<p begin="00:22:35.410" end="00:22:42.100" style="s2">und<span style="s3"> ihrer</span> arbeit werden wir unser ziel</p>
+<p begin="00:22:38.800" end="00:22:46.110" style="s2">erreichen ob 20 21 oder danach sei egal</p>
+<p begin="00:22:42.100" end="00:22:46.110" style="s2">wir werden zu erreichen<span style="s3"> dann</span><span style="s4"> geschafft</span></p>
+<p begin="00:22:47.940" end="00:22:50.870" style="s2">vielen dank</p>
+</div>
+</body>
+</tt>

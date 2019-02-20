@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.100" end="00:00:06.330" style="s2">frau präsidentin<span style="s3"> meiner</span> damen<span style="s4"> und herren</span></p>
+<p begin="00:00:03.719" end="00:00:07.970" style="s2"><span style="s3">eine werte abgeordnete der</span></p>
+<p begin="00:00:06.330" end="00:00:09.870" style="s2"><span style="s4">tagesordnungspunkt</span> bietet gelegenheit</p>
+<p begin="00:00:07.970" end="00:00:11.070" style="s2">wenn man jetzt nicht das wiederholen</p>
+<p begin="00:00:09.870" end="00:00:12.900" style="s2">möchte was der doktor<span style="s3"> birkenau</span></p>
+<p begin="00:00:11.070" end="00:00:14.970" style="s2">ausgeführt hat mal grundsätzlich hat</p>
+<p begin="00:00:12.900" end="00:00:16.650" style="s2">sich der<span style="s3"> die verhältnis staat</span><span style="s4"> und</span></p>
+<p begin="00:00:14.970" end="00:00:18.660" style="s2">unternehmen<span style="s4"> oder</span> staat und markt zu</p>
+<p begin="00:00:16.650" end="00:00:20.640" style="s2"><span style="s3">nähren</span><span style="s4"> weshalb</span> überhaupt ist es so dass</p>
+<p begin="00:00:18.660" end="00:00:21.929" style="s2">der staat<span style="s3"> in</span><span style="s4"> überhaupt</span> ein unternehmen</p>
+<p begin="00:00:20.640" end="00:00:23.669" style="s2">eingreift in den markt überhaupt</p>
+<p begin="00:00:21.929" end="00:00:25.769" style="s2"><span style="s3">eingreift</span> ist<span style="s4"> es</span> nicht so dass die</p>
+<p begin="00:00:23.669" end="00:00:27.480" style="s2"><span style="s3">invisiblehand</span> von adams<span style="s3"> misst</span> also<span style="s3"> die</span></p>
+<p begin="00:00:25.769" end="00:00:29.730" style="s2">unsichtbare hand alles regelt quasi</p>
+<p begin="00:00:27.480" end="00:00:31.949" style="s2">angebot und<span style="s4"> nachfrage auch</span><span style="s3"> klaus leicht</span></p>
+<p begin="00:00:29.730" end="00:00:33.330" style="s2"><span style="s4">und</span> ideale bedingungen schafft nach</p>
+<p begin="00:00:31.949" end="00:00:35.730" style="s2">meinem<span style="s4"> dafürhalten</span> ist das natürlich so</p>
+<p begin="00:00:33.330" end="00:00:37.530" style="s2">aber mit unerwünschten folgen mit</p>
+<p begin="00:00:35.730" end="00:00:39.030" style="s2">unerwünschten folgen<span style="s4"> nicht</span> etwa aus</p>
+<p begin="00:00:37.530" end="00:00:39.360" style="s2">weiblicher sicht sondern<span style="s3"> aus</span> sozialer</p>
+<p begin="00:00:39.030" end="00:00:42.420" style="s2">sicht</p>
+<p begin="00:00:39.360" end="00:00:44.580" style="s2">es gibt darüber hinaus güter die der</p>
+<p begin="00:00:42.420" end="00:00:45.390" style="s2">staat quasi<span style="s3"> zwingend</span> bereitstellen muss</p>
+<p begin="00:00:44.580" end="00:00:47.220" style="s2">ich denke da nur an die</p>
+<p begin="00:00:45.390" end="00:00:48.690" style="s2">trinkwasserversorgung<span style="s3"> aber</span> wenn man<span style="s4"> das</span></p>
+<p begin="00:00:47.220" end="00:00:50.880" style="s2"><span style="s4">ausschließlich dem markt überließe</span> der</p>
+<p begin="00:00:48.690" end="00:00:52.560" style="s2"><span style="s3">trinkwasser</span> viel teurer als das ist oder</p>
+<p begin="00:00:50.880" end="00:00:53.490" style="s2">kulturelle angebote<span style="s3"> während</span><span style="s4"> unheimlich</span></p>
+<p begin="00:00:52.560" end="00:00:55.500" style="s2">viel<span style="s4"> teurer</span> denken sie nur an</p>
+<p begin="00:00:53.490" end="00:00:58.530" style="s2"><span style="s4">theaterkarten</span> was die ohne zuschuss des</p>
+<p begin="00:00:55.500" end="00:01:00.510" style="s2">staates<span style="s4"> kosten</span> würden häufig greift der</p>
+<p begin="00:00:58.530" end="00:01:02.340" style="s2">staat durch gesetze in den markt ein</p>
+<p begin="00:01:00.510" end="00:01:04.049" style="s2">wir haben davon auch schon einige</p>
+<p begin="00:01:02.340" end="00:01:05.670" style="s2">verabschiedet manchmal ist es<span style="s4"> eigentlich</span></p>
+<p begin="00:01:04.049" end="00:01:08.249" style="s2">so dass<span style="s4"> der</span> staat das<span style="s3"> ohr noch in</span> der<span style="s4"> er</span></p>
+<p begin="00:01:05.670" end="00:01:11.159" style="s2">an masse haben möchte das ist manchmal</p>
+<p begin="00:01:08.249" end="00:01:12.240" style="s2">historisch gewachsen und manchmal auch</p>
+<p begin="00:01:11.159" end="00:01:14.159" style="s2">nicht sondern<span style="s3"> irgendwelchen</span></p>
+<p begin="00:01:12.240" end="00:01:16.079" style="s2">erfordernissen geschuldet dann ist<span style="s4"> der</span></p>
+<p begin="00:01:14.159" end="00:01:18.210" style="s2">staat sogar selbst an unternehmen</p>
+<p begin="00:01:16.079" end="00:01:20.009" style="s2">beteiligt<span style="s4"> sitzt</span><span style="s3"> zum beispiel</span><span style="s4"> in</span></p>
+<p begin="00:01:18.210" end="00:01:21.869" style="s2">aufsichtsräten großer unternehmen</p>
+<p begin="00:01:20.009" end="00:01:22.969" style="s2">das ist grundsätzlich<span style="s3"> erstmal</span><span style="s4"> kein</span></p>
+<p begin="00:01:21.869" end="00:01:24.869" style="s2">problem obwohl es natürlich</p>
+<p begin="00:01:22.969" end="00:01:26.520" style="s2">interessenkonflikt gibt irgendwie denn</p>
+<p begin="00:01:24.869" end="00:01:28.710" style="s2">auf der einen seite hat<span style="s3"> ja</span><span style="s4"> der</span> staat</p>
+<p begin="00:01:26.520" end="00:01:30.810" style="s2">allen bürgern also<span style="s4"> diesen</span> nebulösen</p>
+<p begin="00:01:28.710" end="00:01:32.340" style="s2">gemeinwohl zu dienen<span style="s3"> und andererseits</span></p>
+<p begin="00:01:30.810" end="00:01:34.409" style="s2"><span style="s4">ist er dann im aufsichtsrat als</span></p>
+<p begin="00:01:32.340" end="00:01:36.479" style="s2">vertreter natürlich irgendwo<span style="s4"> diesen</span></p>
+<p begin="00:01:34.409" end="00:01:38.009" style="s2">unternehmens wohl verpflichtet und da</p>
+<p begin="00:01:36.479" end="00:01:39.869" style="s2">gibt<span style="s4"> es</span><span style="s3"> interessenkonflikt</span> zumindest</p>
+<p begin="00:01:38.009" end="00:01:41.310" style="s2">dann wenn unternehmen und<span style="s4"> staat</span> nicht</p>
+<p begin="00:01:39.869" end="00:01:42.359" style="s2"><span style="s4">ausschließlich</span> gleichgerichtete</p>
+<p begin="00:01:41.310" end="00:01:45.990" style="s2">interessen haben und das ist eigentlich</p>
+<p begin="00:01:42.359" end="00:01:47.579" style="s2">immer so dieser konflikt ist nicht</p>
+<p begin="00:01:45.990" end="00:01:50.700" style="s2"><span style="s4">auflösbar</span> was auch nicht weiter schlimm</p>
+<p begin="00:01:47.579" end="00:01:52.649" style="s2">ist wenn der<span style="s4"> staat nicht</span><span style="s3"> durch</span> seine</p>
+<p begin="00:01:50.700" end="00:01:55.109" style="s2">höchsten repräsentanten in diesen</p>
+<p begin="00:01:52.649" end="00:01:57.389" style="s2">aufsichtsgremien präsentiert wird denn</p>
+<p begin="00:01:55.109" end="00:01:59.429" style="s2">dann kommt es beim bürger dazu dass der</p>
+<p begin="00:01:57.389" end="00:02:01.109" style="s2"><span style="s3">start</span> gesehen wird als jemand der</p>
+<p begin="00:01:59.429" end="00:02:02.999" style="s2">vielleicht diesen konflikt<span style="s3"> der</span></p>
+<p begin="00:02:01.109" end="00:02:05.159" style="s2"><span style="s4">eigentlich</span> dieser vertretung innewohnt</p>
+<p begin="00:02:02.999" end="00:02:07.049" style="s2">auch in der person<span style="s3"> wieder findet und das</span></p>
+<p begin="00:02:05.159" end="00:02:08.789" style="s2">wird dann zu einem problem und ich</p>
+<p begin="00:02:07.049" end="00:02:09.479" style="s2">möchte zwei aspekte dieses problems mal</p>
+<p begin="00:02:08.789" end="00:02:11.380" style="s2">aufgreifen</p>
+<p begin="00:02:09.479" end="00:02:13.930" style="s2">das<span style="s4"> erste</span> ist die glaubwürdigkeit</p>
+<p begin="00:02:11.380" end="00:02:15.850" style="s2">das ist natürlich<span style="s3"> im</span> zuge dieses dieses</p>
+<p begin="00:02:13.930" end="00:02:16.960" style="s2">skandals ganz deutlich geworden<span style="s3"> da</span> kann</p>
+<p begin="00:02:15.850" end="00:02:18.970" style="s2">der bürger einfach nicht mehr</p>
+<p begin="00:02:16.960" end="00:02:20.320" style="s2">unterscheiden was genau mit welcher</p>
+<p begin="00:02:18.970" end="00:02:22.090" style="s2">stimme spricht<span style="s3"> der</span><span style="s4"> ministerpräsident</span></p>
+<p begin="00:02:20.320" end="00:02:23.410" style="s2"><span style="s4">spricht daher jetzt also</span> als landesvater</p>
+<p begin="00:02:22.090" end="00:02:25.450" style="s2">und vertritt uns alle</p>
+<p begin="00:02:23.410" end="00:02:27.190" style="s2">oder spricht<span style="s4"> er</span> als jemand der dem wohl</p>
+<p begin="00:02:25.450" end="00:02:28.660" style="s2">des<span style="s3"> vw-konzerns</span><span style="s4"> berechtigt</span> im übrigen</p>
+<p begin="00:02:27.190" end="00:02:31.360" style="s2">durch die ganzen aufsichtsrechte das ist</p>
+<p begin="00:02:28.660" end="00:02:32.830" style="s2">auch klar<span style="s3"> verpflichtet</span><span style="s4"> ist</span> das ist wenn</p>
+<p begin="00:02:31.360" end="00:02:33.910" style="s2">man das nach innen hin kommunizieren</p>
+<p begin="00:02:32.830" end="00:02:34.990" style="s2">kann nach<span style="s4"> außen</span> aber in<span style="s4"> die</span></p>
+<p begin="00:02:33.910" end="00:02:37.000" style="s2">öffentlichkeit<span style="s4"> eine</span> unheimlich</p>
+<p begin="00:02:34.990" end="00:02:39.100" style="s2">schwierige<span style="s4"> sache</span> und trägt im übrigen</p>
+<p begin="00:02:37.000" end="00:02:41.170" style="s2">auch nicht gerade dazu bei dass die</p>
+<p begin="00:02:39.100" end="00:02:42.670" style="s2">akzeptanz von politik steigt und das ist</p>
+<p begin="00:02:41.170" end="00:02:44.860" style="s2">ja ihr großes ziel sie wollen ja die</p>
+<p begin="00:02:42.670" end="00:02:46.660" style="s2">gesellschaft verbinden ja der zweite</p>
+<p begin="00:02:44.860" end="00:02:49.030" style="s2">punkt ist natürlich<span style="s3"> dass</span> mit der</p>
+<p begin="00:02:46.660" end="00:02:50.500" style="s2">fachkompetenz wir wissen dass es gerade</p>
+<p begin="00:02:49.030" end="00:02:52.540" style="s2">wenn man in die aufsichtsräte von banken</p>
+<p begin="00:02:50.500" end="00:02:54.010" style="s2">mit krediten schauen einfach</p>
+<p begin="00:02:52.540" end="00:02:55.780" style="s2"><span style="s3">anforderungen</span> gibt<span style="s3"> die</span> nicht jeder</p>
+<p begin="00:02:54.010" end="00:02:57.420" style="s2">erfüllt also das kann<span style="s3"> natürlich</span> dazu</p>
+<p begin="00:02:55.780" end="00:03:00.310" style="s2">führen dass die auswahl von ministern</p>
+<p begin="00:02:57.420" end="00:03:02.050" style="s2">dadurch beeinflusst wird ob jemand oder</p>
+<p begin="00:03:00.310" end="00:03:02.920" style="s2">ob jemand nicht diese<span style="s4"> voraussetzung</span></p>
+<p begin="00:03:02.050" end="00:03:05.830" style="s2">erfüllt und das<span style="s3"> ist auch nach meinem</span></p>
+<p begin="00:03:02.920" end="00:03:07.630" style="s2"><span style="s3">dafürhalten</span><span style="s4"> auf</span> keinen fall passieren</p>
+<p begin="00:03:05.830" end="00:03:09.550" style="s2">das<span style="s3"> ist</span> in letzter zeit ganz deutlich<span style="s3"> zu</span></p>
+<p begin="00:03:07.630" end="00:03:11.770" style="s2"><span style="s3">tage</span> getreten<span style="s4"> die</span><span style="s3"> vw und nord/lb</span></p>
+<p begin="00:03:09.550" end="00:03:13.540" style="s2"><span style="s4">beispiele</span> wurden schon genannt wir sehen</p>
+<p begin="00:03:11.770" end="00:03:14.860" style="s2">und das nehme ich<span style="s3"> mal</span><span style="s4"> schon mal vorweg</span></p>
+<p begin="00:03:13.540" end="00:03:17.290" style="s2"><span style="s3">wird zustimmen dass ich</span> dem antrag zu</p>
+<p begin="00:03:14.860" end="00:03:19.000" style="s2">wir sehen eine lösung darin experten den</p>
+<p begin="00:03:17.290" end="00:03:20.800" style="s2">aufsichtsrat zu schicken<span style="s3"> doppeltes mann</span></p>
+<p begin="00:03:19.000" end="00:03:21.670" style="s2"><span style="s4">hatte das ja</span> vor der wahl auch schon</p>
+<p begin="00:03:20.800" end="00:03:23.650" style="s2">angekündigt dass er einen</p>
+<p begin="00:03:21.670" end="00:03:25.090" style="s2">wirtschaftsprüfer sich zur seite stellen</p>
+<p begin="00:03:23.650" end="00:03:26.830" style="s2">will besser<span style="s4"> wäre</span> natürlich gewesen wenn</p>
+<p begin="00:03:25.090" end="00:03:28.180" style="s2">dieser wirtschaftsprüfer haben sie denn</p>
+<p begin="00:03:26.830" end="00:03:30.190" style="s2">eigentlich mittlerweile gefunden hat<span style="s4"> dr</span></p>
+<p begin="00:03:28.180" end="00:03:32.200" style="s2"><span style="s4">usman wenn der wirtschaftsprüfer selbst</span></p>
+<p begin="00:03:30.190" end="00:03:33.310" style="s2">im aufsichtsrat sitzen würde ich habe</p>
+<p begin="00:03:32.200" end="00:03:35.500" style="s2">dann im ausschuss noch<span style="s3"> einmal</span><span style="s4"> die</span> idee</p>
+<p begin="00:03:33.310" end="00:03:36.550" style="s2">eingebracht da diese experten<span style="s3"> das</span></p>
+<p begin="00:03:35.500" end="00:03:39.100" style="s2">schwierig zu<span style="s3"> finden</span> sind machen<span style="s3"> uns</span></p>
+<p begin="00:03:36.550" end="00:03:41.410" style="s2"><span style="s3">nichts vor und</span><span style="s4"> wirtschaftsprüfer der</span></p>
+<p begin="00:03:39.100" end="00:03:44.020" style="s2">trägt einfach die negativen beigeschmack</p>
+<p begin="00:03:41.410" end="00:03:45.520" style="s2"><span style="s3">dies</span> bei<span style="s3"> so einem staatsposten gibt</span></p>
+<p begin="00:03:44.020" end="00:03:47.140" style="s2">nicht mit der verdienten nämlich einfach</p>
+<p begin="00:03:45.520" end="00:03:48.670" style="s2">viel mehr geld das heißt er kommt in</p>
+<p begin="00:03:47.140" end="00:03:50.860" style="s2">aller regel nicht einfach so zum start</p>
+<p begin="00:03:48.670" end="00:03:52.750" style="s2"><span style="s4">aber</span> wir haben ja im staat selber in der</p>
+<p begin="00:03:50.860" end="00:03:54.700" style="s2">landesverwaltung<span style="s4"> leute</span> die sie die</p>
+<p begin="00:03:52.750" end="00:03:56.440" style="s2">kompetenzen besitzen zum beispiel<span style="s3"> groß</span></p>
+<p begin="00:03:54.700" end="00:03:58.110" style="s2"><span style="s4">betriebsprüfer</span> die man natürlich für</p>
+<p begin="00:03:56.440" end="00:04:00.070" style="s2"><span style="s3">sowas frei stellen</span> könnte</p>
+<p begin="00:03:58.110" end="00:04:02.590" style="s2">sie<span style="s4"> werden</span> das nicht machen sie wenn<span style="s3"> ein</span></p>
+<p begin="00:04:00.070" end="00:04:04.209" style="s2">antrag ablehnen leider<span style="s4"> wenn</span> wir</p>
+<p begin="00:04:02.590" end="00:04:05.920" style="s2">irgendwas<span style="s3"> mitgeben</span> können<span style="s3"> in</span> die zukunft</p>
+<p begin="00:04:04.209" end="00:04:07.680" style="s2">ist es folgendes ja ich bin sofort</p>
+<p begin="00:04:05.920" end="00:04:09.880" style="s2">fällig<span style="s3"> letzter</span> satz<span style="s3"> auch</span> präsidentin</p>
+<p begin="00:04:07.680" end="00:04:11.200" style="s2">wenn sie das so machen weiterhin so</p>
+<p begin="00:04:09.880" end="00:04:12.640" style="s2">machen wollen dass er also politiker</p>
+<p begin="00:04:11.200" end="00:04:14.110" style="s2">selber in dieser aufsichtsräte schicken</p>
+<p begin="00:04:12.640" end="00:04:15.820" style="s2">dann sagen sie<span style="s4"> das</span> zumindest<span style="s4"> vorher</span></p>
+<p begin="00:04:14.110" end="00:04:17.440" style="s2">diesmal den<span style="s3"> wlan</span> machen<span style="s3"> sie</span> also einen</p>
+<p begin="00:04:15.820" end="00:04:18.580" style="s2">klaren schnitt<span style="s4"> und sagen sie</span> wenn wir</p>
+<p begin="00:04:17.440" end="00:04:19.930" style="s2">wieder an die macht<span style="s3"> kommen</span><span style="s4"> gehen</span><span style="s3"> wir</span></p>
+<p begin="00:04:18.580" end="00:04:21.430" style="s2">auch selber in die aufsichtsräte</p>
+<p begin="00:04:19.930" end="00:04:22.440" style="s2">das trägt<span style="s4"> zur</span> politischen klarheit<span style="s4"> bei</span></p>
+<p begin="00:04:21.430" end="00:04:25.620" style="s2">danke</p>
+<p begin="00:04:22.440" end="00:04:28.870" style="s2">[Applaus]</p>
+<p begin="00:04:25.620" end="00:04:31.470" style="s2">vielen dank für die cdu fraktion hat</p>
+<p begin="00:04:28.870" end="00:04:31.470" style="s2">sich zu wort gemeldet</p>
+</div>
+</body>
+</tt>

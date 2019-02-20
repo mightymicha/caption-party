@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:06.440" end="00:00:13.049" style="s2">januar<span style="s3"> ging es im</span> bundestag<span style="s4"> um die</span></p>
+<p begin="00:00:10.170" end="00:00:16.650" style="s2">einstufung<span style="s3"> algeriens tunesien marokko</span></p>
+<p begin="00:00:13.049" end="00:00:19.140" style="s2">syrien als sichere herkunftsstaaten<span style="s3"> nun</span></p>
+<p begin="00:00:16.650" end="00:00:21.990" style="s2">stellt sich für mich die frage war wo</p>
+<p begin="00:00:19.140" end="00:00:26.000" style="s2">man in die länder in die jedes jahr</p>
+<p begin="00:00:21.990" end="00:00:30.260" style="s2">millionen deutsche im urlaub keine</p>
+<p begin="00:00:26.000" end="00:00:33.440" style="s2"><span style="s3">abschiebungen</span><span style="s4"> mehr</span> stattfinden dürfen</p>
+<p begin="00:00:30.260" end="00:00:35.880" style="s2">die<span style="s3"> vorgeschobene</span><span style="s4"> gründe</span> von</p>
+<p begin="00:00:33.440" end="00:00:39.170" style="s2">menschenrechtsverletzungen mögen</p>
+<p begin="00:00:35.880" end="00:00:41.520" style="s2">vielleicht in absolut kleinsten</p>
+<p begin="00:00:39.170" end="00:00:46.340" style="s2">ausnahmefällen ich denke da gerade bei</p>
+<p begin="00:00:41.520" end="00:00:51.960" style="s2">den islamischen ländern<span style="s4"> an homosexuelle</span></p>
+<p begin="00:00:46.340" end="00:00:55.469" style="s2">und transgender greifen diese argumente</p>
+<p begin="00:00:51.960" end="00:00:57.719" style="s2"><span style="s3">ueberhaupt nicht im gegenteil ich kann</span></p>
+<p begin="00:00:55.469" end="00:00:59.850" style="s2"><span style="s4">ihnen</span> sagen ich bin mit meinen kindern</p>
+<p begin="00:00:57.719" end="00:01:02.219" style="s2">durch die orgien<span style="s4"> gereist</span> es ist ein</p>
+<p begin="00:00:59.850" end="00:01:04.320" style="s2">sicheres land da gibt es im grunde<span style="s3"> ich</span></p>
+<p begin="00:01:02.219" end="00:01:06.990" style="s2">habe mit vielen<span style="s4"> georgi</span> angesprochen</p>
+<p begin="00:01:04.320" end="00:01:09.570" style="s2">das ist im grunde genommen<span style="s3"> hahne büchern</span></p>
+<p begin="00:01:06.990" end="00:01:14.159" style="s2">was<span style="s4"> hier</span><span style="s3"> vorhin</span> meine<span style="s3"> vorrednerin</span></p>
+<p begin="00:01:09.570" end="00:01:18.750" style="s2"><span style="s4">anführte genauso auch tunesien und</span></p>
+<p begin="00:01:14.159" end="00:01:21.360" style="s2"><span style="s4">genauso</span> marokko aber eins ist</p>
+<p begin="00:01:18.750" end="00:01:23.460" style="s2">festzustellen<span style="s3"> obwohl</span><span style="s4"> die</span><span style="s3"> grünen-fraktion</span></p>
+<p begin="00:01:21.360" end="00:01:27.000" style="s2"><span style="s4">die</span> kleinste fraktion im landtag</p>
+<p begin="00:01:23.460" end="00:01:32.670" style="s2">brandenburgs ist sie einen enormen druck</p>
+<p begin="00:01:27.000" end="00:01:36.390" style="s2">auf die koalitionsfraktionen aus dass</p>
+<p begin="00:01:32.670" end="00:01:41.009" style="s2">diese forderung dass diese forderung</p>
+<p begin="00:01:36.390" end="00:01:43.950" style="s2">hier der einstufung von den vier ländern</p>
+<p begin="00:01:41.009" end="00:01:46.799" style="s2">verhindert wird ja und wir brauchen uns</p>
+<p begin="00:01:43.950" end="00:01:49.979" style="s2">nur zu erinnern was im grunde genommen</p>
+<p begin="00:01:46.799" end="00:01:54.540" style="s2">eine der ursachen<span style="s4"> die</span> letztendlich dazu</p>
+<p begin="00:01:49.979" end="00:02:00.659" style="s2">führte erinnern sie sich bitte an dem 19</p>
+<p begin="00:01:54.540" end="00:02:04.170" style="s2">dezember 2016 da verübte der<span style="s4"> sunnitische</span></p>
+<p begin="00:02:00.659" end="00:02:07.270" style="s2"><span style="s3">im</span> islam ist<span style="s3"> alles am</span><span style="s4"> wie eine</span></p>
+<p begin="00:02:04.170" end="00:02:09.760" style="s2">terroristischen anschlag in berlin indem</p>
+<p begin="00:02:07.270" end="00:02:11.830" style="s2">er mit seinem geraubten lkw in eine</p>
+<p begin="00:02:09.760" end="00:02:15.270" style="s2">menschenmenge<span style="s4"> fuhr</span> auf dem</p>
+<p begin="00:02:11.830" end="00:02:18.520" style="s2">weihnachtsmarkt ja<span style="s4"> und</span><span style="s3"> er dieser</span></p>
+<p begin="00:02:15.270" end="00:02:21.030" style="s2"><span style="s3">islamist</span> dieser<span style="s4"> salafist</span><span style="s3"> anissa war</span></p>
+<p begin="00:02:18.520" end="00:02:25.870" style="s2"><span style="s3">tunesien</span> gewesen<span style="s4"> dessen</span> abschiebung</p>
+<p begin="00:02:21.030" end="00:02:29.740" style="s2"><span style="s4">zweimal</span> scheiterte<span style="s3"> ya</span><span style="s4"> und</span><span style="s3"> man</span> muss<span style="s4"> sich</span></p>
+<p begin="00:02:25.870" end="00:02:32.440" style="s2"><span style="s4">das</span> nur an<span style="s4"> dem</span> vergegenwärtigen was das</p>
+<p begin="00:02:29.740" end="00:02:34.750" style="s2">bedeutet und ich kann verstehen dass von</p>
+<p begin="00:02:32.440" end="00:02:36.850" style="s2">den<span style="s3"> rot-roten das nie</span> im<span style="s4"> grunde genommen</span></p>
+<p begin="00:02:34.750" end="00:02:40.150" style="s2">sauer sind wenn man sich überlegt dass</p>
+<p begin="00:02:36.850" end="00:02:43.360" style="s2">der herr ben ali der ehemalige</p>
+<p begin="00:02:40.150" end="00:02:47.920" style="s2">staatspräsident von tunesien</p>
+<p begin="00:02:43.360" end="00:02:49.510" style="s2">der sozialist<span style="s4"> war</span><span style="s3"> genosse</span> und<span style="s3"> ein</span></p>
+<p begin="00:02:47.920" end="00:02:52.810" style="s2">führendes mitglied in der</p>
+<p begin="00:02:49.510" end="00:02:55.990" style="s2">sozialistischen internationale<span style="s4"> war</span> dass</p>
+<p begin="00:02:52.810" end="00:02:58.900" style="s2">dieser kleptokraten<span style="s3"> nachdem er bevor er</span></p>
+<p begin="00:02:55.990" end="00:03:01.720" style="s2"><span style="s4">sein</span> ganzes gold<span style="s4"> mitgenommen</span> hat nach</p>
+<p begin="00:02:58.900" end="00:03:05.200" style="s2"><span style="s4">tschita</span> nach<span style="s3"> saudi arabien wo er jetzt</span></p>
+<p begin="00:03:01.720" end="00:03:09.310" style="s2">lebt mit seiner<span style="s3"> familie das dieser ben</span></p>
+<p begin="00:03:05.200" end="00:03:12.940" style="s2">ali dieser kleptomanen die<span style="s4"> die</span> dass</p>
+<p begin="00:03:09.310" end="00:03:16.090" style="s2">dieser kleptomanen<span style="s3"> die</span> die gefängnisse</p>
+<p begin="00:03:12.940" end="00:03:18.150" style="s2"><span style="s4">aufgespart</span> hat<span style="s4"> und</span> es sind ja das ist ja</p>
+<p begin="00:03:16.090" end="00:03:21.330" style="s2">nun mal<span style="s3"> ein</span><span style="s4"> fakt</span> diese ganzen</p>
+<p begin="00:03:18.150" end="00:03:24.040" style="s2">kriminellen sind<span style="s3"> hierhergekommen</span><span style="s4"> ja</span></p>
+<p begin="00:03:21.330" end="00:03:25.750" style="s2">überlegt geben sie mal nach düsseldorf</p>
+<p begin="00:03:24.040" end="00:03:28.780" style="s2">und schauen sich dort mal am</p>
+<p begin="00:03:25.750" end="00:03:30.910" style="s2">hauptbahnhof des maghreb viertel an und</p>
+<p begin="00:03:28.780" end="00:03:32.770" style="s2">fragen sie mal dort in düsseldorf ein</p>
+<p begin="00:03:30.910" end="00:03:35.620" style="s2">ich habe<span style="s3"> das</span> gemacht<span style="s4"> über</span> weihnachten</p>
+<p begin="00:03:32.770" end="00:03:37.060" style="s2">fragen sie mal die düsseldorfer was<span style="s3"> sie</span></p>
+<p begin="00:03:35.620" end="00:03:38.410" style="s2"><span style="s4">im grunde genommen über</span><span style="s3"> diese</span></p>
+<p begin="00:03:37.060" end="00:03:40.030" style="s2"><span style="s3">maghrebiner erhalten</span></p>
+<p begin="00:03:38.410" end="00:03:43.090" style="s2">aber<span style="s4"> sie</span> brauchen<span style="s4"> gar</span> nicht so weit</p>
+<p begin="00:03:40.030" end="00:03:45.220" style="s2">gehen gehen sie einfach nach doberlug</p>
+<p begin="00:03:43.090" end="00:03:48.100" style="s2">kirchhain und fragen sie dort mal die</p>
+<p begin="00:03:45.220" end="00:03:50.950" style="s2">leute über die<span style="s3"> macchina</span> die können<span style="s3"> ihnen</span></p>
+<p begin="00:03:48.100" end="00:03:53.140" style="s2"><span style="s3">auch da einiges erzählen ja</span><span style="s4"> also</span> seien</p>
+<p begin="00:03:50.950" end="00:03:55.690" style="s2">sie im grunde genommen<span style="s4"> mich</span> beleidigt</p>
+<p begin="00:03:53.140" end="00:04:00.230" style="s2">sondern stimmen<span style="s4"> sie</span> im grunde genommen</p>
+<p begin="00:03:55.690" end="00:04:03.200" style="s2"><span style="s4">dieser</span> sache zu es ist einfach was ganz</p>
+<p begin="00:04:00.230" end="00:04:06.349" style="s2">ganz wichtiges<span style="s3"> das</span> hier einfach klarheit</p>
+<p begin="00:04:03.200" end="00:04:08.540" style="s2">erfolgt was zumindest<span style="s3"> die matura biener</span></p>
+<p begin="00:04:06.349" end="00:04:09.590" style="s2">angeht und bei georgien<span style="s4"> verstehe ich im</span></p>
+<p begin="00:04:08.540" end="00:04:11.410" style="s2">grunde genommen über<span style="s3"> ihre</span> haltung</p>
+<p begin="00:04:09.590" end="00:04:15.060" style="s2"><span style="s4">überhaupt</span> nicht vielen dank</p>
+<p begin="00:04:11.410" end="00:04:15.060" style="s2">[Applaus]</p>
+</div>
+</body>
+</tt>

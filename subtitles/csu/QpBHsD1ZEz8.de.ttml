@@ -1,0 +1,798 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.410" end="00:00:14.910" style="s2">[Musik]</p>
+<p begin="00:00:16.020" end="00:00:22.540" style="s2">lieber was seehofer lieber markus söder</p>
+<p begin="00:00:19.330" end="00:00:24.450" style="s2">liebe annegret liebe kolleginnen und</p>
+<p begin="00:00:22.540" end="00:00:28.090" style="s2">kollegen liebe parteifreunde</p>
+<p begin="00:00:24.450" end="00:00:29.710" style="s2">ich habe heute die<span style="s3"> aufgabe</span><span style="s4"> in</span> europa</p>
+<p begin="00:00:28.090" end="00:00:32.590" style="s2">leitantrag mit einzubringen und</p>
+<p begin="00:00:29.710" end="00:00:35.590" style="s2">natürlich einzustimmen auf der aufgabe</p>
+<p begin="00:00:32.590" end="00:00:39.670" style="s2">die im jahr<span style="s4"> 2019</span> politisch vor uns steht</p>
+<p begin="00:00:35.590" end="00:00:42.850" style="s2">bevor ich das<span style="s4"> aber mache möchte ich auch</span></p>
+<p begin="00:00:39.670" end="00:00:45.129" style="s2">danke sagen<span style="s4"> was</span> seehofer<span style="s4"> ist</span> eine starke</p>
+<p begin="00:00:42.850" end="00:00:47.409" style="s2">art unsere partei zu führen seine</p>
+<p begin="00:00:45.129" end="00:00:48.850" style="s2"><span style="s3">robuste</span> art manchmal aber auch seine</p>
+<p begin="00:00:47.409" end="00:00:51.460" style="s2">freundschaftliche art in den letzten</p>
+<p begin="00:00:48.850" end="00:00:53.799" style="s2">jahren<span style="s3"> voranzugehen</span> zu gestalten mit den</p>
+<p begin="00:00:51.460" end="00:00:56.350" style="s2"><span style="s4">starken</span><span style="s3"> erfolgen</span> die er hatte hat<span style="s3"> er</span></p>
+<p begin="00:00:53.799" end="00:00:58.780" style="s2">heute einen starken abschluss erleben</p>
+<p begin="00:00:56.350" end="00:01:00.940" style="s2">dürfen wir haben ihnen geschenkt und zum</p>
+<p begin="00:00:58.780" end="00:01:03.190" style="s2">ehrenvorsitzenden gewählt zu werden ist</p>
+<p begin="00:01:00.940" end="00:01:05.619" style="s2">ein starkes zeichen<span style="s3"> dankeschön</span> horst</p>
+<p begin="00:01:03.190" end="00:01:08.470" style="s2">seehofer noch<span style="s4"> mal</span> und ich möchte markus</p>
+<p begin="00:01:05.619" end="00:01:10.659" style="s2"><span style="s3">söder</span> alles gute wünschen für die</p>
+<p begin="00:01:08.470" end="00:01:12.310" style="s2">aufgabe die vor ihm steht das team jetzt</p>
+<p begin="00:01:10.659" end="00:01:14.290" style="s2">zu gestalten das team zu führen<span style="s4"> im</span></p>
+<p begin="00:01:12.310" end="00:01:16.600" style="s2">mannschaftsgeist miteinander zu arbeiten</p>
+<p begin="00:01:14.290" end="00:01:17.979" style="s2">und vor allem klar zu machen dass wir</p>
+<p begin="00:01:16.600" end="00:01:20.289" style="s2">das<span style="s4"> christlich soziale union sowie des</span></p>
+<p begin="00:01:17.979" end="00:01:22.119" style="s2"><span style="s4">formulars markus eine partei der mitte</span></p>
+<p begin="00:01:20.289" end="00:01:24.250" style="s2"><span style="s3">seien</span> aus der mitte<span style="s3"> heraus</span> gestalten</p>
+<p begin="00:01:22.119" end="00:01:26.259" style="s2">natürlich<span style="s3"> konservative</span> und das rechte</p>
+<p begin="00:01:24.250" end="00:01:28.359" style="s2"><span style="s4">mitdenken</span> aber aus der mitte heraus</p>
+<p begin="00:01:26.259" end="00:01:30.070" style="s2">gestalten in diesem geist wenn wir die</p>
+<p begin="00:01:28.359" end="00:01:31.420" style="s2">nächsten jahre gestalten aber alle</p>
+<p begin="00:01:30.070" end="00:01:33.780" style="s2">chancen dieses ziel zu erreichen<span style="s3"> desto</span></p>
+<p begin="00:01:31.420" end="00:01:37.950" style="s2"><span style="s3">formuliert die csu zu neuer kraft</span></p>
+<p begin="00:01:33.780" end="00:01:41.759" style="s2"><span style="s3">zurückzuführen</span> ihre parteifreunde</p>
+<p begin="00:01:37.950" end="00:01:44.170" style="s2"><span style="s4">2009/10 jahr der erneuerung</span></p>
+<p begin="00:01:41.759" end="00:01:45.810" style="s2">es wird uns nicht viel zeit bleiben weil</p>
+<p begin="00:01:44.170" end="00:01:48.539" style="s2">der erste prüfung die<span style="s4"> erster</span> prüfstein</p>
+<p begin="00:01:45.810" end="00:01:51.340" style="s2"><span style="s3">wir</span> bereits ende mai<span style="s4"> vorn</span> stehen wenn</p>
+<p begin="00:01:48.539" end="00:01:53.859" style="s2">europaweit<span style="s4"> national</span><span style="s3"> und</span> bei uns in</p>
+<p begin="00:01:51.340" end="00:01:59.259" style="s2">bayern<span style="s3"> wahlen stattfinden nämlich die</span></p>
+<p begin="00:01:53.859" end="00:02:01.420" style="s2"><span style="s3">europawahlen</span> wenn heute 19 januar über</p>
+<p begin="00:01:59.259" end="00:02:04.030" style="s2">europa geredet wird man muss zunächst</p>
+<p begin="00:02:01.420" end="00:02:04.899" style="s2">über die entwicklung dieser woche</p>
+<p begin="00:02:04.030" end="00:02:07.509" style="s2">geredet werden</p>
+<p begin="00:02:04.899" end="00:02:09.509" style="s2">die<span style="s4"> angriffs</span> bereits<span style="s3"> thematisiert</span> in</p>
+<p begin="00:02:07.509" end="00:02:12.010" style="s2"><span style="s4">black</span><span style="s3"> city</span><span style="s4"> wie</span> parteifreunde</p>
+<p begin="00:02:09.509" end="00:02:13.690" style="s2">wenn sie heute<span style="s4"> nicht mehr ein flug über</span></p>
+<p begin="00:02:12.010" end="00:02:17.560" style="s2">europa machen dann ist der praxis leider</p>
+<p begin="00:02:13.690" end="00:02:19.540" style="s2">gottes kein einzelphänomen<span style="s4"> dem</span> wir da</p>
+<p begin="00:02:17.560" end="00:02:23.170" style="s2">gegenüber stehen<span style="s4"> in</span> unserem<span style="s4"> nachbarland</span></p>
+<p begin="00:02:19.540" end="00:02:25.319" style="s2">frankreich ist derzeit<span style="s4"> lippen</span></p>
+<p begin="00:02:23.170" end="00:02:28.480" style="s2">mit abstand die stärkste einzelpartei</p>
+<p begin="00:02:25.319" end="00:02:32.140" style="s2">die es dort gibt bei 25 prozent</p>
+<p begin="00:02:28.480" end="00:02:34.480" style="s2"><span style="s4">micron</span><span style="s3"> steht</span> bei 20 prozent wenn<span style="s4"> er</span> mit</p>
+<p begin="00:02:32.140" end="00:02:36.910" style="s2">mir<span style="s3"> auch</span> italien geht dann regiert dort</p>
+<p begin="00:02:34.480" end="00:02:39.580" style="s2">salvini<span style="s3"> mit den fünf sterne gemeinsam</span></p>
+<p begin="00:02:36.910" end="00:02:42.910" style="s2"><span style="s3">zwei</span> populistische parteien die das land</p>
+<p begin="00:02:39.580" end="00:02:44.500" style="s2">mehr oder weniger führen und wenn wir</p>
+<p begin="00:02:42.910" end="00:02:47.860" style="s2">den osten unseres kontinentes blicken</p>
+<p begin="00:02:44.500" end="00:02:50.319" style="s2">mit polen kaczynski vielen anderen</p>
+<p begin="00:02:47.860" end="00:02:52.930" style="s2">entwicklungen die viel sorge machen dann</p>
+<p begin="00:02:50.319" end="00:02:55.540" style="s2">liebe parteifreunde ist es keine<span style="s3"> einzel</span></p>
+<p begin="00:02:52.930" end="00:02:58.060" style="s2">situation wie wir sie<span style="s3"> im dreck</span><span style="s4"> sieht</span></p>
+<p begin="00:02:55.540" end="00:02:59.950" style="s2"><span style="s3">erleben</span> dass populisten die menschen für</p>
+<p begin="00:02:58.060" end="00:03:01.180" style="s2">verführen und leider gottes in die</p>
+<p begin="00:02:59.950" end="00:03:03.459" style="s2">falsche richtung führen</p>
+<p begin="00:03:01.180" end="00:03:05.769" style="s2">und deswegen<span style="s3"> möchte</span> ich euch eine sagen</p>
+<p begin="00:03:03.459" end="00:03:06.970" style="s2">und um eines bitten wenn ich mir die</p>
+<p begin="00:03:05.769" end="00:03:09.549" style="s2">zahlen<span style="s3"> anschaut</span><span style="s4"> wird</span><span style="s3"> das</span> nächste</p>
+<p begin="00:03:06.970" end="00:03:11.730" style="s2">europäische parlament aussehen könnte im</p>
+<p begin="00:03:09.549" end="00:03:14.200" style="s2">schlimmsten fall<span style="s3"> dann</span> kann<span style="s3"> es</span> passieren</p>
+<p begin="00:03:11.730" end="00:03:15.580" style="s2">dass dieser kontinent nicht mehr genug</p>
+<p begin="00:03:14.200" end="00:03:18.340" style="s2">abgeordnete im europäischen parlament</p>
+<p begin="00:03:15.580" end="00:03:20.500" style="s2">hat die zur partnerschaft bereit sind</p>
+<p begin="00:03:18.340" end="00:03:22.630" style="s2">die zum miteinander und zum kompromiss</p>
+<p begin="00:03:20.500" end="00:03:25.470" style="s2">bereit sind sondern vielleicht eine</p>
+<p begin="00:03:22.630" end="00:03:28.359" style="s2">mehrheit da ist die aus nationalismus</p>
+<p begin="00:03:25.470" end="00:03:30.489" style="s2">egoismus und populismus heraus diese</p>
+<p begin="00:03:28.359" end="00:03:33.070" style="s2">partnerschaft ablehnen und deswegen</p>
+<p begin="00:03:30.489" end="00:03:34.870" style="s2">bitte ich euch an<span style="s4"> den</span> tag<span style="s3"> nachdem</span> der</p>
+<p begin="00:03:33.070" end="00:03:36.100" style="s2"><span style="s3">praxis</span> stattfand haben<span style="s4"> mich</span> viele</p>
+<p begin="00:03:34.870" end="00:03:37.930" style="s2">britische<span style="s4"> kollegin</span> und<span style="s4"> freundin</span></p>
+<p begin="00:03:36.100" end="00:03:39.850" style="s2"><span style="s3">angesprochen mit dem hinweis wie konnte</span></p>
+<p begin="00:03:37.930" end="00:03:40.720" style="s2">das passieren<span style="s4"> warum</span> haben wir nicht früh</p>
+<p begin="00:03:39.850" end="00:03:42.910" style="s2">genug gewarnt</p>
+<p begin="00:03:40.720" end="00:03:45.820" style="s2">und ich möchte<span style="s3"> nicht</span> dass uns passiert</p>
+<p begin="00:03:42.910" end="00:03:47.709" style="s2"><span style="s3">dass</span> wir<span style="s3"> am</span> 27 mai alle in der früh<span style="s3"> die</span></p>
+<p begin="00:03:45.820" end="00:03:49.510" style="s2">nachrichten anschauen und feststellen</p>
+<p begin="00:03:47.709" end="00:03:51.459" style="s2">dass dieser kontinent<span style="s3"> am</span> rutschen ist</p>
+<p begin="00:03:49.510" end="00:03:53.230" style="s2"><span style="s3">dass</span> dieser kontinent die partnerschaft</p>
+<p begin="00:03:51.459" end="00:03:54.940" style="s2">nicht mehr will weil dann viel für uns</p>
+<p begin="00:03:53.230" end="00:03:57.519" style="s2">bayern für uns deutsche<span style="s4"> auf</span> dem</p>
+<p begin="00:03:54.940" end="00:03:59.920" style="s2"><span style="s4">prüfstand</span> steht und deswegen wir als csu</p>
+<p begin="00:03:57.519" end="00:04:01.810" style="s2">nehmen die<span style="s3"> europawahl</span> ernst wir nehmen</p>
+<p begin="00:03:59.920" end="00:04:03.850" style="s2">den kampf auf und dieses europa<span style="s4"> wir</span></p>
+<p begin="00:04:01.810" end="00:04:07.799" style="s2">werden<span style="s4"> das europa</span><span style="s3"> ist</span> uns wichtig ist am</p>
+<p begin="00:04:03.850" end="00:04:07.799" style="s2">26<span style="s3"> mai</span> verteidigen</p>
+<p begin="00:04:13.870" end="00:04:16.989" style="s2">und<span style="s3"> die</span> parteifreunde<span style="s4"> das</span> ich das</p>
+<p begin="00:04:15.400" end="00:04:18.639" style="s2"><span style="s4">nochmal ein bisschen</span><span style="s3"> persönlicher</span> sagen</p>
+<p begin="00:04:16.989" end="00:04:22.240" style="s2">darf<span style="s3"> am rednerpult steht jetzt jemand</span></p>
+<p begin="00:04:18.639" end="00:04:25.449" style="s2">der 46 jahre<span style="s3"> alte ich bin die erste</span></p>
+<p begin="00:04:22.240" end="00:04:26.889" style="s2">generation auf diesem kontinent<span style="s3"> die</span> von</p>
+<p begin="00:04:25.449" end="00:04:29.530" style="s2">sich sagen kann dass sie auf dem</p>
+<p begin="00:04:26.889" end="00:04:33.040" style="s2">gesamten kontinent in frieden und</p>
+<p begin="00:04:29.530" end="00:04:35.800" style="s2">freiheit leben darf die generation</p>
+<p begin="00:04:33.040" end="00:04:38.410" style="s2">meines vaters 47 geboren<span style="s4"> nahm</span><span style="s3"> zweiten</span></p>
+<p begin="00:04:35.800" end="00:04:40.449" style="s2"><span style="s3">weltkrieg</span> war die erste generation die</p>
+<p begin="00:04:38.410" end="00:04:43.030" style="s2">von sich sagen konnte<span style="s4"> ich</span> durfte<span style="s3"> immer</span></p>
+<p begin="00:04:40.449" end="00:04:45.040" style="s2">in frieden leben aber die hälfte europas</p>
+<p begin="00:04:43.030" end="00:04:46.960" style="s2">war über lange jahrzehnte hinter dem</p>
+<p begin="00:04:45.040" end="00:04:50.949" style="s2">eisernen vorhang eingekerkert in</p>
+<p begin="00:04:46.960" end="00:04:53.800" style="s2">unfreiheit<span style="s3"> und</span> mein großvater<span style="s4"> hat</span> mir</p>
+<p begin="00:04:50.949" end="00:04:55.030" style="s2">noch am familientisch<span style="s3"> daheim von seinen</span></p>
+<p begin="00:04:53.800" end="00:04:55.889" style="s2">erfahrungen im zweiten weltkrieg</p>
+<p begin="00:04:55.030" end="00:04:57.910" style="s2">berichtet</p>
+<p begin="00:04:55.889" end="00:05:00.400" style="s2">und wenn man sich das war gegenwärtig</p>
+<p begin="00:04:57.910" end="00:05:02.440" style="s2"><span style="s3">liebe</span> freunde<span style="s3"> was</span> wir<span style="s3"> erreicht</span> haben</p>
+<p begin="00:05:00.400" end="00:05:04.150" style="s2">aber auch wie selbstverständlich wird</p>
+<p begin="00:05:02.440" end="00:05:04.479" style="s2"><span style="s3">ist</span> heute alles nehmen was wir erreicht</p>
+<p begin="00:05:04.150" end="00:05:06.039" style="s2">haben</p>
+<p begin="00:05:04.479" end="00:05:07.780" style="s2">dann möchte ich euch damit<span style="s3"> noch</span><span style="s4"> mehr</span></p>
+<p begin="00:05:06.039" end="00:05:09.610" style="s2"><span style="s3">eindringlich</span> vor augen führen was zur</p>
+<p begin="00:05:07.780" end="00:05:11.530" style="s2">debatte steht ich<span style="s4"> hab</span> im</p>
+<p begin="00:05:09.610" end="00:05:14.320" style="s2"><span style="s3">september/oktober</span><span style="s4"> entschuldigung</span><span style="s3"> im</span></p>
+<p begin="00:05:11.530" end="00:05:14.850" style="s2">august letzten jahres viele gespräche</p>
+<p begin="00:05:14.320" end="00:05:18.550" style="s2">geführt</p>
+<p begin="00:05:14.850" end="00:05:19.960" style="s2">in der csu<span style="s4"> horst mit dir</span><span style="s3"> mit</span> vielen</p>
+<p begin="00:05:18.550" end="00:05:22.510" style="s2">freunden natürlich auch mit unserer</p>
+<p begin="00:05:19.960" end="00:05:25.180" style="s2">bundeskanzlerin angela merkel mit<span style="s3"> vielen</span></p>
+<p begin="00:05:22.510" end="00:05:26.580" style="s2">in europa und ich<span style="s3"> habe</span> mir die frage</p>
+<p begin="00:05:25.180" end="00:05:29.349" style="s2">gestellt traue ich mir zu</p>
+<p begin="00:05:26.580" end="00:05:30.490" style="s2">in dieser debatte in dieser historischen</p>
+<p begin="00:05:29.349" end="00:05:31.660" style="s2">phase in der<span style="s4"> wir</span> sind<span style="s3"> ein</span> beitrag</p>
+<p begin="00:05:30.490" end="00:05:33.550" style="s2">leisten zu können</p>
+<p begin="00:05:31.660" end="00:05:34.690" style="s2"><span style="s4">und</span> ich habe<span style="s3"> der</span> europaweit viel</p>
+<p begin="00:05:33.550" end="00:05:36.340" style="s2">unterstützung erfahren</p>
+<p begin="00:05:34.690" end="00:05:38.229" style="s2">ich<span style="s4"> habe</span> dann im september letzten</p>
+<p begin="00:05:36.340" end="00:05:40.270" style="s2">jahres von meiner fraktion der</p>
+<p begin="00:05:38.229" end="00:05:42.280" style="s2">europäischen volkspartei<span style="s3"> vor</span><span style="s4"> 220</span></p>
+<p begin="00:05:40.270" end="00:05:44.770" style="s2">abgeordneten<span style="s3"> der</span> größten fraktion im</p>
+<p begin="00:05:42.280" end="00:05:46.539" style="s2">parlament bekannt gegeben dass<span style="s3"> ich</span></p>
+<p begin="00:05:44.770" end="00:05:48.610" style="s2">antreten will<span style="s3"> dass</span> ich mich bewerbe<span style="s3"> und</span></p>
+<p begin="00:05:46.539" end="00:05:50.229" style="s2"><span style="s3">die spitzenkandidatur der europäischen</span></p>
+<p begin="00:05:48.610" end="00:05:53.020" style="s2">volkspartei dann habe ich einen</p>
+<p begin="00:05:50.229" end="00:05:54.280" style="s2">mitbewerber bekommen demokratie so</p>
+<p begin="00:05:53.020" end="00:05:55.510" style="s2">wunderbare sache aber wenn es dann<span style="s4"> um</span></p>
+<p begin="00:05:54.280" end="00:05:57.310" style="s2"><span style="s3">mitbewerber gibt es immer ein bisschen</span></p>
+<p begin="00:05:55.510" end="00:05:59.220" style="s2">spannender<span style="s3"> würde</span> ich<span style="s3"> mal</span><span style="s4"> sagen</span></p>
+<p begin="00:05:57.310" end="00:06:01.510" style="s2">also ich<span style="s4"> hab</span> einen bekommen das ist der</p>
+<p begin="00:05:59.220" end="00:06:04.630" style="s2">alexander stubb gewesen<span style="s3"> der</span> frühere</p>
+<p begin="00:06:01.510" end="00:06:06.699" style="s2">finnische premierminister<span style="s3"> ein</span> kaliber</p>
+<p begin="00:06:04.630" end="00:06:09.220" style="s2">der angetreten ist<span style="s3"> und dann haben wir</span></p>
+<p begin="00:06:06.699" end="00:06:11.979" style="s2">ein<span style="s3"> parteitag</span> in helsinki am</p>
+<p begin="00:06:09.220" end="00:06:14.440" style="s2"><span style="s3">sp-parteitag</span> wo 800 delegierte aus ganz</p>
+<p begin="00:06:11.979" end="00:06:15.849" style="s2">europa beisammen waren<span style="s3"> uns</span> präsentiert</p>
+<p begin="00:06:14.440" end="00:06:18.070" style="s2">sind ans rednerpult gang haben unsere</p>
+<p begin="00:06:15.849" end="00:06:20.229" style="s2">überlegungen vorgestellt am kampagne</p>
+<p begin="00:06:18.070" end="00:06:21.160" style="s2">gemacht wir beide<span style="s3"> und</span> dann haben die 800</p>
+<p begin="00:06:20.229" end="00:06:24.580" style="s2">delegierten in geheimer abstimmung</p>
+<p begin="00:06:21.160" end="00:06:25.719" style="s2">entschieden und ich<span style="s3"> hab</span> dann<span style="s3"> 79 prozent</span></p>
+<p begin="00:06:24.580" end="00:06:27.810" style="s2">für<span style="s3"> mich</span> berlin</p>
+<p begin="00:06:25.719" end="00:06:30.699" style="s2">ehrlich gesagt selbst<span style="s4"> überraschen</span></p>
+<p begin="00:06:27.810" end="00:06:32.440" style="s2"><span style="s4">79%</span><span style="s3"> unterstützung</span> gehabt von den</p>
+<p begin="00:06:30.699" end="00:06:35.139" style="s2">delegierten und deswegen sage ich euch</p>
+<p begin="00:06:32.440" end="00:06:36.819" style="s2">mit diesem mandat im rücken und mit dem</p>
+<p begin="00:06:35.139" end="00:06:39.250" style="s2"><span style="s3">mandat</span><span style="s4"> des sich von</span><span style="s3"> euch</span> bekommen<span style="s3"> habt</span></p>
+<p begin="00:06:36.819" end="00:06:41.229" style="s2">für<span style="s4"> die</span> csu<span style="s3"> die</span> spitzenkandidatur</p>
+<p begin="00:06:39.250" end="00:06:43.479" style="s2">anzunehmen und für die cdu</p>
+<p begin="00:06:41.229" end="00:06:45.400" style="s2">annegret sage ich euch aus tiefer</p>
+<p begin="00:06:43.479" end="00:06:47.229" style="s2">überzeugung heraus mit<span style="s3"> diesem</span> rücken</p>
+<p begin="00:06:45.400" end="00:06:50.169" style="s2">wenn mit<span style="s3"> diesem</span><span style="s4"> demokratischen</span><span style="s3"> mandat</span> im</p>
+<p begin="00:06:47.229" end="00:06:52.330" style="s2">hintergrund ich will und ich kann die</p>
+<p begin="00:06:50.169" end="00:06:54.819" style="s2">europäische kommission führen und ich</p>
+<p begin="00:06:52.330" end="00:06:56.949" style="s2">will und ich kann dieses europa in eine</p>
+<p begin="00:06:54.819" end="00:06:59.220" style="s2">gute zukunft führen mit eurer</p>
+<p begin="00:06:56.949" end="00:06:59.220" style="s2">unterstützung</p>
+<p begin="00:07:10.220" end="00:07:17.720" style="s2"><span style="s3">die</span> parteifreunde<span style="s3"> danke und über</span></p>
+<p begin="00:07:14.420" end="00:07:20.060" style="s2"><span style="s3">parteifreunde</span><span style="s4"> wenn</span> wir<span style="s4"> den balkanstaaten</span></p>
+<p begin="00:07:17.720" end="00:07:21.980" style="s2"><span style="s3">und</span><span style="s4"> wenn</span> wir uns unserer<span style="s3"> überlegungen</span></p>
+<p begin="00:07:20.060" end="00:07:23.890" style="s2">für europa<span style="s3"> noch einmal vergewissern dann</span></p>
+<p begin="00:07:21.980" end="00:07:26.990" style="s2">ist das erste was wir machen müssen</p>
+<p begin="00:07:23.890" end="00:07:28.880" style="s2">die grundvoraussetzung wenn wir die</p>
+<p begin="00:07:26.990" end="00:07:30.230" style="s2">menschen<span style="s4"> für</span> europa gewinnen wollen dann</p>
+<p begin="00:07:28.880" end="00:07:32.480" style="s2">müssen wir<span style="s4"> über</span><span style="s3"> unsere</span> erfolge<span style="s3"> reden wir</span></p>
+<p begin="00:07:30.230" end="00:07:34.190" style="s2">regieren<span style="s3"> nicht</span> nur in bayern und viele</p>
+<p begin="00:07:32.480" end="00:07:35.840" style="s2">kommunen nicht nur in bayern nicht nur</p>
+<p begin="00:07:34.190" end="00:07:37.520" style="s2">in deutschland<span style="s4"> wird regieren</span><span style="s3"> auch in</span></p>
+<p begin="00:07:35.840" end="00:07:39.680" style="s2">europa wir haben dort viele</p>
+<p begin="00:07:37.520" end="00:07:41.690" style="s2">spitzenfunktionen der<span style="s4"> sap</span><span style="s3"> für</span> unsere</p>
+<p begin="00:07:39.680" end="00:07:43.310" style="s2"><span style="s3">parteien familie besetzt und deswegen</span></p>
+<p begin="00:07:41.690" end="00:07:44.900" style="s2"><span style="s3">müssen</span> wir<span style="s4"> an ein</span><span style="s3"> paar punkten deutlich</span></p>
+<p begin="00:07:43.310" end="00:07:46.310" style="s2">machen<span style="s4"> dass ist stolz auf das</span> was wir</p>
+<p begin="00:07:44.900" end="00:07:49.640" style="s2">geleistet haben beispielsweise<span style="s3"> in</span><span style="s4"> der</span></p>
+<p begin="00:07:46.310" end="00:07:52.130" style="s2">migrationsfrage<span style="s3"> seit</span><span style="s4"> 2015</span> die zahlen um</p>
+<p begin="00:07:49.640" end="00:07:53.870" style="s2">über<span style="s3"> 90 prozent reduziert</span> im letzten</p>
+<p begin="00:07:52.130" end="00:07:57.260" style="s2">jahr kamen in ganz europa an der</p>
+<p begin="00:07:53.870" end="00:07:59.150" style="s2">südgrenze nur<span style="s4"> noch</span> 181.000<span style="s4"> neu</span><span style="s3"> ankünfte</span></p>
+<p begin="00:07:57.260" end="00:08:00.770" style="s2">an<span style="s3"> deutlich</span> reduziert es ist viel</p>
+<p begin="00:07:59.150" end="00:08:02.480" style="s2">erreicht worden<span style="s3"> in</span> den letzten jahren</p>
+<p begin="00:08:00.770" end="00:08:05.540" style="s2">und das zweite große thema der letzten</p>
+<p begin="00:08:02.480" end="00:08:07.550" style="s2">jahre auch zur bilanz die<span style="s4"> euro krise</span></p>
+<p begin="00:08:05.540" end="00:08:09.140" style="s2">erinnert euch vor zehn jahren sie<span style="s4"> hat</span></p>
+<p begin="00:08:07.550" end="00:08:11.300" style="s2"><span style="s4">uns alle durchgerüttelt sie ihren</span></p>
+<p begin="00:08:09.140" end="00:08:12.620" style="s2">kontinent durchgerüttelt es war zeit als</p>
+<p begin="00:08:11.300" end="00:08:14.450" style="s2">horst seehofer den ministerpräsidenten</p>
+<p begin="00:08:12.620" end="00:08:16.430" style="s2">übernommen hat wo wir in unserem land</p>
+<p begin="00:08:14.450" end="00:08:18.830" style="s2">bayern<span style="s4"> einen wirtschafts minus von fünf</span></p>
+<p begin="00:08:16.430" end="00:08:19.460" style="s2"><span style="s4">prozent</span> hatten<span style="s3"> aber</span> wirklich gefordert</p>
+<p begin="00:08:18.830" end="00:08:22.010" style="s2">waren</p>
+<p begin="00:08:19.460" end="00:08:23.390" style="s2">und<span style="s3"> wie</span><span style="s4"> schaut heute bilanz</span> aus wir</p>
+<p begin="00:08:22.010" end="00:08:25.700" style="s2">haben<span style="s3"> 13</span> millionen neue arbeitsplätze</p>
+<p begin="00:08:23.390" end="00:08:27.500" style="s2">geschaffen auf<span style="s3"> diesem</span> kontinent<span style="s3"> alle</span></p>
+<p begin="00:08:25.700" end="00:08:30.200" style="s2">staaten<span style="s3"> der</span><span style="s4"> eurozone</span><span style="s3"> sind</span> unter drei</p>
+<p begin="00:08:27.500" end="00:08:32.599" style="s2">prozent neuverschuldung in summe<span style="s3"> sogar</span></p>
+<p begin="00:08:30.200" end="00:08:33.409" style="s2">im durchschnitt bei 0,8 prozent</p>
+<p begin="00:08:32.599" end="00:08:35.479" style="s2">neuverschuldung</p>
+<p begin="00:08:33.409" end="00:08:37.760" style="s2">und wir haben über<span style="s4"> zwei</span><span style="s3"> prozent</span></p>
+<p begin="00:08:35.479" end="00:08:39.289" style="s2">wirtschaftswachstum<span style="s3"> ein</span> nachhaltiges und</p>
+<p begin="00:08:37.760" end="00:08:41.599" style="s2">stabiles wachstum auf diesem kontinent</p>
+<p begin="00:08:39.289" end="00:08:43.750" style="s2">und<span style="s4"> die mir freunde</span><span style="s3"> diese</span> fragen sind</p>
+<p begin="00:08:41.599" end="00:08:46.220" style="s2">keine fragen von nord und süd in europa</p>
+<p begin="00:08:43.750" end="00:08:47.690" style="s2"><span style="s3">weil</span> die reformen die zu<span style="s3"> diesem</span></p>
+<p begin="00:08:46.220" end="00:08:49.970" style="s2"><span style="s4">wirtschaftserfolg geführt haben</span></p>
+<p begin="00:08:47.690" end="00:08:51.500" style="s2"><span style="s4">die</span> wurden von politikern die<span style="s4"> dachhöhe</span></p>
+<p begin="00:08:49.970" end="00:08:54.260" style="s2"><span style="s4">ich war gestern</span><span style="s3"> in</span> madrid am parteitag</p>
+<p begin="00:08:51.500" end="00:08:56.270" style="s2">der<span style="s4"> partita popolare und</span><span style="s3"> hat</span> dort<span style="s4"> rede</span></p>
+<p begin="00:08:54.260" end="00:08:58.880" style="s2"><span style="s4">halten</span> da war auch<span style="s4"> heu vor</span><span style="s3"> mir</span> gesessen</p>
+<p begin="00:08:56.270" end="00:09:00.500" style="s2">es<span style="s4"> waren</span> politiker wie mariano rajoy es</p>
+<p begin="00:08:58.880" end="00:09:02.660" style="s2">war ein politiker in zypern in</p>
+<p begin="00:09:00.500" end="00:09:05.000" style="s2">griechenland in irland und<span style="s3"> in portugal</span></p>
+<p begin="00:09:02.660" end="00:09:06.830" style="s2">von unserer<span style="s3"> parteien</span><span style="s4"> familie</span> die die</p>
+<p begin="00:09:05.000" end="00:09:08.660" style="s2">reformen durchgeführt haben<span style="s3"> die</span> zu</p>
+<p begin="00:09:06.830" end="00:09:10.850" style="s2"><span style="s3">diesem</span><span style="s4"> wirtschaftserfolg geführt haben</span></p>
+<p begin="00:09:08.660" end="00:09:12.950" style="s2">das<span style="s3"> heißt</span> christdemokratie<span style="s3"> christ</span></p>
+<p begin="00:09:10.850" end="00:09:14.600" style="s2">soziales denken hat zu diesem erfolg</p>
+<p begin="00:09:12.950" end="00:09:16.430" style="s2">geführt und ich formuliere es mal</p>
+<p begin="00:09:14.600" end="00:09:18.589" style="s2"><span style="s4">andersrum</span><span style="s3"> wenn</span> wir in der<span style="s4"> euro krise</span></p>
+<p begin="00:09:16.430" end="00:09:20.660" style="s2">eine<span style="s4"> rot-grüne</span> regierung<span style="s3"> in deutschland</span></p>
+<p begin="00:09:18.589" end="00:09:22.970" style="s2">gehabt hätten dann hätten wir auf diesem</p>
+<p begin="00:09:20.660" end="00:09:23.470" style="s2">kontinent eurobonds eingeführt wir</p>
+<p begin="00:09:22.970" end="00:09:24.940" style="s2">hätten<span style="s4"> die</span></p>
+<p begin="00:09:23.470" end="00:09:27.270" style="s2"><span style="s3">gemeinschaft</span> und von schulden bekommen</p>
+<p begin="00:09:24.940" end="00:09:29.560" style="s2">und deswegen sage ich euch unser weg der</p>
+<p begin="00:09:27.270" end="00:09:31.420" style="s2"><span style="s4">fabrik</span> der unions weg zur rettung</p>
+<p begin="00:09:29.560" end="00:09:32.920" style="s2">europas in der euro krise war der</p>
+<p begin="00:09:31.420" end="00:09:36.270" style="s2">richtige<span style="s3"> und</span><span style="s4"> der</span> seien stolz auf die</p>
+<p begin="00:09:32.920" end="00:09:36.270" style="s2">bilanz<span style="s4"> die wir</span><span style="s3"> jetzt</span> vorlegen können</p>
+<p begin="00:09:42.439" end="00:09:48.660" style="s2">ich möchte diese bilanz natürlich teil</p>
+<p begin="00:09:45.480" end="00:09:50.220" style="s2">mit meinen freunden der csu die in</p>
+<p begin="00:09:48.660" end="00:09:52.110" style="s2">europa die fahne<span style="s3"> hochhalten</span></p>
+<p begin="00:09:50.220" end="00:09:53.910" style="s2"><span style="s4">wir haben starke</span><span style="s3"> kräfte</span> mit<span style="s3"> der moni</span></p>
+<p begin="00:09:52.110" end="00:09:56.329" style="s2">hohlmeier im<span style="s3"> terror</span> bereich mit dem</p>
+<p begin="00:09:53.910" end="00:09:58.679" style="s2">markus ferber<span style="s3"> im euro im bankenbereich</span></p>
+<p begin="00:09:56.329" end="00:10:01.079" style="s2"><span style="s4">tschuldigung die moni</span> hohlmeier im</p>
+<p begin="00:09:58.679" end="00:10:06.110" style="s2">antiterrorbereich<span style="s4"> schon klar</span><span style="s3"> stein</span> genau</p>
+<p begin="00:10:01.079" end="00:10:06.110" style="s2">danke danke für den lacher zwischendurch</p>
+<p begin="00:10:06.379" end="00:10:12.689" style="s2">fast nehmen wissen<span style="s3"> markus ferber im</span><span style="s4"> euro</span></p>
+<p begin="00:10:10.619" end="00:10:14.220" style="s2">und wirtschaftsbereich der sich unsere</p>
+<p begin="00:10:12.689" end="00:10:16.439" style="s2">sparkassen kümmert und<span style="s4"> torten</span> die</p>
+<p begin="00:10:14.220" end="00:10:18.239" style="s2">regelungen hervorragend gestalten konnte</p>
+<p begin="00:10:16.439" end="00:10:20.249" style="s2">wir haben den<span style="s3"> albert</span><span style="s4"> er</span> ist ein kollege</p>
+<p begin="00:10:18.239" end="00:10:22.769" style="s2"><span style="s3">der</span> uns verlässt der die letzten<span style="s3"> zehn</span></p>
+<p begin="00:10:20.249" end="00:10:24.660" style="s2">jahre an vorderster front agrarpolitik</p>
+<p begin="00:10:22.769" end="00:10:26.549" style="s2">geprägt hat und er kann stolz sein auf</p>
+<p begin="00:10:24.660" end="00:10:28.290" style="s2">das<span style="s4"> warten</span> für unsere bayerischen bauern</p>
+<p begin="00:10:26.549" end="00:10:31.170" style="s2">erreicht<span style="s4"> dort</span> und an der spitze liebe</p>
+<p begin="00:10:28.290" end="00:10:33.480" style="s2">freunde steht angelika niebler<span style="s4"> unsere</span></p>
+<p begin="00:10:31.170" end="00:10:35.639" style="s2"><span style="s3">sympathischer</span> sympathische aber sehr</p>
+<p begin="00:10:33.480" end="00:10:37.799" style="s2">hartnäckige kämpferin für bayerische</p>
+<p begin="00:10:35.639" end="00:10:39.059" style="s2">interessen auf brüsseler ebene</p>
+<p begin="00:10:37.799" end="00:10:41.040" style="s2">ich<span style="s4"> glaube</span> deswegen<span style="s4"> ein</span> herzliches</p>
+<p begin="00:10:39.059" end="00:10:43.079" style="s2">dankeschön an alle kollegen die gekämpft</p>
+<p begin="00:10:41.040" end="00:10:44.339" style="s2">haben in den letzten jahren und<span style="s4"> wächter</span></p>
+<p begin="00:10:43.079" end="00:10:46.049" style="s2">zu nehmen weil ich euch bitte</p>
+<p begin="00:10:44.339" end="00:10:48.329" style="s2"><span style="s3">mitzuhelfen</span> die kollegen die jetzt</p>
+<p begin="00:10:46.049" end="00:10:50.249" style="s2"><span style="s3">antreten</span> mit<span style="s3"> der ma lin</span><span style="s4"> im hitler</span><span style="s3"> mit</span></p>
+<p begin="00:10:48.329" end="00:10:52.110" style="s2"><span style="s4">dem</span> christian<span style="s3"> dolezal mit dem bernd</span></p>
+<p begin="00:10:50.249" end="00:10:53.910" style="s2">posselt der hoffentlich wieder kommen</p>
+<p begin="00:10:52.110" end="00:10:56.069" style="s2">wird<span style="s4"> das sind der starke mannschaft und</span></p>
+<p begin="00:10:53.910" end="00:10:57.749" style="s2">wir alle bauen darauf dass ihr uns helft</p>
+<p begin="00:10:56.069" end="00:10:59.489" style="s2">ein herzliches dankeschön an die</p>
+<p begin="00:10:57.749" end="00:11:01.730" style="s2">bisherige arbeit die geleistet worden</p>
+<p begin="00:10:59.489" end="00:11:01.730" style="s2">ist</p>
+<p begin="00:11:07.340" end="00:11:12.960" style="s2">was macht erfolgreiche<span style="s4"> csu politiker aus</span></p>
+<p begin="00:11:10.500" end="00:11:15.650" style="s2">erstens wie gesagt bilanz ablegen</p>
+<p begin="00:11:12.960" end="00:11:18.450" style="s2">habt ihr ein gutes ergebnis erzielt<span style="s3"> das</span></p>
+<p begin="00:11:15.650" end="00:11:20.850" style="s2"><span style="s4">zweite was wir tun müssen ist politik</span></p>
+<p begin="00:11:18.450" end="00:11:23.610" style="s2">zunächst immer vom menschen her denken</p>
+<p begin="00:11:20.850" end="00:11:26.790" style="s2">ein erbe<span style="s4"> das</span> was seehofer für die csu</p>
+<p begin="00:11:23.610" end="00:11:27.810" style="s2">geprägt<span style="s3"> hat</span><span style="s4"> lasst</span> mir<span style="s3"> da</span> nur zwei<span style="s4"> drei</span></p>
+<p begin="00:11:26.790" end="00:11:30.120" style="s2">beispiele zu nennen</p>
+<p begin="00:11:27.810" end="00:11:32.160" style="s2">ich sage euch nach wie vor<span style="s4"> eher</span><span style="s3"> liebe</span></p>
+<p begin="00:11:30.120" end="00:11:34.080" style="s2">ich wenn ich in madrid bin letzte woche</p>
+<p begin="00:11:32.160" end="00:11:35.790" style="s2">war in zypern<span style="s4"> zurzeit</span><span style="s3"> viele</span> im flieger</p>
+<p begin="00:11:34.080" end="00:11:37.500" style="s2"><span style="s3">wenn</span> er unterwegs bin<span style="s3"> mit</span> leuten</p>
+<p begin="00:11:35.790" end="00:11:38.490" style="s2"><span style="s3">sprechen und ich</span> bemühe mich direkt mit</p>
+<p begin="00:11:37.500" end="00:11:40.500" style="s2">den leuten zu sprechen</p>
+<p begin="00:11:38.490" end="00:11:42.360" style="s2">dann erlebe ich das nicht nur bei uns in</p>
+<p begin="00:11:40.500" end="00:11:44.310" style="s2">bayern sondern in ganz europa die</p>
+<p begin="00:11:42.360" end="00:11:45.390" style="s2">migrationsfrage nach wie vor eines der</p>
+<p begin="00:11:44.310" end="00:11:47.280" style="s2">themen ist<span style="s4"> wo die menschen antworten</span></p>
+<p begin="00:11:45.390" end="00:11:48.270" style="s2">wollen ich war im sommer letzten jahres</p>
+<p begin="00:11:47.280" end="00:11:49.950" style="s2">in bulgarien</p>
+<p begin="00:11:48.270" end="00:11:51.750" style="s2">ob<span style="s3"> dateien</span> bojko borissov auch</p>
+<p begin="00:11:49.950" end="00:11:53.390" style="s2">premierminister unserer partei getroffen</p>
+<p begin="00:11:51.750" end="00:11:56.160" style="s2"><span style="s4">wenn mir jemand die grenze zur</span> türkei</p>
+<p begin="00:11:53.390" end="00:12:00.390" style="s2"><span style="s4">dass</span> auf der einen<span style="s3"> seite</span> der grenze eine</p>
+<p begin="00:11:56.160" end="00:12:02.610" style="s2">50 meter<span style="s4"> hoher</span> fahnenstange mit einer</p>
+<p begin="00:12:00.390" end="00:12:04.800" style="s2">türkischen fahne auf der anderen<span style="s3"> weg</span></p>
+<p begin="00:12:02.610" end="00:12:07.050" style="s2">europa und bulgarien<span style="s4"> dort treffen sich</span></p>
+<p begin="00:12:04.800" end="00:12:09.720" style="s2">kontinente an dieser grenze und bojko</p>
+<p begin="00:12:07.050" end="00:12:12.480" style="s2">borissov<span style="s4"> an</span><span style="s3"> dieser</span> grenze<span style="s3"> einen 50 meter</span></p>
+<p begin="00:12:09.720" end="00:12:13.200" style="s2"><span style="s3">fünf</span> meter<span style="s3"> hohen</span> zaun gebaut den<span style="s4"> man</span></p>
+<p begin="00:12:12.480" end="00:12:15.120" style="s2">übrigens ganz normal über</p>
+<p begin="00:12:13.200" end="00:12:16.410" style="s2">grenzüberschreitend kann wenn man<span style="s4"> pass</span></p>
+<p begin="00:12:15.120" end="00:12:18.180" style="s2"><span style="s4">hat darf man doch ganz normal ist er ist</span></p>
+<p begin="00:12:16.410" end="00:12:19.200" style="s2"><span style="s4">drüber fahren</span><span style="s3"> aber</span> er<span style="s3"> hat</span> mit diesen</p>
+<p begin="00:12:18.180" end="00:12:21.140" style="s2"><span style="s4">zahlen</span> an dieser grenze</p>
+<p begin="00:12:19.200" end="00:12:23.520" style="s2">übrigens in abstimmung mit der türkei</p>
+<p begin="00:12:21.140" end="00:12:25.320" style="s2">gezeigt dass es möglich ist die illegale</p>
+<p begin="00:12:23.520" end="00:12:27.210" style="s2">migration<span style="s4"> das</span><span style="s3"> geschäft</span> der</p>
+<p begin="00:12:25.320" end="00:12:28.920" style="s2">schlepperbanden<span style="s3"> an</span> dieser grenze auf</p>
+<p begin="00:12:27.210" end="00:12:30.960" style="s2">nahezu null zu reduzieren</p>
+<p begin="00:12:28.920" end="00:12:32.790" style="s2"><span style="s3">und</span> ich<span style="s3"> sage</span> euch wir als europäische</p>
+<p begin="00:12:30.960" end="00:12:35.280" style="s2">volkspartei müssen die partei sein die</p>
+<p begin="00:12:32.790" end="00:12:37.770" style="s2">den europäern vergewissert dass die</p>
+<p begin="00:12:35.280" end="00:12:39.180" style="s2">politiker in europa die den willen und</p>
+<p begin="00:12:37.770" end="00:12:41.310" style="s2">die kraft haben unsere grenzen zu</p>
+<p begin="00:12:39.180" end="00:12:43.110" style="s2">sichern nicht unsere kritik verdient</p>
+<p begin="00:12:41.310" end="00:12:45.120" style="s2">haben sondern unsere unterstützung</p>
+<p begin="00:12:43.110" end="00:12:46.890" style="s2">verdient haben ich möchte wissen wer</p>
+<p begin="00:12:45.120" end="00:12:48.300" style="s2">sich auf europäischen grund und boden</p>
+<p begin="00:12:46.890" end="00:12:52.860" style="s2">befindet und das müssen wir den</p>
+<p begin="00:12:48.300" end="00:12:55.770" style="s2">europäern auch zu sichern können<span style="s4"> und</span> das</p>
+<p begin="00:12:52.860" end="00:12:58.830" style="s2">zweite was<span style="s4"> dazugehört</span><span style="s3"> ist</span> natürlich</p>
+<p begin="00:12:55.770" end="00:13:01.980" style="s2">weiter die humanität<span style="s4"> hochzuhalten und da</span></p>
+<p begin="00:12:58.830" end="00:13:03.480" style="s2">haben wir ein gesicht dafür<span style="s3"> wenn</span> wir</p>
+<p begin="00:13:01.980" end="00:13:05.670" style="s2">davon sprechen dass die<span style="s3"> zukünftigen</span></p>
+<p begin="00:13:03.480" end="00:13:07.110" style="s2"><span style="s3">migrations</span> herausforderungen in afrika</p>
+<p begin="00:13:05.670" end="00:13:10.020" style="s2">verortet sind wenn wir davon sprechen</p>
+<p begin="00:13:07.110" end="00:13:12.240" style="s2">dass europa keine gute zukunft haben</p>
+<p begin="00:13:10.020" end="00:13:14.660" style="s2">kann<span style="s3"> deutschland</span> und bayern auch nicht</p>
+<p begin="00:13:12.240" end="00:13:16.410" style="s2">wenn es<span style="s3"> unseren</span> nachbarn und afrika</p>
+<p begin="00:13:14.660" end="00:13:18.480" style="s2"><span style="s3">nachbarkontinent afrika auf dauer</span></p>
+<p begin="00:13:16.410" end="00:13:20.610" style="s2">schlecht geht dann haben wir dafür ein</p>
+<p begin="00:13:18.480" end="00:13:21.930" style="s2">gesicht als csu<span style="s3"> der</span> wie<span style="s3"> keine</span></p>
+<p begin="00:13:20.610" end="00:13:23.610" style="s2"><span style="s3">anderer</span> dafür steht dass wir uns um</p>
+<p begin="00:13:21.930" end="00:13:25.800" style="s2">diese humanitäre<span style="s3"> aufgabe</span><span style="s4"> können</span></p>
+<p begin="00:13:23.610" end="00:13:26.720" style="s2"><span style="s3">perspektive</span> zu geben und<span style="s4"> das</span> ist<span style="s3"> gerd</span></p>
+<p begin="00:13:25.800" end="00:13:28.170" style="s2"><span style="s3">müller</span><span style="s4"> als unser</span></p>
+<p begin="00:13:26.720" end="00:13:30.000" style="s2"><span style="s3">entwicklungshilfeminister</span> herzlichen</p>
+<p begin="00:13:28.170" end="00:13:32.310" style="s2">dank<span style="s4"> gehört</span><span style="s3"> und</span> es<span style="s3"> ist</span> teil unserer</p>
+<p begin="00:13:30.000" end="00:13:35.149" style="s2">programmatik für die zukunft der</p>
+<p begin="00:13:32.310" end="00:13:35.149" style="s2">migrationspolitik</p>
+<p begin="00:13:35.209" end="00:13:39.480" style="s2">ich möchte dass kommissionspräsident aus</p>
+<p begin="00:13:37.589" end="00:13:41.760" style="s2">sicht der<span style="s3"> bürgern</span> möglicher</p>
+<p begin="00:13:39.480" end="00:13:44.459" style="s2">kommissionspräsident zusichern dass wir</p>
+<p begin="00:13:41.760" end="00:13:46.430" style="s2">uns um die<span style="s4"> außengrenzen</span> insofern kümmern</p>
+<p begin="00:13:44.459" end="00:13:48.480" style="s2">dass wir sie im final definieren</p>
+<p begin="00:13:46.430" end="00:13:50.970" style="s2">ich glaube die menschen haben keine</p>
+<p begin="00:13:48.480" end="00:13:53.519" style="s2">sorge vor der aufnahme einzelner staaten</p>
+<p begin="00:13:50.970" end="00:13:55.320" style="s2">auch<span style="s4"> neuaufnahme</span> aber sie wollen von uns</p>
+<p begin="00:13:53.519" end="00:13:57.300" style="s2"><span style="s3">mal</span> wissen wo ist denn dann irgendwann</p>
+<p begin="00:13:55.320" end="00:13:59.490" style="s2">mal schluss mit diesen erweiterungen und</p>
+<p begin="00:13:57.300" end="00:14:01.920" style="s2">deswegen<span style="s4"> wenn ich kommissionspräsident</span></p>
+<p begin="00:13:59.490" end="00:14:03.810" style="s2">der europäischen union werde<span style="s3"> dann</span> werde</p>
+<p begin="00:14:01.920" end="00:14:05.790" style="s2">ich meine dienste<span style="s3"> anweisen die</span></p>
+<p begin="00:14:03.810" end="00:14:08.339" style="s2">beitrittsgespräche der türkei zur</p>
+<p begin="00:14:05.790" end="00:14:10.260" style="s2">europäischen union zu beenden<span style="s4"> die</span> türkei</p>
+<p begin="00:14:08.339" end="00:14:12.930" style="s2">kann nicht mitglied der europäischen</p>
+<p begin="00:14:10.260" end="00:14:14.760" style="s2">union werden<span style="s4"> dann</span> müssen<span style="s4"> wir</span> endlich</p>
+<p begin="00:14:12.930" end="00:14:17.450" style="s2"><span style="s4">ehrlich</span> sein liebe freunde im</p>
+<p begin="00:14:14.760" end="00:14:17.450" style="s2">bilateralen verhältnis</p>
+<p begin="00:14:17.779" end="00:14:23.190" style="s2">wir müssen liebe freunde<span style="s3"> ernst</span> nehmen</p>
+<p begin="00:14:21.750" end="00:14:24.450" style="s2">dass europa<span style="s4"> für das große</span> da ist und</p>
+<p begin="00:14:23.190" end="00:14:26.399" style="s2">sich aus dem kleinen raushält</p>
+<p begin="00:14:24.450" end="00:14:28.320" style="s2">da ist uns im<span style="s4"> lissabon-vertrag</span> nicht</p>
+<p begin="00:14:26.399" end="00:14:29.579" style="s2">alles gelungen und deswegen kann ich mir</p>
+<p begin="00:14:28.320" end="00:14:31.500" style="s2">vorstellen dass wir vielleicht nach den</p>
+<p begin="00:14:29.579" end="00:14:33.540" style="s2">europawahlen die<span style="s3"> landtagskollegen</span> die</p>
+<p begin="00:14:31.500" end="00:14:35.160" style="s2"><span style="s4">bundestagskollegen</span> die nationalen</p>
+<p begin="00:14:33.540" end="00:14:38.399" style="s2">kollegen aus allen ländern<span style="s3"> mal</span> einladen</p>
+<p begin="00:14:35.160" end="00:14:40.410" style="s2">und miteinander beraten wo legen wir</p>
+<p begin="00:14:38.399" end="00:14:43.890" style="s2">themenfelder fest wo sich europa von</p>
+<p begin="00:14:40.410" end="00:14:46.769" style="s2">sich aus verpflichtet keine gesetze</p>
+<p begin="00:14:43.890" end="00:14:48.540" style="s2">vorzuschlagen<span style="s4"> so genannte</span><span style="s3"> no</span> go areas</p>
+<p begin="00:14:46.769" end="00:14:50.640" style="s2">festzulegen wo wir endlich mal</p>
+<p begin="00:14:48.540" end="00:14:53.940" style="s2">praktizieren das europafest<span style="s3"> große</span> da ist</p>
+<p begin="00:14:50.640" end="00:14:55.170" style="s2"><span style="s4">sicher waren klein klein raushält</span> und zu</p>
+<p begin="00:14:53.940" end="00:14:57.690" style="s2"><span style="s4">guter</span> letzt<span style="s3"> liche freunde möchte</span> ich</p>
+<p begin="00:14:55.170" end="00:14:59.579" style="s2">auch aufgreifen was markus söder in</p>
+<p begin="00:14:57.690" end="00:15:00.959" style="s2">seiner rede angesprochen hat nämlich ein</p>
+<p begin="00:14:59.579" end="00:15:03.420" style="s2">thema<span style="s3"> das</span> die bürger<span style="s3"> zur</span> zeit umtreibt</p>
+<p begin="00:15:00.959" end="00:15:05.100" style="s2"><span style="s3">ist</span><span style="s4"> diesem</span> thema<span style="s4"> wir</span><span style="s3"> freunde</span> das sind</p>
+<p begin="00:15:03.420" end="00:15:05.730" style="s2"><span style="s4">eu-regelungen</span> die<span style="s3"> dahinter stehen beim</span></p>
+<p begin="00:15:05.100" end="00:15:08.820" style="s2">feinstaub</p>
+<p begin="00:15:05.730" end="00:15:11.250" style="s2">ich muss aber<span style="s3"> sagen</span> dürfen dass ich</p>
+<p begin="00:15:08.820" end="00:15:13.290" style="s2">obwohl diese<span style="s4"> feinstaub richtlinie in rom</span></p>
+<p begin="00:15:11.250" end="00:15:15.810" style="s2">in münchen in madrid und in london</p>
+<p begin="00:15:13.290" end="00:15:18.149" style="s2">gleichermaßen anzuwenden ist in kaum</p>
+<p begin="00:15:15.810" end="00:15:20.519" style="s2">einem land der europäischen union so</p>
+<p begin="00:15:18.149" end="00:15:22.320" style="s2">eine<span style="s4"> aufgeheizte</span><span style="s3"> und</span> hysterische</p>
+<p begin="00:15:20.519" end="00:15:24.810" style="s2">diskussion<span style="s4"> erlebe</span> wie<span style="s3"> wir</span> deutschen sie</p>
+<p begin="00:15:22.320" end="00:15:26.550" style="s2">führen und deswegen sage ich euch wir</p>
+<p begin="00:15:24.810" end="00:15:28.890" style="s2">deutschen müssen<span style="s3"> jetzt</span> aufhören<span style="s3"> eine</span> der</p>
+<p begin="00:15:26.550" end="00:15:31.190" style="s2">schlüsseltechnologien die uns ausmacht</p>
+<p begin="00:15:28.890" end="00:15:33.560" style="s2">eine der kronjuwelen deutscher<span style="s4"> ingenieur</span></p>
+<p begin="00:15:31.190" end="00:15:35.780" style="s2">kunst kunst so schlecht zu reden wie wir</p>
+<p begin="00:15:33.560" end="00:15:37.670" style="s2">es machen der<span style="s3"> diesel</span><span style="s4"> oder große zukunft</span></p>
+<p begin="00:15:35.780" end="00:15:41.620" style="s2">gerade für diejenigen die im ländlichen</p>
+<p begin="00:15:37.670" end="00:15:41.620" style="s2">raum zu hause sind<span style="s3"> liebe freunde</span></p>
+<p begin="00:15:48.880" end="00:15:54.190" style="s2">politik von den menschen<span style="s4"> erdenken</span><span style="s3"> der</span></p>
+<p begin="00:15:50.770" end="00:15:55.840" style="s2">zweite wichtige gedanke der dritte</p>
+<p begin="00:15:54.190" end="00:15:57.970" style="s2">gedanke liebe parteifreunde ist dann</p>
+<p begin="00:15:55.840" end="00:16:00.490" style="s2">aber vielleicht noch ein bisschen</p>
+<p begin="00:15:57.970" end="00:16:04.810" style="s2">wichtiger<span style="s3"> und vielleicht noch</span> ein</p>
+<p begin="00:16:00.490" end="00:16:06.640" style="s2">bisschen fordern<span style="s4"> dafür</span><span style="s3"> uns</span> und zwar<span style="s3"> dass</span></p>
+<p begin="00:16:04.810" end="00:16:09.310" style="s2">wir als politische kraft die ihr mandat</p>
+<p begin="00:16:06.640" end="00:16:11.620" style="s2">haben wollte gewählt werden wollen eben</p>
+<p begin="00:16:09.310" end="00:16:14.640" style="s2">nicht nur schauen<span style="s3"> was</span> die leute<span style="s3"> gerade</span></p>
+<p begin="00:16:11.620" end="00:16:17.740" style="s2"><span style="s3">auf</span><span style="s4"> was</span> kommt<span style="s4"> gerade</span> an sondern</p>
+<p begin="00:16:14.640" end="00:16:19.830" style="s2">orientierung zu geben welche aufgaben</p>
+<p begin="00:16:17.740" end="00:16:21.270" style="s2">stehen vor uns und über den tellerrand</p>
+<p begin="00:16:19.830" end="00:16:23.560" style="s2">hinauszuschauen</p>
+<p begin="00:16:21.270" end="00:16:25.780" style="s2">wir sind der christliche eine liberale</p>
+<p begin="00:16:23.560" end="00:16:28.390" style="s2">eine<span style="s3"> konservative</span> und soziale partei</p>
+<p begin="00:16:25.780" end="00:16:30.730" style="s2">nicht die umfrage ist zentral sondern</p>
+<p begin="00:16:28.390" end="00:16:33.010" style="s2">die überzeugungen sind zentral für eine</p>
+<p begin="00:16:30.730" end="00:16:35.470" style="s2"><span style="s3">parteienfamilie</span><span style="s4"> und</span> wenn wir<span style="s3"> uns</span> da die</p>
+<p begin="00:16:33.010" end="00:16:37.540" style="s2">hauptaufgaben anschauen dann<span style="s4"> lass mir</span></p>
+<p begin="00:16:35.470" end="00:16:39.580" style="s2">nur einen<span style="s3"> punkt heraus greifen</span> nämlich</p>
+<p begin="00:16:37.540" end="00:16:41.860" style="s2"><span style="s3">die</span> schlagwort globalisierung</p>
+<p begin="00:16:39.580" end="00:16:43.180" style="s2">digitalisierung begriffe mit denen die</p>
+<p begin="00:16:41.860" end="00:16:45.370" style="s2">menschen heute nichts anfangen können</p>
+<p begin="00:16:43.180" end="00:16:46.930" style="s2">weil sie oft technisch klingen und</p>
+<p begin="00:16:45.370" end="00:16:49.360" style="s2">unsere aufgabe ist es sie zu übersetzen</p>
+<p begin="00:16:46.930" end="00:16:50.800" style="s2"><span style="s3">in</span> den alltag<span style="s4"> was</span><span style="s3"> meine ich damit ich</span></p>
+<p begin="00:16:49.360" end="00:16:53.080" style="s2">meine damit<span style="s3"> dass werden die</span></p>
+<p begin="00:16:50.800" end="00:16:55.720" style="s2">globalisierung diskutieren werden wir</p>
+<p begin="00:16:53.080" end="00:16:57.760" style="s2">die kraft haben müssen als europäer uns</p>
+<p begin="00:16:55.720" end="00:17:00.370" style="s2">zu schützen in dieser globalisierten</p>
+<p begin="00:16:57.760" end="00:17:02.770" style="s2">welt wer sich die entwicklungen bei kuka</p>
+<p begin="00:17:00.370" end="00:17:05.199" style="s2">beispielsweise anschaut dem augsburger</p>
+<p begin="00:17:02.770" end="00:17:07.060" style="s2">roboterhersteller<span style="s3"> der</span> jetzt von</p>
+<p begin="00:17:05.199" end="00:17:08.770" style="s2"><span style="s3">chinesischen investoren aufgekauft</span></p>
+<p begin="00:17:07.060" end="00:17:09.850" style="s2">worden ist der krieg der<span style="s4"> bisland</span></p>
+<p begin="00:17:08.770" end="00:17:11.920" style="s2">vorgeschmack was da in den nächsten</p>
+<p begin="00:17:09.850" end="00:17:14.620" style="s2">jahren auf uns<span style="s3"> zukommen</span> wird wenn der</p>
+<p begin="00:17:11.920" end="00:17:16.839" style="s2">chinesische gigant mal richtig<span style="s3"> erwacht</span></p>
+<p begin="00:17:14.620" end="00:17:18.640" style="s2"><span style="s3">und deswegen sage ich ich</span> will<span style="s3"> frei</span></p>
+<p begin="00:17:16.839" end="00:17:19.780" style="s2"><span style="s4">handeln</span> ich will partnerschaft ich will</p>
+<p begin="00:17:18.640" end="00:17:21.400" style="s2"><span style="s3">miteinander</span> geschäfte<span style="s3"> machen</span></p>
+<p begin="00:17:19.780" end="00:17:23.140" style="s2">aber liebe freunde wir wollen</p>
+<p begin="00:17:21.400" end="00:17:25.300" style="s2">partnerschaft aber wir sind nicht naiv</p>
+<p begin="00:17:23.140" end="00:17:27.610" style="s2">und deswegen müssen wir bei zukünftigen</p>
+<p begin="00:17:25.300" end="00:17:29.440" style="s2">firmenübernahmen uns auch gegen fremde</p>
+<p begin="00:17:27.610" end="00:17:30.940" style="s2">übernahmen schützen können wenn es</p>
+<p begin="00:17:29.440" end="00:17:33.000" style="s2"><span style="s3">darauf</span> ankommt und unsere</p>
+<p begin="00:17:30.940" end="00:17:38.310" style="s2">schlüsselindustrie<span style="s3"> die autoindustrie</span></p>
+<p begin="00:17:33.000" end="00:17:40.510" style="s2">verteidigen in dieser welt wenn wir die</p>
+<p begin="00:17:38.310" end="00:17:42.340" style="s2">globalisierung reden dann heißt es eine</p>
+<p begin="00:17:40.510" end="00:17:44.500" style="s2">wohlstand<span style="s3"> schafften</span> verteidigen</p>
+<p begin="00:17:42.340" end="00:17:46.630" style="s2"><span style="s4">aber lass mal</span> anderes bild noch dazu</p>
+<p begin="00:17:44.500" end="00:17:48.640" style="s2">verwenden<span style="s3"> ich</span> möchte auch dass wir diese</p>
+<p begin="00:17:46.630" end="00:17:51.340" style="s2">globalisierung<span style="s3"> zu</span> was<span style="s3"> positiven</span></p>
+<p begin="00:17:48.640" end="00:17:53.860" style="s2">gestalten<span style="s3"> wie</span> freunde die europäische</p>
+<p begin="00:17:51.340" end="00:17:55.180" style="s2">union von heute ist der<span style="s3"> größte</span> und</p>
+<p begin="00:17:53.860" end="00:17:57.280" style="s2"><span style="s4">finanzstärkste rahmen dieser welt wir</span></p>
+<p begin="00:17:55.180" end="00:17:59.890" style="s2">sind eine wirtschaftsmacht<span style="s3"> wie</span> wir sind</p>
+<p begin="00:17:57.280" end="00:18:00.860" style="s2">geachtet wirtschaftlich als gigant auf</p>
+<p begin="00:17:59.890" end="00:18:03.200" style="s2">dieser welt</p>
+<p begin="00:18:00.860" end="00:18:05.100" style="s2">wie wäre es denn wenn wir diese</p>
+<p begin="00:18:03.200" end="00:18:08.370" style="s2">marktmacht die wir haben</p>
+<p begin="00:18:05.100" end="00:18:09.660" style="s2"><span style="s3">dafür</span> nutzen die<span style="s4"> welt das stück weit zu</span></p>
+<p begin="00:18:08.370" end="00:18:11.220" style="s2">einem besseren platz zu machen ich</p>
+<p begin="00:18:09.660" end="00:18:13.860" style="s2">möchte<span style="s4"> in einem konkreten beispiel sagen</span></p>
+<p begin="00:18:11.220" end="00:18:15.300" style="s2">wir verabschieden viele handelsverträge</p>
+<p begin="00:18:13.860" end="00:18:17.070" style="s2">mit dem rest der welt und ich will dass</p>
+<p begin="00:18:15.300" end="00:18:18.980" style="s2">wir das machen<span style="s3"> wir haben dafür</span></p>
+<p begin="00:18:17.070" end="00:18:21.300" style="s2">schwierige debatten geführt so weiter</p>
+<p begin="00:18:18.980" end="00:18:22.770" style="s2">wir wollen diese handelsverträge weiter</p>
+<p begin="00:18:21.300" end="00:18:24.330" style="s2"><span style="s3">abschließen aber wie wäre es denn wenn</span></p>
+<p begin="00:18:22.770" end="00:18:25.770" style="s2">wir zukünftig in jedem dieser</p>
+<p begin="00:18:24.330" end="00:18:26.540" style="s2">handelsverträge egal mit wem<span style="s4"> man den</span></p>
+<p begin="00:18:25.770" end="00:18:28.590" style="s2"><span style="s3">abschließen</span></p>
+<p begin="00:18:26.540" end="00:18:30.570" style="s2"><span style="s4">zukünftige am passus aufnehmen wo</span></p>
+<p begin="00:18:28.590" end="00:18:32.250" style="s2">drinsteht wir wollen dass<span style="s3"> ihr eure</span></p>
+<p begin="00:18:30.570" end="00:18:35.040" style="s2">produkte<span style="s3"> nach</span> europa<span style="s4"> ein</span><span style="s3"> liefert</span> aber</p>
+<p begin="00:18:32.250" end="00:18:37.470" style="s2">wir dulden nicht<span style="s3"> dass</span> für diese produkte</p>
+<p begin="00:18:35.040" end="00:18:39.480" style="s2"><span style="s3">kinder arbeiten mussten</span></p>
+<p begin="00:18:37.470" end="00:18:41.270" style="s2">das<span style="s3"> heißt</span> dass wir europäer festlegen</p>
+<p begin="00:18:39.480" end="00:18:43.830" style="s2">wir dulden in keinem europäischen</p>
+<p begin="00:18:41.270" end="00:18:45.150" style="s2">supermarkt ein produkt<span style="s3"> wird es kinder</span></p>
+<p begin="00:18:43.830" end="00:18:46.920" style="s2">schuften mussten</p>
+<p begin="00:18:45.150" end="00:18:49.110" style="s2">liebe freunde die welt zu einem besseren</p>
+<p begin="00:18:46.920" end="00:18:52.230" style="s2">platz zu machen mit der<span style="s3"> marktmacht die</span></p>
+<p begin="00:18:49.110" end="00:18:52.670" style="s2">wir haben muss einer unserer ambitionen</p>
+<p begin="00:18:52.230" end="00:18:55.370" style="s2"><span style="s3">sein</span></p>
+<p begin="00:18:52.670" end="00:18:58.620" style="s2">[Applaus]</p>
+<p begin="00:18:55.370" end="00:19:00.210" style="s2">zum<span style="s4"> start</span> orientierung<span style="s3"> geben wir vor</span></p>
+<p begin="00:18:58.620" end="00:19:01.680" style="s2"><span style="s3">einigen</span> jahren nicht nur die inhalte<span style="s4"> bei</span></p>
+<p begin="00:19:00.210" end="00:19:02.400" style="s2">schlagworte genannt möchte heute nicht</p>
+<p begin="00:19:01.680" end="00:19:04.500" style="s2">so lange machen</p>
+<p begin="00:19:02.400" end="00:19:06.930" style="s2"><span style="s3">es</span> gehört<span style="s3"> aber vor allem auch die</span></p>
+<p begin="00:19:04.500" end="00:19:08.460" style="s2">orientierung angesichts der werte wenn</p>
+<p begin="00:19:06.930" end="00:19:10.410" style="s2">ich in europa unterwegs bin erlebe ich</p>
+<p begin="00:19:08.460" end="00:19:12.210" style="s2">wie die menschen darauf anspringen wenn</p>
+<p begin="00:19:10.410" end="00:19:14.550" style="s2">wir über grundlagen reden über die frage</p>
+<p begin="00:19:12.210" end="00:19:16.650" style="s2">reden warum wir<span style="s4"> zusammengehören und ich</span></p>
+<p begin="00:19:14.550" end="00:19:18.930" style="s2"><span style="s4">habe</span> da seit jahren ein bild im kopf das</p>
+<p begin="00:19:16.650" end="00:19:22.260" style="s2">mich wirklich<span style="s4"> projekt</span> wenn wir nämlich</p>
+<p begin="00:19:18.930" end="00:19:23.730" style="s2">über den kontinent mal fliegen<span style="s3"> dann</span></p>
+<p begin="00:19:22.260" end="00:19:25.020" style="s2">haben wir vielfalt auf<span style="s3"> dem kontinent</span></p>
+<p begin="00:19:23.730" end="00:19:27.990" style="s2"><span style="s3">dann haben wir viele verschiedene</span></p>
+<p begin="00:19:25.020" end="00:19:29.280" style="s2">sprachen kulturen essen trinken die</p>
+<p begin="00:19:27.990" end="00:19:31.590" style="s2">einen<span style="s4"> hammer</span> gutes bier die anderen</p>
+<p begin="00:19:29.280" end="00:19:34.050" style="s2">guten wein nur<span style="s4"> wie</span><span style="s3"> bayern</span> haben beides</p>
+<p begin="00:19:31.590" end="00:19:36.120" style="s2"><span style="s4">bio</span><span style="s3"> und</span> guten<span style="s3"> wein also wir sind da</span></p>
+<p begin="00:19:34.050" end="00:19:38.280" style="s2"><span style="s3">wirklich gute</span><span style="s4"> halbzeit</span> europa ist</p>
+<p begin="00:19:36.120" end="00:19:39.840" style="s2">vielfältig und es ist schön<span style="s3"> es</span> ist<span style="s3"> schön</span></p>
+<p begin="00:19:38.280" end="00:19:40.380" style="s2">europäer zu sein es ist schön europäer</p>
+<p begin="00:19:39.840" end="00:19:42.360" style="s2">zu sein</p>
+<p begin="00:19:40.380" end="00:19:45.030" style="s2">aber trotz dieser vielfalt haben wir</p>
+<p begin="00:19:42.360" end="00:19:46.470" style="s2">eine gemeinsamkeit nämlich<span style="s3"> dass</span><span style="s4"> sie</span></p>
+<p begin="00:19:45.030" end="00:19:48.180" style="s2"><span style="s4">neben dorf in jeder</span><span style="s3"> stadt</span><span style="s4"> dann eben weil</span></p>
+<p begin="00:19:46.470" end="00:19:49.620" style="s2"><span style="s3">eine</span><span style="s4"> mittendrin</span> eine christliche kirche</p>
+<p begin="00:19:48.180" end="00:19:51.930" style="s2">steht und deswegen bin ich der meinung</p>
+<p begin="00:19:49.620" end="00:19:54.240" style="s2">sollten wir europäer das nicht nur für</p>
+<p begin="00:19:51.930" end="00:19:55.890" style="s2">die geschichtsbücher oder fürs museum in</p>
+<p begin="00:19:54.240" end="00:19:57.450" style="s2">die vitrine stellen<span style="s3"> sondern</span><span style="s4"> wir</span><span style="s3"> sollten</span></p>
+<p begin="00:19:55.890" end="00:19:58.860" style="s2">uns dieses erbes bewusst sein</p>
+<p begin="00:19:57.450" end="00:20:00.090" style="s2">wir sollten froh sein dass wir diese</p>
+<p begin="00:19:58.860" end="00:20:01.530" style="s2">prägung haben dass wir diese wurzeln</p>
+<p begin="00:20:00.090" end="00:20:02.910" style="s2">haben<span style="s3"> und</span> gerade<span style="s3"> wir</span> als</p>
+<p begin="00:20:01.530" end="00:20:04.290" style="s2">christdemokraten<span style="s4"> des christsozialen</span></p>
+<p begin="00:20:02.910" end="00:20:06.270" style="s2">europäische volkspartei</p>
+<p begin="00:20:04.290" end="00:20:08.370" style="s2">wir sollten<span style="s4"> rausgehen</span><span style="s3"> und</span> sagen diese</p>
+<p begin="00:20:06.270" end="00:20:10.560" style="s2">christlichen<span style="s3"> fundamenten</span> diese werte und</p>
+<p begin="00:20:08.370" end="00:20:12.840" style="s2">wurzeln europas sind für uns der maßstab</p>
+<p begin="00:20:10.560" end="00:20:16.130" style="s2">für die zukunft ich bin stolz darauf</p>
+<p begin="00:20:12.840" end="00:20:16.130" style="s2">dass wir so geprägt sind</p>
+<p begin="00:20:21.210" end="00:20:27.419" style="s2">und<span style="s3"> liebe</span> freunde<span style="s3"> die</span><span style="s4"> nation infrage</span><span style="s3"> ist</span></p>
+<p begin="00:20:24.690" end="00:20:29.520" style="s2">zurück die nationalitäten frage ist</p>
+<p begin="00:20:27.419" end="00:20:30.980" style="s2">zurück ich<span style="s3"> habe</span> es bei<span style="s3"> unserer</span></p>
+<p begin="00:20:29.520" end="00:20:32.789" style="s2">nominierungsveranstaltung schon</p>
+<p begin="00:20:30.980" end="00:20:33.990" style="s2">angesprochen und wir müssen<span style="s3"> es</span> immer</p>
+<p begin="00:20:32.789" end="00:20:36.570" style="s2">wieder ansprechen weil es die menschen</p>
+<p begin="00:20:33.990" end="00:20:38.700" style="s2">spüren dass die frage zu beantworten ist</p>
+<p begin="00:20:36.570" end="00:20:41.100" style="s2">wenn le pen am rednerpult steht<span style="s3"> sagt</span> sie</p>
+<p begin="00:20:38.700" end="00:20:44.190" style="s2"><span style="s3">den</span> franzosen<span style="s3"> seit stolzen franzosen und</span></p>
+<p begin="00:20:41.100" end="00:20:47.789" style="s2">zum teufel mit diesem europa sie spaltet</p>
+<p begin="00:20:44.190" end="00:20:49.830" style="s2">sie trennt sie<span style="s4"> reist</span> auseinander<span style="s3"> was</span> ist</p>
+<p begin="00:20:47.789" end="00:20:52.620" style="s2">unsere europäische volkspartei antwort</p>
+<p begin="00:20:49.830" end="00:20:54.570" style="s2">unsere christsoziale antwort der spruch</p>
+<p begin="00:20:52.620" end="00:20:56.669" style="s2">von franz josef strauß bayern<span style="s3"> meine</span></p>
+<p begin="00:20:54.570" end="00:20:58.440" style="s2"><span style="s3">heimat</span> deutschland mein vaterland und</p>
+<p begin="00:20:56.669" end="00:21:00.210" style="s2">europa<span style="s4"> eine</span> zukunft<span style="s4"> das</span> wissen der</p>
+<p begin="00:20:58.440" end="00:21:02.490" style="s2">verankerung<span style="s4"> dass</span> wir stolz auf unsere</p>
+<p begin="00:21:00.210" end="00:21:04.350" style="s2">identität sind<span style="s4"> als</span> bayern<span style="s3"> dass</span> wir<span style="s3"> unser</span></p>
+<p begin="00:21:02.490" end="00:21:05.700" style="s2">land<span style="s3"> lieben dass wir deutsche sind und</span></p>
+<p begin="00:21:04.350" end="00:21:07.350" style="s2">wenn die nationalmannschaft mal wieder</p>
+<p begin="00:21:05.700" end="00:21:09.480" style="s2">gewinnen sollte dann selber auch<span style="s3"> froh</span></p>
+<p begin="00:21:07.350" end="00:21:11.610" style="s2"><span style="s3">nehmen</span> die<span style="s3"> nationalfahne</span> in die hand und</p>
+<p begin="00:21:09.480" end="00:21:13.770" style="s2">liebe freunde<span style="s3"> wir</span> sind im herzen und<span style="s4"> im</span></p>
+<p begin="00:21:11.610" end="00:21:15.779" style="s2"><span style="s4">kopf</span><span style="s3"> überzeugte</span> europäer und lassen uns</p>
+<p begin="00:21:13.770" end="00:21:17.909" style="s2">von keinem nationalisten von der<span style="s3"> af de</span></p>
+<p begin="00:21:15.779" end="00:21:20.010" style="s2">oder<span style="s4"> foto le pen</span> einreden dass das ein</p>
+<p begin="00:21:17.909" end="00:21:22.190" style="s2">widerspruch ist diese identitäten</p>
+<p begin="00:21:20.010" end="00:21:24.360" style="s2">gehören zusammen und wir werden sie</p>
+<p begin="00:21:22.190" end="00:21:26.419" style="s2"><span style="s3">zusammenhalten</span> als christlich soziale</p>
+<p begin="00:21:24.360" end="00:21:26.419" style="s2">union</p>
+<p begin="00:21:31.290" end="00:21:35.820" style="s2">und als letzten gedanken liebe freunde</p>
+<p begin="00:21:33.710" end="00:21:38.580" style="s2"><span style="s3">als</span> letzten gedanken<span style="s3"> lasst mich</span></p>
+<p begin="00:21:35.820" end="00:21:41.070" style="s2">ansprechen<span style="s4"> dass</span> wenn wir als<span style="s3"> christlich</span></p>
+<p begin="00:21:38.580" end="00:21:43.910" style="s2"><span style="s4">soziale</span> union<span style="s3"> wirklich</span> prägend sein</p>
+<p begin="00:21:41.070" end="00:21:46.200" style="s2">wollen nicht nur die umfrage sondern</p>
+<p begin="00:21:43.910" end="00:21:48.300" style="s2">orientierung geben wollen wenn wir</p>
+<p begin="00:21:46.200" end="00:21:50.550" style="s2">dieses anspruch haben dann werden wir</p>
+<p begin="00:21:48.300" end="00:21:52.830" style="s2">auch in der pflicht<span style="s4"> seien</span> führung zu</p>
+<p begin="00:21:50.550" end="00:21:56.120" style="s2">zeigen<span style="s3"> auch</span> wenn<span style="s4"> es</span> vielleicht nicht</p>
+<p begin="00:21:52.830" end="00:21:59.960" style="s2">immer populär ist</p>
+<p begin="00:21:56.120" end="00:22:02.570" style="s2">in den<span style="s3"> 50er</span> jahren haben politiker wie</p>
+<p begin="00:21:59.960" end="00:22:06.620" style="s2">konrad adenauer<span style="s3"> und</span> franz josef strauß</p>
+<p begin="00:22:02.570" end="00:22:10.470" style="s2">die aussöhnung mit frankreich angestoßen</p>
+<p begin="00:22:06.620" end="00:22:12.090" style="s2"><span style="s3">ihre</span> parteifreunde<span style="s4"> wenn</span><span style="s3"> damals</span> zumindest</p>
+<p begin="00:22:10.470" end="00:22:13.230" style="s2">in frankreich eine volksabstimmung</p>
+<p begin="00:22:12.090" end="00:22:15.090" style="s2">gewesen wäre</p>
+<p begin="00:22:13.230" end="00:22:16.550" style="s2">wollt ihr den deutschen die hand reichen</p>
+<p begin="00:22:15.090" end="00:22:18.300" style="s2">und den<span style="s3"> 50er</span> jahren</p>
+<p begin="00:22:16.550" end="00:22:20.570" style="s2">dann werde ich wahrscheinlich mit über</p>
+<p begin="00:22:18.300" end="00:22:25.140" style="s2"><span style="s4">80</span> prozent abgelehnt worden</p>
+<p begin="00:22:20.570" end="00:22:27.930" style="s2">in den 90er jahren<span style="s3"> hat</span><span style="s4"> dann</span> helmut<span style="s3"> kohl</span></p>
+<p begin="00:22:25.140" end="00:22:29.490" style="s2">und theo<span style="s3"> waigel</span> gesagt wir wissen nicht</p>
+<p begin="00:22:27.930" end="00:22:31.050" style="s2">genau was auf uns zukommt aber wir haben</p>
+<p begin="00:22:29.490" end="00:22:33.390" style="s2"><span style="s4">das</span><span style="s3"> gespürt</span> dass wir europäer vielleicht</p>
+<p begin="00:22:31.050" end="00:22:35.430" style="s2">in einem jahrzehnt in zwei jahrzehnten</p>
+<p begin="00:22:33.390" end="00:22:37.710" style="s2">etwas unsicherer in der welt stehen</p>
+<p begin="00:22:35.430" end="00:22:39.060" style="s2">nicht mehr<span style="s3"> nicht</span> mehr vielleicht so</p>
+<p begin="00:22:37.710" end="00:22:41.610" style="s2">umgeben sind von so vielen freunden</p>
+<p begin="00:22:39.060" end="00:22:42.900" style="s2">vielleicht oder nicht vielleicht sondern</p>
+<p begin="00:22:41.610" end="00:22:44.370" style="s2">es war ihnen sicher nicht bewusst dass</p>
+<p begin="00:22:42.900" end="00:22:46.560" style="s2"><span style="s3">einmal</span> donald trump im<span style="s4"> weißen</span> haus</p>
+<p begin="00:22:44.370" end="00:22:49.080" style="s2">sitzen kann aber es wurde gespürt dass</p>
+<p begin="00:22:46.560" end="00:22:50.700" style="s2"><span style="s4">da</span> eine<span style="s3"> neue</span> zeit auf uns zukommt<span style="s4"> und</span></p>
+<p begin="00:22:49.080" end="00:22:52.320" style="s2">deswegen haben diese beiden politiker</p>
+<p begin="00:22:50.700" end="00:22:54.060" style="s2">mit unterstützung vieler anderen gesagt</p>
+<p begin="00:22:52.320" end="00:22:56.490" style="s2">wir müssen die wirtschaftskraft</p>
+<p begin="00:22:54.060" end="00:22:58.080" style="s2"><span style="s4">zusammenführen</span> wir machen den euro um</p>
+<p begin="00:22:56.490" end="00:23:00.480" style="s2"><span style="s3">uns</span> stärker zu machen in der welt von</p>
+<p begin="00:22:58.080" end="00:23:03.180" style="s2">morgen und ich spekuliere auch da<span style="s4"> ein</span></p>
+<p begin="00:23:00.480" end="00:23:05.520" style="s2"><span style="s4">etwas</span> ein bisschen<span style="s4"> das</span> damals wenn<span style="s4"> man</span></p>
+<p begin="00:23:03.180" end="00:23:06.630" style="s2">volksabstimmung gemacht hätten<span style="s4"> naja er</span></p>
+<p begin="00:23:05.520" end="00:23:09.360" style="s2"><span style="s4">wisse</span><span style="s3"> was er damit sagen will</span></p>
+<p begin="00:23:06.630" end="00:23:11.040" style="s2">aber es wurde geführt aus der mitte der</p>
+<p begin="00:23:09.360" end="00:23:11.460" style="s2">demokratischen parteien heraus wurde</p>
+<p begin="00:23:11.040" end="00:23:14.520" style="s2">geführt</p>
+<p begin="00:23:11.460" end="00:23:16.350" style="s2">die letzten<span style="s3"> zehn</span> jahre haben wir auf</p>
+<p begin="00:23:14.520" end="00:23:17.610" style="s2"><span style="s4">diesem</span> kontinent<span style="s4"> nicht</span> mehr geführt wir</p>
+<p begin="00:23:16.350" end="00:23:19.500" style="s2">haben in den letzten<span style="s4"> zehn</span><span style="s3"> jahren</span> auf</p>
+<p begin="00:23:17.610" end="00:23:21.840" style="s2"><span style="s3">diesem</span> kontinent vor allem krisen</p>
+<p begin="00:23:19.500" end="00:23:24.300" style="s2">management gemacht<span style="s3"> den</span> euro gemanagt die</p>
+<p begin="00:23:21.840" end="00:23:25.350" style="s2">migrationsfrage<span style="s3"> gemanagt</span> aber nicht mehr</p>
+<p begin="00:23:24.300" end="00:23:27.930" style="s2">geführt</p>
+<p begin="00:23:25.350" end="00:23:29.850" style="s2">und deswegen<span style="s3"> glaube ich dass in den</span></p>
+<p begin="00:23:27.930" end="00:23:31.320" style="s2">nächsten jahren von der mitte der</p>
+<p begin="00:23:29.850" end="00:23:34.530" style="s2">gesellschaft von den bürgerlichen</p>
+<p begin="00:23:31.320" end="00:23:37.170" style="s2">parteien des zentrums von uns als csu</p>
+<p begin="00:23:34.530" end="00:23:38.790" style="s2">der cdu und europäischen volkspartei</p>
+<p begin="00:23:37.170" end="00:23:40.669" style="s2">wieder<span style="s3"> führung</span> kommen muss und was ist</p>
+<p begin="00:23:38.790" end="00:23:43.789" style="s2">die aufgabe die jetzt</p>
+<p begin="00:23:40.669" end="00:23:44.629" style="s2">vor unserer generation steht<span style="s4"> wie</span></p>
+<p begin="00:23:43.789" end="00:23:47.330" style="s2">parteifreunde</p>
+<p begin="00:23:44.629" end="00:23:50.659" style="s2">da lohnt ein blick auf die heutigen</p>
+<p begin="00:23:47.330" end="00:23:52.820" style="s2">aufgaben wenn wir migration diskutieren</p>
+<p begin="00:23:50.659" end="00:23:54.379" style="s2"><span style="s3">dann</span> diskutieren wir syrien und derzeit</p>
+<p begin="00:23:52.820" end="00:23:56.119" style="s2">in syrien über die über den frieden</p>
+<p begin="00:23:54.379" end="00:23:58.340" style="s2">verhandelt bei<span style="s4"> diesem</span> syrischen</p>
+<p begin="00:23:56.119" end="00:24:00.739" style="s2">friedensgesprächen sitzt aber europa</p>
+<p begin="00:23:58.340" end="00:24:03.109" style="s2">nicht am tisch sitzt<span style="s4"> der trump am</span><span style="s3"> tisch</span></p>
+<p begin="00:24:00.739" end="00:24:05.299" style="s2">sitzt<span style="s3"> erdogan tische sitzt putin am</span></p>
+<p begin="00:24:03.109" end="00:24:07.580" style="s2">tisch sitzen sogar<span style="s4"> der iran es</span><span style="s3"> am</span> tisch</p>
+<p begin="00:24:05.299" end="00:24:09.200" style="s2"><span style="s3">aber</span><span style="s4"> angela</span> merkel<span style="s4"> im manual</span><span style="s3"> makro</span> oder</p>
+<p begin="00:24:07.580" end="00:24:12.590" style="s2"><span style="s3">jean</span> claude juncker sitzt nicht am tisch</p>
+<p begin="00:24:09.200" end="00:24:15.289" style="s2">wir spielen international als politische</p>
+<p begin="00:24:12.590" end="00:24:18.739" style="s2">macht derzeit keine rolle auf dieser</p>
+<p begin="00:24:15.289" end="00:24:21.799" style="s2">welt und das in einer situation wo die</p>
+<p begin="00:24:18.739" end="00:24:23.799" style="s2"><span style="s3">chinesen</span> anspruch haben<span style="s3"> weltmacht sein</span></p>
+<p begin="00:24:21.799" end="00:24:25.929" style="s2">zu wollen</p>
+<p begin="00:24:23.799" end="00:24:27.649" style="s2">wladimir putin entschieden hat</p>
+<p begin="00:24:25.929" end="00:24:29.210" style="s2">verschiedenste methoden der</p>
+<p begin="00:24:27.649" end="00:24:31.999" style="s2"><span style="s3">kriegsführung</span> in der klassischen form</p>
+<p begin="00:24:29.210" end="00:24:34.129" style="s2">und in der modernen form anzuwenden um</p>
+<p begin="00:24:31.999" end="00:24:36.230" style="s2">seine politische ziele durchzusetzen bis</p>
+<p begin="00:24:34.129" end="00:24:37.340" style="s2">zur desinformation und ich weiß nicht</p>
+<p begin="00:24:36.230" end="00:24:39.980" style="s2">was im<span style="s4"> europawahlkampf</span> da auf uns</p>
+<p begin="00:24:37.340" end="00:24:42.019" style="s2">zukommt ein fake news und liebe freunde</p>
+<p begin="00:24:39.980" end="00:24:43.519" style="s2">wir haben in amerika keinen partner mehr</p>
+<p begin="00:24:42.019" end="00:24:45.499" style="s2"><span style="s4">geholfen dass</span><span style="s3"> er</span> zurückkommt aber ich</p>
+<p begin="00:24:43.519" end="00:24:47.539" style="s2">glaube persönlich nicht daran<span style="s3"> selbst bei</span></p>
+<p begin="00:24:45.499" end="00:24:49.129" style="s2">einer veränderung im weißen haus<span style="s3"> dass</span></p>
+<p begin="00:24:47.539" end="00:24:50.809" style="s2"><span style="s3">sich dann amerika fundamental wieder</span></p>
+<p begin="00:24:49.129" end="00:24:53.299" style="s2">verändern würde ich glaube das nicht</p>
+<p begin="00:24:50.809" end="00:24:55.940" style="s2">und deswegen liebe freunde das<span style="s3"> nächste</span></p>
+<p begin="00:24:53.299" end="00:24:57.739" style="s2">jahrzehnt steht vor der frage ob wir aus</p>
+<p begin="00:24:55.940" end="00:25:00.109" style="s2">dem wirtschaftlichen giganten europa</p>
+<p begin="00:24:57.739" end="00:25:01.820" style="s2">auch einen politischen giganten machen</p>
+<p begin="00:25:00.109" end="00:25:04.100" style="s2">der in der lage ist in der welt von</p>
+<p begin="00:25:01.820" end="00:25:06.080" style="s2">morgen unseren european way of life</p>
+<p begin="00:25:04.100" end="00:25:08.389" style="s2">unsere werte für die wir stehen auf der</p>
+<p begin="00:25:06.080" end="00:25:09.619" style="s2">welt international zu vertreten zu</p>
+<p begin="00:25:08.389" end="00:25:11.720" style="s2">verteidigen und vielleicht sogar</p>
+<p begin="00:25:09.619" end="00:25:14.029" style="s2">durchzusetzen was ist dafür notwendig</p>
+<p begin="00:25:11.720" end="00:25:16.460" style="s2">liebe freunde in der<span style="s3"> außenpolitik ist es</span></p>
+<p begin="00:25:14.029" end="00:25:19.450" style="s2">derzeit so dass europa nur sprechen kann</p>
+<p begin="00:25:16.460" end="00:25:21.409" style="s2">wenn alle 28 zukünftig 27 staaten</p>
+<p begin="00:25:19.450" end="00:25:23.749" style="s2">einstimmige beschlüsse fassen</p>
+<p begin="00:25:21.409" end="00:25:25.039" style="s2">und wir müssen<span style="s3"> das</span> ändern<span style="s4"> die</span></p>
+<p begin="00:25:23.749" end="00:25:27.590" style="s2">europäische union muss zukünftig</p>
+<p begin="00:25:25.039" end="00:25:29.809" style="s2">beschlüsse fassen mit mehrheitsprinzip</p>
+<p begin="00:25:27.590" end="00:25:31.759" style="s2">nur dann werden wir handlungsfähig ich</p>
+<p begin="00:25:29.809" end="00:25:33.679" style="s2">will dass wir aufstehen dass wir</p>
+<p begin="00:25:31.759" end="00:25:35.559" style="s2">selbstbewusst sind als europäer<span style="s3"> dass</span> wir</p>
+<p begin="00:25:33.679" end="00:25:38.509" style="s2">das was uns ausmacht in dieser</p>
+<p begin="00:25:35.559" end="00:25:40.519" style="s2"><span style="s3">gewordenen globalisierten welt mit einer</span></p>
+<p begin="00:25:38.509" end="00:25:42.559" style="s2">stimme vertreten ein starkes</p>
+<p begin="00:25:40.519" end="00:25:45.820" style="s2">selbstbewusstes europa dafür stehen wir</p>
+<p begin="00:25:42.559" end="00:25:45.820" style="s2">als csu griff</p>
+<p begin="00:25:51.450" end="00:25:57.120" style="s2">die<span style="s3"> partei</span><span style="s4"> könne</span> wir werden<span style="s4"> das</span></p>
+<p begin="00:25:54.870" end="00:25:59.429" style="s2">gemeinsam machen<span style="s3"> zwischen</span> csu und cdu</p>
+<p begin="00:25:57.120" end="00:26:01.559" style="s2"><span style="s3">und</span> den<span style="s4"> großen</span> schicksalsfragen standen</p>
+<p begin="00:25:59.429" end="00:26:03.299" style="s2">wir immer gemeinsam<span style="s4"> der</span> westbindung<span style="s3"> bei</span></p>
+<p begin="00:26:01.559" end="00:26:04.740" style="s2"><span style="s3">der</span> sozialen marktwirtschaft<span style="s3"> der</span></p>
+<p begin="00:26:03.299" end="00:26:05.940" style="s2">aussöhnung mit frankreich beim<span style="s4"> nato</span></p>
+<p begin="00:26:04.740" end="00:26:08.549" style="s2"><span style="s4">doppelbeschluss</span> bei der<span style="s4"> euro-einführung</span></p>
+<p begin="00:26:05.940" end="00:26:09.630" style="s2"><span style="s3">bei vielen</span><span style="s4"> leid</span> entscheidungen die dazu</p>
+<p begin="00:26:08.549" end="00:26:12.269" style="s2">geführt haben dass deutschland heute</p>
+<p begin="00:26:09.630" end="00:26:14.010" style="s2">stark ist und die spd<span style="s3"> war</span> übrigens bei</p>
+<p begin="00:26:12.269" end="00:26:14.850" style="s2">der aussöhnung mit frankreich nicht an</p>
+<p begin="00:26:14.010" end="00:26:16.919" style="s2">vorderster front dabei</p>
+<p begin="00:26:14.850" end="00:26:18.870" style="s2">die<span style="s3"> grünen</span> die uns heute in europa</p>
+<p begin="00:26:16.919" end="00:26:20.519" style="s2">belehren wollen waren beim schaffen des</p>
+<p begin="00:26:18.870" end="00:26:22.740" style="s2">binnenmarktes dagegen sie haben sogar</p>
+<p begin="00:26:20.519" end="00:26:24.840" style="s2">dagegen geklagt den binnenmarkt in</p>
+<p begin="00:26:22.740" end="00:26:26.760" style="s2">europa einzuführen und die liberalen</p>
+<p begin="00:26:24.840" end="00:26:28.679" style="s2">kämpfen in europa gegen den</p>
+<p begin="00:26:26.760" end="00:26:30.809" style="s2">datenaustausch im kampf gegen den terror</p>
+<p begin="00:26:28.679" end="00:26:32.580" style="s2">das ist die realität und deswegen</p>
+<p begin="00:26:30.809" end="00:26:34.289" style="s2">brauche ich keine sozialdemokraten ich</p>
+<p begin="00:26:32.580" end="00:26:35.940" style="s2"><span style="s4">brauche</span><span style="s3"> keine liberalen ich</span><span style="s4"> brauche</span></p>
+<p begin="00:26:34.289" end="00:26:38.549" style="s2">keine grünen und ich brauche<span style="s4"> auch</span> keine</p>
+<p begin="00:26:35.940" end="00:26:40.169" style="s2">neue bewegung<span style="s4"> makro</span> die uns als die</p>
+<p begin="00:26:38.549" end="00:26:41.760" style="s2">christdemokraten und<span style="s3"> christsoziale</span> auf</p>
+<p begin="00:26:40.169" end="00:26:43.620" style="s2">diesem kontinent erklären wie europa</p>
+<p begin="00:26:41.760" end="00:26:45.659" style="s2">funktioniert wir haben europa<span style="s4"> in das</span></p>
+<p begin="00:26:43.620" end="00:26:47.820" style="s2"><span style="s4">heutige</span> blüte geführt und wir werden es</p>
+<p begin="00:26:45.659" end="00:26:51.649" style="s2">auch in die nächste phase<span style="s3"> europas</span> führen</p>
+<p begin="00:26:47.820" end="00:26:51.649" style="s2">als christdemokraten christsoziale</p>
+<p begin="00:26:54.830" end="00:27:01.590" style="s2">liebe freunde zurück nach bayern</p>
+<p begin="00:26:59.300" end="00:27:04.200" style="s2">wenn ich mir heute politische lage</p>
+<p begin="00:27:01.590" end="00:27:05.460" style="s2">anschauen was sie<span style="s4"> es</span><span style="s3"> beschrieben</span> und</p>
+<p begin="00:27:04.200" end="00:27:07.230" style="s2">auch markus<span style="s3"> orths</span> beschrieben</p>
+<p begin="00:27:05.460" end="00:27:09.630" style="s2">dann fühle ich mich auch ein bisschen</p>
+<p begin="00:27:07.230" end="00:27:11.130" style="s2">erinnert an die zeiten als<span style="s3"> man in der</span></p>
+<p begin="00:27:09.630" end="00:27:13.290" style="s2">csu ist erst<span style="s3"> einmal</span> den anlauf</p>
+<p begin="00:27:11.130" end="00:27:15.810" style="s2">unternommen haben für lange jahre die</p>
+<p begin="00:27:13.290" end="00:27:17.790" style="s2">prägende kraft zu werden weil wir schon</p>
+<p begin="00:27:15.810" end="00:27:19.020" style="s2"><span style="s4">neue</span> diskussion hatten zwischen der</p>
+<p begin="00:27:17.790" end="00:27:20.360" style="s2">damaligen<span style="s3"> bayernpartei und der</span></p>
+<p begin="00:27:19.020" end="00:27:23.760" style="s2"><span style="s3">christlich sozialen union</span></p>
+<p begin="00:27:20.360" end="00:27:26.130" style="s2">lang lang<span style="s4"> ist&#39;s her aber eine debatten</span></p>
+<p begin="00:27:23.760" end="00:27:27.690" style="s2">lage war strategisch vergleichbar mit</p>
+<p begin="00:27:26.130" end="00:27:29.790" style="s2">der heutigen es gab damals<span style="s4"> eher kraft</span></p>
+<p begin="00:27:27.690" end="00:27:32.070" style="s2">die gesagt hat wir<span style="s4"> können</span><span style="s3"> bayern</span></p>
+<p begin="00:27:29.790" end="00:27:33.720" style="s2"><span style="s3">belieben</span> bayern und bei uns hört die</p>
+<p begin="00:27:32.070" end="00:27:36.240" style="s2">welt beim kirchturm auf ich<span style="s4"> sags</span> mal<span style="s4"> so</span></p>
+<p begin="00:27:33.720" end="00:27:38.730" style="s2">die bayernpartei die hauptsächlich die</p>
+<p begin="00:27:36.240" end="00:27:40.560" style="s2">zukunft bayerns im blick hatte und dann</p>
+<p begin="00:27:38.730" end="00:27:41.820" style="s2">war die<span style="s4"> christlich soziale union</span><span style="s3"> damals</span></p>
+<p begin="00:27:40.560" end="00:27:42.240" style="s2">mit<span style="s4"> französische straße und vielen</span></p>
+<p begin="00:27:41.820" end="00:27:44.520" style="s2">anderen</p>
+<p begin="00:27:42.240" end="00:27:46.620" style="s2"><span style="s4">seidel und so weiter die damals gesagt</span></p>
+<p begin="00:27:44.520" end="00:27:48.900" style="s2">haben<span style="s3"> wir</span> lassen uns auf den wettbewerb</p>
+<p begin="00:27:46.620" end="00:27:50.970" style="s2"><span style="s3">ein wer bayern besser</span><span style="s4"> lebt</span> und wir sind</p>
+<p begin="00:27:48.900" end="00:27:53.130" style="s2">die vertreter bayerns aber bei uns hört</p>
+<p begin="00:27:50.970" end="00:27:54.750" style="s2">die welt nicht am<span style="s4"> kirchturm auf bei uns</span></p>
+<p begin="00:27:53.130" end="00:27:56.370" style="s2">geht die welt deutlich darüber hinaus</p>
+<p begin="00:27:54.750" end="00:27:59.100" style="s2">und franz<span style="s3"> josef</span><span style="s4"> strasser</span> damals gesagt</p>
+<p begin="00:27:56.370" end="00:28:01.080" style="s2">wir sind starke vertreter des freistaats</p>
+<p begin="00:27:59.100" end="00:28:02.700" style="s2">bayern aber wir fahren nach bonn und</p>
+<p begin="00:28:01.080" end="00:28:05.310" style="s2">zeigen<span style="s3"> denen so richtig</span> wie es geht</p>
+<p begin="00:28:02.700" end="00:28:07.620" style="s2"><span style="s3">und</span> diese<span style="s4"> einstellung</span><span style="s3"> damals</span> dieses</p>
+<p begin="00:28:05.310" end="00:28:09.390" style="s2">gestalten wollen<span style="s4"> dieses</span><span style="s3"> nicht</span> sorge</p>
+<p begin="00:28:07.620" end="00:28:11.460" style="s2">haben vor der zukunft dieses nicht</p>
+<p begin="00:28:09.390" end="00:28:12.990" style="s2">betrübt sein sondern dieses lust zu</p>
+<p begin="00:28:11.460" end="00:28:15.420" style="s2">haben<span style="s4"> hast</span> den werten aus den wurzeln</p>
+<p begin="00:28:12.990" end="00:28:17.550" style="s2">heraus die uns ausmachen<span style="s3"> die</span> lust zu</p>
+<p begin="00:28:15.420" end="00:28:19.410" style="s2">haben mitzureden und mit zu gestalten</p>
+<p begin="00:28:17.550" end="00:28:21.750" style="s2">die hat den ausschlag gegeben dass die</p>
+<p begin="00:28:19.410" end="00:28:23.610" style="s2">csu sich dann langfristig durchgesetzt</p>
+<p begin="00:28:21.750" end="00:28:26.100" style="s2">hat weil die bayern so eine partei</p>
+<p begin="00:28:23.610" end="00:28:29.040" style="s2">wollen heute kommt zu berlin<span style="s3"> zum</span></p>
+<p begin="00:28:26.100" end="00:28:31.050" style="s2">gestalten in berlin auch noch europa und</p>
+<p begin="00:28:29.040" end="00:28:33.480" style="s2">brüssel mit dazu und deswegen ist<span style="s4"> das</span></p>
+<p begin="00:28:31.050" end="00:28:35.370" style="s2">was uns<span style="s3"> heute</span> ausmacht auch wieder im</p>
+<p begin="00:28:33.480" end="00:28:37.260" style="s2">wettbewerb mit einer partei die den</p>
+<p begin="00:28:35.370" end="00:28:39.690" style="s2">kirchturm im blick hat ist die</p>
+<p begin="00:28:37.260" end="00:28:42.060" style="s2">hauptaufgabe von uns zu sagen wir haben</p>
+<p begin="00:28:39.690" end="00:28:44.220" style="s2">bayern im herzen<span style="s3"> wir lieben unser land</span></p>
+<p begin="00:28:42.060" end="00:28:46.500" style="s2">wir vertreten die<span style="s4"> bayerinnen</span><span style="s3"> und</span> bayern</p>
+<p begin="00:28:44.220" end="00:28:48.750" style="s2">in der politischen szene und wir<span style="s3"> fahren</span></p>
+<p begin="00:28:46.500" end="00:28:51.120" style="s2">nach berlin und auch mit aller kraft</p>
+<p begin="00:28:48.750" end="00:28:53.040" style="s2">nach brüssel und straßburg und gestalten</p>
+<p begin="00:28:51.120" end="00:28:54.690" style="s2">dieses europa und<span style="s3"> diese</span> welt für uns mit</p>
+<p begin="00:28:53.040" end="00:28:57.180" style="s2">wir haben die kraft die werden es tun</p>
+<p begin="00:28:54.690" end="00:28:59.640" style="s2">und wenn wir alle<span style="s3"> zusammenhalten</span> dann</p>
+<p begin="00:28:57.180" end="00:29:01.710" style="s2"><span style="s4">mehrmals am 26</span> mai auch beweisen</p>
+<p begin="00:28:59.640" end="00:29:02.880" style="s2">herzlichen dank<span style="s4"> und</span> wir bauen auf eure</p>
+<p begin="00:29:01.710" end="00:29:16.289" style="s2">unterstützung<span style="s4"> danke schön</span></p>
+<p begin="00:29:02.880" end="00:29:16.289" style="s2">[Applaus]</p>
+</div>
+</body>
+</tt>

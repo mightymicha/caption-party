@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:04.690" end="00:00:09.070" style="s2">nach der finanzkrise musste der</p>
+<p begin="00:00:07.210" end="00:00:09.940" style="s2">steuerzahler bereits vier landesbanken</p>
+<p begin="00:00:09.070" end="00:00:12.190" style="s2">stützen</p>
+<p begin="00:00:09.940" end="00:00:14.920" style="s2">damals hieß es die zeit der</p>
+<p begin="00:00:12.190" end="00:00:16.720" style="s2">bankenrettung ist vorbei bereits 2011</p>
+<p begin="00:00:14.920" end="00:00:19.210" style="s2">musste die<span style="s3"> nord lb mit 600 millionen</span></p>
+<p begin="00:00:16.720" end="00:00:20.890" style="s2">euro steuergeld versorgt werden<span style="s4"> um</span> den</p>
+<p begin="00:00:19.210" end="00:00:23.950" style="s2"><span style="s4">banken</span> stresstest zu bestehen</p>
+<p begin="00:00:20.890" end="00:00:26.040" style="s2">und spätestens<span style="s3"> seit 2017 mehrten sich</span></p>
+<p begin="00:00:23.950" end="00:00:28.810" style="s2">die gerüchte dass ein erneuter</p>
+<p begin="00:00:26.040" end="00:00:31.510" style="s2">kapitalbedarf notwendig sei die aktuelle</p>
+<p begin="00:00:28.810" end="00:00:36.969" style="s2">situation der<span style="s3"> nord lb ist also ein crash</span></p>
+<p begin="00:00:31.510" end="00:00:39.429" style="s2">mit ansage<span style="s3"> herr</span> ministerpräsident<span style="s3"> auch</span></p>
+<p begin="00:00:36.969" end="00:00:41.949" style="s2">wenn sie versuchen sich als retter und</p>
+<p begin="00:00:39.429" end="00:00:43.079" style="s2">krisenmanager zu präsentieren<span style="s4"> sie</span> sind</p>
+<p begin="00:00:41.949" end="00:00:44.850" style="s2">für die aktuelle situation</p>
+<p begin="00:00:43.079" end="00:00:48.969" style="s2">mitverantwortlich</p>
+<p begin="00:00:44.850" end="00:00:51.699" style="s2">sie haben die augen vor den problemen</p>
+<p begin="00:00:48.969" end="00:00:52.960" style="s2">der nord lb zu lange verschlossen und</p>
+<p begin="00:00:51.699" end="00:00:54.670" style="s2"><span style="s3">meine</span><span style="s4"> damen die landesregierung damit</span></p>
+<p begin="00:00:52.960" end="00:00:56.649" style="s2">krasse fehleinschätzung vorgenommen die</p>
+<p begin="00:00:54.670" end="00:00:59.319" style="s2">der steuerzahler nun ausbaden<span style="s3"> sollen</span></p>
+<p begin="00:00:56.649" end="00:01:00.609" style="s2"><span style="s4">woher herr ministerpräsident und herr</span></p>
+<p begin="00:00:59.319" end="00:01:02.710" style="s2">minister<span style="s3"> hebers</span> nehmen<span style="s4"> sie</span> eigentlich</p>
+<p begin="00:01:00.609" end="00:01:05.110" style="s2">die zuversicht dass ihre einschätzung</p>
+<p begin="00:01:02.710" end="00:01:07.060" style="s2">dieses mal zutreffend sein sollen und</p>
+<p begin="00:01:05.110" end="00:01:09.280" style="s2">warum<span style="s4"> bitteschön</span> sollte man ihnen</p>
+<p begin="00:01:07.060" end="00:01:11.380" style="s2">eigentlich vertrauen sie insbesondere</p>
+<p begin="00:01:09.280" end="00:01:13.240" style="s2">sie herr minister<span style="s3"> hilbers</span> werden nicht</p>
+<p begin="00:01:11.380" end="00:01:14.980" style="s2">müde darauf hinzuweisen dass es dabei</p>
+<p begin="00:01:13.240" end="00:01:17.530" style="s2">nicht um steuergeld<span style="s3"> handle</span></p>
+<p begin="00:01:14.980" end="00:01:19.510" style="s2">das aber ist irreführend<span style="s4"> denn letztlich</span></p>
+<p begin="00:01:17.530" end="00:01:21.010" style="s2">haften selbstverständlich das land und</p>
+<p begin="00:01:19.510" end="00:01:22.810" style="s2">damit die steuerzahler<span style="s4"> eine</span> höhe von bis</p>
+<p begin="00:01:21.010" end="00:01:24.880" style="s2"><span style="s4">zu</span> 2,5 milliarden euro</p>
+<p begin="00:01:22.810" end="00:01:26.560" style="s2">warum<span style="s4"> bitte schön herr minister</span><span style="s3"> hilbers</span></p>
+<p begin="00:01:24.880" end="00:01:28.150" style="s2">wollen<span style="s3"> sie</span> dies eigentlich verschleiern</p>
+<p begin="00:01:26.560" end="00:01:30.250" style="s2">sie nehmen also neue schulden in höhe</p>
+<p begin="00:01:28.150" end="00:01:31.480" style="s2">von 1,5 milliarden euro auf und</p>
+<p begin="00:01:30.250" end="00:01:33.520" style="s2">übernehmen eine garantie in höhe von</p>
+<p begin="00:01:31.480" end="00:01:35.650" style="s2">einer milliarde für die das land haftet</p>
+<p begin="00:01:33.520" end="00:01:37.660" style="s2"><span style="s3">alle</span> ihre bemühungen herr minister<span style="s3"> übers</span></p>
+<p begin="00:01:35.650" end="00:01:39.310" style="s2"><span style="s4">in</span> die geschichtsbücher des landes als</p>
+<p begin="00:01:37.660" end="00:01:41.470" style="s2">der minister<span style="s3"> ein zugehen</span><span style="s4"> der</span><span style="s3"> es</span></p>
+<p begin="00:01:39.310" end="00:01:43.330" style="s2">geschafft hat in nennenswertem umfang</p>
+<p begin="00:01:41.470" end="00:01:46.470" style="s2">sogar schulden zu tilgen sind spätestens</p>
+<p begin="00:01:43.330" end="00:01:46.470" style="s2">jetzt<span style="s3"> vergebens</span></p>
+<p begin="00:01:48.230" end="00:01:52.550" style="s2">sie müssen vor dem hintergrund dieser</p>
+<p begin="00:01:50.060" end="00:01:53.960" style="s2">entwicklung<span style="s4"> eher</span> bangen als minister in</p>
+<p begin="00:01:52.550" end="00:01:55.310" style="s2">die geschichtsbücher einzugehen der</p>
+<p begin="00:01:53.960" end="00:01:57.140" style="s2">milliarden an steuergeld in einer</p>
+<p begin="00:01:55.310" end="00:01:59.180" style="s2">gescheiterten<span style="s3"> bankenrettung</span> versenkt hat</p>
+<p begin="00:01:57.140" end="00:02:01.010" style="s2">so wie es ihre kollegen in hamburg und</p>
+<p begin="00:01:59.180" end="00:02:03.320" style="s2"><span style="s3">schleswig-holstein</span><span style="s4"> vorgemacht</span> haben</p>
+<p begin="00:02:01.010" end="00:02:05.450" style="s2">das was<span style="s4"> sie hier als lösung für</span> die<span style="s3"> nord</span></p>
+<p begin="00:02:03.320" end="00:02:07.760" style="s2"><span style="s3">lb</span> präsentieren ist aus sicht der freien</p>
+<p begin="00:02:05.450" end="00:02:10.670" style="s2">demokraten nichts weiter als ein teuer</p>
+<p begin="00:02:07.760" end="00:02:12.980" style="s2">erkaufter abschied auf raten<span style="s4"> allen</span></p>
+<p begin="00:02:10.670" end="00:02:15.110" style="s2">beteuerungen zum trotz können sie kein</p>
+<p begin="00:02:12.980" end="00:02:17.740" style="s2">nachhaltiges konzept für die zukunft der</p>
+<p begin="00:02:15.110" end="00:02:19.400" style="s2"><span style="s3">nord lb vorliegen herr minister</span><span style="s4"> hilbers</span></p>
+<p begin="00:02:17.740" end="00:02:21.650" style="s2"><span style="s3">ministerpräsident</span> weil sie sagen nichts</p>
+<p begin="00:02:19.400" end="00:02:22.910" style="s2">konkretes darüber welchen vorteil der</p>
+<p begin="00:02:21.650" end="00:02:25.070" style="s2"><span style="s4">niedersächsische</span> steuerzahler durch</p>
+<p begin="00:02:22.910" end="00:02:27.080" style="s2">seine rettung der<span style="s3"> nord lb hat sie sagen</span></p>
+<p begin="00:02:25.070" end="00:02:28.790" style="s2">nichts konkretes darüber was die</p>
+<p begin="00:02:27.080" end="00:02:30.710" style="s2">landesbank künftig von anderen banken</p>
+<p begin="00:02:28.790" end="00:02:32.270" style="s2">unterscheiden sollen und sie können oder</p>
+<p begin="00:02:30.710" end="00:02:33.380" style="s2">wollen heute<span style="s4"> dem</span> steuerzahler in</p>
+<p begin="00:02:32.270" end="00:02:35.270" style="s2">niedersachsen noch nicht<span style="s4"> einmal</span></p>
+<p begin="00:02:33.380" end="00:02:38.390" style="s2">garantieren dass es die letzte</p>
+<p begin="00:02:35.270" end="00:02:40.400" style="s2">bankenrettung mit seinem geld ist ja wir</p>
+<p begin="00:02:38.390" end="00:02:41.510" style="s2">erkennen an dass sie das parlament</p>
+<p begin="00:02:40.400" end="00:02:44.000" style="s2"><span style="s4">einbeziehen</span> aber wir hätten erwartet</p>
+<p begin="00:02:41.510" end="00:02:45.200" style="s2">dass sie dem parlament den steuerzahlern</p>
+<p begin="00:02:44.000" end="00:02:47.360" style="s2">und insbesondere auch den betroffenen</p>
+<p begin="00:02:45.200" end="00:02:50.810" style="s2">mitarbeiterinnen und mitarbeitern heute</p>
+<p begin="00:02:47.360" end="00:02:53.720" style="s2">mehr als nur vage ausblick darauf wie es</p>
+<p begin="00:02:50.810" end="00:02:55.070" style="s2">weitergehen könnte gegeben hätte<span style="s4"> all</span> das</p>
+<p begin="00:02:53.720" end="00:02:57.020" style="s2">meine sehr geehrten damen und herren</p>
+<p begin="00:02:55.070" end="00:02:58.790" style="s2">lässt befürchten dass dies nicht das</p>
+<p begin="00:02:57.020" end="00:03:01.570" style="s2">ende ist sondern dass noch weitere</p>
+<p begin="00:02:58.790" end="00:03:01.570" style="s2">kapitel folgen</p>
+</div>
+</body>
+</tt>

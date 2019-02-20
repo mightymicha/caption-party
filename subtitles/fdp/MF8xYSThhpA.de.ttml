@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.910" style="s2">[Applaus]</p>
+<p begin="00:00:02.240" end="00:00:07.250" style="s2">ja meine sehr verehrten damen und herren</p>
+<p begin="00:00:04.910" end="00:00:10.830" style="s2">klar ist</p>
+<p begin="00:00:07.250" end="00:00:13.009" style="s2">ende 2018 sind dann auch alle lästigen</p>
+<p begin="00:00:10.830" end="00:00:15.660" style="s2">funklöcher in deutschland geschlossen</p>
+<p begin="00:00:13.009" end="00:00:18.449" style="s2">so sagte alexander dobrindt im<span style="s3"> jahre</span></p>
+<p begin="00:00:15.660" end="00:00:19.260" style="s2">2015<span style="s3"> also ich war die letzten tage so</span></p>
+<p begin="00:00:18.449" end="00:00:22.320" style="s2">ein bisschen im ländlichen raum</p>
+<p begin="00:00:19.260" end="00:00:23.810" style="s2">unterwegs<span style="s4"> war</span><span style="s3"> also</span> ein<span style="s3"> bisschen</span> luft</p>
+<p begin="00:00:22.320" end="00:00:25.920" style="s2">nach oben scheint mir noch zu sein</p>
+<p begin="00:00:23.810" end="00:00:27.689" style="s2">ich bin froh ich weiß nicht wie es ihnen</p>
+<p begin="00:00:25.920" end="00:00:29.220" style="s2">geht das hier<span style="s4"> nordrhein westfalen für</span></p>
+<p begin="00:00:27.689" end="00:00:30.840" style="s2"><span style="s3">die</span> themen bei der digitalisierung die</p>
+<p begin="00:00:29.220" end="00:00:32.579" style="s2">das land machen kann ein liberaler</p>
+<p begin="00:00:30.840" end="00:00:34.110" style="s2">verantwortung trägt andreas pinkwart und</p>
+<p begin="00:00:32.579" end="00:00:40.710" style="s2">kein<span style="s3"> csu politiker ich glaube</span><span style="s4"> dass</span></p>
+<p begin="00:00:34.110" end="00:00:42.570" style="s2"><span style="s3">nochmal</span> applaus wert auf allen ebenen wo</p>
+<p begin="00:00:40.710" end="00:00:44.190" style="s2">liberale in verantwortung gestalten</p>
+<p begin="00:00:42.570" end="00:00:45.870" style="s2">können sieht man dass das ein</p>
+<p begin="00:00:44.190" end="00:00:47.940" style="s2">unterschied macht und das sieht man auch</p>
+<p begin="00:00:45.870" end="00:00:49.379" style="s2">bei dem bei der politischen sieht man</p>
+<p begin="00:00:47.940" end="00:00:51.000" style="s2">auch bei der politischen ebene um die es</p>
+<p begin="00:00:49.379" end="00:00:53.430" style="s2">in diesem jahr wohl keine andere geht</p>
+<p begin="00:00:51.000" end="00:00:56.250" style="s2">nämlich um europa am<span style="s3"> ersten</span> februar in</p>
+<p begin="00:00:53.430" end="00:00:59.460" style="s2">wenigen tagen trifft tritt die größte</p>
+<p begin="00:00:56.250" end="00:01:02.309" style="s2">freihandelszone der welt<span style="s4"> chef der eu und</span></p>
+<p begin="00:00:59.460" end="00:01:04.350" style="s2">japan vorläufig in kraft weil eine</p>
+<p begin="00:01:02.309" end="00:01:05.850" style="s2">liberale unsere parteifreunde cecilia</p>
+<p begin="00:01:04.350" end="00:01:08.930" style="s2">malmström<span style="s4"> das</span> thema freihandel</p>
+<p begin="00:01:05.850" end="00:01:12.240" style="s2">voranbringt wenn wir diskutieren über</p>
+<p begin="00:01:08.930" end="00:01:14.189" style="s2">die frage wie organisieren wir</p>
+<p begin="00:01:12.240" end="00:01:16.320" style="s2">eigentlich die digitalwirtschaft wie</p>
+<p begin="00:01:14.189" end="00:01:18.330" style="s2">sorgen wir dafür dass große unternehmen</p>
+<p begin="00:01:16.320" end="00:01:20.009" style="s2">apple facebook google andere ihre</p>
+<p begin="00:01:18.330" end="00:01:22.680" style="s2">marktmacht nicht ausnutzen</p>
+<p begin="00:01:20.009" end="00:01:24.540" style="s2">dann ist es eine liberale nämlich<span style="s4"> mit</span></p>
+<p begin="00:01:22.680" end="00:01:27.030" style="s2"><span style="s3">vista</span><span style="s4"> die</span><span style="s3"> die</span> regeln des wettbewerbs</p>
+<p begin="00:01:24.540" end="00:01:28.500" style="s2">auch gegenüber<span style="s4"> großen</span> playern durchsetzt</p>
+<p begin="00:01:27.030" end="00:01:30.509" style="s2"><span style="s4">es</span> zeigt sich<span style="s3"> wo</span> liberale verantwortung</p>
+<p begin="00:01:28.500" end="00:01:32.780" style="s2">haben da lohnt sich das auch<span style="s4"> in</span><span style="s3"> applaus</span></p>
+<p begin="00:01:30.509" end="00:01:32.780" style="s2"><span style="s4">wert</span></p>
+<p begin="00:01:35.329" end="00:01:38.600" style="s2">und deshalb ist es auch wichtig wie das</p>
+<p begin="00:01:37.590" end="00:01:40.039" style="s2">nächste europäische parlament</p>
+<p begin="00:01:38.600" end="00:01:42.600" style="s2">zusammengesetzt wird</p>
+<p begin="00:01:40.039" end="00:01:45.689" style="s2">denn wir haben durch eine allianz</p>
+<p begin="00:01:42.600" end="00:01:47.729" style="s2">zwischen den liberalen und moderaten</p>
+<p begin="00:01:45.689" end="00:01:49.530" style="s2">kräften in europa inklusive unseren</p>
+<p begin="00:01:47.729" end="00:01:51.960" style="s2">freunden von<span style="s4"> orange</span> in<span style="s3"> frankreich haben</span></p>
+<p begin="00:01:49.530" end="00:01:55.020" style="s2">wir eine chance bei dieser europawahl</p>
+<p begin="00:01:51.960" end="00:01:56.909" style="s2">dafür zu sorgen dass die stimmen die</p>
+<p begin="00:01:55.020" end="00:01:58.740" style="s2">sagen dass uns europa auf die großen</p>
+<p begin="00:01:56.909" end="00:02:00.299" style="s2">aufgaben konzentrieren außen und</p>
+<p begin="00:01:58.740" end="00:02:06.569" style="s2">sicherheitspolitik digitaler binnenmarkt</p>
+<p begin="00:02:00.299" end="00:02:08.340" style="s2">energie klima und<span style="s3"> nicht</span> agrarpolitik</p>
+<p begin="00:02:06.569" end="00:02:10.140" style="s2">oder auch noch in der sozialpolitik</p>
+<p begin="00:02:08.340" end="00:02:12.030" style="s2">kleinteilig steuern was<span style="s3"> nationaler</span></p>
+<p begin="00:02:10.140" end="00:02:13.680" style="s2">länder viel besser können was wir besser</p>
+<p begin="00:02:12.030" end="00:02:15.239" style="s2">auf nationaler ebene regen können dass</p>
+<p begin="00:02:13.680" end="00:02:17.760" style="s2">diese kräfte stark gemacht werden und</p>
+<p begin="00:02:15.239" end="00:02:19.170" style="s2">eines geschafft wird was ist bisher so</p>
+<p begin="00:02:17.760" end="00:02:20.370" style="s2">seit bestehen des<span style="s4"> bayerischen</span><span style="s3"> park</span></p>
+<p begin="00:02:19.170" end="00:02:21.900" style="s2">europäischen parlaments noch nicht</p>
+<p begin="00:02:20.370" end="00:02:23.730" style="s2">gegeben hat nämlich dass die</p>
+<p begin="00:02:21.900" end="00:02:25.489" style="s2">strukturelle mehrheit der großen</p>
+<p begin="00:02:23.730" end="00:02:27.569" style="s2">koalition im europäischen parlament</p>
+<p begin="00:02:25.489" end="00:02:29.040" style="s2">erstmalig gebrochen wird und wenn man</p>
+<p begin="00:02:27.569" end="00:02:30.959" style="s2">das will dann muss man die<span style="s4"> liberal und</span></p>
+<p begin="00:02:29.040" end="00:02:32.190" style="s2">moderaten stark machen im mai und dafür</p>
+<p begin="00:02:30.959" end="00:02:34.579" style="s2">wollen<span style="s4"> wir</span> kämpfen liebe freundinnen<span style="s4"> und</span></p>
+<p begin="00:02:32.190" end="00:02:34.579" style="s2">freunde</p>
+<p begin="00:02:37.400" end="00:02:40.920" style="s2">und dafür ist wichtig wie wir uns</p>
+<p begin="00:02:39.450" end="00:02:43.530" style="s2">aufstellen<span style="s4"> dass</span> gerade schon gesagt eine</p>
+<p begin="00:02:40.920" end="00:02:45.659" style="s2">breite allianz in europa gebildet und</p>
+<p begin="00:02:43.530" end="00:02:46.950" style="s2">auf dem dreikönigstreffen haben wir</p>
+<p begin="00:02:45.659" end="00:02:48.840" style="s2">freie demokraten<span style="s4"> das</span> schon formuliert</p>
+<p begin="00:02:46.950" end="00:02:50.340" style="s2">also ich glaube wir sollten uns in den</p>
+<p begin="00:02:48.840" end="00:02:52.049" style="s2">nächsten monaten ganz selbstbewusst</p>
+<p begin="00:02:50.340" end="00:02:55.109" style="s2">hinstellen und sagen wir sind stolz</p>
+<p begin="00:02:52.049" end="00:02:56.790" style="s2">darauf dass die freien demokraten an der</p>
+<p begin="00:02:55.109" end="00:02:59.670" style="s2">seite von<span style="s4"> makro-</span> und<span style="s4"> den</span> europawahlkampf</p>
+<p begin="00:02:56.790" end="00:03:00.989" style="s2">ziehen und die cdu an seite von viktor</p>
+<p begin="00:02:59.670" end="00:03:03.540" style="s2"><span style="s3">orban</span> da sind die<span style="s4"> alternativen</span><span style="s3"> nämlich</span></p>
+<p begin="00:03:00.989" end="00:03:04.829" style="s2">klar<span style="s3"> mitte</span> oder populisten und<span style="s3"> wer die</span></p>
+<p begin="00:03:03.540" end="00:03:06.629" style="s2">mitte stark machen will der muss die</p>
+<p begin="00:03:04.829" end="00:03:12.299" style="s2">freien demokraten stark machen bei</p>
+<p begin="00:03:06.629" end="00:03:14.310" style="s2">dieser europawahl aber neben diesen</p>
+<p begin="00:03:12.299" end="00:03:16.379" style="s2">alternativen zu sagen worum es bei der</p>
+<p begin="00:03:14.310" end="00:03:17.519" style="s2">wahl geht<span style="s3"> erstmalig vielleicht einen</span></p>
+<p begin="00:03:16.379" end="00:03:19.019" style="s2">wirklichen wahlkampf um die</p>
+<p begin="00:03:17.519" end="00:03:20.250" style="s2">mehrheitsverhältnisse im europäischen</p>
+<p begin="00:03:19.019" end="00:03:21.750" style="s2">parlament zuführen müssen wir den</p>
+<p begin="00:03:20.250" end="00:03:22.980" style="s2">wahlkampf auch in einer zweiten hinsicht</p>
+<p begin="00:03:21.750" end="00:03:24.870" style="s2">anders angehen nach unserer überzeugung</p>
+<p begin="00:03:22.980" end="00:03:27.209" style="s2"><span style="s4">ihn</span><span style="s3"> nämlich wirklich auch als</span></p>
+<p begin="00:03:24.870" end="00:03:28.590" style="s2">gemeinsamen wahlkampf begreifen und</p>
+<p begin="00:03:27.209" end="00:03:29.909" style="s2">gemeinsam heißt nicht nur bundesweit</p>
+<p begin="00:03:28.590" end="00:03:30.840" style="s2">gemeinsam ich freue mich sehr dass die</p>
+<p begin="00:03:29.909" end="00:03:32.370" style="s2">kolleginnen und kollegen aus</p>
+<p begin="00:03:30.840" end="00:03:34.139" style="s2">befreundeten landesverbänden hier sind</p>
+<p begin="00:03:32.370" end="00:03:36.719" style="s2">sondern gemeinsam<span style="s3"> heißt</span><span style="s4"> dann eben auch</span></p>
+<p begin="00:03:34.139" end="00:03:38.430" style="s2">wirklich in europa als liberale parteien</p>
+<p begin="00:03:36.719" end="00:03:40.889" style="s2">familie gemeinsam wahlkampf zu machen</p>
+<p begin="00:03:38.430" end="00:03:42.599" style="s2"><span style="s3">und</span> um dieses jahr genau mit<span style="s3"> diesen</span></p>
+<p begin="00:03:40.889" end="00:03:44.579" style="s2">guten vorsatz 14 leuten freue ich mich</p>
+<p begin="00:03:42.599" end="00:03:46.949" style="s2">sehr dass wir heute unsere gastrednerin</p>
+<p begin="00:03:44.579" end="00:03:50.129" style="s2">bei uns haben nämlich die<span style="s3"> vorsitzende</span></p>
+<p begin="00:03:46.949" end="00:03:53.159" style="s2">beate<span style="s4"> meinl reisinger die</span><span style="s3"> neos</span> applaus</p>
+<p begin="00:03:50.129" end="00:03:55.290" style="s2">könnt ihr gleich machen<span style="s3"> die neos die</span></p>
+<p begin="00:03:53.159" end="00:03:57.599" style="s2">sinne partei die ganz neu gemacht wurde</p>
+<p begin="00:03:55.290" end="00:03:59.909" style="s2">vor wenigen jahren erst<span style="s3"> und</span> ich<span style="s3"> sage</span> das</p>
+<p begin="00:03:57.599" end="00:04:01.319" style="s2">ganz ehrlich liebe<span style="s4"> meine</span> reisinger ihr</p>
+<p begin="00:03:59.909" end="00:04:03.569" style="s2">habt uns in vielerlei hinsicht</p>
+<p begin="00:04:01.319" end="00:04:05.159" style="s2">inspiriert als es uns darum ging wie die</p>
+<p begin="00:04:03.569" end="00:04:06.449" style="s2">freien demokraten neu gedacht werden</p>
+<p begin="00:04:05.159" end="00:04:06.989" style="s2">müssen und wir haben viel von euch</p>
+<p begin="00:04:06.449" end="00:04:09.329" style="s2">gelernt</p>
+<p begin="00:04:06.989" end="00:04:12.090" style="s2">die neo sind vor<span style="s3"> allem</span> die kraft der</p>
+<p begin="00:04:09.329" end="00:04:13.979" style="s2">mitte im österreichischen parlament die</p>
+<p begin="00:04:12.090" end="00:04:16.500" style="s2">der regierung aus konservativen und</p>
+<p begin="00:04:13.979" end="00:04:18.799" style="s2">rechtspopulisten von der<span style="s4"> fpl</span> etwas</p>
+<p begin="00:04:16.500" end="00:04:21.150" style="s2">entgegen hält nämlich<span style="s4"> eine</span> progressive</p>
+<p begin="00:04:18.799" end="00:04:23.219" style="s2"><span style="s3">optimistische</span><span style="s4"> stimmen</span> der mitte und</p>
+<p begin="00:04:21.150" end="00:04:24.990" style="s2">diese stimme ist<span style="s4"> die</span> bundesposition<span style="s3"> eos</span></p>
+<p begin="00:04:23.219" end="00:04:27.060" style="s2">beate<span style="s4"> meinl</span> reisinger und wir freuen uns</p>
+<p begin="00:04:24.990" end="00:04:29.550" style="s2">dass du mit uns heute hier diesen</p>
+<p begin="00:04:27.060" end="00:04:31.250" style="s2"><span style="s3">europawahlkampf</span><span style="s4"> einleitete malen risiken</span></p>
+<p begin="00:04:29.550" end="00:04:36.050" style="s2">herzlich willkommen<span style="s4"> bei floor is</span><span style="s3"> yours</span></p>
+<p begin="00:04:31.250" end="00:04:36.050" style="s2">[Applaus]</p>
+</div>
+</body>
+</tt>

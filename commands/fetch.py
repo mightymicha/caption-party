@@ -1,6 +1,6 @@
 """
 fetch:
-Download video captions from one or multiple parties to
+Download video subtitles from one or multiple parties to
 `subtitles\{party}\{video}`. Use argument `all` to fetch videos
 from every party specified in the json file.
 
@@ -45,17 +45,24 @@ the GoogleCloud Console at https://cloud.google.com/console.
 Default: "rsc/client_secret.json"
 
 --after_date(string):
-Download subtitles from videos uploaded on and after a specific date.
+Download subtitles from videos uploaded on or after a specific date.
 Specification: `<DAY>.<MONTH>.<YEAR>`
-Default: 01.01.2018
+Default: 01.06.2017
+
+--before_date(string):
+Download subtitles from videos uploaded on or before a specific date.
+Specification: `<DAY>.<MONTH>.<YEAR>`
+Default: 01.01.2100
 """
 
 import os
 import sys
 import re
 import glob
-import datetime
-from helper import status, usage, error, bold_purple, bold_blue, load_json, VERSION
+import pandas as pd
+from pandas.errors import EmptyDataError
+from datetime import datetime
+from helper import status, usage, error, warning, bold_purple, bold_blue, load_json, VERSION
 try:
     import click
     from apiclient.discovery import build
@@ -65,8 +72,6 @@ except ImportError:
                 click
                 apiclient
                 google_auth_oauthlib""")
-
-name = "fetch"
 
 
 @click.command()
@@ -79,13 +84,15 @@ name = "fetch"
               default='rsc/client_secret.json',
               type=click.Path(exists=True))
 @click.option('--after-date', default="01.06.2017")
-@click.option('--before-date', default="24.09.2017")
+@click.option('--before-date', default="01.01.2100")
+@click.option('--dataset', default='rsc/data.csv', type=click.Path(exists=True))
 def fetch(parties,
           channels_resource,
           videos_per_channel,
           key,
           after_date,
-          before_date):
+          before_date,
+          dataset):
     # Get specified parties
     party_channels = load_json(channels_resource)
     available_parties = list(party_channels.keys())
@@ -94,12 +101,13 @@ def fetch(parties,
         parties = available_parties
     elif not parties or not all(party in available_parties for party in parties):
         print(usage, "connect.py fetch [OPTIONS] PARTIES...")
-        print(bold_blue("Available parties: ") + ", ".join(["all"] + available_parties))
+        print(bold_blue("Available parties: ") +
+              ", ".join(["all"] + available_parties))
         return
     try:
         # Format date
-        after_date = datetime.datetime.strptime(after_date, '%d.%m.%Y')
-        before_date = datetime.datetime.strptime(before_date, '%d.%m.%Y')
+        after_date = datetime.strptime(after_date, '%d.%m.%Y')
+        before_date = datetime.strptime(before_date, '%d.%m.%Y')
     except ValueError:
         print(usage, "connect.py fetch [OPTIONS] PARTIES...")
         print(bold_blue("Datetime: ") + "{DAY}.{MONTH}.{YEAR}")
@@ -108,24 +116,54 @@ def fetch(parties,
     print_information(parties, videos_per_channel, after_date, before_date)
     # Get Google Dev handle
     handle = get_handle(key)
-    # Download subtitles
+    # Download subtitles and data
+    rows = []
     for party in parties:
         print(status + "Party: ", bold_purple(party.upper()))
         for channel in party_channels[party]:
             print(status + "Channel: ", bold_blue(channel['name']))
             playlist_id = get_channel_uploads_id(handle, channel['id'])
-            for video in get_playlist_items(handle, playlist_id, after_date, before_date, videos_per_channel):
-                download_sub(party, channel['region'], video)
-        # Filter captions
-        print(status + "Start filtering {0} captions".format(party))
-        filter_subs("./captions/" + party)
+            for video_id in get_playlist_items(handle, playlist_id, after_date, before_date, videos_per_channel):
+                print(status + "Scraping and processing video:", video_id)
+                # Subtitles
+                subtitle_path = os.path.join(
+                    "subtitles", party, video_id + ".txt")
+                download_sub(party, video_id, subtitle_path)
+                try:
+                    subtitle = filter_subtitles(subtitle_path)
+                except FileNotFoundError:
+                    print(warning + "Subtitles couldn't be downloaded.")
+                    continue
+                # Other video data
+                raw_video_json = get_raw_video_json(handle, video_id)
+                # Merge to datarow
+                data_row = create_datarow(video_id, party, channel['region'],raw_video_json, subtitle)
+                rows.append(data_row)
+    updating_and_saving(rows, dataset)
+
+def updating_and_saving(rows, csv_path):
+    # Check whether a dataset already exists
+    old_dataset = None
+    try:
+        old_dataset = pd.read_csv(csv_path).set_index("videoId")
+        print(status + "Dataset found. Updating entries.")
+    except FileNotFoundError as e:
+        print(warning + "No dataset found. Creating new csv file: " + csv_path)
+    except EmptyDataError as e:
+        print(warning + "Empty dataset found. Overwriting.")
+
+    new_dataset = pd.DataFrame(rows).set_index("videoId")
+    if old_dataset:
+        new_dataset = new_dataset.combine_first(old_dataset)
+    new_dataset.to_csv(csv_path)
 
 
-def download_sub(party, region, video_id):
+
+def download_sub(party, video_id, path):
     """Runs a command to download subtitles from a specific video.
 
     Parameters:
-        party(str): Subtitles get downloaded to `captions/{party}/id`.
+        party(str): Subtitles get downloaded to `subtitles/{party}/id`.
     """
 
     cmd = [
@@ -135,10 +173,26 @@ def download_sub(party, region, video_id):
         "--sub-lang de",
         "--no-progress",
         "--sub-format ttml",
-        "-o '" + os.path.join("captions", party, region + "_%(id)s'"),
+        # "--exec 'mv -v {} " + video_id + ".txt'",
+        "-o '{}'".format(path),
         video_id
     ]
+    # print(" ".join(cmd))
     os.system(" ".join(cmd))
+
+
+def filter_subtitles(path):
+    # TODO: Workaround until youtube-dl fix
+    real_path = path.split('.')[0] + ".de.ttml"
+    with open(real_path, "r") as f:
+        text = f.read()
+    text = re.sub(r'<[^>]*>', '', text)
+    text = re.sub(r'\[[^\]]*\]', '', text)
+    # text = re.sub(r'[^a-zA-ZäöüÄÖÜß\s]*', '', text)
+    text = re.sub(r'\s+', ' ', text).strip()
+    with open(path, "w+") as f:
+        f.write(text)
+    return text
 
 
 def filter_subs(directory):
@@ -178,31 +232,62 @@ def get_playlist_items(handle,
             were uploaded on or before this date.
         max_videos(int): Specifies how many videos at most get returned.
     """
-    videos = []
+
+    def get_video_ids(json_list):
+        items = []
+        # Filter time
+        for video in json_list:
+            time_str = video['contentDetails']['videoPublishedAt'][:10]
+            time = datetime.strptime(time_str, "%Y-%m-%d")
+            if after_date < time and time < before_date:
+                items.append(video['contentDetails']['videoId'])
+        return items
+
+    filtered_videos = []
     json_result = handle.playlistItems().list(part='contentDetails',
                                               maxResults=50,
                                               playlistId=playlist_id).execute()
-    videos.extend(json_result['items'])
+    filtered_videos.extend(get_video_ids(json_result['items']))
 
     nextPageToken = json_result.get('nextPageToken')
-    while nextPageToken is not None:
+    while nextPageToken is not None and len(filtered_videos) < max_videos:
         nextPage = handle.playlistItems().list(part="contentDetails",
                                                playlistId=playlist_id,
                                                maxResults=50,
                                                pageToken=nextPageToken).execute()
-        videos.extend(nextPage['items'])
+        filtered_videos.extend(get_video_ids(nextPage['items']))
         nextPageToken = nextPage.get('nextPageToken')
 
-    filtered_items = []
-    for video in videos:
-        time_str = video['contentDetails']['videoPublishedAt'][:10]
-        time = datetime.datetime.strptime(time_str, "%Y-%m-%d")
-        if after_date < time and time < before_date:
-            filtered_items.append(video['contentDetails']['videoId'])
-    if max_videos >= 0 and len(filtered_items) > max_videos:
-        return filtered_items[:max_videos]
+    if max_videos >= 0 and len(filtered_videos) > max_videos:
+        return filtered_videos[:max_videos]
     else:
-        return filtered_items
+        return filtered_videos
+
+
+def get_raw_video_json(handle, video_id):
+    json_result = handle.videos().list(
+        part='snippet,contentDetails,statistics', id=video_id).execute()
+    return json_result
+
+
+def create_datarow(video_id, party, region, json, subtitle):
+    if json['pageInfo']['totalResults'] >= 2:
+        raise ValueError("Videos have only one result!")
+    snippet = json['items'][0]['snippet']
+    statistics = json['items'][0]['statistics']
+    contentDetails = json['items'][0]['contentDetails']
+    row = {"videoId": video_id,
+           **snippet,
+           **contentDetails,
+           **statistics,
+           "subtitle": subtitle,
+           "party": party,
+           "region": region,
+           "fetched": str(datetime.now())}
+    unwanted = ["thumbnails", "localized"]
+    for key in unwanted:
+        row.pop(key, None)
+    return row
 
 
 def get_channel_uploads_id(handle, channel_id):

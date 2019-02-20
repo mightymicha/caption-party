@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:09.599" style="s2">[Musik]</p>
+<p begin="00:00:07.280" end="00:00:11.460" style="s2">warum sind sie<span style="s3"> denn</span> politiker geworden</p>
+<p begin="00:00:09.599" end="00:00:13.410" style="s2"><span style="s4">das</span> hat<span style="s3"> sie</span> mit der zeit zu ergeben ich</p>
+<p begin="00:00:11.460" end="00:00:16.920" style="s2">war ja viele jahre lang zuerst polizist</p>
+<p begin="00:00:13.410" end="00:00:18.779" style="s2">und leiter der kriminalpolizei und weil</p>
+<p begin="00:00:16.920" end="00:00:21.240" style="s2"><span style="s3">wir</span> hier<span style="s4"> sehr</span> viele schnittmengen zur</p>
+<p begin="00:00:18.779" end="00:00:23.550" style="s2">politik<span style="s3"> aufgetan</span> wurden wurde in der</p>
+<p begin="00:00:21.240" end="00:00:25.800" style="s2"><span style="s3">politik</span><span style="s4"> beruf</span> auch interessant wenn sie</p>
+<p begin="00:00:23.550" end="00:00:27.660" style="s2">am morgen<span style="s4"> aufstehen</span> welche gründe haben</p>
+<p begin="00:00:25.800" end="00:00:30.599" style="s2">sie in den tag zu starten wenn der</p>
+<p begin="00:00:27.660" end="00:00:32.669" style="s2">kleine kurz noch ins bett kommt uns hat</p>
+<p begin="00:00:30.599" end="00:00:34.320" style="s2">papa komm jetzt gehen wir<span style="s4"> auf</span> ich bin</p>
+<p begin="00:00:32.669" end="00:00:36.780" style="s2">euer<span style="s4"> morgen</span> manager<span style="s3"> walter</span><span style="s4"> ist</span><span style="s3"> am</span> morgen</p>
+<p begin="00:00:34.320" end="00:00:39.120" style="s2"><span style="s4">frischer</span> als wir<span style="s4"> dann</span> ist das<span style="s3"> erstmal</span></p>
+<p begin="00:00:36.780" end="00:00:41.610" style="s2"><span style="s4">geborgenheit</span> der familie die zuversicht</p>
+<p begin="00:00:39.120" end="00:00:43.350" style="s2">vermittelt andererseits bin ich von haus</p>
+<p begin="00:00:41.610" end="00:00:45.539" style="s2">aus sehr neugieriger mensch ich<span style="s4"> freue</span></p>
+<p begin="00:00:43.350" end="00:00:47.160" style="s2">mich was könnte der<span style="s4"> tat</span> bringen was</p>
+<p begin="00:00:45.539" end="00:00:48.780" style="s2">könnte es<span style="s4"> interessantes</span> geben welche</p>
+<p begin="00:00:47.160" end="00:00:51.000" style="s2">menschen treffe ich da freue ich mich</p>
+<p begin="00:00:48.780" end="00:00:52.079" style="s2">dann leben sie gerne in bayern<span style="s3"> weil</span> ich</p>
+<p begin="00:00:51.000" end="00:00:55.320" style="s2">mich hier<span style="s3"> wohlfühle</span></p>
+<p begin="00:00:52.079" end="00:00:56.610" style="s2">wir haben tolle natur von<span style="s4"> dem</span> werden ich</p>
+<p begin="00:00:55.320" end="00:00:59.370" style="s2">gehe<span style="s3"> gerne skifahren ich</span><span style="s4"> gehe</span> gerne</p>
+<p begin="00:00:56.610" end="00:01:01.199" style="s2">bergsteigen und klettern bis<span style="s4"> zu</span> den<span style="s4"> seen</span></p>
+<p begin="00:00:59.370" end="00:01:02.730" style="s2"><span style="s3">das</span> macht spaß<span style="s4"> hier</span> sind auch<span style="s3"> ein</span></p>
+<p begin="00:01:01.199" end="00:01:05.460" style="s2"><span style="s4">lieblingsort</span> berchtesgaden</p>
+<p begin="00:01:02.730" end="00:01:07.650" style="s2">das ist für mich<span style="s4"> hier</span> gegend wo ich mich</p>
+<p begin="00:01:05.460" end="00:01:09.180" style="s2">sehr schnell sehr gut erholen könnte</p>
+<p begin="00:01:07.650" end="00:01:11.760" style="s2">wenn sie<span style="s3"> sätze</span><span style="s4"> in</span> der<span style="s4"> hand</span> hätten und</p>
+<p begin="00:01:09.180" end="00:01:13.680" style="s2">jetzt eine sache ändern könnte was wäre</p>
+<p begin="00:01:11.760" end="00:01:16.979" style="s2"><span style="s3">das</span> soziale<span style="s4"> gerechtigkeit so weit</span></p>
+<p begin="00:01:13.680" end="00:01:19.619" style="s2">schaffen dass man die sich auftun<span style="s4"> gräben</span></p>
+<p begin="00:01:16.979" end="00:01:22.560" style="s2">wieder zuschüttet und dass man weniger</p>
+<p begin="00:01:19.619" end="00:01:24.390" style="s2">die soziale<span style="s3"> spannung</span><span style="s4"> in der in der</span></p>
+<p begin="00:01:22.560" end="00:01:26.100" style="s2">politik und<span style="s3"> in</span> der<span style="s3"> gesellschaft</span> spürt</p>
+<p begin="00:01:24.390" end="00:01:26.729" style="s2">mit wem würden sie<span style="s3"> gerne</span> ein bierchen</p>
+<p begin="00:01:26.100" end="00:01:29.549" style="s2">trinken</p>
+<p begin="00:01:26.729" end="00:01:30.180" style="s2"><span style="s4">man</span> hat man<span style="s4"> dann</span> die<span style="s3"> papier</span><span style="s4"> bringt</span> das</p>
+<p begin="00:01:29.549" end="00:01:32.549" style="s2">weiß ich nicht</p>
+<p begin="00:01:30.180" end="00:01:34.500" style="s2">wenn ich mit dem<span style="s4"> man</span> länger reden könnte</p>
+<p begin="00:01:32.549" end="00:01:35.880" style="s2">unser philosophie<span style="s3"> bisserl</span><span style="s4"> nachvollziehen</span></p>
+<p begin="00:01:34.500" end="00:01:37.829" style="s2">könnte und seine beweggründe</p>
+<p begin="00:01:35.880" end="00:01:42.600" style="s2">ich würde<span style="s4"> auch</span><span style="s3"> ein</span> glas wasser<span style="s4"> mit</span> dem</p>
+<p begin="00:01:37.829" end="00:01:44.700" style="s2">trinken auto oder fahrrad ich wohne in</p>
+<p begin="00:01:42.600" end="00:01:46.920" style="s2">der innenstadt fordert und urlaub daheim</p>
+<p begin="00:01:44.700" end="00:01:48.840" style="s2">oder<span style="s3"> er</span> weiter weg weiter<span style="s4"> weg um</span></p>
+<p begin="00:01:46.920" end="00:01:51.930" style="s2">abzuschalten<span style="s3"> berg</span><span style="s4"> oder</span> mehr</p>
+<p begin="00:01:48.840" end="00:01:53.469" style="s2">beides berge<span style="s3"> und</span> meer was wäre das</p>
+<p begin="00:01:51.930" end="00:01:55.850" style="s2"><span style="s4">schönste</span> kompliment<span style="s3"> das</span><span style="s4"> man</span><span style="s3"> ihn</span></p>
+<p begin="00:01:53.469" end="00:01:57.510" style="s2">du<span style="s3"> hättest</span> was<span style="s3"> du</span> versprichst<span style="s3"> du</span><span style="s4"> auf</span></p>
+<p begin="00:01:55.850" end="00:02:01.540" style="s2"><span style="s4">dich</span><span style="s3"> kann</span> man<span style="s4"> sich verlassen</span></p>
+<p begin="00:01:57.510" end="00:02:01.540" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

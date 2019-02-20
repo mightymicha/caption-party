@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.469" end="00:00:04.859" style="s2"><span style="s3">der</span> geehrte<span style="s4"> frau</span> präsidentin sehr</p>
+<p begin="00:00:03.149" end="00:00:07.890" style="s2">geehrte damen und herren abgeordnete</p>
+<p begin="00:00:04.859" end="00:00:08.880" style="s2">über zu<span style="s4"> jürgen</span> kurz vor beginn der</p>
+<p begin="00:00:07.890" end="00:00:11.219" style="s2">diesjährigen münchner</p>
+<p begin="00:00:08.880" end="00:00:14.670" style="s2">sicherheitskonferenz sagte der leiter</p>
+<p begin="00:00:11.219" end="00:00:17.100" style="s2">wolfgang ischinger<span style="s4"> ich zitiere ich würde</span></p>
+<p begin="00:00:14.670" end="00:00:19.680" style="s2">mir wirklich dringend wünschen dass am</p>
+<p begin="00:00:17.100" end="00:00:21.810" style="s2">ende dieser konferenz ich als<span style="s4"> konferenz</span></p>
+<p begin="00:00:19.680" end="00:00:24.810" style="s2">vorsitzender und<span style="s4"> die</span> konferenzteilnehmer</p>
+<p begin="00:00:21.810" end="00:00:27.840" style="s2">sagen werden wir haben ausnahmsweise</p>
+<p begin="00:00:24.810" end="00:00:31.529" style="s2">nicht nur gegeneinander und übereinander</p>
+<p begin="00:00:27.840" end="00:00:33.780" style="s2">geredet sondern mal miteinander<span style="s4"> und</span> wir</p>
+<p begin="00:00:31.529" end="00:00:37.800" style="s2">haben versucht lösungen voranzutreiben</p>
+<p begin="00:00:33.780" end="00:00:39.930" style="s2">dann wäre ich zufrieden ob der</p>
+<p begin="00:00:37.800" end="00:00:41.969" style="s2"><span style="s3">zufriedenheits b gilt</span><span style="s4"> es</span> hier<span style="s4"> nicht</span><span style="s3"> in</span></p>
+<p begin="00:00:39.930" end="00:00:43.680" style="s2"><span style="s3">gang</span><span style="s4"> nach</span> der konferenz gestiegen ist</p>
+<p begin="00:00:41.969" end="00:00:45.590" style="s2">sei einmal<span style="s4"> dahin gestellt</span></p>
+<p begin="00:00:43.680" end="00:00:49.530" style="s2">denn die münchner sicherheitskonferenz</p>
+<p begin="00:00:45.590" end="00:00:51.660" style="s2">hat die<span style="s4"> uneinigkeit</span> und unordnung sowohl</p>
+<p begin="00:00:49.530" end="00:00:54.270" style="s2">in der welt als auch in dieser<span style="s3"> so</span></p>
+<p begin="00:00:51.660" end="00:00:57.110" style="s2"><span style="s3">genannten</span> großen<span style="s3"> koalition</span> mehr als</p>
+<p begin="00:00:54.270" end="00:00:57.110" style="s2">deutlich werden lassen</p>
+<p begin="00:00:58.520" end="00:01:04.680" style="s2">ob beim<span style="s3"> zwei</span><span style="s4"> prozent</span><span style="s3"> ziel</span><span style="s4"> der nato oder</span></p>
+<p begin="00:01:01.649" end="00:01:07.380" style="s2">der<span style="s4"> zukunft</span> des emf vertrages cdu und</p>
+<p begin="00:01:04.680" end="00:01:08.930" style="s2">spd bleiben sich herzlich<span style="s3"> treu</span> in ihrer</p>
+<p begin="00:01:07.380" end="00:01:11.549" style="s2">uneinigkeit</p>
+<p begin="00:01:08.930" end="00:01:13.439" style="s2">während verteidigungsminister in ursula</p>
+<p begin="00:01:11.549" end="00:01:15.570" style="s2">von der leyen betonte die</p>
+<p begin="00:01:13.439" end="00:01:18.630" style="s2">bundesregierung hatte am 2 prozent ziel</p>
+<p begin="00:01:15.570" end="00:01:20.850" style="s2">der nato fest und<span style="s4"> müsse</span> dafür noch mehr</p>
+<p begin="00:01:18.630" end="00:01:24.090" style="s2">tun sagte der<span style="s3"> hier durch abwesenheit</span></p>
+<p begin="00:01:20.850" end="00:01:26.430" style="s2"><span style="s4">glänzende</span><span style="s3"> außenminister maß sicherheit</span></p>
+<p begin="00:01:24.090" end="00:01:29.939" style="s2">bemisst sich für uns nicht allein in</p>
+<p begin="00:01:26.430" end="00:01:31.770" style="s2"><span style="s4">wachsenden</span> verteidigungsbudgets während</p>
+<p begin="00:01:29.939" end="00:01:33.750" style="s2">von der leyen von der erhöhten gefahr</p>
+<p begin="00:01:31.770" end="00:01:36.900" style="s2">die<span style="s3"> die</span> russischen waffen gerade<span style="s4"> für</span> uns</p>
+<p begin="00:01:33.750" end="00:01:39.360" style="s2">in europa<span style="s4"> bedeuten</span><span style="s3"> sprach und eine</span></p>
+<p begin="00:01:36.900" end="00:01:41.579" style="s2">reaktion<span style="s3"> anmahnte</span> lehnte der<span style="s3"> spd</span></p>
+<p begin="00:01:39.360" end="00:01:45.810" style="s2"><span style="s3">außenpolitiker</span> mützenich jegliche</p>
+<p begin="00:01:41.579" end="00:01:47.340" style="s2"><span style="s3">konventionellen</span> nachrüstung ab kein</p>
+<p begin="00:01:45.810" end="00:01:49.759" style="s2">wunder<span style="s3"> dass</span> die deutsche<span style="s4"> gesellschaft</span></p>
+<p begin="00:01:47.340" end="00:01:51.930" style="s2">für auswärtige politik bilanzierte</p>
+<p begin="00:01:49.759" end="00:01:53.820" style="s2">innenpolitisch gelähmt entwickelt</p>
+<p begin="00:01:51.930" end="00:01:56.280" style="s2">deutschland nicht die kraft die</p>
+<p begin="00:01:53.820" end="00:01:59.119" style="s2"><span style="s4">außenpolitisch</span> von berlin erwartet und</p>
+<p begin="00:01:56.280" end="00:01:59.119" style="s2">benötigt wird</p>
+<p begin="00:01:59.270" end="00:02:03.540" style="s2">wir haben die große koalition von</p>
+<p begin="00:02:01.530" end="00:02:05.510" style="s2">ordnung so weit entfernt ist wie die spd</p>
+<p begin="00:02:03.540" end="00:02:08.640" style="s2">von der kanzlerschaft befinden wir uns</p>
+<p begin="00:02:05.510" end="00:02:10.619" style="s2"><span style="s4">außenpolitisch</span> in einer<span style="s3"> weltordnung</span> der</p>
+<p begin="00:02:08.640" end="00:02:14.040" style="s2"><span style="s3">diese</span> bundesregierung nicht einmal</p>
+<p begin="00:02:10.619" end="00:02:16.380" style="s2">ansatzweise gewachsen ist ob beim iran</p>
+<p begin="00:02:14.040" end="00:02:19.050" style="s2">abkommen<span style="s3"> in f</span><span style="s4"> vertrag handelskrieg</span></p>
+<p begin="00:02:16.380" end="00:02:21.270" style="s2">zwischen<span style="s3"> usa</span> und china oder der<span style="s3"> kathi</span></p>
+<p begin="00:02:19.050" end="00:02:24.150" style="s2"><span style="s4">sierung</span> des nahen und mittleren ostens</p>
+<p begin="00:02:21.270" end="00:02:25.830" style="s2"><span style="s3">bestehen die vertragswerke fallen</span><span style="s4"> die</span></p>
+<p begin="00:02:24.150" end="00:02:28.680" style="s2">geschichte kehrt in gestalt</p>
+<p begin="00:02:25.830" end="00:02:30.000" style="s2">rivalisierender<span style="s4"> großmächte</span> zurück und</p>
+<p begin="00:02:28.680" end="00:02:32.010" style="s2">deutschland steht am rande des</p>
+<p begin="00:02:30.000" end="00:02:34.680" style="s2">weltgeschehens und beschwört den</p>
+<p begin="00:02:32.010" end="00:02:42.240" style="s2">multilateralismus als<span style="s3"> außenpolitische</span></p>
+<p begin="00:02:34.680" end="00:02:45.120" style="s2"><span style="s3">zivilreligion</span> dabei sind in dieser welt</p>
+<p begin="00:02:42.240" end="00:02:47.940" style="s2">und ordnung gerade<span style="s3"> adhoc</span> koalitionen</p>
+<p begin="00:02:45.120" end="00:02:49.350" style="s2">koalitionen der willigen ein effektives</p>
+<p begin="00:02:47.940" end="00:02:51.960" style="s2">mittel um die eigenen interessen</p>
+<p begin="00:02:49.350" end="00:02:55.020" style="s2">durchzusetzen um das chaos<span style="s3"> einzuheben</span></p>
+<p begin="00:02:51.960" end="00:02:55.820" style="s2"><span style="s3">und</span> um zumindest regionale ordnung zu</p>
+<p begin="00:02:55.020" end="00:02:58.440" style="s2">sorgen</p>
+<p begin="00:02:55.820" end="00:03:00.690" style="s2">nichts anderes schreibt auch professor</p>
+<p begin="00:02:58.440" end="00:03:03.060" style="s2">carlo masala professor an der</p>
+<p begin="00:03:00.690" end="00:03:05.790" style="s2">universität der bundeswehr in hamburg</p>
+<p begin="00:03:03.060" end="00:03:08.340" style="s2">diese koalitionen sind nach ihm sogar</p>
+<p begin="00:03:05.790" end="00:03:13.739" style="s2">das bestimmende<span style="s4"> kooperations</span> muster im</p>
+<p begin="00:03:08.340" end="00:03:16.110" style="s2">21 was bedeutet das für eine</p>
+<p begin="00:03:13.739" end="00:03:19.620" style="s2"><span style="s4">zukunftsgerichtete</span><span style="s3"> deutsche</span><span style="s4"> außenpolitik</span></p>
+<p begin="00:03:16.110" end="00:03:21.239" style="s2">wie sie die<span style="s4"> fertig</span> es bedeutet sich von</p>
+<p begin="00:03:19.620" end="00:03:23.489" style="s2"><span style="s4">den</span> träumereien einer liebe<span style="s3"> reihen</span></p>
+<p begin="00:03:21.239" end="00:03:25.050" style="s2">reform der globalen institutionen<span style="s3"> wieder</span></p>
+<p begin="00:03:23.489" end="00:03:27.570" style="s2"><span style="s3">leben vereinten</span><span style="s4"> nationen</span> zu</p>
+<p begin="00:03:25.050" end="00:03:29.190" style="s2">verabschieden und sein handeln an den</p>
+<p begin="00:03:27.570" end="00:03:33.360" style="s2">eigenen nationalen interessen</p>
+<p begin="00:03:29.190" end="00:03:35.370" style="s2">auszurichten<span style="s4"> nicht</span> nicht jeder konflikt</p>
+<p begin="00:03:33.360" end="00:03:37.620" style="s2">auf dieser welt gehört<span style="s4"> die</span> deutschen</p>
+<p begin="00:03:35.370" end="00:03:39.480" style="s2">interessen unmittelbar<span style="s3"> daher</span> gibt es</p>
+<p begin="00:03:37.620" end="00:03:42.000" style="s2">auch keinerlei notwendigkeit sich</p>
+<p begin="00:03:39.480" end="00:03:44.790" style="s2">überall<span style="s3"> personell</span> materiell finanziell</p>
+<p begin="00:03:42.000" end="00:03:46.640" style="s2">zu indischen<span style="s4"> es</span> gibt auch sogar viele</p>
+<p begin="00:03:44.790" end="00:03:49.709" style="s2">fälle in denen solch ein engagement</p>
+<p begin="00:03:46.640" end="00:03:51.780" style="s2"><span style="s4">völlig</span> kontraproduktiv ist<span style="s4"> in</span></p>
+<p begin="00:03:49.709" end="00:03:53.670" style="s2">afghanistan hat die intervention raum</p>
+<p begin="00:03:51.780" end="00:03:56.010" style="s2">und kultur fremder mächte zu einem</p>
+<p begin="00:03:53.670" end="00:03:58.530" style="s2">desaster geführt und der blüten<span style="s4"> hafte</span></p>
+<p begin="00:03:56.010" end="00:03:59.450" style="s2">arabische frühling wurde in libyen und</p>
+<p begin="00:03:58.530" end="00:04:05.360" style="s2">syrien</p>
+<p begin="00:03:59.450" end="00:04:07.760" style="s2">schnell zu einem blutigen<span style="s4"> winter</span> in der</p>
+<p begin="00:04:05.360" end="00:04:10.340" style="s2">weltpolitik geht es eben nicht nur um</p>
+<p begin="00:04:07.760" end="00:04:12.410" style="s2"><span style="s4">ein</span> wünsch dir was sondern um die</p>
+<p begin="00:04:10.340" end="00:04:13.970" style="s2">durchsetzung eigener interessen und die</p>
+<p begin="00:04:12.410" end="00:04:16.579" style="s2">sicherstellung der<span style="s4"> grundlegenden</span></p>
+<p begin="00:04:13.970" end="00:04:17.989" style="s2">stabilität<span style="s4"> dann</span> klappt es auch mit</p>
+<p begin="00:04:16.579" end="00:04:21.260" style="s2">lösungen auf der münchner</p>
+<p begin="00:04:17.989" end="00:04:21.500" style="s2">sicherheitskonferenz<span style="s4"> vielen dank vielen</span></p>
+<p begin="00:04:21.260" end="00:04:23.750" style="s2">dank</p>
+<p begin="00:04:21.500" end="00:04:26.540" style="s2"><span style="s3">doch der frieden</span><span style="s4"> jetzt</span><span style="s3"> kann man</span></p>
+<p begin="00:04:23.750" end="00:04:29.860" style="s2">abonnieren<span style="s4"> und</span> nicht vergessen<span style="s3"> wenn</span><span style="s4"> nach</span></p>
+<p begin="00:04:26.540" end="00:04:29.860" style="s2"><span style="s4">richtigen</span> aktivieren</p>
+<p begin="00:04:30.250" end="00:04:33.389" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:03.980" end="00:00:07.470" style="s2">präsidentin liebe kolleginnen und</p>
+<p begin="00:00:05.819" end="00:00:09.719" style="s2">kollegen auf der diesjährigen</p>
+<p begin="00:00:07.470" end="00:00:11.700" style="s2">sicherheitskonferenz fand tatsächlich so</p>
+<p begin="00:00:09.719" end="00:00:15.599" style="s2">etwas wie ein showdown<span style="s3"> statt</span></p>
+<p begin="00:00:11.700" end="00:00:18.180" style="s2">aber eine westliche<span style="s3"> showdown auf der</span></p>
+<p begin="00:00:15.599" end="00:00:20.910" style="s2">einen seite<span style="s3"> eine</span><span style="s4"> organ</span> die rede des<span style="s3"> vize</span></p>
+<p begin="00:00:18.180" end="00:00:22.740" style="s2">präsidenten der usa mike<span style="s4"> pence</span><span style="s3"> der</span> die</p>
+<p begin="00:00:20.910" end="00:00:25.560" style="s2">usa als champion der freiheit</p>
+<p begin="00:00:22.740" end="00:00:27.420" style="s2">bezeichnete notwendig sei weltweit die</p>
+<p begin="00:00:25.560" end="00:00:30.000" style="s2"><span style="s3">us amerikanische führung und</span></p>
+<p begin="00:00:27.420" end="00:00:32.730" style="s2">glaubwürdige pläne zur erfüllung des<span style="s4"> 2</span></p>
+<p begin="00:00:30.000" end="00:00:35.309" style="s2">prozent ziels<span style="s3"> diese</span> rede war ein</p>
+<p begin="00:00:32.730" end="00:00:37.620" style="s2">ausdruck der rücksichtslosigkeit und</p>
+<p begin="00:00:35.309" end="00:00:39.800" style="s2">arroganz der derzeitigen regierung der</p>
+<p begin="00:00:37.620" end="00:00:39.800" style="s2"><span style="s3">usa</span></p>
+<p begin="00:00:40.219" end="00:00:45.239" style="s2">im gegensatz dazu in der wahrnehmung</p>
+<p begin="00:00:43.320" end="00:00:47.850" style="s2">stand angela merkel</p>
+<p begin="00:00:45.239" end="00:00:48.800" style="s2">sie wurde danach groß gefeiert doch</p>
+<p begin="00:00:47.850" end="00:00:50.640" style="s2">warum eigentlich</p>
+<p begin="00:00:48.800" end="00:00:52.110" style="s2">weil sie sich für die deutsche</p>
+<p begin="00:00:50.640" end="00:00:55.800" style="s2">autoindustrie in die bresche geworfen</p>
+<p begin="00:00:52.110" end="00:00:59.160" style="s2">hat vielleicht<span style="s3"> in</span> der bild zeitung war</p>
+<p begin="00:00:55.800" end="00:01:03.690" style="s2">zu lesen sie<span style="s3"> habe</span> bewiesen dass sie die</p>
+<p begin="00:00:59.160" end="00:01:07.350" style="s2"><span style="s4">führer der freien welt</span><span style="s3"> sei</span> nein dazu<span style="s3"> ist</span></p>
+<p begin="00:01:03.690" end="00:01:09.750" style="s2"><span style="s3">sie</span> garantiert nicht geeignet das zeigt</p>
+<p begin="00:01:07.350" end="00:01:11.939" style="s2"><span style="s3">auch</span> ihr abwarten der<span style="s3"> schülerin</span> bewegung</p>
+<p begin="00:01:09.750" end="00:01:13.790" style="s2">die sich für klare klimapolitik</p>
+<p begin="00:01:11.939" end="00:01:16.340" style="s2">einsetzen</p>
+<p begin="00:01:13.790" end="00:01:18.570" style="s2">wer sich nicht vorstellen kann dass</p>
+<p begin="00:01:16.340" end="00:01:21.420" style="s2">jugendliche von sich aus auf die<span style="s3"> straße</span></p>
+<p begin="00:01:18.570" end="00:01:22.920" style="s2"><span style="s4">gehen</span> gegen diese fatale klimapolitik</p>
+<p begin="00:01:21.420" end="00:01:24.810" style="s2">der bundesregierung hat nicht</p>
+<p begin="00:01:22.920" end="00:01:29.750" style="s2">mitbekommen was jugendliche<span style="s3"> derzeit</span></p>
+<p begin="00:01:24.810" end="00:01:32.330" style="s2">wirklich bewegt das ganze</p>
+<p begin="00:01:29.750" end="00:01:34.520" style="s2">war doch eher ein konflikt darüber wie</p>
+<p begin="00:01:32.330" end="00:01:36.770" style="s2">westliche politik weltweit<span style="s4"> derzeit</span></p>
+<p begin="00:01:34.520" end="00:01:38.300" style="s2"><span style="s4">durchgesetzt</span> werden sollen<span style="s3"> und</span> was haben</p>
+<p begin="00:01:36.770" end="00:01:39.560" style="s2"><span style="s3">denn</span> angela merkel und ursula von der</p>
+<p begin="00:01:38.300" end="00:01:41.840" style="s2">leyen in münchen gesagt</p>
+<p begin="00:01:39.560" end="00:01:44.330" style="s2"><span style="s4">ursula</span> von der<span style="s3"> leyen</span> hat in münchen</p>
+<p begin="00:01:41.840" end="00:01:46.460" style="s2">wieder<span style="s4"> einmal</span> versprochen die deutschen</p>
+<p begin="00:01:44.330" end="00:01:47.030" style="s2">militärausgaben<span style="s4"> in ungeahnte höhen</span><span style="s3"> zu</span></p>
+<p begin="00:01:46.460" end="00:01:49.580" style="s2">treiben</p>
+<p begin="00:01:47.030" end="00:01:52.580" style="s2"><span style="s4">als</span> wären sie 43,3 milliarden euro noch</p>
+<p begin="00:01:49.580" end="00:01:56.030" style="s2">nicht genug<span style="s4"> sollten</span> es bis 2024 60</p>
+<p begin="00:01:52.580" end="00:01:57.979" style="s2">milliarden werden<span style="s3"> wir</span><span style="s4"> sagen</span> wir sagen</p>
+<p begin="00:01:56.030" end="00:02:00.580" style="s2">nicht mehr ausgaben für das militär</p>
+<p begin="00:01:57.979" end="00:02:03.290" style="s2">sondern endlich abrüstung</p>
+<p begin="00:02:00.580" end="00:02:05.330" style="s2">das finanzministerium hat gerade erst</p>
+<p begin="00:02:03.290" end="00:02:07.070" style="s2">bekannt gegeben dass es mit den<span style="s4"> steuer</span></p>
+<p begin="00:02:05.330" end="00:02:09.140" style="s2"><span style="s4">mindereinnahmen</span> von<span style="s4"> neun</span> milliarden euro</p>
+<p begin="00:02:07.070" end="00:02:11.900" style="s2"><span style="s3">pro</span> jahr rechnet weil die konjunktur</p>
+<p begin="00:02:09.140" end="00:02:14.090" style="s2">lahmt<span style="s4"> auch</span> von der leyens aussagen die</p>
+<p begin="00:02:11.900" end="00:02:16.880" style="s2"><span style="s3">deutsche militärausgaben seit 2014</span><span style="s4"> seien</span></p>
+<p begin="00:02:14.090" end="00:02:18.980" style="s2">um<span style="s3"> 36 prozent nach nato kriterien</span></p>
+<p begin="00:02:16.880" end="00:02:21.770" style="s2">gestiegen und das militärbudget<span style="s3"> seit</span></p>
+<p begin="00:02:18.980" end="00:02:22.880" style="s2">2009<span style="s4"> nach</span> dem<span style="s4"> nato-gipfel</span> von<span style="s4"> wels</span> um 80</p>
+<p begin="00:02:21.770" end="00:02:25.670" style="s2">prozent gestiegen</p>
+<p begin="00:02:22.880" end="00:02:32.330" style="s2">das sind kann<span style="s3"> da löse</span><span style="s4"> auf rüstungs</span></p>
+<p begin="00:02:25.670" end="00:02:34.640" style="s2">zahlen was wie wollen sie diese<span style="s3"> enorm</span></p>
+<p begin="00:02:32.330" end="00:02:37.220" style="s2">rüstungsausgaben eigentlich finanzieren</p>
+<p begin="00:02:34.640" end="00:02:39.140" style="s2">wo<span style="s3"> sind</span> sie denn den rotstift an was</p>
+<p begin="00:02:37.220" end="00:02:42.830" style="s2">genau streichen sie den schulen</p>
+<p begin="00:02:39.140" end="00:02:45.459" style="s2">kindergärten renten wohnungsbau das ist</p>
+<p begin="00:02:42.830" end="00:02:49.510" style="s2">das was dann weniger bekommen wenn sie</p>
+<p begin="00:02:45.459" end="00:02:52.459" style="s2">gleichzeitig aufrüsten das ist der punkt</p>
+<p begin="00:02:49.510" end="00:02:55.760" style="s2">diese bundesregierung kann nur eine</p>
+<p begin="00:02:52.459" end="00:02:58.190" style="s2"><span style="s4">leier</span> aufrüstung<span style="s3"> aufrüstung aufrüstung</span></p>
+<p begin="00:02:55.760" end="00:03:00.170" style="s2">und es ist gut<span style="s3"> dass</span> dagegen wieder</p>
+<p begin="00:02:58.190" end="00:03:02.090" style="s2">tausende menschen auf die straße</p>
+<p begin="00:03:00.170" end="00:03:04.299" style="s2">gegangen sind in münchen und für eine</p>
+<p begin="00:03:02.090" end="00:03:07.370" style="s2">welt ohne militär demonstriert haben</p>
+<p begin="00:03:04.299" end="00:03:09.380" style="s2">tun sie endlich etwas gegen die soziale</p>
+<p begin="00:03:07.370" end="00:03:10.970" style="s2">spaltung in dieser gesellschaft statt</p>
+<p begin="00:03:09.380" end="00:03:14.209" style="s2">milliarden für die<span style="s3"> aufrüstung</span> zu</p>
+<p begin="00:03:10.970" end="00:03:16.489" style="s2">verpulvern<span style="s3"> und</span> die<span style="s4"> kanzlerin die</span></p>
+<p begin="00:03:14.209" end="00:03:18.950" style="s2"><span style="s3">kanzlerin</span> hat versprochen im kontext des</p>
+<p begin="00:03:16.489" end="00:03:21.170" style="s2">aachener vertrages soll nun auch noch</p>
+<p begin="00:03:18.950" end="00:03:22.549" style="s2">die<span style="s4"> laschen</span> bisherigen<span style="s4"> rüstungsexporten</span></p>
+<p begin="00:03:21.170" end="00:03:25.080" style="s2"><span style="s3">geschleift</span> werden</p>
+<p begin="00:03:22.549" end="00:03:27.120" style="s2"><span style="s3">ja</span> liebe kolleginnen und kollegen</p>
+<p begin="00:03:25.080" end="00:03:30.120" style="s2">das ist das um was es eigentlich</p>
+<p begin="00:03:27.120" end="00:03:32.730" style="s2">offensichtlich geht dass man nämlich</p>
+<p begin="00:03:30.120" end="00:03:35.010" style="s2">hier<span style="s3"> die</span><span style="s4"> exportinteressen</span><span style="s3"> der</span></p>
+<p begin="00:03:32.730" end="00:03:39.540" style="s2"><span style="s3">waffenindustrie</span> opfert das ist skandalös</p>
+<p begin="00:03:35.010" end="00:03:42.810" style="s2"><span style="s4">und wir</span><span style="s3"> sehen</span> uns in unserer kritik am</p>
+<p begin="00:03:39.540" end="00:03:45.930" style="s2">aachener vertrag bestätigt ja es geht</p>
+<p begin="00:03:42.810" end="00:03:48.420" style="s2">offensichtlich darum dass man mit einem</p>
+<p begin="00:03:45.930" end="00:03:50.550" style="s2">geheimabkommen nebenbei die</p>
+<p begin="00:03:48.420" end="00:03:54.800" style="s2">rüstungsexportrichtlinien schleifen will</p>
+<p begin="00:03:50.550" end="00:03:54.800" style="s2">wir sagen dazu<span style="s3"> klipp und klar nein</span></p>
+<p begin="00:03:55.430" end="00:04:01.040" style="s2"><span style="s3">diese sicherheitskonferenz hat einmal</span></p>
+<p begin="00:03:58.650" end="00:04:04.620" style="s2">mehr<span style="s3"> vor</span> allem unsicherheit geschaffen</p>
+<p begin="00:04:01.040" end="00:04:06.510" style="s2"><span style="s3">und</span> das<span style="s3"> lag</span> auch an kanzlerin merkel und</p>
+<p begin="00:04:04.620" end="00:04:09.690" style="s2">verteidigungsminister von<span style="s4"> der leyen</span></p>
+<p begin="00:04:06.510" end="00:04:12.450" style="s2">es war die rede von der welt als</p>
+<p begin="00:04:09.690" end="00:04:15.240" style="s2">scherbenhaufen<span style="s4"> und</span><span style="s3"> interessantes</span> bild im</p>
+<p begin="00:04:12.450" end="00:04:17.340" style="s2">übrigen<span style="s3"> wer sie wieder</span><span style="s4"> zusammensetzt</span></p>
+<p begin="00:04:15.240" end="00:04:20.239" style="s2">wissen wir seit diesen wochen in der</p>
+<p begin="00:04:17.340" end="00:04:22.410" style="s2"><span style="s3">auch</span><span style="s4"> ebenfalls</span> nicht diese</p>
+<p begin="00:04:20.239" end="00:04:25.190" style="s2">sicherheitskonferenz ich<span style="s3"> fand</span><span style="s4"> es</span><span style="s3"> sehr</span></p>
+<p begin="00:04:22.410" end="00:04:28.290" style="s2"><span style="s4">bezeichnen das als</span><span style="s3"> positives</span> beispiel</p>
+<p begin="00:04:25.190" end="00:04:31.140" style="s2">der einsatz in afghanistan genannt wurde</p>
+<p begin="00:04:28.290" end="00:04:33.750" style="s2">sowohl von angela merkel als von ursula</p>
+<p begin="00:04:31.140" end="00:04:36.419" style="s2">von der leyen nein genau dieser einsatz</p>
+<p begin="00:04:33.750" end="00:04:38.370" style="s2">zeigt wie desaströs die außen und</p>
+<p begin="00:04:36.419" end="00:04:40.410" style="s2">militärpolitik dieser bundesregierung</p>
+<p begin="00:04:38.370" end="00:04:42.270" style="s2">ist und es ist richtig und bleibt</p>
+<p begin="00:04:40.410" end="00:04:47.180" style="s2">richtig dass wir den abzug der</p>
+<p begin="00:04:42.270" end="00:04:50.700" style="s2">bundeswehr aus afghanistan fordern<span style="s3"> diese</span></p>
+<p begin="00:04:47.180" end="00:04:52.380" style="s2">sicherheitskonferenz<span style="s4"> im</span> hintergrund</p>
+<p begin="00:04:50.700" end="00:04:55.140" style="s2"><span style="s3">liefen</span><span style="s4"> die</span> ganze<span style="s3"> reihe</span> von gesprächen</p>
+<p begin="00:04:52.380" end="00:04:57.540" style="s2">bei denen es darum geht<span style="s4"> aufrüstung</span> zu</p>
+<p begin="00:04:55.140" end="00:04:58.800" style="s2">organisieren insbesondere im bereich der</p>
+<p begin="00:04:57.540" end="00:05:00.630" style="s2">europäischen union</p>
+<p begin="00:04:58.800" end="00:05:02.850" style="s2">und genau das ist das was offensichtlich</p>
+<p begin="00:05:00.630" end="00:05:05.760" style="s2">die antwort der bundesregierung auf</p>
+<p begin="00:05:02.850" end="00:05:08.400" style="s2"><span style="s4">diese</span> us amerikanische<span style="s3"> regierung</span> ist wir</p>
+<p begin="00:05:05.760" end="00:05:12.330" style="s2">sagen nein<span style="s4"> auch</span> zu dieser aufrüstung der</p>
+<p begin="00:05:08.400" end="00:05:14.370" style="s2">europäischen union<span style="s4"> fildern</span><span style="s3"> der kollege</span></p>
+<p begin="00:05:12.330" end="00:05:15.390" style="s2"><span style="s4">mit</span><span style="s3"> nico</span> er ist ein exzellenter für</p>
+<p begin="00:05:14.370" end="00:05:18.860" style="s2">bündnis 90</p>
+<p begin="00:05:15.390" end="00:05:18.860" style="s2">[Applaus]</p>
+</div>
+</body>
+</tt>

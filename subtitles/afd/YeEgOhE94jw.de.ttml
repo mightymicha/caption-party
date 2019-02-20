@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.129" end="00:00:05.750" style="s2">sehr geehrter herr präsident meine damen</p>
+<p begin="00:00:04.650" end="00:00:08.580" style="s2">und herren</p>
+<p begin="00:00:05.750" end="00:00:10.530" style="s2">der gesetzentwurf der koalition zum</p>
+<p begin="00:00:08.580" end="00:00:14.400" style="s2">thema werbung für den abbruch der</p>
+<p begin="00:00:10.530" end="00:00:16.710" style="s2">schwangerschaft § 209 10 a stgb trägt</p>
+<p begin="00:00:14.400" end="00:00:18.119" style="s2">den titel gesetz zur verbesserung der</p>
+<p begin="00:00:16.710" end="00:00:19.970" style="s2">information über einen</p>
+<p begin="00:00:18.119" end="00:00:22.800" style="s2">schwangerschaftsabbruch</p>
+<p begin="00:00:19.970" end="00:00:24.869" style="s2">als ich das gelesen hatte dachte ich mir</p>
+<p begin="00:00:22.800" end="00:00:28.260" style="s2">das hätte ja noch viel schlimmer kommen</p>
+<p begin="00:00:24.869" end="00:00:30.900" style="s2">können denn die linken die grünen und</p>
+<p begin="00:00:28.260" end="00:00:33.180" style="s2">zuletzt was ich ganz besonders<span style="s3"> schlimm</span></p>
+<p begin="00:00:30.900" end="00:00:36.450" style="s2"><span style="s4">gefunden habe und besonders peinlich</span></p>
+<p begin="00:00:33.180" end="00:00:38.250" style="s2">fand auch die fdp standen<span style="s4"> da</span> wie eine</p>
+<p begin="00:00:36.450" end="00:00:42.690" style="s2">verlangt und forderten die abschaffung</p>
+<p begin="00:00:38.250" end="00:00:43.850" style="s2">des<span style="s3"> paragraphen</span><span style="s4"> 219 a stgb und dann die</span></p>
+<p begin="00:00:42.690" end="00:00:46.260" style="s2">spd</p>
+<p begin="00:00:43.850" end="00:00:48.989" style="s2">die diesen hier vorliegenden</p>
+<p begin="00:00:46.260" end="00:00:51.980" style="s2">gesetzentwurf<span style="s3"> mit trägt was haben sie</span></p>
+<p begin="00:00:48.989" end="00:00:53.760" style="s2">von der spd im vorfeld getönt</p>
+<p begin="00:00:51.980" end="00:00:56.070" style="s2">zunächst hatte die<span style="s3"> spd</span></p>
+<p begin="00:00:53.760" end="00:00:58.680" style="s2"><span style="s3">bundestagsfraktion</span> im dezember 2017</p>
+<p begin="00:00:56.070" end="00:01:01.500" style="s2"><span style="s4">einen</span> gesetzentwurf beschlossen<span style="s4"> der</span> die</p>
+<p begin="00:00:58.680" end="00:01:06.180" style="s2">abschaffung des<span style="s3"> paragraphen</span><span style="s4"> 219 a stgb</span></p>
+<p begin="00:01:01.500" end="00:01:09.900" style="s2">vorsah im spd propaganda blatt vorwärts</p>
+<p begin="00:01:06.180" end="00:01:13.710" style="s2">erschien am 22 februar 2018 ein</p>
+<p begin="00:01:09.900" end="00:01:16.890" style="s2">gastbeitrag von<span style="s3"> vögeln</span><span style="s4"> in</span><span style="s3"> dem</span> es heißt</p>
+<p begin="00:01:13.710" end="00:01:18.720" style="s2">wir als spd bundestagsfraktion haben</p>
+<p begin="00:01:16.890" end="00:01:20.970" style="s2">unseren gesetzentwurf zunächst nicht in</p>
+<p begin="00:01:18.720" end="00:01:23.130" style="s2">den deutschen bundestag eingebracht denn</p>
+<p begin="00:01:20.970" end="00:01:25.830" style="s2">wir setzen weiter auf gespräche mit cdu</p>
+<p begin="00:01:23.130" end="00:01:27.420" style="s2">csu fdp grünen und linken um eine</p>
+<p begin="00:01:25.830" end="00:01:28.200" style="s2">fraktionsübergreifende lösung zu</p>
+<p begin="00:01:27.420" end="00:01:30.180" style="s2">erarbeiten</p>
+<p begin="00:01:28.200" end="00:01:33.299" style="s2">die im deutschen bundestag eine mehrheit</p>
+<p begin="00:01:30.180" end="00:01:34.200" style="s2">findet die<span style="s4"> afg</span> hat man da gar nicht mit</p>
+<p begin="00:01:33.299" end="00:01:36.750" style="s2">einbezogen</p>
+<p begin="00:01:34.200" end="00:01:39.000" style="s2">das war auch richtig so denn in dieser</p>
+<p begin="00:01:36.750" end="00:01:42.390" style="s2">frage kann es mit uns kein kompromiss</p>
+<p begin="00:01:39.000" end="00:01:44.580" style="s2">eben meine damen und herren</p>
+<p begin="00:01:42.390" end="00:01:48.659" style="s2">und man darf sich hier nichts vormachen</p>
+<p begin="00:01:44.580" end="00:01:51.240" style="s2"><span style="s4">das</span> ziel den<span style="s3"> paragrafen</span><span style="s4"> 219</span> a stgb ganz</p>
+<p begin="00:01:48.659" end="00:01:54.119" style="s2">abzuschaffen hat die spd nie aufgegeben</p>
+<p begin="00:01:51.240" end="00:01:56.790" style="s2"><span style="s4">ihre</span> jugendorganisation hat auf ihrem</p>
+<p begin="00:01:54.119" end="00:01:58.470" style="s2">bundeskongress anfang dezember<span style="s3"> 2018</span></p>
+<p begin="00:01:56.790" end="00:02:01.110" style="s2"><span style="s4">sogar</span> noch eins<span style="s3"> draufgesetzt</span></p>
+<p begin="00:01:58.470" end="00:02:02.729" style="s2">unter dem titel für ein recht auf</p>
+<p begin="00:02:01.110" end="00:02:03.930" style="s2">reproduktive selbstbestimmung</p>
+<p begin="00:02:02.729" end="00:02:05.490" style="s2">legalisierung von</p>
+<p begin="00:02:03.930" end="00:02:08.009" style="s2">schwangerschaftsabbrüchen wurde</p>
+<p begin="00:02:05.490" end="00:02:09.899" style="s2">beschlossen sich für eine streichung der</p>
+<p begin="00:02:08.009" end="00:02:15.120" style="s2">aktuellen gesetzlichen regelungen der</p>
+<p begin="00:02:09.899" end="00:02:17.370" style="s2"><span style="s3">paragrafen</span><span style="s4"> 218</span> bis<span style="s4"> 219</span> b stgb<span style="s3"> 11</span> was</p>
+<p begin="00:02:15.120" end="00:02:19.050" style="s2">einen schwangerschaftsabbruch bis kurz</p>
+<p begin="00:02:17.370" end="00:02:21.500" style="s2">vor der geburt des kindes rechtlich</p>
+<p begin="00:02:19.050" end="00:02:25.620" style="s2">unmöglich machen würde</p>
+<p begin="00:02:21.500" end="00:02:27.690" style="s2"><span style="s4">schämen</span> sie sich gar nicht noch<span style="s4"> mal</span> als</p>
+<p begin="00:02:25.620" end="00:02:29.280" style="s2">ich diesen entwurf hier gelesen habe</p>
+<p begin="00:02:27.690" end="00:02:32.670" style="s2">dachte ich das hätte noch viel schlimmer</p>
+<p begin="00:02:29.280" end="00:02:35.040" style="s2">kommen können die spd hat bei ihren</p>
+<p begin="00:02:32.670" end="00:02:37.070" style="s2">verhandlungen nämlich<span style="s3"> 1</span> nicht erreicht</p>
+<p begin="00:02:35.040" end="00:02:39.360" style="s2">was aber das eigentliche ziel der ganzen</p>
+<p begin="00:02:37.070" end="00:02:42.209" style="s2">gesetzesinitiative war den einstieg in</p>
+<p begin="00:02:39.360" end="00:02:44.550" style="s2">den ausstieg aus<span style="s4"> dem</span><span style="s3"> paragrafen</span><span style="s4"> 218</span> stgb</p>
+<p begin="00:02:42.209" end="00:02:46.370" style="s2"><span style="s4">nehmen an dass frau</span><span style="s3"> pauli</span><span style="s4"> auch</span> deshalb</p>
+<p begin="00:02:44.550" end="00:02:49.850" style="s2">hier so<span style="s4"> in</span> dieser<span style="s4"> trauerstimmung</span></p>
+<p begin="00:02:46.370" end="00:02:52.950" style="s2">gesprochen hat dieser gesetzentwurf</p>
+<p begin="00:02:49.850" end="00:02:54.329" style="s2">enthält bestenfalls eine veränderung und</p>
+<p begin="00:02:52.950" end="00:02:56.790" style="s2">aktualisierung der zugang zu</p>
+<p begin="00:02:54.329" end="00:02:58.230" style="s2">informationen ändert aber an der</p>
+<p begin="00:02:56.790" end="00:03:00.570" style="s2">grundstruktur des schutzes des</p>
+<p begin="00:02:58.230" end="00:03:02.700" style="s2">ungeborenen lebens nichts was in dem</p>
+<p begin="00:03:00.570" end="00:03:04.640" style="s2">referentenentwurf auch zutreffend an den</p>
+<p begin="00:03:02.700" end="00:03:07.019" style="s2">anfang gestellt wurde</p>
+<p begin="00:03:04.640" end="00:03:10.610" style="s2">ärgerlich ist allerdings<span style="s3"> wie</span> hat sich</p>
+<p begin="00:03:07.019" end="00:03:12.959" style="s2"><span style="s3">die</span> spd<span style="s4"> durchgesetzt dass für die</span></p>
+<p begin="00:03:10.610" end="00:03:16.890" style="s2">bürokratiekosten<span style="s4"> die</span><span style="s3"> mond</span> entstehen</p>
+<p begin="00:03:12.959" end="00:03:19.010" style="s2">insgesamt zusammengerechnet<span style="s3"> 416 1500</span></p>
+<p begin="00:03:16.890" end="00:03:21.900" style="s2">euro pro<span style="s4"> jahr</span> ausgegeben werden müssen</p>
+<p begin="00:03:19.010" end="00:03:24.780" style="s2"><span style="s4">obwohl</span><span style="s3"> man</span> nur die daten aufbereiten</p>
+<p begin="00:03:21.900" end="00:03:27.180" style="s2">müsste die ohnehin nach paragraf 18 des</p>
+<p begin="00:03:24.780" end="00:03:29.220" style="s2">schwangerschaftskonfliktgesetzes an das</p>
+<p begin="00:03:27.180" end="00:03:29.640" style="s2">statistische bundesamt<span style="s4"> meldet</span> werden</p>
+<p begin="00:03:29.220" end="00:03:32.489" style="s2">müssen</p>
+<p begin="00:03:29.640" end="00:03:34.680" style="s2">hier wird unnötig jedes jahr der</p>
+<p begin="00:03:32.489" end="00:03:36.329" style="s2">gegenwert eines einfamilienhauses in</p>
+<p begin="00:03:34.680" end="00:03:40.650" style="s2">mittlerer wohnlage zum fenster</p>
+<p begin="00:03:36.329" end="00:03:42.630" style="s2">rausgeschmissen<span style="s3"> liebe</span> spd wieder nichts</p>
+<p begin="00:03:40.650" end="00:03:45.239" style="s2">bedeutsames<span style="s3"> zustandegebracht wieder</span></p>
+<p begin="00:03:42.630" end="00:03:47.150" style="s2">hinter den erwartungen des eigenen</p>
+<p begin="00:03:45.239" end="00:03:50.310" style="s2">klientel zurückgeblieben</p>
+<p begin="00:03:47.150" end="00:03:52.380" style="s2">kein wunder dass sich immer mehr ihrer</p>
+<p begin="00:03:50.310" end="00:03:56.520" style="s2">linken wähler von ihnen abwenden</p>
+<p begin="00:03:52.380" end="00:03:58.860" style="s2">ihre<span style="s4"> sozial</span> reformerischen experimente</p>
+<p begin="00:03:56.520" end="00:04:02.160" style="s2">mit denen sie jetzt ihr image aufbessern</p>
+<p begin="00:03:58.860" end="00:04:04.920" style="s2">wollen werden ebenso enden als tiger</p>
+<p begin="00:04:02.160" end="00:04:07.830" style="s2">gestartet als bettvorleger<span style="s4"> gelandet</span></p>
+<p begin="00:04:04.920" end="00:04:10.920" style="s2">dieser fall zeigt wieder einmal welche</p>
+<p begin="00:04:07.830" end="00:04:12.630" style="s2">bedeutung sie von der sie von der spd in</p>
+<p begin="00:04:10.920" end="00:04:14.550" style="s2">der<span style="s4"> koalition</span> darüber hinaus in der</p>
+<p begin="00:04:12.630" end="00:04:15.840" style="s2">politischen landschaft haben<span style="s4"> entweder</span></p>
+<p begin="00:04:14.550" end="00:04:18.150" style="s2"><span style="s4">können</span> sie sich nicht wirklich</p>
+<p begin="00:04:15.840" end="00:04:19.770" style="s2">durchsetzen wie<span style="s4"> hier oder sie setzen</span></p>
+<p begin="00:04:18.150" end="00:04:21.570" style="s2">sich durch und dann kommt dabei nur</p>
+<p begin="00:04:19.770" end="00:04:23.550" style="s2">schädlich<span style="s3"> ist</span> für unser land für unser</p>
+<p begin="00:04:21.570" end="00:04:25.950" style="s2"><span style="s4">volk</span> heraus ziehen sie endlich</p>
+<p begin="00:04:23.550" end="00:04:29.190" style="s2">konsequenzen machen sie das was ihnen</p>
+<p begin="00:04:25.950" end="00:04:31.080" style="s2">der junge<span style="s3"> süße</span> kevin empfiehlt treten</p>
+<p begin="00:04:29.190" end="00:04:32.940" style="s2">sie aus der regierung aus kündigen sie</p>
+<p begin="00:04:31.080" end="00:04:36.020" style="s2">die koalition<span style="s4"> machen</span> sie den weg frei</p>
+<p begin="00:04:32.940" end="00:04:36.020" style="s2">für neuwahlen</p>
+<p begin="00:04:36.560" end="00:04:41.970" style="s2">wir von der afg<span style="s4"> sehen</span> weiterhin keinen</p>
+<p begin="00:04:40.020" end="00:04:44.430" style="s2">anlass irgendetwas an<span style="s4"> den</span> paragrafen</p>
+<p begin="00:04:41.970" end="00:04:47.130" style="s2"><span style="s3">207a</span> stgb zu ändern</p>
+<p begin="00:04:44.430" end="00:04:48.870" style="s2">bei<span style="s4"> 100.000</span> abtreibungen pro jahr<span style="s4"> ist in</span></p>
+<p begin="00:04:47.130" end="00:04:51.120" style="s2"><span style="s4">die</span><span style="s3"> cl</span><span style="s4"> nachgewiesen</span> dass es keinen</p>
+<p begin="00:04:48.870" end="00:04:53.280" style="s2">mangel an informationsmöglichkeiten gibt</p>
+<p begin="00:04:51.120" end="00:04:55.950" style="s2">das wurde nur als vorwand<span style="s4"> her</span></p>
+<p begin="00:04:53.280" end="00:04:57.060" style="s2">konstruiert um alte<span style="s3"> dinkel</span><span style="s4"> forderungen</span></p>
+<p begin="00:04:55.950" end="00:04:59.040" style="s2">nach der legalisierung von</p>
+<p begin="00:04:57.060" end="00:05:00.390" style="s2">schwangerschaftsabbrüchen wieder auf die</p>
+<p begin="00:04:59.040" end="00:05:02.160" style="s2">tagesordnung zu bringen</p>
+<p begin="00:05:00.390" end="00:05:05.360" style="s2">wir<span style="s3"> lehnen</span><span style="s4"> auch</span> die verschwendung von</p>
+<p begin="00:05:02.160" end="00:05:08.120" style="s2">steuergeldern für ein neues unnötiges</p>
+<p begin="00:05:05.360" end="00:05:10.890" style="s2">informationsmedium ab vielen dank</p>
+<p begin="00:05:08.120" end="00:05:15.620" style="s2">jetzt<span style="s4"> kanal</span> abonnieren und nicht</p>
+<p begin="00:05:10.890" end="00:05:15.620" style="s2">vergessen<span style="s4"> nach</span><span style="s3"> richtigen</span> aktivieren</p>
+</div>
+</body>
+</tt>

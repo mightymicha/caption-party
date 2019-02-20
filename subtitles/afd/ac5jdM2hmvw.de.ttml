@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.890" end="00:00:06.420" style="s2">vielen dank frau präsidentin<span style="s3"> särge er</span></p>
+<p begin="00:00:04.650" end="00:00:08.700" style="s2"><span style="s3">die</span> kollegen<span style="s4"> liebe</span> besucher auf der</p>
+<p begin="00:00:06.420" end="00:00:10.740" style="s2">tribüne und zuschauer im netz aus</p>
+<p begin="00:00:08.700" end="00:00:12.330" style="s2">gegebenem anlass beschäftigt sich unsere</p>
+<p begin="00:00:10.740" end="00:00:14.340" style="s2">aktuelle stunde mit dem verhältnis</p>
+<p begin="00:00:12.330" end="00:00:15.870" style="s2">unserer gesellschaft der thüringer</p>
+<p begin="00:00:14.340" end="00:00:17.670" style="s2">landesregierung und<span style="s3"> der</span> regierung</p>
+<p begin="00:00:15.870" end="00:00:20.310" style="s2">tragenden fraktionen zur thüringer</p>
+<p begin="00:00:17.670" end="00:00:21.810" style="s2">polizei grund ist die sitzung der</p>
+<p begin="00:00:20.310" end="00:00:23.519" style="s2"><span style="s3">enquetekommission</span> rassismus und</p>
+<p begin="00:00:21.810" end="00:00:26.609" style="s2">diskriminierung in der vergangenen woche</p>
+<p begin="00:00:23.519" end="00:00:29.699" style="s2">die einen angeblichen rassismus in der</p>
+<p begin="00:00:26.609" end="00:00:31.439" style="s2">thüringer polizei aufspüren sollte was</p>
+<p begin="00:00:29.699" end="00:00:32.640" style="s2"><span style="s4">hier</span> linke kommissionsmitglieder und</p>
+<p begin="00:00:31.439" end="00:00:34.559" style="s2">lobbyisten auf der<span style="s4"> sitzungen</span></p>
+<p begin="00:00:32.640" end="00:00:36.120" style="s2">unterstellungen von sich gaben war für</p>
+<p begin="00:00:34.559" end="00:00:39.000" style="s2">mich ein weiterer intellektueller</p>
+<p begin="00:00:36.120" end="00:00:41.250" style="s2">tiefpunkt der mit tiefpunkten dieser art</p>
+<p begin="00:00:39.000" end="00:00:43.500" style="s2"><span style="s4">so</span> reich gesegneten enquete kommissionen</p>
+<p begin="00:00:41.250" end="00:00:45.930" style="s2">die linken mitglieder behandelten die</p>
+<p begin="00:00:43.500" end="00:00:47.910" style="s2">zur anhörung<span style="s3"> geladen</span><span style="s4"> gewerkschaften</span> und</p>
+<p begin="00:00:45.930" end="00:00:49.379" style="s2">vertreter der polizei teilweise wie</p>
+<p begin="00:00:47.910" end="00:00:52.590" style="s2"><span style="s3">vorgeladene</span> beschuldigte in einem</p>
+<p begin="00:00:49.379" end="00:00:54.120" style="s2">prozess trotz inquisitorischen<span style="s4"> eifers</span></p>
+<p begin="00:00:52.590" end="00:00:57.480" style="s2">ließen sich auch nach ausführlicher</p>
+<p begin="00:00:54.120" end="00:00:59.129" style="s2"><span style="s4">anhörung</span> keinerlei belastbare daten für</p>
+<p begin="00:00:57.480" end="00:01:01.829" style="s2">den angeblichen rassismus bei der</p>
+<p begin="00:00:59.129" end="00:01:03.090" style="s2">thüringer polizei finden lobby vertreter</p>
+<p begin="00:01:01.829" end="00:01:05.100" style="s2">der linken unterhielten das publikum</p>
+<p begin="00:01:03.090" end="00:01:07.110" style="s2"><span style="s4">stattdessen mit anekdoten aus</span><span style="s3"> sachsen</span></p>
+<p begin="00:01:05.100" end="00:01:08.820" style="s2"><span style="s3">anhalt</span> unter<span style="s4"> behauptung</span> eines</p>
+<p begin="00:01:07.110" end="00:01:10.920" style="s2">strukturellen rassismus der sich nur</p>
+<p begin="00:01:08.820" end="00:01:13.170" style="s2">weil<span style="s4"> von</span> links noch nicht umfassend</p>
+<p begin="00:01:10.920" end="00:01:14.820" style="s2">aufgeklärt der wahrnehmung der</p>
+<p begin="00:01:13.170" end="00:01:18.000" style="s2">interessierten öffentlichkeit bisher</p>
+<p begin="00:01:14.820" end="00:01:20.310" style="s2">entzogen habe<span style="s3"> struktureller rassismus</span></p>
+<p begin="00:01:18.000" end="00:01:22.110" style="s2">das ist einer den<span style="s3"> linken</span><span style="s4"> bisher</span> zwar</p>
+<p begin="00:01:20.310" end="00:01:23.340" style="s2">nicht nachweisen können den sie aber aus</p>
+<p begin="00:01:22.110" end="00:01:24.450" style="s2">ideologischen gründen einfach</p>
+<p begin="00:01:23.340" end="00:01:26.850" style="s2">postulieren</p>
+<p begin="00:01:24.450" end="00:01:28.650" style="s2">denn einigermaßen<span style="s3"> objektive</span> und damit</p>
+<p begin="00:01:26.850" end="00:01:30.900" style="s2">überprüfbare kriterien für einen</p>
+<p begin="00:01:28.650" end="00:01:33.140" style="s2">angeblich irgendwo in den institutionen</p>
+<p begin="00:01:30.900" end="00:01:34.920" style="s2">schlummern den rassismus sind die linken</p>
+<p begin="00:01:33.140" end="00:01:37.170" style="s2"><span style="s4">kommissionsvertreter</span> nämlich bis heute</p>
+<p begin="00:01:34.920" end="00:01:39.509" style="s2">schuldig geblieben<span style="s4"> was</span> will<span style="s4"> man</span> auch</p>
+<p begin="00:01:37.170" end="00:01:41.549" style="s2">erwarten von gläubigen jüngern solcher</p>
+<p begin="00:01:39.509" end="00:01:44.820" style="s2">dürftigen geistigen konstrukte wie dem</p>
+<p begin="00:01:41.549" end="00:01:47.009" style="s2"><span style="s3">sogenannten rassismus</span><span style="s4"> ohne</span> rassen dieses</p>
+<p begin="00:01:44.820" end="00:01:48.930" style="s2">hirngespinst sondern von einem</p>
+<p begin="00:01:47.009" end="00:01:51.570" style="s2">kommunisten zu kommunistischen zwecken</p>
+<p begin="00:01:48.930" end="00:01:53.450" style="s2"><span style="s4">die</span> da<span style="s4"> wären</span> psychoterror gehirnwäsche</p>
+<p begin="00:01:51.570" end="00:01:55.829" style="s2">und<span style="s4"> bewusstseins</span> kontrolle breiter</p>
+<p begin="00:01:53.450" end="00:01:57.860" style="s2">bevölkerungsanteile alles unter dem</p>
+<p begin="00:01:55.829" end="00:02:00.630" style="s2">angeblichen deckmantel des kampfes gegen</p>
+<p begin="00:01:57.860" end="00:02:02.130" style="s2">rassismus schauen wir doch nun einmal</p>
+<p begin="00:02:00.630" end="00:02:04.170" style="s2">wie<span style="s3"> die so unter generalverdacht</span></p>
+<p begin="00:02:02.130" end="00:02:06.990" style="s2"><span style="s4">gestellten</span> thüringer polizisten ihren</p>
+<p begin="00:02:04.170" end="00:02:07.799" style="s2">arbeitsalltag erleben eine studie im</p>
+<p begin="00:02:06.990" end="00:02:10.800" style="s2">auftrag der deutschen</p>
+<p begin="00:02:07.799" end="00:02:12.410" style="s2"><span style="s3">polizeigewerkschaft</span><span style="s4"> an</span> der mehr als 1000</p>
+<p begin="00:02:10.800" end="00:02:15.860" style="s2">thüringer polizisten teilgenommen hat</p>
+<p begin="00:02:12.410" end="00:02:17.720" style="s2"><span style="s4">kam zu folgenden ergebnissen nur</span> 30 der</p>
+<p begin="00:02:15.860" end="00:02:19.900" style="s2">thüringer beamten sind zufrieden oder</p>
+<p begin="00:02:17.720" end="00:02:22.820" style="s2">sehr zufrieden mit ihrem arbeitsplatz</p>
+<p begin="00:02:19.900" end="00:02:25.580" style="s2">48 prozent<span style="s3"> sind</span><span style="s4"> dies</span> teils teils</p>
+<p begin="00:02:22.820" end="00:02:27.620" style="s2">aber 30 prozent hingegen sind sehr</p>
+<p begin="00:02:25.580" end="00:02:29.140" style="s2">unzufrieden mit ihrem arbeitsplatz und</p>
+<p begin="00:02:27.620" end="00:02:31.850" style="s2">dessen umfeld</p>
+<p begin="00:02:29.140" end="00:02:35.120" style="s2">64 prozent<span style="s4"> der beamten freuen sich</span></p>
+<p begin="00:02:31.850" end="00:02:36.920" style="s2">selten oder nie auf ihre arbeit und 84</p>
+<p begin="00:02:35.120" end="00:02:38.810" style="s2">prozent aller befragten beklagen</p>
+<p begin="00:02:36.920" end="00:02:40.930" style="s2">mangelnde wertschätzung durch</p>
+<p begin="00:02:38.810" end="00:02:43.790" style="s2">vorgesetzte</p>
+<p begin="00:02:40.930" end="00:02:45.430" style="s2">60 prozent der befragten hatten sich in</p>
+<p begin="00:02:43.790" end="00:02:48.010" style="s2">den drei monaten vor der befragung</p>
+<p begin="00:02:45.430" end="00:02:50.660" style="s2">mehrmals leer und ausgebrannt gefühlt</p>
+<p begin="00:02:48.010" end="00:02:51.860" style="s2">als besonders belastend empfinden die</p>
+<p begin="00:02:50.660" end="00:02:53.480" style="s2">befragten dass ein offener</p>
+<p begin="00:02:51.860" end="00:02:56.930" style="s2">meinungsaustausch zu vielen problemen</p>
+<p begin="00:02:53.480" end="00:02:59.570" style="s2">fehlt<span style="s3"> was</span> 67<span style="s3"> prozent</span> aller befragten</p>
+<p begin="00:02:56.930" end="00:03:00.130" style="s2">wünschen sich eine offene meinung</p>
+<p begin="00:02:59.570" end="00:03:02.090" style="s2">skulptur</p>
+<p begin="00:03:00.130" end="00:03:03.950" style="s2">ich kann mir an dieser stelle nicht</p>
+<p begin="00:03:02.090" end="00:03:07.190" style="s2">vorstellen<span style="s4"> dass</span> antidiskriminierungs</p>
+<p begin="00:03:03.950" end="00:03:08.660" style="s2">beauftragte<span style="s3"> antirassismus</span> schulungen und</p>
+<p begin="00:03:07.190" end="00:03:11.180" style="s2">die einrichtung ähnlicher linker</p>
+<p begin="00:03:08.660" end="00:03:12.200" style="s2">versorgungsposten im polizeiapparat das</p>
+<p begin="00:03:11.180" end="00:03:14.300" style="s2">problem lösen</p>
+<p begin="00:03:12.200" end="00:03:16.340" style="s2">das alles dient nicht<span style="s4"> dem</span> offenen</p>
+<p begin="00:03:14.300" end="00:03:17.540" style="s2">meinungsaustausch sondern schafft<span style="s3"> einem</span></p>
+<p begin="00:03:16.340" end="00:03:20.930" style="s2">maulkorb kultur</p>
+<p begin="00:03:17.540" end="00:03:23.209" style="s2">das kennen wir<span style="s3"> hier</span><span style="s4"> von</span><span style="s3"> der hfg fordern</span></p>
+<p begin="00:03:20.930" end="00:03:25.790" style="s2">daher eine solide<span style="s4"> wissenschaftlichen</span></p>
+<p begin="00:03:23.209" end="00:03:27.530" style="s2">kriterien genügen die kriminalstatistik</p>
+<p begin="00:03:25.790" end="00:03:29.510" style="s2">in der herkunft und<span style="s3"> ethnische</span></p>
+<p begin="00:03:27.530" end="00:03:32.540" style="s2">hintergrund<span style="s4"> von</span> tätern und opfern</p>
+<p begin="00:03:29.510" end="00:03:35.150" style="s2">genau dokumentiert sind das befördert</p>
+<p begin="00:03:32.540" end="00:03:37.400" style="s2">keine vorurteile sondern verhindert</p>
+<p begin="00:03:35.150" end="00:03:39.410" style="s2">diese sie schafft klarheit und offene</p>
+<p begin="00:03:37.400" end="00:03:41.930" style="s2">worte wo jetzt der nebel der politischen</p>
+<p begin="00:03:39.410" end="00:03:43.940" style="s2">korrektheit<span style="s3"> war butt wir fordern die</span></p>
+<p begin="00:03:41.930" end="00:03:45.890" style="s2">thüringer polizei endlich personell und</p>
+<p begin="00:03:43.940" end="00:03:48.410" style="s2">materiell so auszurüsten dass sie<span style="s3"> ihrem</span></p>
+<p begin="00:03:45.890" end="00:03:49.400" style="s2">verfassungsauftrag vollumfänglich</p>
+<p begin="00:03:48.410" end="00:03:52.280" style="s2">nachkommen kann</p>
+<p begin="00:03:49.400" end="00:03:55.459" style="s2">wir fordern darüber hinaus ein klares</p>
+<p begin="00:03:52.280" end="00:03:57.200" style="s2"><span style="s4">ideales</span> bekenntnis der politik linke</p>
+<p begin="00:03:55.459" end="00:03:58.850" style="s2">verunglimpfungen<span style="s3"> den</span> unterstellungen<span style="s3"> wie</span></p>
+<p begin="00:03:57.200" end="00:04:01.610" style="s2">in der<span style="s3"> enquetekommission</span> geschehen sind</p>
+<p begin="00:03:58.850" end="00:04:03.170" style="s2">eine zumutung für die<span style="s4"> beamten</span> bei den</p>
+<p begin="00:04:01.610" end="00:04:05.150" style="s2">thüringer bürger<span style="s4"> einen genießt die</span></p>
+<p begin="00:04:03.170" end="00:04:07.459" style="s2">polizei<span style="s3"> zu recht eine hohe wertschätzung</span></p>
+<p begin="00:04:05.150" end="00:04:08.810" style="s2">für ihre verantwortungsvolle und oft</p>
+<p begin="00:04:07.459" end="00:04:11.690" style="s2">auch gefährliche arbeit</p>
+<p begin="00:04:08.810" end="00:04:15.070" style="s2">ich finde<span style="s4"> geben</span> sollte sich die linke</p>
+<p begin="00:04:11.690" end="00:04:17.270" style="s2">landesregierung endlich anschließen</p>
+<p begin="00:04:15.070" end="00:04:18.859" style="s2"><span style="s4">zu guter letzt</span> der innenminister noch</p>
+<p begin="00:04:17.270" end="00:04:21.070" style="s2">ein beispiel für fehlende wertschätzung</p>
+<p begin="00:04:18.859" end="00:04:22.940" style="s2">im technischen bereich die</p>
+<p begin="00:04:21.070" end="00:04:24.930" style="s2">bereitschaftspolizei wartet seit mehr</p>
+<p begin="00:04:22.940" end="00:04:28.139" style="s2">als vier jahren auf<span style="s4"> dem sprung</span></p>
+<p begin="00:04:24.930" end="00:04:30.300" style="s2"><span style="s3">von</span> den toilettenwagen sie sollten<span style="s4"> das</span></p>
+<p begin="00:04:28.139" end="00:04:33.810" style="s2">bald umsetzen warten sie nicht mehr so</p>
+<p begin="00:04:30.300" end="00:04:36.150" style="s2">lange denn irgendwann wird dann dieses</p>
+<p begin="00:04:33.810" end="00:04:38.729" style="s2">problem von ihrem nachfolger gelöst und</p>
+<p begin="00:04:36.150" end="00:04:41.630" style="s2"><span style="s4">den</span> stellt dann eventuell<span style="s4"> eine</span> partei</p>
+<p begin="00:04:38.729" end="00:04:41.630" style="s2">vielen dank</p>
+</div>
+</body>
+</tt>

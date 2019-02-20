@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:05.809" end="00:00:10.050" style="s2"><span style="s3">zahlen super da später</span><span style="s4"> rente</span> jetzt</p>
+<p begin="00:00:08.280" end="00:00:11.249" style="s2"><span style="s3">könnte</span> ich sagen nein und damit<span style="s3"> ja</span> mit</p>
+<p begin="00:00:10.050" end="00:00:12.839" style="s2">vortrag schon fertig und kann<span style="s3"> mich</span></p>
+<p begin="00:00:11.249" end="00:00:14.339" style="s2">wieder hinsetzen<span style="s3"> ein</span> bisschen</p>
+<p begin="00:00:12.839" end="00:00:15.830" style="s2">ausführlicher möchte ich natürlich schon</p>
+<p begin="00:00:14.339" end="00:00:18.449" style="s2"><span style="s4">halt</span><span style="s3"> erhalten</span></p>
+<p begin="00:00:15.830" end="00:00:20.189" style="s2">sie sehen da so als einen der ersten</p>
+<p begin="00:00:18.449" end="00:00:23.359" style="s2">sätze die nicht mehr<span style="s4"> da raus genommen</span></p>
+<p begin="00:00:20.189" end="00:00:24.990" style="s2"><span style="s3">haben</span> ausländer zahlen mehr in die</p>
+<p begin="00:00:23.359" end="00:00:26.240" style="s2">sozialversicherung ein als sie</p>
+<p begin="00:00:24.990" end="00:00:28.980" style="s2">herausbekommen</p>
+<p begin="00:00:26.240" end="00:00:30.960" style="s2"><span style="s3">das</span> gemeine an diesem satz ist<span style="s4"> er</span> stimmt</p>
+<p begin="00:00:28.980" end="00:00:32.630" style="s2">sogar weil ich erklären weshalb er dann</p>
+<p begin="00:00:30.960" end="00:00:34.829" style="s2">eigentlich doch wieder nicht stimmt</p>
+<p begin="00:00:32.630" end="00:00:36.809" style="s2">stellen sie sich vor ein junger mensch</p>
+<p begin="00:00:34.829" end="00:00:38.430" style="s2">kommt hier nach deutschland als</p>
+<p begin="00:00:36.809" end="00:00:39.800" style="s2">ausländer und befindet<span style="s4"> sich</span><span style="s3"> auch</span></p>
+<p begin="00:00:38.430" end="00:00:42.510" style="s2"><span style="s4">tatsächlich</span> einen job</p>
+<p begin="00:00:39.800" end="00:00:44.430" style="s2">dann seid ihr natürlich beispielsweise</p>
+<p begin="00:00:42.510" end="00:00:47.250" style="s2">in die rentenversicherung ein als</p>
+<p begin="00:00:44.430" end="00:00:50.100" style="s2">ausländer<span style="s3"> wenn</span><span style="s4"> der run</span><span style="s3"> jahrzehnte</span> später</p>
+<p begin="00:00:47.250" end="00:00:51.809" style="s2">tatsächlich im rentenalter ist<span style="s4"> es</span> aber</p>
+<p begin="00:00:50.100" end="00:00:54.600" style="s2">häufig schon eingebürgert<span style="s4"> das</span><span style="s3"> heißt</span> die</p>
+<p begin="00:00:51.809" end="00:00:57.420" style="s2">rente bekommt er dann als inländer und</p>
+<p begin="00:00:54.600" end="00:00:59.190" style="s2">deswegen scheint es tatsächlich so als</p>
+<p begin="00:00:57.420" end="00:01:01.019" style="s2">ob ausländer<span style="s4"> vielmehr</span><span style="s3"> in</span> die</p>
+<p begin="00:00:59.190" end="00:01:02.730" style="s2">sozialversicherung und die rente ist<span style="s3"> die</span></p>
+<p begin="00:01:01.019" end="00:01:04.309" style="s2"><span style="s4">größte sozialversicherungen bezahlen</span><span style="s3"> als</span></p>
+<p begin="00:01:02.730" end="00:01:06.810" style="s2">sie herausbekommen</p>
+<p begin="00:01:04.309" end="00:01:09.659" style="s2">faktisch ist<span style="s3"> es</span> aber eigentlich nur<span style="s3"> ein</span></p>
+<p begin="00:01:06.810" end="00:01:12.240" style="s2"><span style="s3">statistik</span><span style="s4"> trick</span> wenn man<span style="s3"> tatsächlich</span> die</p>
+<p begin="00:01:09.659" end="00:01:14.549" style="s2">kosten und den nutzen der aus der</p>
+<p begin="00:01:12.240" end="00:01:17.700" style="s2">zuwanderung brechen müsste müssen dann</p>
+<p begin="00:01:14.549" end="00:01:20.939" style="s2">alles mit berücksichtigen und viele</p>
+<p begin="00:01:17.700" end="00:01:22.890" style="s2">zahlungen zum beispiel leistungen nach</p>
+<p begin="00:01:20.939" end="00:01:25.650" style="s2">dem asylbewerberleistungsgesetz oder</p>
+<p begin="00:01:22.890" end="00:01:26.640" style="s2">kindergeld das wird letztendlich gar</p>
+<p begin="00:01:25.650" end="00:01:28.430" style="s2">nicht aus<span style="s4"> den sozialversicherungen</span></p>
+<p begin="00:01:26.640" end="00:01:31.020" style="s2"><span style="s4">bezahlt</span> sondern<span style="s4"> dem</span> ganz normalen</p>
+<p begin="00:01:28.430" end="00:01:33.869" style="s2"><span style="s3">steueraufkommen und insofern</span> ist dieser</p>
+<p begin="00:01:31.020" end="00:01:35.210" style="s2">satz<span style="s4"> ja er ist nicht</span> falsch aber er ist</p>
+<p begin="00:01:33.869" end="00:01:37.350" style="s2">im grunde genommen</p>
+<p begin="00:01:35.210" end="00:01:39.600" style="s2">ich<span style="s4"> bin</span><span style="s3"> ich</span> schon noch als fake news</p>
+<p begin="00:01:37.350" end="00:01:42.240" style="s2">bezeichnen weil einfach<span style="s4"> ein ganz großer</span></p>
+<p begin="00:01:39.600" end="00:01:44.070" style="s2"><span style="s3">teil der wahrheit</span> verschweigt<span style="s4"> und wenn</span></p>
+<p begin="00:01:42.240" end="00:01:46.140" style="s2">wir über zuwendungen sprechen<span style="s3"> dann</span></p>
+<p begin="00:01:44.070" end="00:01:48.570" style="s2">werden sie festgestellt haben dass man</p>
+<p begin="00:01:46.140" end="00:01:51.840" style="s2"><span style="s3">ihnen ja schon</span> in früheren zeiten ganz</p>
+<p begin="00:01:48.570" end="00:01:53.700" style="s2">menge mist erzählt hat sie erinnern sich</p>
+<p begin="00:01:51.840" end="00:01:56.520" style="s2">an<span style="s4"> als</span><span style="s3"> jahr</span> 2015</p>
+<p begin="00:01:53.700" end="00:01:58.799" style="s2">da ist es dann<span style="s4"> naja</span> also die menschen</p>
+<p begin="00:01:56.520" end="00:02:00.800" style="s2">die zu uns kommen die sind friedlich die</p>
+<p begin="00:01:58.799" end="00:02:03.800" style="s2">wollen hier nur in frieden leben</p>
+<p begin="00:02:00.800" end="00:02:05.660" style="s2">und dann hat man ihnen gesagt<span style="s3"> und</span> wenn</p>
+<p begin="00:02:03.800" end="00:02:08.420" style="s2"><span style="s3">der</span> krieg in deren heimatländern zu ende</p>
+<p begin="00:02:05.660" end="00:02:10.910" style="s2">ist dann gehen die auch alle wieder<span style="s3"> und</span></p>
+<p begin="00:02:08.420" end="00:02:12.980" style="s2">dann hat man<span style="s3"> ihnen</span> noch gesagt darum</p>
+<p begin="00:02:10.910" end="00:02:14.060" style="s2">geht es heute<span style="s4"> die</span> werden später<span style="s3"> mal</span></p>
+<p begin="00:02:12.980" end="00:02:16.370" style="s2"><span style="s3">unsere</span> renten zahlen</p>
+<p begin="00:02:14.060" end="00:02:17.600" style="s2">ich war mit der ersten lüge an die ist</p>
+<p begin="00:02:16.370" end="00:02:19.550" style="s2">uns relativ schnell um die ohren</p>
+<p begin="00:02:17.600" end="00:02:21.640" style="s2">geflogen und denen die sie ausgesprochen</p>
+<p begin="00:02:19.550" end="00:02:25.220" style="s2">haben<span style="s3"> dass</span> diese menschen friedlich sind</p>
+<p begin="00:02:21.640" end="00:02:26.360" style="s2"><span style="s4">sylvester nach</span><span style="s3"> 2015</span> 16<span style="s4"> die</span> meisten<span style="s4"> von</span></p>
+<p begin="00:02:25.220" end="00:02:27.920" style="s2"><span style="s3">ihnen</span> dürften sich noch daran erinnern</p>
+<p begin="00:02:26.360" end="00:02:31.880" style="s2">kölner domplatte</p>
+<p begin="00:02:27.920" end="00:02:33.410" style="s2">da wurde dann klar<span style="s3"> so</span> gut ist das nicht</p>
+<p begin="00:02:31.880" end="00:02:34.940" style="s2">was wir hier<span style="s4"> an</span><span style="s3"> menschen</span> ins land</p>
+<p begin="00:02:33.410" end="00:02:36.560" style="s2">gelassen<span style="s3"> und sozusagen die</span> auch relativ</p>
+<p begin="00:02:34.940" end="00:02:38.240" style="s2">nachvollziehbar wenn sie eine million</p>
+<p begin="00:02:36.560" end="00:02:40.250" style="s2">menschen ins land lassen weit über eine</p>
+<p begin="00:02:38.240" end="00:02:43.070" style="s2">million die meisten davon junge männer</p>
+<p begin="00:02:40.250" end="00:02:44.840" style="s2">aus ländern in denen gewalt alltäglich</p>
+<p begin="00:02:43.070" end="00:02:47.510" style="s2">und frauenrechte<span style="s3"> er</span> was ziemlich</p>
+<p begin="00:02:44.840" end="00:02:49.040" style="s2">exotisch sind dann wird<span style="s3"> sich</span> das nicht</p>
+<p begin="00:02:47.510" end="00:02:50.780" style="s2">auf unsere sicherheitslage positive</p>
+<p begin="00:02:49.040" end="00:02:52.600" style="s2">auswirkungen genau das ist dann auch in</p>
+<p begin="00:02:50.780" end="00:02:55.340" style="s2">der silvesternacht klar geworden</p>
+<p begin="00:02:52.600" end="00:02:58.010" style="s2">die zweite lüge die gehen wieder wenn</p>
+<p begin="00:02:55.340" end="00:03:01.130" style="s2">die bürgerkriege zu ende sind also in</p>
+<p begin="00:02:58.010" end="00:03:02.840" style="s2">syrien ist weitestgehend ruhe</p>
+<p begin="00:03:01.130" end="00:03:05.090" style="s2">da gibt es noch ein paar bereiche im</p>
+<p begin="00:03:02.840" end="00:03:06.500" style="s2">norden<span style="s3"> aber im rest des landes gibt es</span></p>
+<p begin="00:03:05.090" end="00:03:09.170" style="s2">keinen bürgerkrieg mehr</p>
+<p begin="00:03:06.500" end="00:03:09.920" style="s2">aber es geht<span style="s3"> keiner</span> nach hause ja und</p>
+<p begin="00:03:09.170" end="00:03:12.920" style="s2">die dritte lüge</p>
+<p begin="00:03:09.920" end="00:03:16.220" style="s2">das ist die mit der rente die diese</p>
+<p begin="00:03:12.920" end="00:03:18.140" style="s2">menschen später mal zahlen werden 2015</p>
+<p begin="00:03:16.220" end="00:03:20.450" style="s2">hatten wir diese flüchtlingskrise<span style="s3"> und</span></p>
+<p begin="00:03:18.140" end="00:03:22.130" style="s2">mir war eigentlich schon im jahr 2015</p>
+<p begin="00:03:20.450" end="00:03:24.110" style="s2">klar das wird nicht hinhauen</p>
+<p begin="00:03:22.130" end="00:03:25.910" style="s2"><span style="s4">denn</span> im<span style="s3"> jahr</span> 2015<span style="s3"> ist was ganz</span></p>
+<p begin="00:03:24.110" end="00:03:29.630" style="s2"><span style="s3">interessantes</span> passiert das eigentlich</p>
+<p begin="00:03:25.910" end="00:03:31.940" style="s2">nur eine kleinigkeit<span style="s3"> in</span> dänemark<span style="s3"> hat</span> der</p>
+<p begin="00:03:29.630" end="00:03:33.500" style="s2">dänische arbeitgeberverband eine</p>
+<p begin="00:03:31.940" end="00:03:35.450" style="s2">untersuchung gemacht und zwar haben die</p>
+<p begin="00:03:33.500" end="00:03:39.650" style="s2">mal gefragt was machen eigentlich</p>
+<p begin="00:03:35.450" end="00:03:41.690" style="s2">flüchtlinge<span style="s3"> die</span> 2015 sind wir länger als</p>
+<p begin="00:03:39.650" end="00:03:43.459" style="s2"><span style="s3">zehn</span> jahre in<span style="s4"> denen marktleben das</span> haben</p>
+<p begin="00:03:41.690" end="00:03:45.470" style="s2">die also anfang 2015<span style="s3"> noch</span> vor dieser</p>
+<p begin="00:03:43.459" end="00:03:47.270" style="s2">großen flüchtlingskrise gefragt und sind</p>
+<p begin="00:03:45.470" end="00:03:48.860" style="s2">zu dem ergebnis gekommen<span style="s3"> von</span> den</p>
+<p begin="00:03:47.270" end="00:03:51.200" style="s2">flüchtlingen die schon länger als<span style="s3"> zehn</span></p>
+<p begin="00:03:48.860" end="00:03:54.350" style="s2">jahre in dänemark lebten waren 75</p>
+<p begin="00:03:51.200" end="00:03:56.750" style="s2">prozent arbeitslos<span style="s3"> und</span> jetzt muss<span style="s4"> ich</span></p>
+<p begin="00:03:54.350" end="00:03:58.160" style="s2">überlegen<span style="s4"> naja</span> dänemark hat immer</p>
+<p begin="00:03:56.750" end="00:03:59.930" style="s2">relativ viele flüchtlinge aufgenommen</p>
+<p begin="00:03:58.160" end="00:04:01.220" style="s2">und<span style="s4"> natürlich in</span><span style="s3"> diesen ansturm erlebt</span></p>
+<p begin="00:03:59.930" end="00:04:02.660" style="s2"><span style="s4">die</span> wir 2015</p>
+<p begin="00:04:01.220" end="00:04:03.360" style="s2">das heißt<span style="s3"> sie konnten sich</span> immer noch</p>
+<p begin="00:04:02.660" end="00:04:08.570" style="s2">relativ</p>
+<p begin="00:04:03.360" end="00:04:12.300" style="s2">um jeden einzelnen kümmern dazu kam<span style="s4"> es</span></p>
+<p begin="00:04:08.570" end="00:04:14.850" style="s2"><span style="s4">kam</span><span style="s3"> natürlich</span><span style="s4"> zum</span> diesen flüchtlingen</p>
+<p begin="00:04:12.300" end="00:04:16.470" style="s2">zählen auch eine menge die in den 90er</p>
+<p begin="00:04:14.850" end="00:04:17.640" style="s2">jahren aus jugoslawien gekommen sind<span style="s4"> die</span></p>
+<p begin="00:04:16.470" end="00:04:19.950" style="s2">hatten relativ europäisches</p>
+<p begin="00:04:17.640" end="00:04:21.660" style="s2">bildungsniveau und<span style="s3"> trotzdem</span><span style="s4"> platz</span><span style="s3"> gerade</span></p>
+<p begin="00:04:19.950" end="00:04:24.540" style="s2">mal geschafft ein viertel von<span style="s3"> denen</span> am</p>
+<p begin="00:04:21.660" end="00:04:26.970" style="s2">arbeitsmarkt unterzubringen<span style="s3"> und</span><span style="s4"> deswegen</span></p>
+<p begin="00:04:24.540" end="00:04:29.390" style="s2">gehe ich mal davon aus von den menschen</p>
+<p begin="00:04:26.970" end="00:04:32.250" style="s2">die dort zu uns gekommen sind werden</p>
+<p begin="00:04:29.390" end="00:04:34.760" style="s2">langfristig zehn bis 15 prozent einen</p>
+<p begin="00:04:32.250" end="00:04:36.720" style="s2">job in steuern zahlen</p>
+<p begin="00:04:34.760" end="00:04:38.460" style="s2">sozialversicherungsbeiträge bezahlen und</p>
+<p begin="00:04:36.720" end="00:04:40.740" style="s2">der rest wird von sozialen leistungen</p>
+<p begin="00:04:38.460" end="00:04:47.190" style="s2">leben<span style="s3"> und</span> mit sicherheit nicht unsere</p>
+<p begin="00:04:40.740" end="00:04:48.419" style="s2">rente bezahlen<span style="s3"> ja</span> dann wurde gesagt<span style="s4"> na</span></p>
+<p begin="00:04:47.190" end="00:04:50.520" style="s2"><span style="s4">ja</span> vielleicht<span style="s4"> schaffen</span> wir viele leute</p>
+<p begin="00:04:48.419" end="00:04:53.160" style="s2">in ausbildung zu bringen<span style="s3"> und dazu muss</span></p>
+<p begin="00:04:50.520" end="00:04:55.550" style="s2"><span style="s3">man</span> sich mal vorstellen was in<span style="s4"> denen</span><span style="s3"> vor</span></p>
+<p begin="00:04:53.160" end="00:04:58.169" style="s2"><span style="s4">sich</span> geht<span style="s4"> stehen 17</span><span style="s3"> so</span> einen jungen</p>
+<p begin="00:04:55.550" end="00:05:01.140" style="s2">nordafrikaner algerien wohnt der</p>
+<p begin="00:04:58.169" end="00:05:05.340" style="s2">vielleicht wenn du nach deutschland</p>
+<p begin="00:05:01.140" end="00:05:06.360" style="s2">gehst du kriegst 400 euro im monat<span style="s3"> und</span></p>
+<p begin="00:05:05.340" end="00:05:10.169" style="s2"><span style="s4">durchnässte</span> wohnung</p>
+<p begin="00:05:06.360" end="00:05:13.380" style="s2">das ist für den paradiesisch 400 euro</p>
+<p begin="00:05:10.169" end="00:05:16.320" style="s2">das ist in<span style="s4"> dem</span><span style="s3"> in</span> algerien ist<span style="s3"> das</span></p>
+<p begin="00:05:13.380" end="00:05:18.510" style="s2"><span style="s3">ungefähr</span> das gehalt eines arztes im</p>
+<p begin="00:05:16.320" end="00:05:19.470" style="s2">monat<span style="s3"> musste</span> dort bekommt man kommt also</p>
+<p begin="00:05:18.510" end="00:05:21.630" style="s2">dieser junge<span style="s3"> mensch hier nach</span></p>
+<p begin="00:05:19.470" end="00:05:22.880" style="s2">deutschland und stellt fest diese</p>
+<p begin="00:05:21.630" end="00:05:25.340" style="s2">versprochene wohnung</p>
+<p begin="00:05:22.880" end="00:05:27.600" style="s2">das ist so ein drecksloch<span style="s3"> im</span> plattenbau</p>
+<p begin="00:05:25.340" end="00:05:29.400" style="s2">nicht besonders<span style="s3"> gepflegt</span> nicht besonders</p>
+<p begin="00:05:27.600" end="00:05:32.330" style="s2">schön und die 400 euro<span style="s4"> und</span> die<span style="s3"> reichen</span></p>
+<p begin="00:05:29.400" end="00:05:34.500" style="s2">hier in deutschland pro monat gerade mal</p>
+<p begin="00:05:32.330" end="00:05:35.850" style="s2">um sich<span style="s3"> satt zu essen vielleicht einmal</span></p>
+<p begin="00:05:34.500" end="00:05:36.410" style="s2">in der<span style="s3"> woche</span> ins kino zu gehen mehr ist</p>
+<p begin="00:05:35.850" end="00:05:38.790" style="s2">da nicht drin</p>
+<p begin="00:05:36.410" end="00:05:40.290" style="s2"><span style="s4">dann</span> überlegt er<span style="s4"> sich</span> nach<span style="s4"> probier&#39;s</span> mal</p>
+<p begin="00:05:38.790" end="00:05:41.630" style="s2"><span style="s3">mit</span><span style="s4"> arbeit dann</span><span style="s3"> geht</span> er zum arbeitsamt</p>
+<p begin="00:05:40.290" end="00:05:43.169" style="s2"><span style="s3">dann bieten die irgendwelche</span></p>
+<p begin="00:05:41.630" end="00:05:45.240" style="s2">umschulungsmaßnahmen vielleicht sogar</p>
+<p begin="00:05:43.169" end="00:05:46.890" style="s2">ist eine<span style="s3"> lehrstelle</span> drin<span style="s3"> wenn</span> er</p>
+<p begin="00:05:45.240" end="00:05:49.979" style="s2">körperlich gut beieinander ist gerüstbau</p>
+<p begin="00:05:46.890" end="00:05:51.419" style="s2">die suchen leute und im ersten monat ist</p>
+<p begin="00:05:49.979" end="00:05:53.190" style="s2"><span style="s3">der total happy weil er einen</span></p>
+<p begin="00:05:51.419" end="00:05:54.960" style="s2">arbeitsvertrag<span style="s3"> bekommen</span> hat<span style="s4"> da</span><span style="s3"> steht was</span></p>
+<p begin="00:05:53.190" end="00:05:57.570" style="s2">von<span style="s4"> sieben oder acht 100 euro drin die</span></p>
+<p begin="00:05:54.960" end="00:06:00.229" style="s2">ausbildungsvergütung bekommt diese</p>
+<p begin="00:05:57.570" end="00:06:02.610" style="s2">euphorie hält genau einen monat an</p>
+<p begin="00:06:00.229" end="00:06:04.080" style="s2">dann<span style="s3"> wird er nämlich</span> feststellen weil er</p>
+<p begin="00:06:02.610" end="00:06:05.760" style="s2">jetzt ihr eigenes geld<span style="s4"> verdient</span> muss<span style="s3"> es</span></p>
+<p begin="00:06:04.080" end="00:06:07.500" style="s2"><span style="s4">seine pfote</span><span style="s3"> selber</span> bezahlen wird die<span style="s3"> 400</span></p>
+<p begin="00:06:05.760" end="00:06:09.110" style="s2">euro taschengeld vom<span style="s4"> amt</span> die<span style="s3"> wir</span><span style="s4"> dann</span></p>
+<p begin="00:06:07.500" end="00:06:11.970" style="s2">zumindest<span style="s3"> deutlich zusammengekürzt und</span></p>
+<p begin="00:06:09.110" end="00:06:14.160" style="s2"><span style="s3">dann</span> ist genau das passiert was wir auch</p>
+<p begin="00:06:11.970" end="00:06:17.510" style="s2">heute noch erleben wenn wir flüchten</p>
+<p begin="00:06:14.160" end="00:06:20.070" style="s2"><span style="s3">in</span> am arbeitsmarkt unterbringen</p>
+<p begin="00:06:17.510" end="00:06:22.590" style="s2">gerade auch als auszubildende wir haben</p>
+<p begin="00:06:20.070" end="00:06:24.090" style="s2">wahnsinnig hohe abbrecherquoten<span style="s3"> zahlen</span></p>
+<p begin="00:06:22.590" end="00:06:27.420" style="s2"><span style="s3">darüber</span> gibt es interessanterweise nicht</p>
+<p begin="00:06:24.090" end="00:06:29.280" style="s2"><span style="s4">werten letztens den herrn stehle</span><span style="s3"> der</span></p>
+<p begin="00:06:27.420" end="00:06:31.020" style="s2">präsident der bundesagentur für arbeit</p>
+<p begin="00:06:29.280" end="00:06:32.760" style="s2">bei uns im ausschuss im<span style="s3"> bundesland</span> habe</p>
+<p begin="00:06:31.020" end="00:06:34.800" style="s2"><span style="s4">ich</span> mal<span style="s4"> gefragt</span> wie ist das eigentlich</p>
+<p begin="00:06:32.760" end="00:06:36.840" style="s2">mit<span style="s3"> den</span> abbrecherquoten hohen sozialen</p>
+<p begin="00:06:34.800" end="00:06:38.640" style="s2">haben wir<span style="s3"> da nicht sie können</span><span style="s4"> meinen</span> der</p>
+<p begin="00:06:36.840" end="00:06:41.370" style="s2">presse<span style="s4"> googeln</span> sie finden also alles von</p>
+<p begin="00:06:38.640" end="00:06:44.940" style="s2">irgendwo<span style="s4"> auch</span><span style="s3"> maximal</span><span style="s4"> sowie</span> bei<span style="s3"> ganz</span></p>
+<p begin="00:06:41.370" end="00:06:48.690" style="s2">normalen auch hier geborenen azubis bis</p>
+<p begin="00:06:44.940" end="00:06:50.670" style="s2">hin zu leuten die<span style="s3"> durch aussagen</span></p>
+<p begin="00:06:48.690" end="00:06:52.730" style="s2">abbrecherquoten speziell bei</p>
+<p begin="00:06:50.670" end="00:06:56.930" style="s2">flüchtlingen von 90 prozent</p>
+<p begin="00:06:52.730" end="00:06:59.490" style="s2">so also mit der ausbildung schwierig</p>
+<p begin="00:06:56.930" end="00:07:00.660" style="s2">jetzt sind das ja<span style="s4"> alles</span> fachkräfte die</p>
+<p begin="00:06:59.490" end="00:07:02.250" style="s2">zu uns kommen<span style="s3"> die</span><span style="s4"> könnten</span><span style="s3"> ja</span><span style="s4"> vielleicht</span></p>
+<p begin="00:07:00.660" end="00:07:03.660" style="s2">so in den unternehmen unterbringen</p>
+<p begin="00:07:02.250" end="00:07:05.820" style="s2">sie erinnern sich vielleicht<span style="s4"> zu</span></p>
+<p begin="00:07:03.660" end="00:07:08.070" style="s2"><span style="s3">höhepunkt</span> der flüchtlingskrise<span style="s4"> daimler</span></p>
+<p begin="00:07:05.820" end="00:07:09.210" style="s2"><span style="s4">chef</span> zetsche das sind genau die leute</p>
+<p begin="00:07:08.070" end="00:07:12.030" style="s2">die wir brauchen</p>
+<p begin="00:07:09.210" end="00:07:13.890" style="s2">fragen sie ihn<span style="s3"> mal</span> heute die flüchtlinge</p>
+<p begin="00:07:12.030" end="00:07:15.180" style="s2">die<span style="s4"> daimler</span> eingestellt hat die kennt</p>
+<p begin="00:07:13.890" end="00:07:17.130" style="s2">der zetsche<span style="s3"> höchstwahrscheinlich</span></p>
+<p begin="00:07:15.180" end="00:07:19.950" style="s2">persönlich mit namen<span style="s4"> denn</span> das<span style="s3"> sind</span></p>
+<p begin="00:07:17.130" end="00:07:22.200" style="s2">fürchterlich wenig der einzige dax</p>
+<p begin="00:07:19.950" end="00:07:24.570" style="s2">konzern also von den<span style="s3"> börsen und</span></p>
+<p begin="00:07:22.200" end="00:07:26.460" style="s2"><span style="s3">notierten</span> unternehmen in<span style="s3"> deutschland</span> der</p>
+<p begin="00:07:24.570" end="00:07:28.740" style="s2">ein bisschen mehr eingestellt hat ist</p>
+<p begin="00:07:26.460" end="00:07:31.290" style="s2">die deutsche post und zwar vor allen</p>
+<p begin="00:07:28.740" end="00:07:32.490" style="s2">dingen deren tochter dhl<span style="s4"> und</span> wenn sie da</p>
+<p begin="00:07:31.290" end="00:07:37.860" style="s2">mal<span style="s4"> googeln</span> finden sie da auch ganz</p>
+<p begin="00:07:32.490" end="00:07:40.470" style="s2">interessante berichte beispielsweise<span style="s3"> hat</span></p>
+<p begin="00:07:37.860" end="00:07:42.810" style="s2"><span style="s4">der l duisburg mal ein projekt gemacht</span></p>
+<p begin="00:07:40.470" end="00:07:44.610" style="s2">die haben also<span style="s3"> 20</span> praktikanten</p>
+<p begin="00:07:42.810" end="00:07:46.919" style="s2">eingestellt<span style="s4"> die</span><span style="s3"> hatten sich schon aus</span></p>
+<p begin="00:07:44.610" end="00:07:49.230" style="s2">der gruppe<span style="s4"> vor</span><span style="s3"> ausgewählt</span> und von diesen</p>
+<p begin="00:07:46.919" end="00:07:51.630" style="s2"><span style="s3">20</span> praktikanten sind dann hinterher<span style="s4"> 2</span></p>
+<p begin="00:07:49.230" end="00:07:53.610" style="s2">fest<span style="s4"> eingestellt</span><span style="s3"> worden</span> also sie<span style="s4"> hatten</span></p>
+<p begin="00:07:51.630" end="00:07:55.950" style="s2"><span style="s4">irgendwo</span><span style="s3"> vor 14 der vorauswahl 20</span></p>
+<p begin="00:07:53.610" end="00:07:57.540" style="s2">machten das praktikum<span style="s4"> zwei</span> wurden dann</p>
+<p begin="00:07:55.950" end="00:07:59.480" style="s2">ausgewählt und haben<span style="s4"> einen</span></p>
+<p begin="00:07:57.540" end="00:08:03.300" style="s2">arbeitsvertrag bekommen</p>
+<p begin="00:07:59.480" end="00:08:04.980" style="s2">42 das ist so ungefähr<span style="s4"> fünf</span> prozent und</p>
+<p begin="00:08:03.300" end="00:08:06.930" style="s2">was machen die ihr habt wurde<span style="s3"> dann</span> ganz</p>
+<p begin="00:08:04.980" end="00:08:08.280" style="s2">stolz gesagt das ist ein job da brauchen</p>
+<p begin="00:08:06.930" end="00:08:09.540" style="s2">die<span style="s4"> nicht mal als</span><span style="s3"> deutschkenntnisse</span></p>
+<p begin="00:08:08.280" end="00:08:10.170" style="s2">deswegen konnten wir sie dafür auch</p>
+<p begin="00:08:09.540" end="00:08:12.570" style="s2">einstellen</p>
+<p begin="00:08:10.170" end="00:08:14.610" style="s2">die sind als<span style="s3"> kisten stapler jetzt bei</span></p>
+<p begin="00:08:12.570" end="00:08:15.480" style="s2">der dhl beschäftigt<span style="s4"> dann</span><span style="s3"> müssen</span> sie</p>
+<p begin="00:08:14.610" end="00:08:17.820" style="s2">eigentlich nur eine fünfstellige</p>
+<p begin="00:08:15.480" end="00:08:19.800" style="s2">postleitzahlen können um danach das</p>
+<p begin="00:08:17.820" end="00:08:21.110" style="s2">päckchen in das richtige fach zu stellen</p>
+<p begin="00:08:19.800" end="00:08:24.090" style="s2">wir müssen sie<span style="s4"> dann</span> nicht<span style="s4"> können</span><span style="s3"> und</span></p>
+<p begin="00:08:21.110" end="00:08:26.550" style="s2"><span style="s3">selbst für diesen job</span> waren gerade mal</p>
+<p begin="00:08:24.090" end="00:08:28.770" style="s2"><span style="s3">fünf</span> prozent<span style="s3"> der</span> menschen die dafür</p>
+<p begin="00:08:26.550" end="00:08:32.010" style="s2">gefragt oder vorausgewählt worden</p>
+<p begin="00:08:28.770" end="00:08:34.800" style="s2">geeignet<span style="s3"> als</span> sie merken schon<span style="s4"> dass kann</span></p>
+<p begin="00:08:32.010" end="00:08:36.450" style="s2">auch<span style="s3"> nicht</span> so richtig<span style="s3"> hinhauen ganz</span></p>
+<p begin="00:08:34.800" end="00:08:38.390" style="s2"><span style="s4">interessant</span> ist auch wenn sie mal ein</p>
+<p begin="00:08:36.450" end="00:08:40.830" style="s2"><span style="s3">paar</span> zahlen<span style="s3"> googeln</span></p>
+<p begin="00:08:38.390" end="00:08:43.700" style="s2">das sind ja auch ganz schön ärzte die</p>
+<p begin="00:08:40.830" end="00:08:47.420" style="s2">angeblich zu uns gekommen sind</p>
+<p begin="00:08:43.700" end="00:08:51.090" style="s2">es sind sind tatsächlich eher</p>
+<p begin="00:08:47.420" end="00:08:52.470" style="s2">unterdurchschnittlich viele wenn sie</p>
+<p begin="00:08:51.090" end="00:08:54.270" style="s2"><span style="s3">sich</span> anschauen<span style="s4"> es</span> gab vorher schon</p>
+<p begin="00:08:52.470" end="00:08:56.250" style="s2">relativ viele syrische ärzte in</p>
+<p begin="00:08:54.270" end="00:08:58.110" style="s2">deutschland durch die flüchtlingskrise</p>
+<p begin="00:08:56.250" end="00:08:59.490" style="s2">sind da kaum welche<span style="s3"> dazugekommen wenn</span></p>
+<p begin="00:08:58.110" end="00:09:01.020" style="s2">sie das mal so ins verhältnis setzen<span style="s3"> zu</span></p>
+<p begin="00:08:59.490" end="00:09:03.710" style="s2">den menschen die da zu uns gekommen sind</p>
+<p begin="00:09:01.020" end="00:09:06.510" style="s2">dann stellen sie fest</p>
+<p begin="00:09:03.710" end="00:09:07.200" style="s2">also in syrien gibt es nicht so wenig</p>
+<p begin="00:09:06.510" end="00:09:09.750" style="s2">ärzte</p>
+<p begin="00:09:07.200" end="00:09:12.570" style="s2">das ist ein bestimmter prozentsatz der</p>
+<p begin="00:09:09.750" end="00:09:14.250" style="s2">bevölkerung und wenn<span style="s4"> wie hier eine</span></p>
+<p begin="00:09:12.570" end="00:09:16.080" style="s2"><span style="s3">million</span> menschen kommen dann<span style="s3"> müssten</span> da</p>
+<p begin="00:09:14.250" end="00:09:17.520" style="s2">eigentlich so<span style="s3"> und</span><span style="s4"> zu viele tausend</span> ärzte</p>
+<p begin="00:09:16.080" end="00:09:19.650" style="s2">dabei sind<span style="s4"> so ganz</span><span style="s3"> aber gar nicht</span></p>
+<p begin="00:09:17.520" end="00:09:20.250" style="s2">ungefähr ein drittel bis ein viertel der</p>
+<p begin="00:09:19.650" end="00:09:21.690" style="s2">zahl</p>
+<p begin="00:09:20.250" end="00:09:23.220" style="s2"><span style="s4">das</span> kann<span style="s3"> man sich fragen wo sind die</span></p>
+<p begin="00:09:21.690" end="00:09:25.080" style="s2">ganzen<span style="s4"> ärztinnen</span><span style="s3"> ärzte</span> sind ja</p>
+<p begin="00:09:23.220" end="00:09:26.070" style="s2">normalerweise welche die gutes geld</p>
+<p begin="00:09:25.080" end="00:09:28.080" style="s2">verdient haben</p>
+<p begin="00:09:26.070" end="00:09:31.290" style="s2">die am<span style="s3"> ersten sich auch so eine</span> flucht</p>
+<p begin="00:09:28.080" end="00:09:32.190" style="s2">dann vielleicht leisten können<span style="s3"> und</span><span style="s4"> da</span></p>
+<p begin="00:09:31.290" end="00:09:33.570" style="s2"><span style="s3">muss</span> man eigentlich nur mal so ein</p>
+<p begin="00:09:32.190" end="00:09:35.700" style="s2">bisschen nachdenken<span style="s3"> da</span> kommt man doch</p>
+<p begin="00:09:33.570" end="00:09:38.010" style="s2">eigentlich schnell dahinter<span style="s3"> wenn</span> sie in</p>
+<p begin="00:09:35.700" end="00:09:39.920" style="s2">syrien medizin studiert haben dann haben</p>
+<p begin="00:09:38.010" end="00:09:42.390" style="s2">sie in syrien auch<span style="s4"> nabi tour gemacht</span></p>
+<p begin="00:09:39.920" end="00:09:43.170" style="s2">wenn sie ihr abitur in syrien gemacht</p>
+<p begin="00:09:42.390" end="00:09:44.880" style="s2">haben dann haben sie auch eine</p>
+<p begin="00:09:43.170" end="00:09:46.740" style="s2">fremdsprache<span style="s4"> gelehrt</span> in aller regel ist</p>
+<p begin="00:09:44.880" end="00:09:48.870" style="s2"><span style="s4">es</span><span style="s3"> englisch</span> und wenn sie jetzt schon</p>
+<p begin="00:09:46.740" end="00:09:51.240" style="s2">relativ<span style="s3"> brauchbar</span> englisch sprechen und</p>
+<p begin="00:09:48.870" end="00:09:51.810" style="s2">irgendwo als arzt im ausland arbeiten</p>
+<p begin="00:09:51.240" end="00:09:54.390" style="s2">möchten</p>
+<p begin="00:09:51.810" end="00:09:56.310" style="s2"><span style="s3">gehen</span> sie dann nach deutschland<span style="s3"> eine</span></p>
+<p begin="00:09:54.390" end="00:09:58.740" style="s2">schwierige sprache die sie über jahre</p>
+<p begin="00:09:56.310" end="00:10:00.510" style="s2">mal erst lernen müssen<span style="s4"> was</span> über jahre im</p>
+<p begin="00:09:58.740" end="00:10:02.220" style="s2">grunde genommen als<span style="s3"> hilfs</span> krankenpfleger</p>
+<p begin="00:10:00.510" end="00:10:04.290" style="s2">eingesetzt und bezahlt werden</p>
+<p begin="00:10:02.220" end="00:10:07.259" style="s2"><span style="s3">schwierigkeiten haben</span></p>
+<p begin="00:10:04.290" end="00:10:09.240" style="s2">gehen sie nach großbritannien<span style="s4"> und da sie</span></p>
+<p begin="00:10:07.259" end="00:10:11.579" style="s2"><span style="s4">gehen den vereinigten staaten dort wo</span></p>
+<p begin="00:10:09.240" end="00:10:13.170" style="s2">sie mit dem<span style="s4"> crashkurs</span><span style="s3"> aufbauend</span> auf ihre</p>
+<p begin="00:10:11.579" end="00:10:14.910" style="s2"><span style="s4">vorhanden englischkenntnisse</span><span style="s3"> sofort</span></p>
+<p begin="00:10:13.170" end="00:10:16.220" style="s2">loslegen können<span style="s3"> sie</span> kommen nicht<span style="s4"> nicht</span></p>
+<p begin="00:10:14.910" end="00:10:18.990" style="s2">nach<span style="s3"> deutschland</span></p>
+<p begin="00:10:16.220" end="00:10:21.779" style="s2"><span style="s4">dass</span> alle sind im grunde genommen so ein</p>
+<p begin="00:10:18.990" end="00:10:24.389" style="s2"><span style="s3">bisschen</span> statistiken die man auch im</p>
+<p begin="00:10:21.779" end="00:10:25.139" style="s2">internet dann überprüfen und nachschauen</p>
+<p begin="00:10:24.389" end="00:10:27.300" style="s2">kann</p>
+<p begin="00:10:25.139" end="00:10:28.980" style="s2">dazu kann man eine menge zahlen finden</p>
+<p begin="00:10:27.300" end="00:10:31.319" style="s2">viele aber natürlich auch nicht</p>
+<p begin="00:10:28.980" end="00:10:35.120" style="s2"><span style="s3">aber manchmal hilft es eigentlich auch</span></p>
+<p begin="00:10:31.319" end="00:10:35.120" style="s2">nur kurz nachzudenken</p>
+<p begin="00:10:35.600" end="00:10:40.560" style="s2">wir haben weltweit eines der</p>
+<p begin="00:10:38.790" end="00:10:42.120" style="s2">großzügigsten sozialsysteme</p>
+<p begin="00:10:40.560" end="00:10:43.639" style="s2">jetzt könnte einer kommen sagen<span style="s4"> nee</span> in</p>
+<p begin="00:10:42.120" end="00:10:46.230" style="s2">der schweiz gibt es noch ein paar</p>
+<p begin="00:10:43.639" end="00:10:46.970" style="s2">franken oder umgerechnet dann in euro</p>
+<p begin="00:10:46.230" end="00:10:49.079" style="s2">mehr</p>
+<p begin="00:10:46.970" end="00:10:50.399" style="s2">das problem ist nur<span style="s4"> ein</span> der<span style="s3"> schweizer</span></p>
+<p begin="00:10:49.079" end="00:10:52.410" style="s2"><span style="s3">seite ist fürchterlich teuer und wenn</span></p>
+<p begin="00:10:50.399" end="00:10:54.269" style="s2">sie das dann wiederum rechnen<span style="s3"> dann sind</span></p>
+<p begin="00:10:52.410" end="00:10:56.399" style="s2">wir hier in deutschland schon ziemlich</p>
+<p begin="00:10:54.269" end="00:10:56.880" style="s2"><span style="s4">grosszügig</span> gerade auch zuwanderern</p>
+<p begin="00:10:56.399" end="00:10:59.639" style="s2">gegenüber</p>
+<p begin="00:10:56.880" end="00:11:01.259" style="s2">das<span style="s4"> heißt</span> die wissen ganz genau</p>
+<p begin="00:10:59.639" end="00:11:03.360" style="s2">nirgendwo auf der welt geht es ihnen</p>
+<p begin="00:11:01.259" end="00:11:04.920" style="s2">eigentlich so gut wie bei uns das lockt</p>
+<p begin="00:11:03.360" end="00:11:06.779" style="s2">menschen an und es lockt natürlich vor</p>
+<p begin="00:11:04.920" end="00:11:08.370" style="s2">allen dingen menschen an die wenig</p>
+<p begin="00:11:06.779" end="00:11:10.050" style="s2">leistungsbereit sind die wenig</p>
+<p begin="00:11:08.370" end="00:11:12.060" style="s2">leistungsfähig sind genau<span style="s4"> diese</span></p>
+<p begin="00:11:10.050" end="00:11:14.389" style="s2"><span style="s3">nirgendwo auf der welt wird</span><span style="s4"> mehr</span><span style="s3"> so gut</span></p>
+<p begin="00:11:12.060" end="00:11:19.649" style="s2">gehen wie hier in deutschland</p>
+<p begin="00:11:14.389" end="00:11:22.800" style="s2">dazu kommt dann ein bleiberecht<span style="s3"> wenn</span> sie</p>
+<p begin="00:11:19.649" end="00:11:24.660" style="s2">nach deutschland kommen<span style="s4"> und</span><span style="s3"> an</span> der</p>
+<p begin="00:11:22.800" end="00:11:27.300" style="s2"><span style="s3">grenze</span> dieses zauberwort<span style="s3"> asyl</span></p>
+<p begin="00:11:24.660" end="00:11:30.300" style="s2">aussprechen<span style="s3"> und nicht wieder in ihr</span></p>
+<p begin="00:11:27.300" end="00:11:32.490" style="s2">heimatland zurückkehren freiwillig dann</p>
+<p begin="00:11:30.300" end="00:11:33.899" style="s2">haben sie eine 90 prozentige sicherheit</p>
+<p begin="00:11:32.490" end="00:11:35.910" style="s2">dass sie den rest ihres lebens in</p>
+<p begin="00:11:33.899" end="00:11:37.920" style="s2">deutschland verbringen können<span style="s3"> das</span> sind</p>
+<p begin="00:11:35.910" end="00:11:38.880" style="s2">die fakten auf der einen seite jetzt</p>
+<p begin="00:11:37.920" end="00:11:40.920" style="s2"><span style="s3">müsse man deutlich diese ganze</span></p>
+<p begin="00:11:38.880" end="00:11:42.690" style="s2"><span style="s3">großzügigkeit</span> irgendwo auch finanzieren</p>
+<p begin="00:11:40.920" end="00:11:46.260" style="s2">das heißt wir haben hier in deutschland</p>
+<p begin="00:11:42.690" end="00:11:48.839" style="s2">dadurch nach belgien oder mit belgien</p>
+<p begin="00:11:46.260" end="00:11:51.839" style="s2">ungefähr zusammen die höchste<span style="s4"> steuer</span><span style="s3"> und</span></p>
+<p begin="00:11:48.839" end="00:11:54.209" style="s2">abgabenlast auf der ganzen welt und hohe</p>
+<p begin="00:11:51.839" end="00:11:56.490" style="s2">steuern und abgaben die<span style="s3"> schrecken</span> eine</p>
+<p begin="00:11:54.209" end="00:11:58.769" style="s2">ganz bestimmte<span style="s4"> gruppen</span> nämlich menschen</p>
+<p begin="00:11:56.490" end="00:12:00.120" style="s2">die gut ausgebildet sind die machen</p>
+<p begin="00:11:58.769" end="00:12:01.589" style="s2">nämlich<span style="s4"> er</span><span style="s3"> einen</span><span style="s4"> großen</span> bogen um</p>
+<p begin="00:12:00.120" end="00:12:03.180" style="s2">deutschland weil sie ganz genau wissen</p>
+<p begin="00:12:01.589" end="00:12:05.030" style="s2">von ihrem<span style="s3"> netto</span> von ihrem brutto bleibt</p>
+<p begin="00:12:03.180" end="00:12:06.410" style="s2"><span style="s3">ihm</span> ja<span style="s3"> nicht</span> viel netto</p>
+<p begin="00:12:05.030" end="00:12:07.970" style="s2">und das ist eine ganz fürchterliche</p>
+<p begin="00:12:06.410" end="00:12:10.790" style="s2">kombination die wir hier in deutschland</p>
+<p begin="00:12:07.970" end="00:12:12.950" style="s2">haben<span style="s3"> wir locken auf der einen seite</span></p>
+<p begin="00:12:10.790" end="00:12:16.220" style="s2">menschen die wenig leistungsfähig sind</p>
+<p begin="00:12:12.950" end="00:12:17.600" style="s2">an<span style="s4"> wir denken</span><span style="s3"> sie</span> an unser land und</p>
+<p begin="00:12:16.220" end="00:12:19.430" style="s2">diejenigen die im grunde genommen</p>
+<p begin="00:12:17.600" end="00:12:21.080" style="s2">tatsächlich als leistungsträger hier</p>
+<p begin="00:12:19.430" end="00:12:23.750" style="s2">arbeiten können die schrecken wir ab</p>
+<p begin="00:12:21.080" end="00:12:25.780" style="s2">oder vertreiben sie sogar und das kann</p>
+<p begin="00:12:23.750" end="00:12:29.000" style="s2">auf dauer nicht gut gehen</p>
+<p begin="00:12:25.780" end="00:12:32.230" style="s2"><span style="s3">ja</span> das sind<span style="s3"> im</span> grunde genommen leider</p>
+<p begin="00:12:29.000" end="00:12:34.790" style="s2">die fakten die natürlich dazu führen</p>
+<p begin="00:12:32.230" end="00:12:36.710" style="s2">dass man schon jetzt klar erkennen kann</p>
+<p begin="00:12:34.790" end="00:12:38.690" style="s2">die menschen die dort zu uns gekommen</p>
+<p begin="00:12:36.710" end="00:12:39.860" style="s2">sind die werden sicherlich nicht unsere</p>
+<p begin="00:12:38.690" end="00:12:42.260" style="s2">renten finanzieren</p>
+<p begin="00:12:39.860" end="00:12:43.480" style="s2">jetzt wird gleich mein kollege<span style="s4"> herr</span></p>
+<p begin="00:12:42.260" end="00:12:47.240" style="s2">gottschalk<span style="s4"> noch</span> viel zum</p>
+<p begin="00:12:43.480" end="00:12:48.920" style="s2">einwanderungsrecht erzählen oder<span style="s3"> zu</span><span style="s4"> arm</span></p>
+<p begin="00:12:47.240" end="00:12:50.360" style="s2"><span style="s4">uns um einwanderungs</span> modell oder zu</p>
+<p begin="00:12:48.920" end="00:12:51.920" style="s2">einem einwanderungs modell was</p>
+<p begin="00:12:50.360" end="00:12:53.450" style="s2"><span style="s3">vielleicht</span> funktionieren könnte sagen</p>
+<p begin="00:12:51.920" end="00:12:54.380" style="s2">deswegen möchte ich<span style="s3"> da</span> an der stelle gar</p>
+<p begin="00:12:53.450" end="00:12:55.610" style="s2">nicht so viel sagen aber ich möchte</p>
+<p begin="00:12:54.380" end="00:12:56.450" style="s2">vielleicht<span style="s3"> doch</span> mal so auf 23 punkte</p>
+<p begin="00:12:55.610" end="00:12:57.920" style="s2">eingehen</p>
+<p begin="00:12:56.450" end="00:13:02.020" style="s2">ich hoffe<span style="s3"> kreis</span> nimmt<span style="s4"> ihr</span> da nicht<span style="s4"> zu</span></p>
+<p begin="00:12:57.920" end="00:13:04.780" style="s2"><span style="s4">viel</span> weg sonst<span style="s3"> kriegst</span> du mir böse<span style="s4"> rein</span></p>
+<p begin="00:13:02.020" end="00:13:07.840" style="s2">es wird natürlich immer gesagt wir</p>
+<p begin="00:13:04.780" end="00:13:10.040" style="s2">müssten irgendwo helfen</p>
+<p begin="00:13:07.840" end="00:13:11.750" style="s2">jetzt stelle ich mir nur die frage wenn</p>
+<p begin="00:13:10.040" end="00:13:15.820" style="s2">wir jetzt tatsächlich dazu übergehen</p>
+<p begin="00:13:11.750" end="00:13:18.170" style="s2">würden was ja gefordert wird einfachere</p>
+<p begin="00:13:15.820" end="00:13:21.500" style="s2">zugangswege nach europa zu schaffen</p>
+<p begin="00:13:18.170" end="00:13:23.180" style="s2">wenn ich mir vorstelle in libyen sitzen</p>
+<p begin="00:13:21.500" end="00:13:25.010" style="s2">ungefähr eine million menschen gerade</p>
+<p begin="00:13:23.180" end="00:13:26.840" style="s2">auf gepackten koffern und rucksäcken die</p>
+<p begin="00:13:25.010" end="00:13:28.760" style="s2">wollen gerne nach europa vorzugsweise</p>
+<p begin="00:13:26.840" end="00:13:30.860" style="s2">nach deutschland wenn ich da jetzt</p>
+<p begin="00:13:28.760" end="00:13:33.860" style="s2"><span style="s4">hunderttausend</span><span style="s3"> frei tickets verkaufen</span><span style="s4"> da</span></p>
+<p begin="00:13:30.860" end="00:13:35.840" style="s2"><span style="s4">teilen</span> würde super<span style="s4"> nach</span> deutschland</p>
+<p begin="00:13:33.860" end="00:13:37.460" style="s2">meint dann wirklich irgend einer von</p>
+<p begin="00:13:35.840" end="00:13:39.650" style="s2">diesen grünen gutmenschen die anderen</p>
+<p begin="00:13:37.460" end="00:13:40.820" style="s2"><span style="s3">900.000</span> drehen enttäuscht ab und gehen</p>
+<p begin="00:13:39.650" end="00:13:43.730" style="s2">wieder in ihr heimatland zurück</p>
+<p begin="00:13:40.820" end="00:13:45.800" style="s2">natürlich nicht im gegenteil<span style="s3"> das</span> würde</p>
+<p begin="00:13:43.730" end="00:13:47.750" style="s2">noch stärkeren<span style="s4"> sog</span> auslösen<span style="s4"> haye</span> in</p>
+<p begin="00:13:45.800" end="00:13:50.330" style="s2">libyen werden sogar<span style="s4"> freitickets</span> für<span style="s4"> die</span></p>
+<p begin="00:13:47.750" end="00:13:53.200" style="s2">überfahrt<span style="s3"> nach</span> europa verteilt das kann</p>
+<p begin="00:13:50.330" end="00:13:53.200" style="s2">also nicht der weg sein</p>
+<p begin="00:13:53.710" end="00:13:58.910" style="s2">der<span style="s3"> keil</span> wird gleich auch noch etwas zu</p>
+<p begin="00:13:56.900" end="00:14:00.010" style="s2">einem einwanderungsgesetz sagen wie es</p>
+<p begin="00:13:58.910" end="00:14:02.930" style="s2">aussehen soll</p>
+<p begin="00:14:00.010" end="00:14:04.550" style="s2">ich möchte aber auch<span style="s4"> projekt</span> noch<span style="s4"> eins</span></p>
+<p begin="00:14:02.930" end="00:14:06.200" style="s2"><span style="s3">sagen</span><span style="s4"> einmal ausgesetzt ist</span> natürlich</p>
+<p begin="00:14:04.550" end="00:14:07.540" style="s2">eine tolle sache<span style="s4"> es</span> regelt<span style="s3"> ja</span> wer rein</p>
+<p begin="00:14:06.200" end="00:14:10.120" style="s2">darf und wer nicht</p>
+<p begin="00:14:07.540" end="00:14:11.709" style="s2">es regelt auch wenn nicht rein darf und</p>
+<p begin="00:14:10.120" end="00:14:13.660" style="s2">deswegen ist ein einwanderungsgesetz</p>
+<p begin="00:14:11.709" end="00:14:15.730" style="s2">eigentlich ziemlich sinnlos wenn wir wie</p>
+<p begin="00:14:13.660" end="00:14:18.459" style="s2">im moment offene grenzen haben</p>
+<p begin="00:14:15.730" end="00:14:20.290" style="s2">denn wenn jeder dem ich<span style="s3"> sage</span> du darfst</p>
+<p begin="00:14:18.459" end="00:14:21.699" style="s2">nicht<span style="s3"> einfach</span> über die grüne grenze<span style="s4"> ein</span></p>
+<p begin="00:14:20.290" end="00:14:23.019" style="s2"><span style="s4">wandert</span> dann kann ich mir das</p>
+<p begin="00:14:21.699" end="00:14:24.850" style="s2">einwanderungsgesetz eigentlich<span style="s3"> auch</span></p>
+<p begin="00:14:23.019" end="00:14:26.139" style="s2">sparen sondern<span style="s4"> einwanderungsgesetz</span><span style="s3"> ist</span></p>
+<p begin="00:14:24.850" end="00:14:27.880" style="s2">ein bisschen so was wie ein gartentor</p>
+<p begin="00:14:26.139" end="00:14:29.829" style="s2">und das macht eigentlich auch nur sinn</p>
+<p begin="00:14:27.880" end="00:14:31.240" style="s2">wenn rechts und links davon<span style="s3"> toren</span> zaunes</p>
+<p begin="00:14:29.829" end="00:14:32.079" style="s2">und das<span style="s4"> hat mich auch mal</span><span style="s3"> abgeschlossen</span></p>
+<p begin="00:14:31.240" end="00:14:33.670" style="s2">werden kann</p>
+<p begin="00:14:32.079" end="00:14:35.560" style="s2">aber das können wir im moment nicht<span style="s3"> und</span></p>
+<p begin="00:14:33.670" end="00:14:37.509" style="s2">das wollen<span style="s3"> wir</span> im moment nicht und das</p>
+<p begin="00:14:35.560" end="00:14:40.180" style="s2">wollen<span style="s3"> wir</span> auch da oben nicht die da</p>
+<p begin="00:14:37.509" end="00:14:41.829" style="s2">oben erzählen ihnen gerne die in unserer</p>
+<p begin="00:14:40.180" end="00:14:44.410" style="s2">regierung und leider alle anderen</p>
+<p begin="00:14:41.829" end="00:14:46.180" style="s2">oppositionsparteien auch die erzählen</p>
+<p begin="00:14:44.410" end="00:14:48.180" style="s2">ihnen eben hat lustige geschichten wie</p>
+<p begin="00:14:46.180" end="00:14:50.130" style="s2">ich sie eingangs erwähnt habe</p>
+<p begin="00:14:48.180" end="00:14:51.699" style="s2">flüchtlinge zahlen mehr in die</p>
+<p begin="00:14:50.130" end="00:14:54.940" style="s2">sozialversicherung ein als sie</p>
+<p begin="00:14:51.699" end="00:14:58.029" style="s2">herausbekommen<span style="s4"> und ich</span><span style="s3"> habe</span><span style="s4"> ihn</span> ganz<span style="s3"> am</span></p>
+<p begin="00:14:54.940" end="00:14:59.170" style="s2">anfang erklärt weshalb<span style="s4"> news</span> ist ich</p>
+<p begin="00:14:58.029" end="00:15:00.610" style="s2">hoffe ich habe<span style="s3"> ihnen</span> an der einen oder</p>
+<p begin="00:14:59.170" end="00:15:03.009" style="s2">anderen stelle auch zu den anderen</p>
+<p begin="00:15:00.610" end="00:15:04.990" style="s2">punkten erzählt deshalb auch die fake</p>
+<p begin="00:15:03.009" end="00:15:06.069" style="s2">news<span style="s4"> and</span> und dann hoffe ich dass sie</p>
+<p begin="00:15:04.990" end="00:15:08.649" style="s2">gleich noch eine ganze menge fragen</p>
+<p begin="00:15:06.069" end="00:15:10.180" style="s2">haben die vielleicht um<span style="s3"> den</span> in dem</p>
+<p begin="00:15:08.649" end="00:15:12.459" style="s2">gesamten zusammenhang<span style="s4"> nochmal</span></p>
+<p begin="00:15:10.180" end="00:15:13.600" style="s2">beantworten können oder ich stehen dann</p>
+<p begin="00:15:12.459" end="00:15:14.920" style="s2">gleich wenn<span style="s4"> wir</span> zum<span style="s3"> gemütlichen</span> teil</p>
+<p begin="00:15:13.600" end="00:15:15.899" style="s2">übergehen natürlich auch noch für fragen</p>
+<p begin="00:15:14.920" end="00:15:18.069" style="s2">zur verfügung</p>
+<p begin="00:15:15.899" end="00:15:19.810" style="s2">das wäre es jetzt zunächst<span style="s3"> mal</span> von mir</p>
+<p begin="00:15:18.069" end="00:15:21.730" style="s2"><span style="s3">bedanke</span> mich ganz herzlich für ihre</p>
+<p begin="00:15:19.810" end="00:15:24.959" style="s2">aufmerksamkeit und wird wieder an den</p>
+<p begin="00:15:21.730" end="00:15:24.959" style="s2">sebastian<span style="s4"> übergeben dankeschön</span></p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:05.960" style="s2">sehr geehrter herr präsident sehr</p>
+<p begin="00:00:02.909" end="00:00:08.760" style="s2">geehrte damen und herren liebe spd</p>
+<p begin="00:00:05.960" end="00:00:10.889" style="s2">ich freue mich dass sie mir heute die</p>
+<p begin="00:00:08.760" end="00:00:13.200" style="s2">gelegenheit geben den menschen im lande</p>
+<p begin="00:00:10.889" end="00:00:13.530" style="s2"><span style="s3">aufzuzeigen</span> wie es<span style="s3"> um</span> die spd bestellt</p>
+<p begin="00:00:13.200" end="00:00:16.320" style="s2">ist</p>
+<p begin="00:00:13.530" end="00:00:17.670" style="s2">sie bieten<span style="s3"> mir</span> die gelegenheit ihr in</p>
+<p begin="00:00:16.320" end="00:00:19.800" style="s2">den letzten wochen<span style="s4"> beschlossen des</span></p>
+<p begin="00:00:17.670" end="00:00:21.630" style="s2">sozialstaats<span style="s3"> papier</span> und auch das starke</p>
+<p begin="00:00:19.800" end="00:00:22.740" style="s2"><span style="s4">familiengesetz</span> mit der realität</p>
+<p begin="00:00:21.630" end="00:00:26.039" style="s2">abzugleichen</p>
+<p begin="00:00:22.740" end="00:00:28.830" style="s2">schlechte zeiten für die spd denn die</p>
+<p begin="00:00:26.039" end="00:00:31.289" style="s2">familien haben schon erkannt dass sie</p>
+<p begin="00:00:28.830" end="00:00:34.969" style="s2">die hoffnung aufgeben können von der spd</p>
+<p begin="00:00:31.289" end="00:00:38.489" style="s2"><span style="s3">eine</span> wende zum guten zu erwarten</p>
+<p begin="00:00:34.969" end="00:00:40.110" style="s2">familien<span style="s4"> familienleben</span> nicht<span style="s3"> von</span></p>
+<p begin="00:00:38.489" end="00:00:41.879" style="s2">durchsichtigen populistischen</p>
+<p begin="00:00:40.110" end="00:00:44.969" style="s2">versprechungen und auch nicht von</p>
+<p begin="00:00:41.879" end="00:00:47.219" style="s2">gesetzen die mogelpackungen sind<span style="s3"> das</span></p>
+<p begin="00:00:44.969" end="00:00:49.350" style="s2">starke familien gesetz ist nun der</p>
+<p begin="00:00:47.219" end="00:00:52.129" style="s2">angekündigte große<span style="s4"> wurf</span> einer<span style="s3"> der</span></p>
+<p begin="00:00:49.350" end="00:00:55.140" style="s2">zahllosen der sozialdemokratie für</p>
+<p begin="00:00:52.129" end="00:00:57.840" style="s2">familien wir müssen leider wieder sagen</p>
+<p begin="00:00:55.140" end="00:00:59.550" style="s2">es ist eine mogelpackung bisher sind wie</p>
+<p begin="00:00:57.840" end="00:01:01.649" style="s2">gesagt nur 30 prozent aller</p>
+<p begin="00:00:59.550" end="00:01:03.780" style="s2">anspruchsberechtigten auch in der lage</p>
+<p begin="00:01:01.649" end="00:01:05.330" style="s2">den anspruch wahrzunehmen einer der</p>
+<p begin="00:01:03.780" end="00:01:06.600" style="s2">gründe dafür der hohe bürokratische</p>
+<p begin="00:01:05.330" end="00:01:08.760" style="s2">aufwand</p>
+<p begin="00:01:06.600" end="00:01:13.409" style="s2">dies sollte mit dem starke familien</p>
+<p begin="00:01:08.760" end="00:01:15.689" style="s2">gesetz geändert werden<span style="s3"> das</span> hat frau</p>
+<p begin="00:01:13.409" end="00:01:17.970" style="s2">ministerin<span style="s4"> giffey</span><span style="s3"> auch</span> definiert was ein</p>
+<p begin="00:01:15.689" end="00:01:20.250" style="s2">großer wurf für die spd ist zeigen</p>
+<p begin="00:01:17.970" end="00:01:22.560" style="s2"><span style="s4">einschlägige</span> anfragen tatsächlich geht</p>
+<p begin="00:01:20.250" end="00:01:26.430" style="s2">man von einer steigerung im ersten</p>
+<p begin="00:01:22.560" end="00:01:29.189" style="s2">umlauf von<span style="s4"> fünf</span> prozentpunkten aus<span style="s4"> das</span></p>
+<p begin="00:01:26.430" end="00:01:30.720" style="s2">ist realpolitik der sozialdemokratie das</p>
+<p begin="00:01:29.189" end="00:01:32.790" style="s2">ist die politik die sie unter die</p>
+<p begin="00:01:30.720" end="00:01:36.780" style="s2"><span style="s4">fünf-prozent-hürde</span><span style="s3"> führt</span> meine damen und</p>
+<p begin="00:01:32.790" end="00:01:39.119" style="s2">herren<span style="s3"> mit der letzten vorgestellten</span></p>
+<p begin="00:01:36.780" end="00:01:40.250" style="s2">reform von<span style="s3"> hartz</span><span style="s4"> 4</span> wollen sie sich</p>
+<p begin="00:01:39.119" end="00:01:41.850" style="s2">offensichtlich für ihre</p>
+<p begin="00:01:40.250" end="00:01:44.520" style="s2"><span style="s3">parteifunktionäre</span> den weg in die</p>
+<p begin="00:01:41.850" end="00:01:47.720" style="s2">arbeitslosigkeit<span style="s3"> ebenen das muss</span><span style="s4"> ja</span></p>
+<p begin="00:01:44.520" end="00:01:47.720" style="s2">festgestellt werden</p>
+<p begin="00:01:47.780" end="00:01:53.220" style="s2"><span style="s3">alleinerziehende und damit befinden wir</span></p>
+<p begin="00:01:50.280" end="00:01:54.560" style="s2">uns auch im rahmen dessen was auch die</p>
+<p begin="00:01:53.220" end="00:01:57.300" style="s2">entsprechenden verbände sagen</p>
+<p begin="00:01:54.560" end="00:01:59.490" style="s2">profitieren wenig bis gar nicht von der</p>
+<p begin="00:01:57.300" end="00:02:01.410" style="s2">reform des kinderzuschlags auch hier</p>
+<p begin="00:01:59.490" end="00:02:03.510" style="s2">wurde das versprechen der spd nicht</p>
+<p begin="00:02:01.410" end="00:02:05.970" style="s2">eingelöst<span style="s3"> alleinerziehende</span> sind</p>
+<p begin="00:02:03.510" end="00:02:08.610" style="s2">überwiegend frauen frauen schaffen<span style="s3"> das</span></p>
+<p begin="00:02:05.970" end="00:02:11.160" style="s2">ja frauen müssen auch unter der spd viel</p>
+<p begin="00:02:08.610" end="00:02:13.230" style="s2">schaffen denn sie kämpfen allein gegen</p>
+<p begin="00:02:11.160" end="00:02:15.300" style="s2">wirtschaftliche not leider haben sie</p>
+<p begin="00:02:13.230" end="00:02:17.700" style="s2">frau<span style="s4"> gefalle</span><span style="s3"> es nicht geschafft diesen</span></p>
+<p begin="00:02:15.300" end="00:02:19.920" style="s2">starken frauen auch ein starkes gesetz</p>
+<p begin="00:02:17.700" end="00:02:23.030" style="s2">zur unterstützung zur seite zu stellen</p>
+<p begin="00:02:19.920" end="00:02:23.030" style="s2">das wäre ihre pflicht gewesen</p>
+<p begin="00:02:23.060" end="00:02:29.400" style="s2">die<span style="s3"> afg</span> begrüßt ausdrücklich<span style="s4"> dass</span> freie</p>
+<p begin="00:02:27.540" end="00:02:31.230" style="s2">schulessen die abschaffung des</p>
+<p begin="00:02:29.400" end="00:02:32.550" style="s2">eigenanteils bei der schülerbeförderung</p>
+<p begin="00:02:31.230" end="00:02:33.510" style="s2">im rahmen der<span style="s4"> bildungs-</span> und</p>
+<p begin="00:02:32.550" end="00:02:37.020" style="s2">teilhabepaket</p>
+<p begin="00:02:33.510" end="00:02:38.010" style="s2">aber auch bei diesen paketen<span style="s3"> klafft</span></p>
+<p begin="00:02:37.020" end="00:02:39.660" style="s2">zwischen<span style="s3"> der</span> zahl der</p>
+<p begin="00:02:38.010" end="00:02:41.840" style="s2">anspruchsberechtigten und der</p>
+<p begin="00:02:39.660" end="00:02:45.060" style="s2">leistungsbezieher eine erhebliche lücke</p>
+<p begin="00:02:41.840" end="00:02:47.190" style="s2"><span style="s3">auch</span> dieses falsch betitelte stärkung</p>
+<p begin="00:02:45.060" end="00:02:47.760" style="s2">oder starkes gesetz wird daran nichts</p>
+<p begin="00:02:47.190" end="00:02:50.730" style="s2">ändern</p>
+<p begin="00:02:47.760" end="00:02:52.830" style="s2">für deutsche familien ist die teilhabe</p>
+<p begin="00:02:50.730" end="00:02:56.310" style="s2">ja für deutsche familien ist die</p>
+<p begin="00:02:52.830" end="00:02:57.810" style="s2">teilhabe an dieser an diesen<span style="s3"> dingen</span></p>
+<p begin="00:02:56.310" end="00:03:01.620" style="s2">nämlich mit einem hohen maß an</p>
+<p begin="00:02:57.810" end="00:03:04.739" style="s2">bürokratie verbunden anders sieht diese</p>
+<p begin="00:03:01.620" end="00:03:07.500" style="s2">teilhabe für diejenigen menschen aus die</p>
+<p begin="00:03:04.739" end="00:03:08.310" style="s2">sie zeit 2015 in deutschland willkommen</p>
+<p begin="00:03:07.500" end="00:03:11.459" style="s2"><span style="s3">heißen</span></p>
+<p begin="00:03:08.310" end="00:03:13.920" style="s2">deutsche familien werden nämlich nicht</p>
+<p begin="00:03:11.459" end="00:03:16.230" style="s2">bei der ausfüllung der formulare</p>
+<p begin="00:03:13.920" end="00:03:18.060" style="s2">unterstützt und das zeigt sich auch in</p>
+<p begin="00:03:16.230" end="00:03:19.500" style="s2">den einschlägigen zahlen</p>
+<p begin="00:03:18.060" end="00:03:21.690" style="s2">die zahlen die nach dem</p>
+<p begin="00:03:19.500" end="00:03:24.090" style="s2">asylbewerberleistungsgesetz bewilligt</p>
+<p begin="00:03:21.690" end="00:03:27.680" style="s2">werden sind deutlich höher als die<span style="s3"> die</span></p>
+<p begin="00:03:24.090" end="00:03:29.550" style="s2">nach dem entsprechenden sozialgesetzbuch</p>
+<p begin="00:03:27.680" end="00:03:31.920" style="s2"><span style="s3">bewilligt</span> werden und das muss hier</p>
+<p begin="00:03:29.550" end="00:03:35.070" style="s2">festgestellt werden das betrifft sowohl</p>
+<p begin="00:03:31.920" end="00:03:38.730" style="s2">die schulausflüge<span style="s3"> das</span> betrifft die</p>
+<p begin="00:03:35.070" end="00:03:40.350" style="s2">lernförderung das betrifft alle fragen</p>
+<p begin="00:03:38.730" end="00:03:43.170" style="s2">in diesem bereich und hier sieht man</p>
+<p begin="00:03:40.350" end="00:03:45.490" style="s2">ganz deutlich wem die spd in deutschland</p>
+<p begin="00:03:43.170" end="00:03:50.260" style="s2">fördert es sind nicht die schon länger</p>
+<p begin="00:03:45.490" end="00:03:53.470" style="s2"><span style="s4">meine</span> damen<span style="s4"> und</span> herren eine bessere</p>
+<p begin="00:03:50.260" end="00:03:55.270" style="s2">zukunft für deutsche familien und schon</p>
+<p begin="00:03:53.470" end="00:03:57.010" style="s2">länger hier lebende auch ausländische</p>
+<p begin="00:03:55.270" end="00:04:00.400" style="s2">familien gibt es mit dieser regierung</p>
+<p begin="00:03:57.010" end="00:04:02.350" style="s2">nicht gibt s nicht<span style="s3"> mit</span> der spd und gibt</p>
+<p begin="00:04:00.400" end="00:04:05.110" style="s2">es leider auch nicht mit ihnen frau</p>
+<p begin="00:04:02.350" end="00:04:08.890" style="s2">ministerin ihre amtszeit ist leider</p>
+<p begin="00:04:05.110" end="00:04:11.440" style="s2">geprägt von mogelpackungen<span style="s4"> das</span> gute kita</p>
+<p begin="00:04:08.890" end="00:04:13.930" style="s2">gesetz macht<span style="s4"> keine guten kitas dass</span></p>
+<p begin="00:04:11.440" end="00:04:15.760" style="s2"><span style="s3">familien</span> entlastungsgesetz entlastet die</p>
+<p begin="00:04:13.930" end="00:04:19.450" style="s2"><span style="s3">familien nicht im hinreichenden umfang</span></p>
+<p begin="00:04:15.760" end="00:04:21.880" style="s2"><span style="s3">das</span> starke<span style="s3"> familien gesetz stärkt die</span></p>
+<p begin="00:04:19.450" end="00:04:24.820" style="s2">familien nicht hinreichend frau</p>
+<p begin="00:04:21.880" end="00:04:26.890" style="s2">ministerin ich<span style="s3"> muss</span> sie und die spd</p>
+<p begin="00:04:24.820" end="00:04:31.230" style="s2">leider zum verdachtsfall für</p>
+<p begin="00:04:26.890" end="00:04:31.230" style="s2">mogelpackungen erklären<span style="s3"> vielen</span><span style="s4"> dank</span></p>
+<p begin="00:04:33.370" end="00:04:40.770" style="s2">jetzt<span style="s3"> kanal</span> abonnieren und nicht</p>
+<p begin="00:04:36.040" end="00:04:40.770" style="s2">vergessen benachrichtigungen aktivieren</p>
+</div>
+</body>
+</tt>

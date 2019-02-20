@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.290" end="00:00:05.069" style="s2"><span style="s3">der</span> präsident sehr geehrte damen und</p>
+<p begin="00:00:02.520" end="00:00:06.870" style="s2">herren<span style="s4"> wohnungs</span> und obdachlosigkeit</p>
+<p begin="00:00:05.069" end="00:00:08.610" style="s2"><span style="s4">mitkämpfen</span><span style="s3"> zwangsräumung</span> verhindern</p>
+<p begin="00:00:06.870" end="00:00:09.389" style="s2"><span style="s3">menschenrecht auf wohnen</span><span style="s4"> dauerhaft</span></p>
+<p begin="00:00:08.610" end="00:00:11.490" style="s2">sicherstellen</p>
+<p begin="00:00:09.389" end="00:00:13.320" style="s2">für die fraktion die linke und bündnis</p>
+<p begin="00:00:11.490" end="00:00:14.730" style="s2"><span style="s4">90 die grünen ich habe mir das mal</span></p>
+<p begin="00:00:13.320" end="00:00:17.490" style="s2"><span style="s4">durchgelesen und habe</span> dann ein neuer</p>
+<p begin="00:00:14.730" end="00:00:19.820" style="s2">überschrift für sie gefunden ich würde</p>
+<p begin="00:00:17.490" end="00:00:21.630" style="s2">schreiben<span style="s4"> sozialneid</span><span style="s3"> türen</span> und</p>
+<p begin="00:00:19.820" end="00:00:23.789" style="s2"><span style="s3">eigeninitiative</span> verhindern und das würde</p>
+<p begin="00:00:21.630" end="00:00:25.680" style="s2"><span style="s3">ich</span> über diesen antrag<span style="s4"> schreibt</span><span style="s3"> meine</span></p>
+<p begin="00:00:23.789" end="00:00:29.400" style="s2">damen und herren<span style="s3"> so</span> könnte<span style="s3"> man</span> das sehen</p>
+<p begin="00:00:25.680" end="00:00:31.380" style="s2">wir wissen<span style="s3"> alle</span> dass<span style="s3"> mietverträge</span> und</p>
+<p begin="00:00:29.400" end="00:00:33.480" style="s2">auch arbeitsverträge<span style="s4"> besondere</span><span style="s3"> verträge</span></p>
+<p begin="00:00:31.380" end="00:00:34.890" style="s2">sind da man keine gleichstellung<span style="s4"> kein</span></p>
+<p begin="00:00:33.480" end="00:00:36.930" style="s2"><span style="s3">augen</span> auf augenhöhe</p>
+<p begin="00:00:34.890" end="00:00:38.760" style="s2">das ist auch richtig so das ist ein</p>
+<p begin="00:00:36.930" end="00:00:40.260" style="s2">besonderer vertrag aber trotzdem meine</p>
+<p begin="00:00:38.760" end="00:00:42.750" style="s2">damen und herren sie<span style="s4"> bedienen wieder mal</span></p>
+<p begin="00:00:40.260" end="00:00:45.059" style="s2">das klischee der raffgierige<span style="s3"> vermieter</span></p>
+<p begin="00:00:42.750" end="00:00:46.320" style="s2">und ausgebeutete<span style="s3"> mieter</span> so ist dass die</p>
+<p begin="00:00:45.059" end="00:00:47.850" style="s2">meisten fällen ist es eine</p>
+<p begin="00:00:46.320" end="00:00:49.350" style="s2"><span style="s3">sozialpartnerschaft</span> die<span style="s3"> wir</span> auch</p>
+<p begin="00:00:47.850" end="00:00:50.820" style="s2">gebrauchen aber das kommt in ihrem</p>
+<p begin="00:00:49.350" end="00:00:53.550" style="s2">antrag wieder mal nicht zum ausdruck</p>
+<p begin="00:00:50.820" end="00:00:55.079" style="s2">viele müssen wir<span style="s3"> zu hören viele jahre</span></p>
+<p begin="00:00:53.550" end="00:00:56.969" style="s2">müssen die leute<span style="s3"> ansparen um eigentümer</span></p>
+<p begin="00:00:55.079" end="00:00:58.680" style="s2"><span style="s3">werden</span> und manche wollen das nicht und</p>
+<p begin="00:00:56.969" end="00:01:00.660" style="s2">wollen zur miete<span style="s4"> wohnen</span> das ist eine</p>
+<p begin="00:00:58.680" end="00:01:01.649" style="s2">eigenständige entscheidung die jeder für</p>
+<p begin="00:01:00.660" end="00:01:04.229" style="s2">sich selbst treffen</p>
+<p begin="00:01:01.649" end="00:01:06.119" style="s2">die hohe an spardisziplin und auch</p>
+<p begin="00:01:04.229" end="00:01:08.159" style="s2">unternehmerisches risiko mietausfall</p>
+<p begin="00:01:06.119" end="00:01:10.110" style="s2">durch nicht bedienen der annuitäten kann</p>
+<p begin="00:01:08.159" end="00:01:11.159" style="s2">viele vermieter auch in den ruin treibt</p>
+<p begin="00:01:10.110" end="00:01:13.409" style="s2">meine damen und herren</p>
+<p begin="00:01:11.159" end="00:01:15.090" style="s2">und<span style="s4"> das</span> wie gesagt sollte man dabei auch</p>
+<p begin="00:01:13.409" end="00:01:17.700" style="s2">wenn man diese prognose<span style="s3"> angreift</span></p>
+<p begin="00:01:15.090" end="00:01:19.140" style="s2"><span style="s4">mitbedenken sie machen hier einen</span></p>
+<p begin="00:01:17.700" end="00:01:21.720" style="s2">rundumschlag von gründen für</p>
+<p begin="00:01:19.140" end="00:01:23.939" style="s2">wohnungslosigkeit ohne die ursachen zu</p>
+<p begin="00:01:21.720" end="00:01:25.170" style="s2">unterscheiden<span style="s3"> machen</span> sie<span style="s3"> nicht</span> sie nennt</p>
+<p begin="00:01:23.939" end="00:01:27.420" style="s2">zum beispiel<span style="s4"> überschuldungen</span></p>
+<p begin="00:01:25.170" end="00:01:28.500" style="s2">insbesondere mietschulden ja wo liegt</p>
+<p begin="00:01:27.420" end="00:01:30.270" style="s2"><span style="s3">hier</span> die besonderheit oder</p>
+<p begin="00:01:28.500" end="00:01:32.090" style="s2">rechtfertigung mietschulden anders zu</p>
+<p begin="00:01:30.270" end="00:01:34.259" style="s2">bewerten oder zu bagatellisieren</p>
+<p begin="00:01:32.090" end="00:01:35.490" style="s2"><span style="s3">gegenüber</span> anderen schulden für schulden</p>
+<p begin="00:01:34.259" end="00:01:37.380" style="s2"><span style="s4">das</span> grundsätzlich als bester schuldner</p>
+<p begin="00:01:35.490" end="00:01:40.740" style="s2">zuständig ist<span style="s4"> verträgt</span> das<span style="s3"> ist</span><span style="s4"> nun mal</span></p>
+<p begin="00:01:37.380" end="00:01:42.799" style="s2"><span style="s3">so</span> meine damen und herren<span style="s4"> 21</span><span style="s3"> der</span></p>
+<p begin="00:01:40.740" end="00:01:45.360" style="s2">vermieter hat nicht die aufgabe</p>
+<p begin="00:01:42.799" end="00:01:46.880" style="s2">staatliche soziale aufgaben zu</p>
+<p begin="00:01:45.360" end="00:01:49.049" style="s2">übernehmen<span style="s3"> das</span> haben<span style="s3"> wir</span> nicht</p>
+<p begin="00:01:46.880" end="00:01:50.610" style="s2"><span style="s3">arbeitsplatzverlust</span> krankheiten führen</p>
+<p begin="00:01:49.049" end="00:01:53.189" style="s2">sie<span style="s3"> auf</span><span style="s4"> während</span> in deutschland</p>
+<p begin="00:01:50.610" end="00:01:54.720" style="s2"><span style="s3">grundsätzlich</span> auch sozial abgefedert</p>
+<p begin="00:01:53.189" end="00:01:56.759" style="s2">auch hier ist nicht der vertragspartner</p>
+<p begin="00:01:54.720" end="00:01:59.369" style="s2">verantwortlich sondern<span style="s4"> ein</span></p>
+<p begin="00:01:56.759" end="00:02:00.630" style="s2">unser sozialsystem wenn überhaupt sie</p>
+<p begin="00:01:59.369" end="00:02:02.579" style="s2">nennen weiter die trennung vom</p>
+<p begin="00:02:00.630" end="00:02:04.320" style="s2">lebenspartner<span style="s3"> frage</span> ich mich wieso hier</p>
+<p begin="00:02:02.579" end="00:02:05.700" style="s2">die gesellschaft verantwortung zu ziehen</p>
+<p begin="00:02:04.320" end="00:02:07.140" style="s2"><span style="s4">ist</span><span style="s3"> mit</span><span style="s4"> wohnung</span><span style="s3"> das</span> wissen die beiden</p>
+<p begin="00:02:05.700" end="00:02:08.630" style="s2"><span style="s4">mal</span> selber klären<span style="s4"> und</span> die<span style="s4"> trauer</span> wie</p>
+<p begin="00:02:07.140" end="00:02:10.490" style="s2"><span style="s3">viel drin wohnen</span></p>
+<p begin="00:02:08.630" end="00:02:11.810" style="s2">meine damen und herren<span style="s3"> das hat vorher</span></p>
+<p begin="00:02:10.490" end="00:02:13.730" style="s2">geklappt auch hinterher</p>
+<p begin="00:02:11.810" end="00:02:15.740" style="s2">sie nennen den<span style="s3"> mangel</span><span style="s4"> und</span> erstmal zu</p>
+<p begin="00:02:13.730" end="00:02:17.450" style="s2">jetzt sie denn<span style="s4"> dem</span><span style="s3"> mangel</span> an bezahlbaren</p>
+<p begin="00:02:15.740" end="00:02:19.100" style="s2">wohnraum<span style="s3"> und</span> da<span style="s3"> kann</span> man natürlich</p>
+<p begin="00:02:17.450" end="00:02:20.840" style="s2">system<span style="s3"> was</span><span style="s4"> meinen</span><span style="s3"> kollegen</span><span style="s4"> wollen</span> schon</p>
+<p begin="00:02:19.100" end="00:02:22.670" style="s2">gesagt hat<span style="s4"> wer</span><span style="s3"> ist</span> denn<span style="s3"> für</span> diese</p>
+<p begin="00:02:20.840" end="00:02:24.500" style="s2">kostenexplosion verantwortlich</p>
+<p begin="00:02:22.670" end="00:02:26.630" style="s2"><span style="s3">das sind</span><span style="s4"> sie ja</span><span style="s3"> mitverantwortlich</span><span style="s4"> dafür</span></p>
+<p begin="00:02:24.500" end="00:02:28.880" style="s2">mit ihrer multinationalen<span style="s4"> truppen</span></p>
+<p begin="00:02:26.630" end="00:02:30.320" style="s2"><span style="s3">politik</span> auf dem rücken der einheitlichen</p>
+<p begin="00:02:28.880" end="00:02:33.700" style="s2">bevölkerung<span style="s4"> wir</span> glauben sie denn</p>
+<p begin="00:02:30.320" end="00:02:36.560" style="s2">wirklich meine damen und herren</p>
+<p begin="00:02:33.700" end="00:02:38.210" style="s2">denn hunderttausende<span style="s3"> sie</span><span style="s4"> könnten noch</span></p>
+<p begin="00:02:36.560" end="00:02:39.830" style="s2"><span style="s4">nicht</span> mal<span style="s3"> rächt</span> er<span style="s4"> mit</span><span style="s3"> 100000</span> in das</p>
+<p begin="00:02:38.210" end="00:02:41.090" style="s2">land<span style="s4"> strömen</span> wo<span style="s4"> sollen</span><span style="s3"> die wohnung</span></p>
+<p begin="00:02:39.830" end="00:02:42.200" style="s2">kommen<span style="s3"> da</span> nicht schlagartig wie<span style="s3"> krass</span></p>
+<p begin="00:02:41.090" end="00:02:42.530" style="s2">aus der erde wie stellen sie<span style="s3"> sich</span> das</p>
+<p begin="00:02:42.200" end="00:02:44.390" style="s2">vor</p>
+<p begin="00:02:42.530" end="00:02:46.190" style="s2">ein bisschen gebaut werden dann nehmen</p>
+<p begin="00:02:44.390" end="00:02:47.600" style="s2">sie auch noch<span style="s3"> der</span> leute aus der<span style="s3"> 1</span></p>
+<p begin="00:02:46.190" end="00:02:49.070" style="s2"><span style="s4">wie</span> wollen sie auch noch haben<span style="s3"> dass</span><span style="s4"> sich</span></p>
+<p begin="00:02:47.600" end="00:02:50.960" style="s2"><span style="s3">innert drei monaten</span><span style="s4"> ich schreibe bloß</span></p>
+<p begin="00:02:49.070" end="00:02:52.460" style="s2"><span style="s4">man antrag</span><span style="s3"> ich</span> suche arbeit<span style="s3"> und</span><span style="s4"> das</span></p>
+<p begin="00:02:50.960" end="00:02:54.080" style="s2"><span style="s3">sollen</span> die gleichen rechte<span style="s4"> reinkommen</span></p>
+<p begin="00:02:52.460" end="00:02:56.120" style="s2"><span style="s3">also</span> sie haben irgendwie irgendwie noch</p>
+<p begin="00:02:54.080" end="00:02:57.410" style="s2"><span style="s3">euren weg vom geldbeutel</span><span style="s4"> den</span> sich</p>
+<p begin="00:02:56.120" end="00:02:57.950" style="s2">ständig auf machen können und das zu</p>
+<p begin="00:02:57.410" end="00:03:00.080" style="s2">bezahlen</p>
+<p begin="00:02:57.950" end="00:03:01.250" style="s2">geschätzt geht<span style="s4"> das in viele milliarden</span></p>
+<p begin="00:03:00.080" end="00:03:03.440" style="s2">meine damen und herren</p>
+<p begin="00:03:01.250" end="00:03:05.480" style="s2">gerade diese personengruppe<span style="s4"> dich</span> eben</p>
+<p begin="00:03:03.440" end="00:03:06.770" style="s2">genannt habe die jetzt zu uns geströmt</p>
+<p begin="00:03:05.480" end="00:03:08.270" style="s2">sind<span style="s3"> oder</span> immer noch strömen</p>
+<p begin="00:03:06.770" end="00:03:09.620" style="s2"><span style="s4">die</span> wollen aber auch nicht im ländlichen</p>
+<p begin="00:03:08.270" end="00:03:11.600" style="s2">raum ziehen dort haben wir nämlich</p>
+<p begin="00:03:09.620" end="00:03:13.550" style="s2">unheimlich viel leerstand meine damen</p>
+<p begin="00:03:11.600" end="00:03:15.560" style="s2">und herren<span style="s4"> nein sie wollen natürlich</span></p>
+<p begin="00:03:13.550" end="00:03:17.180" style="s2">alle in die städte ziehen und haben sie</p>
+<p begin="00:03:15.560" end="00:03:18.470" style="s2">mit ihrer mietpreis friends<span style="s3"> on</span> campus</p>
+<p begin="00:03:17.180" end="00:03:20.390" style="s2"><span style="s4">kein soll noch</span><span style="s3"> ein</span> anreiz<span style="s4"> geschaffen</span></p>
+<p begin="00:03:18.470" end="00:03:21.920" style="s2">obwohl<span style="s4"> es so schön</span> dicht besiedelt ist</p>
+<p begin="00:03:20.390" end="00:03:22.370" style="s2">klein sich die leute immer noch dort</p>
+<p begin="00:03:21.920" end="00:03:24.620" style="s2">rein</p>
+<p begin="00:03:22.370" end="00:03:26.870" style="s2">anstatt den ländlichen raum zu stärken</p>
+<p begin="00:03:24.620" end="00:03:28.490" style="s2">nein sie müssen ländlichen<span style="s3"> raum</span><span style="s4"> stern</span></p>
+<p begin="00:03:26.870" end="00:03:29.960" style="s2">das<span style="s4"> betreiben</span><span style="s3"> sie</span> nicht und da müssen</p>
+<p begin="00:03:28.490" end="00:03:31.280" style="s2">sie den stärken und nicht noch die</p>
+<p begin="00:03:29.960" end="00:03:33.050" style="s2">überfüllten<span style="s3"> gebiete</span> mit diesen</p>
+<p begin="00:03:31.280" end="00:03:33.830" style="s2">instrumenten<span style="s3"> meine</span> damen und herren<span style="s4"> das</span></p>
+<p begin="00:03:33.050" end="00:03:35.780" style="s2"><span style="s4">ist</span><span style="s3"> entscheidend</span></p>
+<p begin="00:03:33.830" end="00:03:37.459" style="s2">wo sollen<span style="s3"> denn</span> die<span style="s3"> wohnung her</span><span style="s4"> kommt</span></p>
+<p begin="00:03:35.780" end="00:03:38.750" style="s2">meine damen und herren und warum solche</p>
+<p begin="00:03:37.459" end="00:03:40.280" style="s2"><span style="s3">deutsche</span> bevölkerung die<span style="s3"> wohnungen</span></p>
+<p begin="00:03:38.750" end="00:03:42.470" style="s2">wieder<span style="s3"> stemmen ist gar nicht einzusehen</span></p>
+<p begin="00:03:40.280" end="00:03:44.600" style="s2">meine damen und herren<span style="s3"> wir kommen jetzt</span></p>
+<p begin="00:03:42.470" end="00:03:46.610" style="s2">mal<span style="s3"> zu</span><span style="s4"> der mietsteigerungen wie</span> sie</p>
+<p begin="00:03:44.600" end="00:03:49.070" style="s2">überhaupt zustande<span style="s4"> gekommen</span> einmal haben</p>
+<p begin="00:03:46.610" end="00:03:50.570" style="s2"><span style="s4">erhöhten</span> baukosten<span style="s3"> haben</span> sie alle<span style="s3"> methan</span></p>
+<p begin="00:03:49.070" end="00:03:52.580" style="s2"><span style="s4">gewirkt</span><span style="s3"> tempo</span><span style="s4"> schriften</span></p>
+<p begin="00:03:50.570" end="00:03:54.890" style="s2"><span style="s3">energieeinsparverordnung</span> energieausweis</p>
+<p begin="00:03:52.580" end="00:03:56.390" style="s2"><span style="s4">so weiter und so weiter</span></p>
+<p begin="00:03:54.890" end="00:03:58.160" style="s2">das kostet alles geld das<span style="s3"> wieder</span></p>
+<p begin="00:03:56.390" end="00:03:59.690" style="s2"><span style="s3">umgelegt ich glaube das</span><span style="s4"> habe ich immer</span></p>
+<p begin="00:03:58.160" end="00:04:01.550" style="s2"><span style="s3">noch</span> nicht<span style="s3"> verstanden</span> dass ihre aktion</p>
+<p begin="00:03:59.690" end="00:04:02.360" style="s2">natürlich<span style="s4"> das bauen</span><span style="s3"> verteuert</span> haben</p>
+<p begin="00:04:01.550" end="00:04:05.920" style="s2">jeder beziehung</p>
+<p begin="00:04:02.360" end="00:04:05.920" style="s2"><span style="s4">daher</span><span style="s3"> solche</span> kuriositäten</p>
+<p begin="00:04:06.080" end="00:04:10.370" style="s2">meine damen und herren<span style="s3"> ich</span> habe<span style="s3"> genau</span></p>
+<p begin="00:04:07.820" end="00:04:12.550" style="s2">solche kuriositäten<span style="s4"> das</span><span style="s3"> stern</span> von<span style="s4"> öffnen</span></p>
+<p begin="00:04:10.370" end="00:04:14.870" style="s2"><span style="s3">heizungsanlagen angeblich</span><span style="s4"> überzogene</span></p>
+<p begin="00:04:12.550" end="00:04:16.220" style="s2"><span style="s4">abgaswerte</span> rausgeschmissen ganz<span style="s4"> normalen</span></p>
+<p begin="00:04:14.870" end="00:04:17.810" style="s2"><span style="s4">noch</span> funktionieren müssen alle</p>
+<p begin="00:04:16.220" end="00:04:19.610" style="s2">verschrottet werden<span style="s4"> jedoch neue</span><span style="s3"> ärzte</span></p>
+<p begin="00:04:17.810" end="00:04:21.860" style="s2"><span style="s4">bauen wir herstellen</span><span style="s3"> wunderbare</span></p>
+<p begin="00:04:19.610" end="00:04:24.400" style="s2">planungen auch umweltkosten<span style="s3"> meine</span> damen</p>
+<p begin="00:04:21.860" end="00:04:27.500" style="s2">und herren noch<span style="s4"> einmal</span> alles zum thema</p>
+<p begin="00:04:24.400" end="00:04:29.270" style="s2">nebenkosten sind keine mietkosten das</p>
+<p begin="00:04:27.500" end="00:04:31.370" style="s2">sind keine mietkosten können sie sich</p>
+<p begin="00:04:29.270" end="00:04:33.770" style="s2">auch mal an höheren nebenkosten<span style="s3"> abgaben</span></p>
+<p begin="00:04:31.370" end="00:04:36.800" style="s2">auf<span style="s3"> sind</span> abgaben<span style="s3"> die</span> der<span style="s3"> staat</span> teilweise</p>
+<p begin="00:04:33.770" end="00:04:38.840" style="s2"><span style="s3">mit zu verantworten hat</span><span style="s4"> haben</span> die</p>
+<p begin="00:04:36.800" end="00:04:41.630" style="s2"><span style="s4">energieabgaben</span> die umsatzsteuer die<span style="s4"> eeg</span></p>
+<p begin="00:04:38.840" end="00:04:44.210" style="s2"><span style="s4">umlage</span> auf strom und gas und das macht</p>
+<p begin="00:04:41.630" end="00:04:46.370" style="s2">im monat pro haushalt bis 80<span style="s3"> euro</span><span style="s4"> aus</span></p>
+<p begin="00:04:44.210" end="00:04:47.870" style="s2"><span style="s4">man damit könnte man</span><span style="s3"> auch</span> sparen wenn</p>
+<p begin="00:04:46.370" end="00:04:49.070" style="s2">man das mal zurück<span style="s3"> fahren</span> würde</p>
+<p begin="00:04:47.870" end="00:04:51.860" style="s2">meine damen<span style="s4"> und</span> herren<span style="s4"> ich</span><span style="s3"> mal</span><span style="s4"> drüber</span></p>
+<p begin="00:04:49.070" end="00:04:54.110" style="s2">nachdenken<span style="s4"> sie wollen eine</span><span style="s3"> erleichterung</span></p>
+<p begin="00:04:51.860" end="00:04:57.560" style="s2">der zwangsräumung aufheben wollte</p>
+<p begin="00:04:54.110" end="00:04:59.210" style="s2"><span style="s4">einschränkt aber für</span> den bürger der ein</p>
+<p begin="00:04:57.560" end="00:05:02.210" style="s2">getrenntes<span style="s3"> verhinderte</span> altersvorsorge</p>
+<p begin="00:04:59.210" end="00:05:03.470" style="s2">investiert hat<span style="s4"> ja</span> da haben<span style="s4"> sie</span> nichts</p>
+<p begin="00:05:02.210" end="00:05:04.400" style="s2">übrig<span style="s4"> wird</span><span style="s3"> erinnern</span> sie nicht über</p>
+<p begin="00:05:03.470" end="00:05:06.680" style="s2">interessiert sie nicht</p>
+<p begin="00:05:04.400" end="00:05:08.030" style="s2"><span style="s4">ich kann sie</span> nicht<span style="s4"> verstand</span><span style="s3"> nicht</span> da</p>
+<p begin="00:05:06.680" end="00:05:09.380" style="s2">kann durch die<span style="s4"> heimischen fahrer</span><span style="s3"> den</span></p>
+<p begin="00:05:08.030" end="00:05:11.450" style="s2">ruin getrieben werden ist für sie auch</p>
+<p begin="00:05:09.380" end="00:05:13.790" style="s2"><span style="s4">in so fand</span> sie machen hier eine</p>
+<p begin="00:05:11.450" end="00:05:15.410" style="s2">angeblich soziale welle wodurch</p>
+<p begin="00:05:13.790" end="00:05:16.730" style="s2"><span style="s3">ausgrenzung</span><span style="s4"> lehrer</span> die allein<span style="s4"> dem</span><span style="s3"> wohl</span></p>
+<p begin="00:05:15.410" end="00:05:18.169" style="s2"><span style="s4">erst</span> geschaffen haben</p>
+<p begin="00:05:16.730" end="00:05:21.380" style="s2"><span style="s3">wie</span> grenzen<span style="s3"> sie aus meine damen und</span></p>
+<p begin="00:05:18.169" end="00:05:26.780" style="s2">herren<span style="s4"> die</span> forderung begrenzung des</p>
+<p begin="00:05:21.380" end="00:05:28.340" style="s2">mietpreises<span style="s4"> und</span> herren<span style="s4"> der</span><span style="s3"> übernimmt</span></p>
+<p begin="00:05:26.780" end="00:05:30.400" style="s2">denn die steigenden auch durch die</p>
+<p begin="00:05:28.340" end="00:05:33.500" style="s2">politik verursacht kosten</p>
+<p begin="00:05:30.400" end="00:05:34.640" style="s2">er sollte<span style="s3"> übernehmen</span> wenn sie das<span style="s3"> dem</span></p>
+<p begin="00:05:33.500" end="00:05:36.110" style="s2">vermieter<span style="s4"> aufdrücken</span></p>
+<p begin="00:05:34.640" end="00:05:37.610" style="s2">dann wird die attraktivität der</p>
+<p begin="00:05:36.110" end="00:05:39.169" style="s2">vermietung natürlich<span style="s3"> zurückgehen</span><span style="s4"> wird</span></p>
+<p begin="00:05:37.610" end="00:05:40.580" style="s2"><span style="s3">weniger angebot geben aber das müsste</span></p>
+<p begin="00:05:39.169" end="00:05:41.750" style="s2">selbst<span style="s3"> ihn</span> ein leuchten aber da habe ich</p>
+<p begin="00:05:40.580" end="00:05:43.940" style="s2">so meine<span style="s3"> probleme zieht das</span></p>
+<p begin="00:05:41.750" end="00:05:46.180" style="s2">nachvollziehen können<span style="s4"> meine damen und</span></p>
+<p begin="00:05:43.940" end="00:05:48.850" style="s2"><span style="s4">herren berger achten sie bitte auf die</span><span style="s3"> 2</span></p>
+<p begin="00:05:46.180" end="00:05:49.900" style="s2">und sie zum<span style="s4"> samt die ich</span> zurück die</p>
+<p begin="00:05:48.850" end="00:05:51.340" style="s2"><span style="s4">linken</span> meine damen und herren sie haben</p>
+<p begin="00:05:49.900" end="00:05:54.460" style="s2">doch beklagt den sozialen wohnungsbau</p>
+<p begin="00:05:51.340" end="00:05:57.039" style="s2"><span style="s4">zurückgegangen</span> oder<span style="s3"> städtische</span> 2013</p>
+<p begin="00:05:54.460" end="00:05:59.410" style="s2"><span style="s4">erstmals 2000 jahren müssen sie bitte</span></p>
+<p begin="00:05:57.039" end="00:06:01.180" style="s2">jetzt im ausschuss<span style="s3"> kein</span><span style="s4"> sieg ist</span><span style="s3"> mehr</span></p>
+<p begin="00:05:59.410" end="00:06:03.220" style="s2"><span style="s3">als</span><span style="s4"> nur den markt</span> eingenommen bei<span style="s4"> dem</span></p>
+<p begin="00:06:01.180" end="00:06:07.139" style="s2">verkauf aller dresdner<span style="s3"> sozialwohnung mit</span></p>
+<p begin="00:06:03.220" end="00:06:07.139" style="s2">den stimmen der linken recht vielen dank</p>
+<p begin="00:06:08.820" end="00:06:16.020" style="s2">jetzt<span style="s3"> kanal</span> abonnieren und nicht</p>
+<p begin="00:06:11.560" end="00:06:21.259" style="s2">vergessen benachrichtigungen aktivieren</p>
+<p begin="00:06:16.020" end="00:06:21.259" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

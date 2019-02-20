@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.540" end="00:00:06.780" style="s2">[Musik]</p>
+<p begin="00:00:10.660" end="00:00:26.089" style="s2">[Musik]</p>
+<p begin="00:00:22.289" end="00:00:28.050" style="s2">wir sind eskalation interessiert</p>
+<p begin="00:00:26.089" end="00:00:30.089" style="s2">handlungsfähigkeit zu zeigen</p>
+<p begin="00:00:28.050" end="00:00:34.860" style="s2">wir<span style="s3"> wollen</span> den<span style="s4"> richtigen augenmaß dafür</span></p>
+<p begin="00:00:30.089" end="00:00:41.240" style="s2">sorgen<span style="s4"> dass sowohl 1</span> politik machen</p>
+<p begin="00:00:34.860" end="00:00:41.240" style="s2">[Musik]</p>
+<p begin="00:00:42.050" end="00:00:48.770" style="s2">unser land hat sich gut<span style="s3"> entwickelt</span><span style="s4"> und</span></p>
+<p begin="00:00:45.079" end="00:00:51.079" style="s2"><span style="s4">das nicht mal</span><span style="s3"> über</span><span style="s4"> hin wobei werden</span></p>
+<p begin="00:00:48.770" end="00:00:55.500" style="s2">dann habe ich eine vision<span style="s4"> was sagst</span></p>
+<p begin="00:00:51.079" end="00:01:01.819" style="s2"><span style="s4">einheit das</span><span style="s3"> beispiel deutschland</span></p>
+<p begin="00:00:55.500" end="00:01:01.819" style="s2">[Musik]</p>
+<p begin="00:01:04.209" end="00:01:10.180" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

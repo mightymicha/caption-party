@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.230" style="s2">herr präsident verehrte<span style="s3"> kollegin</span><span style="s4"> ich</span> bin</p>
+<p begin="00:00:02.820" end="00:00:06.060" style="s2">dankbar dass wir diese familie<span style="s4"> war am</span></p>
+<p begin="00:00:04.230" end="00:00:08.040" style="s2"><span style="s4">tag der debatte heute auf</span> der</p>
+<p begin="00:00:06.060" end="00:00:11.400" style="s2">tagesordnung haben die vielen beispiele</p>
+<p begin="00:00:08.040" end="00:00:13.469" style="s2">zeigen wie nötig sie ist die stimmung in</p>
+<p begin="00:00:11.400" end="00:00:16.020" style="s2">der gesellschaft wird<span style="s4"> über</span> aufgeheizter</p>
+<p begin="00:00:13.469" end="00:00:17.820" style="s2">viel zu häufig mündet sie<span style="s3"> im</span> körperliche</p>
+<p begin="00:00:16.020" end="00:00:20.460" style="s2">gewalt gegen mandatsträger</p>
+<p begin="00:00:17.820" end="00:00:22.380" style="s2">ich denke hier exemplarisch vor allem an</p>
+<p begin="00:00:20.460" end="00:00:24.060" style="s2">den danziger bürgermeister adamovich der</p>
+<p begin="00:00:22.380" end="00:00:24.630" style="s2">einem schändlichen<span style="s3"> attentat</span> zum<span style="s4"> opfer</span></p>
+<p begin="00:00:24.060" end="00:00:26.789" style="s2"><span style="s3">fiel</span></p>
+<p begin="00:00:24.630" end="00:00:28.650" style="s2">kollegin lewandowski hat dazu alles</p>
+<p begin="00:00:26.789" end="00:00:30.840" style="s2">gesagt seien sie versichert die</p>
+<p begin="00:00:28.650" end="00:00:33.230" style="s2">betroffenheit reicht weit über polen</p>
+<p begin="00:00:30.840" end="00:00:36.840" style="s2">hinaus ich sage es in aller deutlichkeit</p>
+<p begin="00:00:33.230" end="00:00:38.730" style="s2">wir alle müssen jede form politisch</p>
+<p begin="00:00:36.840" end="00:00:42.239" style="s2">motivierter gewalt konsequent</p>
+<p begin="00:00:38.730" end="00:00:44.280" style="s2"><span style="s3">verurteilen</span> doch während und das<span style="s4"> muss</span></p>
+<p begin="00:00:42.239" end="00:00:47.430" style="s2">ich kritisieren rechtsextreme gewalt</p>
+<p begin="00:00:44.280" end="00:00:49.469" style="s2">völlig<span style="s3"> zurecht</span><span style="s4"> geächtet</span> wird<span style="s4"> wird</span></p>
+<p begin="00:00:47.430" end="00:00:52.469" style="s2">linksextreme gewalt leider häufig</p>
+<p begin="00:00:49.469" end="00:00:54.980" style="s2">bagatellisiert deutsche sozialdemokraten</p>
+<p begin="00:00:52.469" end="00:00:57.539" style="s2">leisten diesen<span style="s3"> denken forschung der</span></p>
+<p begin="00:00:54.980" end="00:01:00.000" style="s2"><span style="s3">spd-parteivize</span> stegner meint gewalt sei</p>
+<p begin="00:00:57.539" end="00:01:01.530" style="s2">nicht links sein parteigenosse martin</p>
+<p begin="00:01:00.000" end="00:01:03.300" style="s2">schulz in diesem haus<span style="s3"> wohlbekannt</span></p>
+<p begin="00:01:01.530" end="00:01:04.830" style="s2">behauptet gar<span style="s3"> das</span> links und</p>
+<p begin="00:01:03.300" end="00:01:06.720" style="s2"><span style="s3">gewaltanwendung</span> sich gegenseitig</p>
+<p begin="00:01:04.830" end="00:01:08.490" style="s2"><span style="s3">ausschließt</span> ein blick in die</p>
+<p begin="00:01:06.720" end="00:01:10.530" style="s2">geschichtsbücher<span style="s3"> hätte diesen herren mal</span></p>
+<p begin="00:01:08.490" end="00:01:12.780" style="s2">ganz gut die<span style="s4"> schwarz</span> bücher des</p>
+<p begin="00:01:10.530" end="00:01:15.420" style="s2">sozialismus und kommunismus<span style="s3"> zehntausende</span></p>
+<p begin="00:01:12.780" end="00:01:16.680" style="s2">seiten<span style="s4"> und</span> linksextreme gewalt ist auch</p>
+<p begin="00:01:15.420" end="00:01:19.140" style="s2">ein problem der gegenwart</p>
+<p begin="00:01:16.680" end="00:01:21.409" style="s2">man denke hier etwa an die aggression</p>
+<p begin="00:01:19.140" end="00:01:23.430" style="s2">der linksterroristischen antifa</p>
+<p begin="00:01:21.409" end="00:01:24.990" style="s2">vertreter<span style="s3"> meiner</span> partei sehen sich</p>
+<p begin="00:01:23.430" end="00:01:27.299" style="s2">inzwischen mit<span style="s3"> detaillierten</span><span style="s4"> mord</span></p>
+<p begin="00:01:24.990" end="00:01:30.119" style="s2">aufrufen konfrontiert auch ich selbst</p>
+<p begin="00:01:27.299" end="00:01:30.960" style="s2">mich natürlich müsste ist in diesem haus</p>
+<p begin="00:01:30.119" end="00:01:33.479" style="s2">konsens<span style="s4"> sein</span></p>
+<p begin="00:01:30.960" end="00:01:34.380" style="s2">die antifa für ihre gewaltexzesse zu</p>
+<p begin="00:01:33.479" end="00:01:37.350" style="s2">verurteilen</p>
+<p begin="00:01:34.380" end="00:01:39.210" style="s2"><span style="s4">aber</span> ganz im gegenteil hier sitzen in</p>
+<p begin="00:01:37.350" end="00:01:41.880" style="s2">diesem haus sogar abgeordnete der</p>
+<p begin="00:01:39.210" end="00:01:45.630" style="s2">deutschen grünen die im plenarsaal sich</p>
+<p begin="00:01:41.880" end="00:01:48.329" style="s2">stolz mit antifa flagge zeigen die sich</p>
+<p begin="00:01:45.630" end="00:01:50.909" style="s2">also zu linksextremen gewalttätern</p>
+<p begin="00:01:48.329" end="00:01:52.409" style="s2">grundsätzlich bekennen<span style="s3"> eine</span> davon<span style="s4"> hat</span> es</p>
+<p begin="00:01:50.909" end="00:01:53.790" style="s2">sogar<span style="s3"> zur fraktionsvorsitzenden der</span></p>
+<p begin="00:01:52.409" end="00:01:55.530" style="s2">grünen<span style="s3"> fraktion</span> geschafft nämlich frau</p>
+<p begin="00:01:53.790" end="00:01:58.229" style="s2">keller<span style="s4"> und</span> ich<span style="s4"> frage</span> mich sie ist nicht</p>
+<p begin="00:01:55.530" end="00:01:59.549" style="s2">anwesend<span style="s4"> ich</span> frage das exemplarisch frau</p>
+<p begin="00:01:58.229" end="00:02:02.490" style="s2">keller schämen sie sich da eigentlich</p>
+<p begin="00:01:59.549" end="00:02:03.689" style="s2">nicht wenn der faschismus<span style="s4"> wiederkehrt</span></p>
+<p begin="00:02:02.490" end="00:02:06.360" style="s2"><span style="s4">wird</span> er<span style="s3"> nicht</span> sagen ich bin der</p>
+<p begin="00:02:03.689" end="00:02:08.729" style="s2">faschismus nein er wird sagen ich bin</p>
+<p begin="00:02:06.360" end="00:02:11.310" style="s2">der<span style="s4"> antifaschismus</span> das soll<span style="s4"> die</span><span style="s3"> nation</span></p>
+<p begin="00:02:08.729" end="00:02:13.500" style="s2"><span style="s3">ohne</span><span style="s4"> prophezeit</span> haben<span style="s4"> die</span> antifa steht</p>
+<p begin="00:02:11.310" end="00:02:15.150" style="s2">für diese wiederkehr<span style="s4"> und weiter</span></p>
+<p begin="00:02:13.500" end="00:02:17.250" style="s2">der linken<span style="s4"> schafft</span> es dich einmal sich</p>
+<p begin="00:02:15.150" end="00:02:18.960" style="s2">davon zu distanzieren nein sie</p>
+<p begin="00:02:17.250" end="00:02:21.270" style="s2">solidarisieren sich sogar mit dieser</p>
+<p begin="00:02:18.960" end="00:02:23.580" style="s2">schlägertruppe und das mit verlaub ist</p>
+<p begin="00:02:21.270" end="00:02:25.020" style="s2">erbärmlich<span style="s4"> wenn</span> linke gewalt derart</p>
+<p begin="00:02:23.580" end="00:02:26.460" style="s2">verharmlost wird braucht man sich nicht</p>
+<p begin="00:02:25.020" end="00:02:28.350" style="s2">zu wundern<span style="s4"> dass auf büros meiner</span></p>
+<p begin="00:02:26.460" end="00:02:30.300" style="s2">patriotischen partei bombenanschläge</p>
+<p begin="00:02:28.350" end="00:02:31.650" style="s2">verübt<span style="s3"> und</span><span style="s4"> mitglieder</span> ins krankenhaus</p>
+<p begin="00:02:30.300" end="00:02:33.240" style="s2">geprügelt werden</p>
+<p begin="00:02:31.650" end="00:02:35.130" style="s2"><span style="s4">ein</span> letzter satz<span style="s4"> das ist eben der</span></p>
+<p begin="00:02:33.240" end="00:02:37.500" style="s2">unterschied wir werden stets dafür</p>
+<p begin="00:02:35.130" end="00:02:39.890" style="s2">eintreten dass linke das recht haben</p>
+<p begin="00:02:37.500" end="00:02:42.450" style="s2"><span style="s3">jeden</span><span style="s4"> von</span><span style="s3"> verdoppelt und</span><span style="s4"> oder</span><span style="s3"> hinteren</span></p>
+<p begin="00:02:39.890" end="00:02:43.140" style="s2"><span style="s3">die</span> linken hingegen wollen uns mundtot</p>
+<p begin="00:02:42.450" end="00:02:46.940" style="s2">machen</p>
+<p begin="00:02:43.140" end="00:02:46.940" style="s2">ich verspreche<span style="s3"> dir gehören</span></p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:03.540" style="s2"><span style="s3">deshalb</span> so gut harmoniert auch mit uns</p>
+<p begin="00:00:01.829" end="00:00:07.200" style="s2">beiden und dann auch mit den etwas</p>
+<p begin="00:00:03.540" end="00:00:08.300" style="s2">älteren politikern<span style="s4"> hat</span><span style="s3"> gestimmt</span> und<span style="s3"> man</span></p>
+<p begin="00:00:07.200" end="00:00:10.469" style="s2">hat dann einfach in die kommentare</p>
+<p begin="00:00:08.300" end="00:00:12.990" style="s2">mitverfolgt was denn die leute so an</p>
+<p begin="00:00:10.469" end="00:00:16.650" style="s2">feedback dazu geben und war eigentlich</p>
+<p begin="00:00:12.990" end="00:00:18.210" style="s2">zum<span style="s4"> größten</span><span style="s3"> teil</span> positiv<span style="s3"> ja</span> auch aus dem</p>
+<p begin="00:00:16.650" end="00:00:20.039" style="s2">bekanntenkreis<span style="s3"> der</span> familie<span style="s3"> hast</span> du<span style="s4"> da</span></p>
+<p begin="00:00:18.210" end="00:00:22.410" style="s2"><span style="s4">auch</span> das<span style="s3"> gehört</span> ja meine eltern waren</p>
+<p begin="00:00:20.039" end="00:00:24.180" style="s2">natürlich hin und weg<span style="s3"> die haben drei mal</span></p>
+<p begin="00:00:22.410" end="00:00:25.680" style="s2">gefragt ob ich mir<span style="s3"> das</span> in das video noch</p>
+<p begin="00:00:24.180" end="00:00:28.830" style="s2">mal angeguckt hätte und sie haben es</p>
+<p begin="00:00:25.680" end="00:00:30.480" style="s2">schon<span style="s4"> fünf mal gesehen und</span> ja auch sagen</p>
+<p begin="00:00:28.830" end="00:00:32.219" style="s2"><span style="s3">es aus meinem bekanntenkreis</span> haben<span style="s4"> dass</span></p>
+<p begin="00:00:30.480" end="00:00:34.260" style="s2">viele mitbekommen auch über die sozialen</p>
+<p begin="00:00:32.219" end="00:00:35.880" style="s2">medien<span style="s4"> ohne</span> dass<span style="s4"> ich</span> ihnen das jetzt zu</p>
+<p begin="00:00:34.260" end="00:00:38.100" style="s2">gespielt hätte und<span style="s4"> die</span> wir haben<span style="s3"> auch</span></p>
+<p begin="00:00:35.880" end="00:00:41.640" style="s2"><span style="s4">das ist</span><span style="s3"> klasse</span><span style="s4"> format</span> auch also<span style="s4"> diese</span></p>
+<p begin="00:00:38.100" end="00:00:43.680" style="s2"><span style="s4">talkrunde</span><span style="s3"> ist</span> super habt ihr<span style="s3"> dann</span> auch</p>
+<p begin="00:00:41.640" end="00:00:46.079" style="s2">so<span style="s4"> zu gehör bekommen das</span><span style="s3"> ist</span><span style="s4"> das</span> zum</p>
+<p begin="00:00:43.680" end="00:00:48.420" style="s2"><span style="s3">beispiel eine gute idee war ein gutes</span></p>
+<p begin="00:00:46.079" end="00:00:50.460" style="s2">format um die inhalte und ziele der<span style="s3"> afg</span></p>
+<p begin="00:00:48.420" end="00:00:51.930" style="s2">zu transportieren<span style="s3"> haben</span> wir<span style="s4"> brauchen</span></p>
+<p begin="00:00:50.460" end="00:00:53.760" style="s2">auch<span style="s3"> schon</span> darüber geredet also ich habe</p>
+<p begin="00:00:51.930" end="00:00:55.980" style="s2">zum beispiel auch freunde die nicht so</p>
+<p begin="00:00:53.760" end="00:00:58.500" style="s2">sehr mit der<span style="s4"> afg</span><span style="s3"> sympathisieren</span> dieses</p>
+<p begin="00:00:55.980" end="00:01:01.500" style="s2">format klasse fanden gerade<span style="s4"> das</span> zwei</p>
+<p begin="00:00:58.500" end="00:01:04.019" style="s2">junge frauen politisch<span style="s4"> die</span><span style="s3"> sich</span> äußern</p>
+<p begin="00:01:01.500" end="00:01:06.299" style="s2">und ihre ängste und aber auch ihre</p>
+<p begin="00:01:04.019" end="00:01:09.060" style="s2">wünsche<span style="s3"> ein</span> politiker<span style="s3"> mit</span> teilen der ja</p>
+<p begin="00:01:06.299" end="00:01:10.530" style="s2">im parlament vertreten ist<span style="s3"> und das</span><span style="s4"> kann</span></p>
+<p begin="00:01:09.060" end="00:01:12.180" style="s2"><span style="s4">etwas ganz neues das haben sie auch</span></p>
+<p begin="00:01:10.530" end="00:01:13.860" style="s2"><span style="s4">irgend so</span><span style="s3"> nicht</span> gesehen<span style="s4"> und</span> gesagt</p>
+<p begin="00:01:12.180" end="00:01:15.930" style="s2">können sie sich<span style="s3"> auch vorstellen dass in</span></p>
+<p begin="00:01:13.860" end="00:01:18.180" style="s2">zukunft<span style="s3"> auch</span> weiter zu verfolgen<span style="s4"> weil</span></p>
+<p begin="00:01:15.930" end="00:01:19.710" style="s2"><span style="s4">man einfach echte menschen erlebt die</span></p>
+<p begin="00:01:18.180" end="00:01:20.420" style="s2">sich politisch zu aktuellen themen</p>
+<p begin="00:01:19.710" end="00:01:22.619" style="s2">äußern</p>
+<p begin="00:01:20.420" end="00:01:25.080" style="s2">jetzt sagt man ja mal der<span style="s3"> tag</span> ist<span style="s4"> ein</span></p>
+<p begin="00:01:22.619" end="00:01:26.340" style="s2"><span style="s3">altes</span> format vom alten medium fernsehen</p>
+<p begin="00:01:25.080" end="00:01:28.470" style="s2"><span style="s3">glaubst du</span><span style="s4"> dass</span> es aber auch was fürs</p>
+<p begin="00:01:26.340" end="00:01:29.790" style="s2">internet sagen kann<span style="s3"> ja</span> das<span style="s3"> denke</span> ich auf</p>
+<p begin="00:01:28.470" end="00:01:31.880" style="s2">jeden fall dass das auch für das</p>
+<p begin="00:01:29.790" end="00:01:34.259" style="s2">internet noch gut geeignet ist denn es</p>
+<p begin="00:01:31.880" end="00:01:36.060" style="s2">bringt<span style="s3"> halt</span> die wesentlichen inhalte</p>
+<p begin="00:01:34.259" end="00:01:38.520" style="s2"><span style="s4">über</span><span style="s3"> und</span><span style="s4"> das</span> ist auch gerade für junge</p>
+<p begin="00:01:36.060" end="00:01:40.520" style="s2">leute<span style="s3"> war</span> sehr<span style="s3"> interessant</span> und deswegen</p>
+<p begin="00:01:38.520" end="00:01:42.689" style="s2">denke ich ist es super geeignet</p>
+<p begin="00:01:40.520" end="00:01:45.900" style="s2">also<span style="s4"> wenn er wollte noch mal anruft er</span></p>
+<p begin="00:01:42.689" end="00:01:48.290" style="s2"><span style="s4">stünde</span><span style="s3"> bereit</span> als natürlich</p>
+<p begin="00:01:45.900" end="00:01:48.290" style="s2"><span style="s3">jeden</span><span style="s4"> fall</span></p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:03.810" style="s2">sie greifen sich zwei verdienstvolle</p>
+<p begin="00:00:02.220" end="00:00:06.390" style="s2">politikerinnen und politiker mit</p>
+<p begin="00:00:03.810" end="00:00:08.880" style="s2">migrationshintergrund heraus und rücken</p>
+<p begin="00:00:06.390" end="00:00:10.710" style="s2">die in die nähe von<span style="s3"> nazis</span><span style="s4"> sprecher</span> der</p>
+<p begin="00:00:08.880" end="00:00:12.300" style="s2">saale und das haben wir gehört und sie</p>
+<p begin="00:00:10.710" end="00:00:14.580" style="s2">können<span style="s4"> dass</span> überall<span style="s4"> im</span> internet sehen</p>
+<p begin="00:00:12.300" end="00:00:17.160" style="s2">hat die<span style="s4"> afg</span> wähler und die<span style="s3"> afg</span> mit</p>
+<p begin="00:00:14.580" end="00:00:18.480" style="s2"><span style="s3">ratten</span> verglichen die in ihre<span style="s4"> raten</span></p>
+<p begin="00:00:17.160" end="00:00:21.300" style="s2">durch<span style="s4"> eher</span> zurückgehen<span style="s3"> sollen</span></p>
+<p begin="00:00:18.480" end="00:00:23.070" style="s2">das haben sie auf der konferenz auf</p>
+<p begin="00:00:21.300" end="00:00:24.570" style="s2">ihrer klausurtagung zugelassen</p>
+<p begin="00:00:23.070" end="00:00:26.849" style="s2">unwidersprochen aber auch<span style="s3"> ein</span></p>
+<p begin="00:00:24.570" end="00:00:29.340" style="s2"><span style="s3">regierender</span> bürgermeister dabei sie</p>
+<p begin="00:00:26.849" end="00:00:32.669" style="s2">müssen sich fragen lassen wer hier die</p>
+<p begin="00:00:29.340" end="00:00:35.240" style="s2">hetzer sind<span style="s4"> nur</span> die leute sind<span style="s3"> wer</span> die</p>
+<p begin="00:00:32.669" end="00:00:36.649" style="s2">leute sind die die gesellschaft spaltet</p>
+<p begin="00:00:35.240" end="00:00:39.809" style="s2">[Applaus]</p>
+<p begin="00:00:36.649" end="00:00:42.300" style="s2">rattenfänger sie gehören wieder dorthin</p>
+<p begin="00:00:39.809" end="00:00:43.680" style="s2">wo sie herkommen und zwar in ihrem<span style="s3"> rad</span></p>
+<p begin="00:00:42.300" end="00:00:45.059" style="s2">in<span style="s4"> deutschland</span> genossen lassen und</p>
+<p begin="00:00:43.680" end="00:00:48.950" style="s2">deswegen kämpfen wir in brandenburg</p>
+<p begin="00:00:45.059" end="00:00:48.950" style="s2">deswegen kämpfen wir in sachsen</p>
+</div>
+</body>
+</tt>

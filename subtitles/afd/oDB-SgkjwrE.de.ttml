@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:03.510" style="s2"><span style="s3">ja</span> vielen dank<span style="s4"> das ist die frage</span><span style="s3"> stellen</span></p>
+<p begin="00:00:02.100" end="00:00:06.390" style="s2">darf würden sie bitte zur kenntnis</p>
+<p begin="00:00:03.510" end="00:00:08.370" style="s2">nehmen dass ich nicht gesagt habe dass</p>
+<p begin="00:00:06.390" end="00:00:10.620" style="s2">das ursprüngliche gesetz<span style="s3"> ein</span> schließungs</p>
+<p begin="00:00:08.370" end="00:00:13.019" style="s2">gesetz gewesen wäre sondern dass ich</p>
+<p begin="00:00:10.620" end="00:00:15.030" style="s2">gesagt habe dass eine verankerung der</p>
+<p begin="00:00:13.019" end="00:00:17.150" style="s2"><span style="s4">schul</span><span style="s3"> mindestgröße</span> ohne gleichzeitige</p>
+<p begin="00:00:15.030" end="00:00:18.840" style="s2">verankerung der ausnahmen und der</p>
+<p begin="00:00:17.150" end="00:00:21.210" style="s2"><span style="s3">kooperationsmodelle</span> ein solches gesetz</p>
+<p begin="00:00:18.840" end="00:00:22.740" style="s2">gewesen wäre<span style="s3"> und dass ich sie darauf</span></p>
+<p begin="00:00:21.210" end="00:00:25.609" style="s2">dass ich darauf hingewiesen habe dass</p>
+<p begin="00:00:22.740" end="00:00:27.029" style="s2">beides die mindestgrößen wie die</p>
+<p begin="00:00:25.609" end="00:00:29.400" style="s2"><span style="s4">ausnahmeregelung</span><span style="s3"> und</span> die</p>
+<p begin="00:00:27.029" end="00:00:31.289" style="s2">kooperationsmodelle zeitgleich in den</p>
+<p begin="00:00:29.400" end="00:00:33.329" style="s2">gesetzentwurf aufnahme gefunden haben</p>
+<p begin="00:00:31.289" end="00:00:35.010" style="s2">also meines erachtens haben sie<span style="s4"> auf</span></p>
+<p begin="00:00:33.329" end="00:00:37.020" style="s2"><span style="s4">inzwischen</span><span style="s3"> reagiert</span> und<span style="s4"> ihm</span> zugestimmt</p>
+<p begin="00:00:35.010" end="00:00:39.450" style="s2"><span style="s4">um gesagt wäre der</span><span style="s3"> gesetzesentwurf</span> so</p>
+<p begin="00:00:37.020" end="00:00:40.110" style="s2">gewesen<span style="s3"> dann</span> wäre es<span style="s4"> ein schließungs</span></p>
+<p begin="00:00:39.450" end="00:00:42.390" style="s2">programm</p>
+<p begin="00:00:40.110" end="00:00:43.770" style="s2">und das können sie ja jetzt weiterhin</p>
+<p begin="00:00:42.390" end="00:00:47.809" style="s2">bestreiten oder sie lesen dann einfach</p>
+<p begin="00:00:43.770" end="00:00:51.379" style="s2">mal im protokoll<span style="s4"> danach herr wolf</span> bitte</p>
+<p begin="00:00:47.809" end="00:00:53.760" style="s2"><span style="s4">wir</span> haben<span style="s3"> das wort vielen</span><span style="s4"> dank</span></p>
+<p begin="00:00:51.379" end="00:00:55.350" style="s2">sie haben vorhin gesagt dass die</p>
+<p begin="00:00:53.760" end="00:00:58.530" style="s2">landesregierung von vornherein geplant</p>
+<p begin="00:00:55.350" end="00:01:01.800" style="s2"><span style="s4">hatte grundschulen nur</span> mit dem<span style="s3"> größe</span> 160</p>
+<p begin="00:00:58.530" end="00:01:03.449" style="s2">schülerinnen und schüler zu planen<span style="s4"> nun</span></p>
+<p begin="00:01:01.800" end="00:01:07.260" style="s2">kann<span style="s3"> es</span> sein<span style="s4"> das</span> ihnen gewisse</p>
+<p begin="00:01:03.449" end="00:01:09.180" style="s2">diskussionen nicht bekannt sind unter</p>
+<p begin="00:01:07.260" end="00:01:12.540" style="s2"><span style="s3">anderem</span> das<span style="s3"> ist</span> dort auch gewisse</p>
+<p begin="00:01:09.180" end="00:01:15.479" style="s2"><span style="s4">größenordnung gab da</span> gemeinden die diese</p>
+<p begin="00:01:12.540" end="00:01:17.369" style="s2">schulen vorhalten nämlich 80 bis 160</p>
+<p begin="00:01:15.479" end="00:01:18.659" style="s2">jetzt meine frage ist<span style="s4"> ihnen</span><span style="s3"> das</span> nicht</p>
+<p begin="00:01:17.369" end="00:01:21.150" style="s2">bekannt oder haben es ist<span style="s3"> jetzt</span> einfach</p>
+<p begin="00:01:18.659" end="00:01:23.400" style="s2"><span style="s3">nur</span> mal<span style="s3"> anführungsstrichen</span> mutwillig</p>
+<p begin="00:01:21.150" end="00:01:25.170" style="s2">vereins zitiert also herr<span style="s4"> wolf</span> ich<span style="s4"> hab</span></p>
+<p begin="00:01:23.400" end="00:01:27.210" style="s2">das nicht falsch zitiert sondern ich</p>
+<p begin="00:01:25.170" end="00:01:28.530" style="s2">habe gesagt es ist eine andere größe<span style="s4"> im</span></p>
+<p begin="00:01:27.210" end="00:01:29.670" style="s2">jetzigen<span style="s3"> gesetz</span> als<span style="s3"> das</span><span style="s4"> vorjahr</span> war</p>
+<p begin="00:01:28.530" end="00:01:31.229" style="s2">nämlich deutlich geringer</p>
+<p begin="00:01:29.670" end="00:01:33.090" style="s2"><span style="s3">und dass man da keine rote linie</span></p>
+<p begin="00:01:31.229" end="00:01:35.340" style="s2">erkennen<span style="s4"> kann</span> ich bin mir sicher zum zu</p>
+<p begin="00:01:33.090" end="00:01:37.680" style="s2">ihrer ausgangsfrage zurückzukommen<span style="s4"> dass</span></p>
+<p begin="00:01:35.340" end="00:01:39.210" style="s2">ich nicht jede diskussion<span style="s3"> kennedy</span> die</p>
+<p begin="00:01:37.680" end="00:01:40.920" style="s2">das bildungsministerium oder sie</p>
+<p begin="00:01:39.210" end="00:01:42.420" style="s2">persönlich mit den betroffenen führen</p>
+<p begin="00:01:40.920" end="00:01:44.909" style="s2">aber ich kriege doch viele rückmeldungen</p>
+<p begin="00:01:42.420" end="00:01:46.110" style="s2">von betroffenen und die sind leider muss</p>
+<p begin="00:01:44.909" end="00:01:49.369" style="s2">man sagen weil der<span style="s4"> gesetzesentwurf</span></p>
+<p begin="00:01:46.110" end="00:01:49.369" style="s2">ebenso schlecht ist sehr<span style="s4"> kritisch</span></p>
+<p begin="00:01:49.690" end="00:01:52.849" style="s2">[Applaus]</p>
+</div>
+</body>
+</tt>

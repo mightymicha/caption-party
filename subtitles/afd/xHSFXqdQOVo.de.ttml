@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:03.600" style="s2">herr<span style="s3"> dr</span><span style="s4"> hartung erstmal vielen dank</span> dass</p>
+<p begin="00:00:02.429" end="00:00:05.430" style="s2"><span style="s3">sie den hier entstandenen eindruck</span></p>
+<p begin="00:00:03.600" end="00:00:07.200" style="s2">korrigiert haben dass sie<span style="s4"> ein schul</span></p>
+<p begin="00:00:05.430" end="00:00:08.730" style="s2"><span style="s4">schließungs</span><span style="s3"> gesetzesentwurf</span> in der</p>
+<p begin="00:00:07.200" end="00:00:11.070" style="s2">entwurfsfassung in der ersten</p>
+<p begin="00:00:08.730" end="00:00:12.780" style="s2">entwurfsfassung hatten und in der</p>
+<p begin="00:00:11.070" end="00:00:14.309" style="s2"><span style="s3">zweiten</span> entwurfsfassung wenn das dann</p>
+<p begin="00:00:12.780" end="00:00:15.599" style="s2">angeblich auch nicht mehr so sein soll</p>
+<p begin="00:00:14.309" end="00:00:16.770" style="s2"><span style="s3">dass</span> schulen geschlossen<span style="s4"> wenn</span> sollen</p>
+<p begin="00:00:15.599" end="00:00:18.510" style="s2">dann korrigieren sie doch einfach den</p>
+<p begin="00:00:16.770" end="00:00:20.189" style="s2">inhalt ihres gesetzes dann passt es am</p>
+<p begin="00:00:18.510" end="00:00:21.630" style="s2">ende wieder<span style="s3"> frau</span> stange</p>
+<p begin="00:00:20.189" end="00:00:22.920" style="s2">sie haben<span style="s3"> ihre</span><span style="s4"> weitreichende</span></p>
+<p begin="00:00:21.630" end="00:00:24.480" style="s2">ausführungen gemacht aber im prinzip</p>
+<p begin="00:00:22.920" end="00:00:25.949" style="s2">haben sie nur das bestätigt was ich</p>
+<p begin="00:00:24.480" end="00:00:27.750" style="s2">gerade von diesem<span style="s4"> pult</span><span style="s3"> aus</span><span style="s4"> hier</span> gesagt</p>
+<p begin="00:00:25.949" end="00:00:28.710" style="s2">habe nämlich<span style="s4"> dass in der deutschen</span></p>
+<p begin="00:00:27.750" end="00:00:30.869" style="s2"><span style="s4">fassung</span> der<span style="s4"> un</span></p>
+<p begin="00:00:28.710" end="00:00:32.189" style="s2"><span style="s4">behindertenrechtskonvention</span> eben die für</p>
+<p begin="00:00:30.869" end="00:00:34.140" style="s2">deutschland verbindlich ist im übrigen</p>
+<p begin="00:00:32.189" end="00:00:36.390" style="s2">eben nicht<span style="s4"> drinsteht</span> dass<span style="s3"> wir</span> ein</p>
+<p begin="00:00:34.140" end="00:00:37.829" style="s2">inklusives schulsystem brauchen wir</p>
+<p begin="00:00:36.390" end="00:00:39.780" style="s2">brauchen ein integratives schulsystem</p>
+<p begin="00:00:37.829" end="00:00:42.780" style="s2">und wir haben in deutschland ein</p>
+<p begin="00:00:39.780" end="00:00:45.329" style="s2">wunderbar vorbildliches schulsystem was</p>
+<p begin="00:00:42.780" end="00:00:47.250" style="s2">die förderschulen<span style="s3"> angeht</span> frau stange</p>
+<p begin="00:00:45.329" end="00:00:48.780" style="s2">herr<span style="s4"> wolf</span> ich finde das interessant was</p>
+<p begin="00:00:47.250" end="00:00:50.340" style="s2"><span style="s4">sie</span><span style="s3"> hier</span> erzählen sie haben gerade in</p>
+<p begin="00:00:48.780" end="00:00:51.629" style="s2">ihren ausführungen gesagt<span style="s4"> naja</span><span style="s3"> die</span></p>
+<p begin="00:00:50.340" end="00:00:54.030" style="s2">schüler<span style="s4"> soll nicht</span><span style="s3"> hin und her fahren</span></p>
+<p begin="00:00:51.629" end="00:00:55.530" style="s2">sie sagen<span style="s4"> naja zehn kilometer das ist ja</span></p>
+<p begin="00:00:54.030" end="00:00:57.090" style="s2">quasi<span style="s4"> ein klaps innerhalb des saale</span></p>
+<p begin="00:00:55.530" end="00:00:58.710" style="s2">holzland kreises dann sagen sie aber</p>
+<p begin="00:00:57.090" end="00:01:00.270" style="s2"><span style="s4">naja</span> die schüler aus<span style="s4"> china</span> können ja</p>
+<p begin="00:00:58.710" end="00:01:02.370" style="s2">auch nach stadtroda oder meinetwegen</p>
+<p begin="00:01:00.270" end="00:01:04.049" style="s2"><span style="s4">ernst doch sogar können</span> sie sich mal an</p>
+<p begin="00:01:02.370" end="00:01:06.840" style="s2">überlegen wie viel die schüler dann</p>
+<p begin="00:01:04.049" end="00:01:08.400" style="s2">durch die gegend fahren oder und das</p>
+<p begin="00:01:06.840" end="00:01:10.710" style="s2">sind<span style="s4"> erste</span><span style="s3"> die</span> schüler und auch lehrer</p>
+<p begin="00:01:08.400" end="00:01:12.450" style="s2">wenn sie sagen die<span style="s4"> verweise</span> ich glaube</p>
+<p begin="00:01:10.710" end="00:01:14.340" style="s2">nicht dass sie sich ernsthaft<span style="s4"> mal</span> in die</p>
+<p begin="00:01:12.450" end="00:01:16.619" style="s2">situation<span style="s4"> von lehrer an hineinversetzt</span></p>
+<p begin="00:01:14.340" end="00:01:17.820" style="s2">haben die tagtäglich zu der<span style="s4"> einen</span> schule</p>
+<p begin="00:01:16.619" end="00:01:19.830" style="s2">fahren können dann können sie zu der</p>
+<p begin="00:01:17.820" end="00:01:21.390" style="s2">anderen schule fahren sie müssen sich</p>
+<p begin="00:01:19.830" end="00:01:23.189" style="s2">immer<span style="s4"> auf teil zwischen</span> schulen sie sind</p>
+<p begin="00:01:21.390" end="00:01:24.570" style="s2">für die kinder nicht<span style="s4"> darum diese</span><span style="s3"> sich</span></p>
+<p begin="00:01:23.189" end="00:01:26.880" style="s2"><span style="s3">eigentlich</span> kümmern wollen und das ist</p>
+<p begin="00:01:24.570" end="00:01:29.950" style="s2">offenbar genau ihr ziel</p>
+<p begin="00:01:26.880" end="00:01:29.950" style="s2">[Applaus]</p>
+<p begin="00:01:30.049" end="00:01:35.600" style="s2">jetzt hat<span style="s3"> der abgeordnete</span><span style="s4"> tischler</span></p>
+<p begin="00:01:32.220" end="00:01:35.600" style="s2"><span style="s4">fraktionen</span><span style="s3"> cdu</span> das<span style="s4"> wort</span></p>
+</div>
+</body>
+</tt>

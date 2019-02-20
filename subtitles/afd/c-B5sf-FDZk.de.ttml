@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:05.100" style="s2"><span style="s3">unser</span><span style="s4"> präsident</span> frau ministerin<span style="s4"> sehr</span></p>
+<p begin="00:00:03.780" end="00:00:08.970" style="s2">geehrte damen und herren</p>
+<p begin="00:00:05.100" end="00:00:10.469" style="s2"><span style="s3">man man man</span><span style="s4"> familienförderung</span> ist ein</p>
+<p begin="00:00:08.970" end="00:00:12.750" style="s2">kernanliegen der afd</p>
+<p begin="00:00:10.469" end="00:00:15.450" style="s2">der grundgedanke auf dem dieser</p>
+<p begin="00:00:12.750" end="00:00:17.430" style="s2">gesetzesentwurf<span style="s3"> fust</span> findet daher in</p>
+<p begin="00:00:15.450" end="00:00:18.570" style="s2">weiten teilen unsere<span style="s4"> zustellung</span></p>
+<p begin="00:00:17.430" end="00:00:20.279" style="s2"><span style="s3">zustimmung</span></p>
+<p begin="00:00:18.570" end="00:00:22.470" style="s2">leider haben sie immer noch nicht die</p>
+<p begin="00:00:20.279" end="00:00:23.789" style="s2">zeichen der zeit erkannt und setzen die</p>
+<p begin="00:00:22.470" end="00:00:27.660" style="s2">politik der abschaffung deutschlands</p>
+<p begin="00:00:23.789" end="00:00:30.000" style="s2"><span style="s3">fort ihr starkes familiengesetz</span> ist in</p>
+<p begin="00:00:27.660" end="00:00:33.530" style="s2">wahrheit gemessen an dem was nötig wäre</p>
+<p begin="00:00:30.000" end="00:00:35.370" style="s2">ein schwaches<span style="s4"> familiengesetz</span> trotz<span style="s3"> aller</span></p>
+<p begin="00:00:33.530" end="00:00:37.950" style="s2"><span style="s4">trotz</span> aller familienpolitischen</p>
+<p begin="00:00:35.370" end="00:00:39.989" style="s2">maßnahmen und seien sie noch so gefeiert</p>
+<p begin="00:00:37.950" end="00:00:41.820" style="s2"><span style="s4">erlebt</span> deutschland seit jahren eine</p>
+<p begin="00:00:39.989" end="00:00:44.460" style="s2">dramatische zunahme der<span style="s3"> ehe</span><span style="s4"> und</span></p>
+<p begin="00:00:41.820" end="00:00:46.140" style="s2">kinderlosigkeit zudem sorgt das was</p>
+<p begin="00:00:44.460" end="00:00:48.300" style="s2"><span style="s3">schwimmt</span> normaler und<span style="s3"> mittelgroßer</span></p>
+<p begin="00:00:46.140" end="00:00:51.410" style="s2">familien keine<span style="s4"> schrumpfung</span><span style="s3"> unsere</span></p>
+<p begin="00:00:48.300" end="00:00:53.969" style="s2">angestammten<span style="s3"> bevölkerung</span> um<span style="s3"> circa</span></p>
+<p begin="00:00:51.410" end="00:00:55.579" style="s2">250.000 personen pro jahr</p>
+<p begin="00:00:53.969" end="00:00:57.719" style="s2">meine damen und herren ihre</p>
+<p begin="00:00:55.579" end="00:01:00.059" style="s2">familienpolitischen maßnahmen haben in</p>
+<p begin="00:00:57.719" end="00:01:02.100" style="s2">den letzten jahrzehnten nicht zu einer</p>
+<p begin="00:01:00.059" end="00:01:04.100" style="s2">trendumkehr geführt nehmen sie das doch</p>
+<p begin="00:01:02.100" end="00:01:08.390" style="s2">bitte endlich mal zur kenntnis</p>
+<p begin="00:01:04.100" end="00:01:10.830" style="s2"><span style="s4">hurra</span><span style="s3"> acht</span><span style="s4"> euro</span> mehr kindergeld</p>
+<p begin="00:01:08.390" end="00:01:12.720" style="s2">kostenloses schulessen jetzt kann ich</p>
+<p begin="00:01:10.830" end="00:01:15.689" style="s2">meine zukunft für meine kinder</p>
+<p begin="00:01:12.720" end="00:01:17.970" style="s2"><span style="s3">gottseidank</span> vorstellen und schreitet zur</p>
+<p begin="00:01:15.689" end="00:01:21.000" style="s2">zeugung hast<span style="s3"> uns</span><span style="s4"> schwachsinn</span></p>
+<p begin="00:01:17.970" end="00:01:22.860" style="s2">die familienpolitik inklusive des</p>
+<p begin="00:01:21.000" end="00:01:25.380" style="s2">vorliegenden gesetzes taugt allenfalls</p>
+<p begin="00:01:22.860" end="00:01:27.780" style="s2">dazu familien finanziell nicht noch</p>
+<p begin="00:01:25.380" end="00:01:30.299" style="s2">schlechter zu stellen<span style="s4"> was</span> wir wirklich</p>
+<p begin="00:01:27.780" end="00:01:32.210" style="s2">von der regierung erwarten ist eine</p>
+<p begin="00:01:30.299" end="00:01:34.170" style="s2">aktivierende und wertschätzende</p>
+<p begin="00:01:32.210" end="00:01:36.150" style="s2">familienpolitik die eine höhere</p>
+<p begin="00:01:34.170" end="00:01:38.790" style="s2">geburtenrate der einheimischen</p>
+<p begin="00:01:36.150" end="00:01:41.909" style="s2">bevölkerung erreicht denn die liegt mit</p>
+<p begin="00:01:38.790" end="00:01:45.659" style="s2">einem recht konstanten wert seit vielen</p>
+<p begin="00:01:41.909" end="00:01:48.390" style="s2">jahrzehnten<span style="s3"> mal</span> 1,4 kindern weit unter</p>
+<p begin="00:01:45.659" end="00:01:50.399" style="s2">dem bestand<span style="s3"> gehaltenen</span><span style="s4"> niveau</span> kinder</p>
+<p begin="00:01:48.390" end="00:01:52.200" style="s2">sind<span style="s3"> in</span> diesem land zunehmend zu einem</p>
+<p begin="00:01:50.399" end="00:01:54.820" style="s2">armutsrisiko geworden</p>
+<p begin="00:01:52.200" end="00:01:58.990" style="s2">und so verwundert es nicht dass jährlich</p>
+<p begin="00:01:54.820" end="00:02:01.020" style="s2">rund<span style="s4"> 100000 abtreibung zum großen teil</span></p>
+<p begin="00:01:58.990" end="00:02:02.140" style="s2">aufgrund von<span style="s4"> sozialer integration</span></p>
+<p begin="00:02:01.020" end="00:02:05.550" style="s2">stattfinden</p>
+<p begin="00:02:02.140" end="00:02:07.600" style="s2">fazit ihre christdemokratische und</p>
+<p begin="00:02:05.550" end="00:02:10.890" style="s2"><span style="s3">sozialdemokratischen</span> familienpolitik</p>
+<p begin="00:02:07.600" end="00:02:10.890" style="s2"><span style="s4">dies</span> gar keine</p>
+<p begin="00:02:12.990" end="00:02:17.050" style="s2">was steckt eigentlich<span style="s4"> an</span></p>
+<p begin="00:02:14.860" end="00:02:19.420" style="s2">veränderungspotenzial in<span style="s3"> ihrem starken</span></p>
+<p begin="00:02:17.050" end="00:02:21.160" style="s2"><span style="s3">familiengesetz</span><span style="s4"> zwar</span> stellen wir fest<span style="s3"> was</span></p>
+<p begin="00:02:19.420" end="00:02:22.540" style="s2"><span style="s4">stellen</span> die verbände fest geht es mit</p>
+<p begin="00:02:21.160" end="00:02:25.180" style="s2">den familien und ihrer langfristigen</p>
+<p begin="00:02:22.540" end="00:02:27.250" style="s2">planung das so langer zeit endlich</p>
+<p begin="00:02:25.180" end="00:02:28.440" style="s2">wieder nachhaltig bergauf werden</p>
+<p begin="00:02:27.250" end="00:02:30.670" style="s2">berufliche und familiäre</p>
+<p begin="00:02:28.440" end="00:02:33.190" style="s2">rahmenbedingungen zur familiengründung</p>
+<p begin="00:02:30.670" end="00:02:34.840" style="s2">mit ihrem gesetz vielleicht besser haben</p>
+<p begin="00:02:33.190" end="00:02:36.580" style="s2"><span style="s3">ihre</span> familien mit ihrem gesetz</p>
+<p begin="00:02:34.840" end="00:02:38.020" style="s2">tatsächlich so viel mehr geld in der</p>
+<p begin="00:02:36.580" end="00:02:39.550" style="s2">tasche<span style="s4"> das</span> sie sich für mehr kinder</p>
+<p begin="00:02:38.020" end="00:02:40.720" style="s2">entscheiden stimmen die</p>
+<p begin="00:02:39.550" end="00:02:45.450" style="s2">rahmenbedingungen auch für</p>
+<p begin="00:02:40.720" end="00:02:48.160" style="s2">alleinerziehende nein nein nein nein</p>
+<p begin="00:02:45.450" end="00:02:51.239" style="s2"><span style="s4">herrscht</span> ausreichend transparenz und</p>
+<p begin="00:02:48.160" end="00:02:53.790" style="s2">nachvollziehbarkeit nein findet wirklich</p>
+<p begin="00:02:51.239" end="00:02:56.680" style="s2">bürokratieabbau<span style="s3"> statt</span><span style="s4"> klein</span></p>
+<p begin="00:02:53.790" end="00:02:59.080" style="s2">unsere regierung versteht sich leider</p>
+<p begin="00:02:56.680" end="00:03:01.840" style="s2">immer noch als almosen geber für</p>
+<p begin="00:02:59.080" end="00:03:05.850" style="s2">familien<span style="s4"> während</span> sie sonst<span style="s4"> welt</span><span style="s3"> rettungs</span></p>
+<p begin="00:03:01.840" end="00:03:05.850" style="s2"><span style="s3">fantasien</span> finanziert das ist grundfalsch</p>
+<p begin="00:03:07.190" end="00:03:12.170" style="s2">die<span style="s3"> afb</span> fordert ein grundsätzliches</p>
+<p begin="00:03:09.170" end="00:03:14.690" style="s2">umdenken familien müssen endlich wieder</p>
+<p begin="00:03:12.170" end="00:03:17.210" style="s2">von einem einkommen leben können</p>
+<p begin="00:03:14.690" end="00:03:19.970" style="s2">wir müssen jungen eltern mit ihren</p>
+<p begin="00:03:17.210" end="00:03:21.950" style="s2">familien eine perspektive bieten<span style="s4"> in</span></p>
+<p begin="00:03:19.970" end="00:03:23.960" style="s2">einem<span style="s4"> klima</span> der sicherheit und der</p>
+<p begin="00:03:21.950" end="00:03:26.530" style="s2">wertschätzung<span style="s3"> dass</span><span style="s4"> wird</span> ihr mit ihrem</p>
+<p begin="00:03:23.960" end="00:03:29.660" style="s2">gesetz in keiner weise möglich<span style="s3"> sein</span></p>
+<p begin="00:03:26.530" end="00:03:32.990" style="s2">hier schauen<span style="s4"> gespannt</span> nach ungarn wo</p>
+<p begin="00:03:29.660" end="00:03:35.120" style="s2">sich orban<span style="s3"> anschickt</span> ein<span style="s4"> neues kapitel</span></p>
+<p begin="00:03:32.990" end="00:03:36.230" style="s2">der aktivierenden familienpolitik</p>
+<p begin="00:03:35.120" end="00:03:38.090" style="s2">aufzuschlagen</p>
+<p begin="00:03:36.230" end="00:03:40.480" style="s2">meine damen und herren deutschland</p>
+<p begin="00:03:38.090" end="00:03:42.500" style="s2">braucht endlich wieder mut zu einer</p>
+<p begin="00:03:40.480" end="00:03:44.660" style="s2"><span style="s4">familienpolitik</span> die diesen namen auch</p>
+<p begin="00:03:42.500" end="00:03:47.380" style="s2">verdient hat wir werden unsere</p>
+<p begin="00:03:44.660" end="00:03:51.110" style="s2">vorschläge dazu in kürze einreichen</p>
+<p begin="00:03:47.380" end="00:03:54.110" style="s2">unsere kinder sind unsere erben eine</p>
+<p begin="00:03:51.110" end="00:03:56.240" style="s2">gnade ein geschenk unsere ganze liebe</p>
+<p begin="00:03:54.110" end="00:03:59.660" style="s2">und unsere gesellschaftliche hoffnung</p>
+<p begin="00:03:56.240" end="00:04:01.130" style="s2">auf eine bessere zukunft<span style="s4"> daher</span> daher</p>
+<p begin="00:03:59.660" end="00:04:03.170" style="s2">meine damen und herren brauchen wir ein</p>
+<p begin="00:04:01.130" end="00:04:05.690" style="s2">starkes gesamtgesellschaftliches</p>
+<p begin="00:04:03.170" end="00:04:09.080" style="s2">bekenntnis zu unserer verantwortung für</p>
+<p begin="00:04:05.690" end="00:04:11.570" style="s2">unsere kinder für unsere familien den</p>
+<p begin="00:04:09.080" end="00:04:13.930" style="s2">säule in unserer gesellschaft vielen</p>
+<p begin="00:04:11.570" end="00:04:13.930" style="s2">dank</p>
+<p begin="00:04:16.980" end="00:04:22.890" style="s2">jetzt<span style="s4"> kanal</span> abonnieren und nicht</p>
+<p begin="00:04:19.230" end="00:04:28.949" style="s2">vergessen<span style="s4"> wenn nach richtigen aktivieren</span></p>
+<p begin="00:04:22.890" end="00:04:28.949" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

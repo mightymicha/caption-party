@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.170" style="s2">guten morgen riesa ich habe mich gestern</p>
+<p begin="00:00:02.040" end="00:00:06.060" style="s2">abend spontan dann doch noch entschieden</p>
+<p begin="00:00:04.170" end="00:00:07.470" style="s2"><span style="s3">mal</span><span style="s4"> hier</span> zu<span style="s4"> kandidieren</span> meinen hut in</p>
+<p begin="00:00:06.060" end="00:00:11.160" style="s2">den ring zu werfen</p>
+<p begin="00:00:07.470" end="00:00:12.509" style="s2">ich habe jetzt<span style="s3"> keine polizei ist</span></p>
+<p begin="00:00:11.160" end="00:00:13.530" style="s2">führungszeugnis vorlegen</p>
+<p begin="00:00:12.509" end="00:00:16.260" style="s2">da steht<span style="s3"> doch nix drin</span><span style="s4"> nicht</span> kannst du</p>
+<p begin="00:00:13.530" end="00:00:18.330" style="s2">nach reichen wenn gewünscht<span style="s4"> zu</span> den<span style="s4"> fünf</span></p>
+<p begin="00:00:16.260" end="00:00:20.520" style="s2">schlichen fragen<span style="s4"> ach</span> das ist nicht</p>
+<p begin="00:00:18.330" end="00:00:24.410" style="s2">diesen eingeblendet also mitglied in der</p>
+<p begin="00:00:20.520" end="00:00:26.550" style="s2"><span style="s3">kfd</span><span style="s4"> bin</span> ich seit april 2016</p>
+<p begin="00:00:24.410" end="00:00:28.699" style="s2">ich<span style="s4"> habe</span> eine abgeschlossene</p>
+<p begin="00:00:26.550" end="00:00:32.040" style="s2">berufsausbildung als industriekaufmann</p>
+<p begin="00:00:28.699" end="00:00:35.300" style="s2"><span style="s4">meine</span> beiträge werden jetzt ende des</p>
+<p begin="00:00:32.040" end="00:00:37.050" style="s2">monats<span style="s4"> eingezogen</span> wie jedes jahr</p>
+<p begin="00:00:35.300" end="00:00:40.010" style="s2">mandatsträger bin ich nicht damit</p>
+<p begin="00:00:37.050" end="00:00:42.690" style="s2">entfällt auch die mandatsträger abgabe</p>
+<p begin="00:00:40.010" end="00:00:44.219" style="s2">und ich<span style="s4"> habe</span> mich in magdeburg auch noch</p>
+<p begin="00:00:42.690" end="00:00:46.379" style="s2">nicht vorgestellt also ich<span style="s3"> kann dir</span></p>
+<p begin="00:00:44.219" end="00:00:48.510" style="s2">heute das allererste mal überhaupt für</p>
+<p begin="00:00:46.379" end="00:00:52.039" style="s2">ein mandat ein parteiamt habe ich auch</p>
+<p begin="00:00:48.510" end="00:00:55.920" style="s2">nicht das ist heute für mich ein</p>
+<p begin="00:00:52.039" end="00:00:59.030" style="s2">besonderer moment<span style="s4"> weil</span> wir<span style="s4"> einen</span></p>
+<p begin="00:00:55.920" end="00:01:01.350" style="s2">europawahlkampf vorbereiten und<span style="s4"> dieser</span></p>
+<p begin="00:00:59.030" end="00:01:04.049" style="s2"><span style="s4">dieses</span> thema<span style="s3"> europawahlen</span> das</p>
+<p begin="00:01:01.350" end="00:01:08.159" style="s2">beschäftigt mich obwohl ich auch erst 42</p>
+<p begin="00:01:04.049" end="00:01:10.890" style="s2">bin schon recht lange mein erster höchst</p>
+<p begin="00:01:08.159" end="00:01:15.720" style="s2"><span style="s3">engagierter</span><span style="s4"> europa wahlgang wahlkampf</span></p>
+<p begin="00:01:10.890" end="00:01:16.200" style="s2">war im jahr 1994 damals den bund freier</p>
+<p begin="00:01:15.720" end="00:01:19.409" style="s2">bürger</p>
+<p begin="00:01:16.200" end="00:01:24.750" style="s2"><span style="s4">da</span> war ich 17 und noch<span style="s4"> nicht mal</span></p>
+<p begin="00:01:19.409" end="00:01:28.409" style="s2">parteimitglied danke<span style="s4"> da habe ich sehr</span></p>
+<p begin="00:01:24.750" end="00:01:30.450" style="s2">engagiert dafür gekämpft dass wir die</p>
+<p begin="00:01:28.409" end="00:01:32.549" style="s2"><span style="s3">d-mark</span><span style="s4"> behalten</span> dass wir uns auf das</p>
+<p begin="00:01:30.450" end="00:01:33.470" style="s2">waghalsige maastricht abenteuer nicht</p>
+<p begin="00:01:32.549" end="00:01:38.009" style="s2">einlassen</p>
+<p begin="00:01:33.470" end="00:01:40.530" style="s2"><span style="s4">und</span> es ist<span style="s3"> dem</span> honorigen manfred brunner</p>
+<p begin="00:01:38.009" end="00:01:42.780" style="s2">zu verdanken<span style="s4"> dass</span> damals zumindest ein</p>
+<p begin="00:01:40.530" end="00:01:45.329" style="s2">urteil erstritten worden ist in</p>
+<p begin="00:01:42.780" end="00:01:47.340" style="s2">karlsruhe<span style="s3"> dass</span> wenn<span style="s4"> wir</span> uns noch an</p>
+<p begin="00:01:45.329" end="00:01:49.640" style="s2">recht und gesetz in diesem land halten</p>
+<p begin="00:01:47.340" end="00:01:52.640" style="s2">würden einen europäischen bundesstaat</p>
+<p begin="00:01:49.640" end="00:01:52.640" style="s2">verbietet</p>
+<p begin="00:01:55.560" end="00:02:01.030" style="s2"><span style="s4">manfred</span> brunner erst vor einem halben</p>
+<p begin="00:01:57.820" end="00:02:04.180" style="s2">jahr gestorben war ein aufrechter</p>
+<p begin="00:02:01.030" end="00:02:07.680" style="s2"><span style="s4">liberaler</span> und ein großer patriot und ja</p>
+<p begin="00:02:04.180" end="00:02:10.720" style="s2">das<span style="s4"> geht</span> zusammen und<span style="s4"> manfred</span> brunner</p>
+<p begin="00:02:07.680" end="00:02:12.040" style="s2">hat auf mich einen sehr prägenden</p>
+<p begin="00:02:10.720" end="00:02:14.110" style="s2">eindruck gemacht</p>
+<p begin="00:02:12.040" end="00:02:16.120" style="s2">ich<span style="s4"> habe</span> 2016 noch<span style="s4"> mal</span> mit ihm</p>
+<p begin="00:02:14.110" end="00:02:18.100" style="s2">telefonieren können und daher weiß ich</p>
+<p begin="00:02:16.120" end="00:02:25.300" style="s2">dass er uns<span style="s3"> ralf d</span><span style="s4"> mit</span> großer sympathie</p>
+<p begin="00:02:18.100" end="00:02:26.970" style="s2">gesehen hat und ich hatte damals ja ich</p>
+<p begin="00:02:25.300" end="00:02:30.070" style="s2">muss den hut ziehen<span style="s4"> vor</span><span style="s3"> jemanden</span> der</p>
+<p begin="00:02:26.970" end="00:02:32.530" style="s2"><span style="s4">seine</span> politische karriere und auch seine</p>
+<p begin="00:02:30.070" end="00:02:34.870" style="s2">laufbahn ambitionen<span style="s3"> zurück stellt hinter</span></p>
+<p begin="00:02:32.530" end="00:02:36.340" style="s2">seinen grundüberzeugungen</p>
+<p begin="00:02:34.870" end="00:02:38.740" style="s2">genau das brauchen wir in diesem land</p>
+<p begin="00:02:36.340" end="00:02:41.200" style="s2">wieder menschen die bereit sind ihre</p>
+<p begin="00:02:38.740" end="00:02:44.380" style="s2">prinzipien über die eigenen chancen zu</p>
+<p begin="00:02:41.200" end="00:02:46.570" style="s2">stellen<span style="s4"> bei brunner war es nämlich</span></p>
+<p begin="00:02:44.380" end="00:02:51.010" style="s2">damals so er war<span style="s3"> eeg</span><span style="s4"> kabinettschef</span> also</p>
+<p begin="00:02:46.570" end="00:02:52.390" style="s2"><span style="s4">bei eg</span><span style="s3"> kommissar</span><span style="s4"> bangemann</span> im amt und er</p>
+<p begin="00:02:51.010" end="00:02:55.209" style="s2">hat sich gegen die regierungslinie</p>
+<p begin="00:02:52.390" end="00:02:57.520" style="s2">gestellt gegen kohl<span style="s4"> kohl</span> wollte</p>
+<p begin="00:02:55.209" end="00:02:59.519" style="s2">maastricht wollte die europäische</p>
+<p begin="00:02:57.520" end="00:03:02.080" style="s2">einheitswährung vor der alle großen</p>
+<p begin="00:02:59.519" end="00:03:04.000" style="s2">ökonomen sogar nobelpreisträger milton</p>
+<p begin="00:03:02.080" end="00:03:06.340" style="s2">friedman gary becker<span style="s3"> gewarnt</span> haben er</p>
+<p begin="00:03:04.000" end="00:03:08.380" style="s2"><span style="s4">wollte das durchdrücken</span><span style="s3"> um</span> jeden<span style="s4"> preis</span></p>
+<p begin="00:03:06.340" end="00:03:10.540" style="s2">und<span style="s4"> er</span> hat<span style="s4"> es</span><span style="s3"> auch</span> geschafft und der<span style="s4"> eg</span></p>
+<p begin="00:03:08.380" end="00:03:11.220" style="s2">beamte brunner hat gesagt das wird ein</p>
+<p begin="00:03:10.540" end="00:03:14.050" style="s2">fiasko</p>
+<p begin="00:03:11.220" end="00:03:15.250" style="s2">und dann hat man ihn zu sich gebeten<span style="s3"> das</span></p>
+<p begin="00:03:14.050" end="00:03:16.810" style="s2"><span style="s4">war</span><span style="s3"> lange man hat</span><span style="s4"> gesagt</span><span style="s3"> kohl hat</span></p>
+<p begin="00:03:15.250" end="00:03:18.459" style="s2">angerufen<span style="s4"> hat</span> gesagt wenn sie damit</p>
+<p begin="00:03:16.810" end="00:03:21.760" style="s2">nicht aufhören muss ich sie</p>
+<p begin="00:03:18.459" end="00:03:23.530" style="s2">rausschmeißen<span style="s4"> und</span> dann<span style="s4"> wissen</span> sie sie</p>
+<p begin="00:03:21.760" end="00:03:25.600" style="s2">haben noch drei monate bis sie überhaupt</p>
+<p begin="00:03:23.530" end="00:03:26.800" style="s2">eine<span style="s4"> pension</span> berechtigung haben wenn ich</p>
+<p begin="00:03:25.600" end="00:03:30.250" style="s2">sie jetzt<span style="s3"> raus schmeißen gehen</span> sie also</p>
+<p begin="00:03:26.800" end="00:03:33.459" style="s2">leer aus und<span style="s4"> er</span> hat<span style="s3"> brunner</span> gesagt<span style="s4"> ich</span></p>
+<p begin="00:03:30.250" end="00:03:35.800" style="s2">sage was ich denke ich bin ein beamter</p>
+<p begin="00:03:33.459" end="00:03:39.720" style="s2">und ich stehe<span style="s4"> dazu</span> die wahrheit zu sagen</p>
+<p begin="00:03:35.800" end="00:03:43.120" style="s2">und dann wurde er rausgeschmissen</p>
+<p begin="00:03:39.720" end="00:03:45.370" style="s2"><span style="s3">und</span> genau das ist also nicht neu dass</p>
+<p begin="00:03:43.120" end="00:03:47.320" style="s2">ein beamter rausgeschmissen wird weil er</p>
+<p begin="00:03:45.370" end="00:03:49.690" style="s2">sich gegen die regierungslinie stellt</p>
+<p begin="00:03:47.320" end="00:03:51.820" style="s2">das ist also kein neues phänomen</p>
+<p begin="00:03:49.690" end="00:03:54.310" style="s2">wenn jetzt einige sich an den fall<span style="s3"> maßen</span></p>
+<p begin="00:03:51.820" end="00:03:56.170" style="s2">erinnern ich habe also manfred brunner</p>
+<p begin="00:03:54.310" end="00:03:59.200" style="s2">für die schülerzeitung interviewt<span style="s4"> das</span></p>
+<p begin="00:03:56.170" end="00:04:00.970" style="s2">sollte<span style="s4"> da</span> nicht abgedruckt werden<span style="s3"> 1994</span></p>
+<p begin="00:03:59.200" end="00:04:02.650" style="s2"><span style="s3">da hieß es intellektuell verbringen der</span></p>
+<p begin="00:04:00.970" end="00:04:03.819" style="s2"><span style="s3">trek</span> dann<span style="s3"> wurde</span> noch gesagt eine</p>
+<p begin="00:04:02.650" end="00:04:06.150" style="s2">schülerzeitung hat überhaupt nicht</p>
+<p begin="00:04:03.819" end="00:04:08.620" style="s2">politisch zu sein und wenn dann links</p>
+<p begin="00:04:06.150" end="00:04:10.300" style="s2">und ich habe<span style="s4"> das durchgedrückt übrigens</span></p>
+<p begin="00:04:08.620" end="00:04:12.310" style="s2">ausschließlich<span style="s3"> mit hilfe von</span></p>
+<p begin="00:04:10.300" end="00:04:14.140" style="s2">griechischen türkischen und slowakischen</p>
+<p begin="00:04:12.310" end="00:04:15.400" style="s2">und ungarischen klassenkameraden die</p>
+<p begin="00:04:14.140" end="00:04:19.540" style="s2">deutschen haben sich alle weggedrückt</p>
+<p begin="00:04:15.400" end="00:04:21.940" style="s2">alle und dann ging das kesseltreiben</p>
+<p begin="00:04:19.540" end="00:04:23.410" style="s2">gegen nicht los<span style="s3"> und</span> dann habe ich das</p>
+<p begin="00:04:21.940" end="00:04:24.460" style="s2">gymnasium verlassen müssen und durfte</p>
+<p begin="00:04:23.410" end="00:04:26.620" style="s2">erst<span style="s4"> einmal eine ausbildung zum</span></p>
+<p begin="00:04:24.460" end="00:04:28.300" style="s2">industriekaufmann machen<span style="s4"> das</span> abi<span style="s4"> habe</span></p>
+<p begin="00:04:26.620" end="00:04:34.800" style="s2">ich dann später nachgeholt auf zweiten</p>
+<p begin="00:04:28.300" end="00:04:38.380" style="s2">bildungsweg was<span style="s3"> ich damit sagen</span></p>
+<p begin="00:04:34.800" end="00:04:42.550" style="s2"><span style="s4">brunner</span> hat<span style="s4"> harte</span> nachteile für sich in</p>
+<p begin="00:04:38.380" end="00:04:44.590" style="s2">kauf genommen weil er<span style="s4"> ein</span> mann war der</p>
+<p begin="00:04:42.550" end="00:04:46.900" style="s2">für seine grundsätze<span style="s3"> einstand</span> und<span style="s4"> auch</span></p>
+<p begin="00:04:44.590" end="00:04:48.820" style="s2">ich habe gewisse nachteile auf mich</p>
+<p begin="00:04:46.900" end="00:04:52.030" style="s2">genommen weil ich gesehen habe dass das</p>
+<p begin="00:04:48.820" end="00:04:55.120" style="s2">was da kommt eben in die irre führt und</p>
+<p begin="00:04:52.030" end="00:04:56.680" style="s2">es ist richtig dass man opfer bringt es</p>
+<p begin="00:04:55.120" end="00:04:57.910" style="s2">ist<span style="s4"> richtig</span> dass man<span style="s4"> auch verbringt für</span></p>
+<p begin="00:04:56.680" end="00:05:00.479" style="s2">seine überzeugung sonst<span style="s4"> tauben die</span></p>
+<p begin="00:04:57.910" end="00:05:04.260" style="s2">nichts und man selbst auch nicht aber es</p>
+<p begin="00:05:00.479" end="00:05:07.120" style="s2">ist falsch für die eigenen überzeugungen</p>
+<p begin="00:05:04.260" end="00:05:10.120" style="s2">anderen nachteile aufzuerlegen und</p>
+<p begin="00:05:07.120" end="00:05:11.440" style="s2">anderen opfer abzuverlangen<span style="s4"> und das</span></p>
+<p begin="00:05:10.120" end="00:05:15.039" style="s2">wünsche ich mir manchmal auch in der</p>
+<p begin="00:05:11.440" end="00:05:17.190" style="s2">partei<span style="s3"> dass</span> wir kameradschaftlichkeit</p>
+<p begin="00:05:15.039" end="00:05:18.340" style="s2">und solidarität nicht als einbahnstraße</p>
+<p begin="00:05:17.190" end="00:05:21.100" style="s2">betrachten</p>
+<p begin="00:05:18.340" end="00:05:23.169" style="s2">man kann natürlich<span style="s4"> am</span> laufenden</p>
+<p begin="00:05:21.100" end="00:05:24.760" style="s2">fließband resolutionen verabschieden und</p>
+<p begin="00:05:23.169" end="00:05:26.710" style="s2">irgendwelche<span style="s4"> hanebüchene</span> stuttgarter</p>
+<p begin="00:05:24.760" end="00:05:28.690" style="s2">erklärungen abgeben und dann diejenigen</p>
+<p begin="00:05:26.710" end="00:05:30.550" style="s2">die nicht durch ein mandat abgesichert</p>
+<p begin="00:05:28.690" end="00:05:31.479" style="s2">sind unsere unsere beamten<span style="s4"> wie</span> sie habe</p>
+<p begin="00:05:30.550" end="00:05:32.830" style="s2">ich habe in meinem kreisverband</p>
+<p begin="00:05:31.479" end="00:05:35.050" style="s2">göppingen<span style="s4"> habe ich zwei junge polizisten</span></p>
+<p begin="00:05:32.830" end="00:05:36.520" style="s2">wenn wir in die<span style="s4"> verfassungsschutz</span></p>
+<p begin="00:05:35.050" end="00:05:37.240" style="s2"><span style="s4">beobachtung hinein kommt</span> dann haben die</p>
+<p begin="00:05:36.520" end="00:05:38.550" style="s2">richtig spaß</p>
+<p begin="00:05:37.240" end="00:05:40.360" style="s2">da hat dann werden wir nämlich</p>
+<p begin="00:05:38.550" end="00:05:41.590" style="s2">eingestellt und dann werden<span style="s4"> denen</span></p>
+<p begin="00:05:40.360" end="00:05:43.660" style="s2">knifflige fragen gestellt</p>
+<p begin="00:05:41.590" end="00:05:44.800" style="s2">wir müssen oder denken<span style="s3"> seien</span></p>
+<p begin="00:05:43.660" end="00:05:47.470" style="s2">selbstständige denken sie an</p>
+<p begin="00:05:44.800" end="00:05:50.229" style="s2">freiberufler<span style="s3"> und</span> unternehmer wir sollten</p>
+<p begin="00:05:47.470" end="00:05:52.410" style="s2">in dieser partei endlich lernen dass</p>
+<p begin="00:05:50.229" end="00:05:55.180" style="s2">nicht einige durch verbale kraftmeierei</p>
+<p begin="00:05:52.410" end="00:05:58.120" style="s2">allen anderen alles verhandeln</p>
+<p begin="00:05:55.180" end="00:06:00.729" style="s2">das muss endlich auch einmal<span style="s3"> klar</span></p>
+<p begin="00:05:58.120" end="00:06:02.169" style="s2"><span style="s3">gemacht</span> werden<span style="s4"> und</span> deswegen an dieser</p>
+<p begin="00:06:00.729" end="00:06:05.560" style="s2">stelle jetzt mache ich mich richtig</p>
+<p begin="00:06:02.169" end="00:06:08.800" style="s2">unbeliebt ich bedanke mich ausdrücklich</p>
+<p begin="00:06:05.560" end="00:06:11.260" style="s2">bei unserem bundesvorstand dass er</p>
+<p begin="00:06:08.800" end="00:06:13.000" style="s2">endlich auch die beschlusslagen</p>
+<p begin="00:06:11.260" end="00:06:14.080" style="s2">bezüglich abgrenzung ich will keine</p>
+<p begin="00:06:13.000" end="00:06:15.840" style="s2">namen nennen ihr wisst ja alle was</p>
+<p begin="00:06:14.080" end="00:06:17.460" style="s2">gemeint ist durchsetzt</p>
+<p begin="00:06:15.840" end="00:06:19.530" style="s2">das ist nicht ständig immer wieder</p>
+<p begin="00:06:17.460" end="00:06:21.389" style="s2">aufzudröseln und<span style="s4"> draufzusatteln</span> sollen</p>
+<p begin="00:06:19.530" end="00:06:22.919" style="s2">dass es endlich einmal<span style="s4"> durchzusetzen</span> wir</p>
+<p begin="00:06:21.389" end="00:06:24.990" style="s2">haben leitplanken und<span style="s4"> wir haben</span></p>
+<p begin="00:06:22.919" end="00:06:26.910" style="s2">prinzipien aber wir haben auch grenzen</p>
+<p begin="00:06:24.990" end="00:06:28.770" style="s2">ich bedanke mich<span style="s3"> des weiteren auch</span> beim</p>
+<p begin="00:06:26.910" end="00:06:32.010" style="s2">landesvorstand<span style="s3"> baden württemberg der</span></p>
+<p begin="00:06:28.770" end="00:06:34.110" style="s2">ebenfalls jetzt klare kante zeigt und</p>
+<p begin="00:06:32.010" end="00:06:36.300" style="s2">ich bedanke mich ausdrücklich auch bei</p>
+<p begin="00:06:34.110" end="00:06:37.949" style="s2">der fraktion des landtags<span style="s3"> schleswig</span></p>
+<p begin="00:06:36.300" end="00:06:39.840" style="s2"><span style="s3">holstein</span><span style="s4"> dass</span> auch diese einen</p>
+<p begin="00:06:37.949" end="00:06:42.240" style="s2">klärungsprozess herbeiführen</p>
+<p begin="00:06:39.840" end="00:06:45.500" style="s2">unsere partei<span style="s4"> muss</span> im bereich der</p>
+<p begin="00:06:42.240" end="00:06:47.250" style="s2">zurechenbarkeit bleiben was eine</p>
+<p begin="00:06:45.500" end="00:06:51.270" style="s2"><span style="s3">freiheitliche</span> patriotische partei</p>
+<p begin="00:06:47.250" end="00:06:53.820" style="s2">braucht ist mut zur freiheit aber eben</p>
+<p begin="00:06:51.270" end="00:06:56.720" style="s2">auch den ruf zur ordnung ich danke<span style="s4"> ihnen</span></p>
+<p begin="00:06:53.820" end="00:06:56.720" style="s2"><span style="s4">kommen</span> sie<span style="s3"> bitte</span> zum schluss</p>
+<p begin="00:07:00.500" end="00:07:03.570" style="s2">vielen dank</p>
+<p begin="00:07:01.770" end="00:07:06.990" style="s2">es gibt zwei fragen an den kandidaten</p>
+<p begin="00:07:03.570" end="00:07:10.580" style="s2">die erste frage<span style="s3"> stellt</span> michael weller</p>
+<p begin="00:07:06.990" end="00:07:15.030" style="s2">die zweite<span style="s3"> frage stellte fabian kranz</span></p>
+<p begin="00:07:10.580" end="00:07:16.410" style="s2">herr michael weller steht<span style="s4"> bereits</span><span style="s3"> im</span></p>
+<p begin="00:07:15.030" end="00:07:18.810" style="s2">roten<span style="s3"> saal</span><span style="s4"> mikrofon</span><span style="s3"> bitte</span> für 30</p>
+<p begin="00:07:16.410" end="00:07:20.700" style="s2">sekunden haben sie das wort<span style="s4"> ja</span><span style="s3"> harnik</span></p>
+<p begin="00:07:18.810" end="00:07:22.289" style="s2">sie haben einiges<span style="s3"> zur d-mark</span><span style="s4"> gesagt</span></p>
+<p begin="00:07:20.700" end="00:07:24.210" style="s2">jetzt wollte ich die frage stellen</p>
+<p begin="00:07:22.289" end="00:07:27.500" style="s2">denken<span style="s3"> sie</span> das<span style="s4"> konzert</span> zurückkehren</p>
+<p begin="00:07:24.210" end="00:07:30.300" style="s2">sollte und<span style="s4"> das</span><span style="s3"> war</span><span style="s4"> chancen</span> bestehen</p>
+<p begin="00:07:27.500" end="00:07:32.160" style="s2">anders als unsere<span style="s3"> starts</span> ökonomen die</p>
+<p begin="00:07:30.300" end="00:07:33.510" style="s2"><span style="s3">die</span><span style="s4"> horrorszenarien</span> an die wand malen</p>
+<p begin="00:07:32.160" end="00:07:36.150" style="s2">glaube ich das durchaus</p>
+<p begin="00:07:33.510" end="00:07:39.180" style="s2">es ist allerdings nicht der ideale weg</p>
+<p begin="00:07:36.150" end="00:07:41.190" style="s2">der weg zur<span style="s3"> d mark</span><span style="s4"> wäre</span> gegenüber der</p>
+<p begin="00:07:39.180" end="00:07:43.110" style="s2">heutigen einheitswährung natürlich eine</p>
+<p begin="00:07:41.190" end="00:07:45.510" style="s2">verbesserung das mit dem abwertungsdruck</p>
+<p begin="00:07:43.110" end="00:07:47.580" style="s2">stimmt aber das wäre zu managen</p>
+<p begin="00:07:45.510" end="00:07:49.280" style="s2">kostspielig wird die entwicklung des</p>
+<p begin="00:07:47.580" end="00:07:51.870" style="s2">euro sowieso</p>
+<p begin="00:07:49.280" end="00:07:53.580" style="s2">wir müssen allerdings auch im grundsatz</p>
+<p begin="00:07:51.870" end="00:07:55.770" style="s2">noch weiter denken wir sollten darüber</p>
+<p begin="00:07:53.580" end="00:07:58.080" style="s2">nachdenken dass diese dass die zeit<span style="s4"> des</span></p>
+<p begin="00:07:55.770" end="00:08:00.330" style="s2"><span style="s4">feierte</span> man so langsam zu ende geht und</p>
+<p begin="00:07:58.080" end="00:08:01.770" style="s2">ich weiß dass<span style="s4"> unsere</span> partei<span style="s4"> der</span> kluge</p>
+<p begin="00:08:00.330" end="00:08:02.250" style="s2">köpfe<span style="s3"> gibt</span> peter<span style="s3"> böhringer aus einer</span></p>
+<p begin="00:08:01.770" end="00:08:06.090" style="s2">davon</p>
+<p begin="00:08:02.250" end="00:08:08.190" style="s2">die<span style="s3"> ihren heike gelesen haben das</span><span style="s4"> heißt</span></p>
+<p begin="00:08:06.090" end="00:08:08.849" style="s2">das gesamte<span style="s4"> geld</span><span style="s3"> system</span><span style="s4"> muss</span> neu gedacht</p>
+<p begin="00:08:08.190" end="00:08:11.130" style="s2">werden</p>
+<p begin="00:08:08.849" end="00:08:12.800" style="s2">im sinne einer marktwirtschaftlichen</p>
+<p begin="00:08:11.130" end="00:08:17.350" style="s2">geldordnung</p>
+<p begin="00:08:12.800" end="00:08:19.400" style="s2">[Applaus]</p>
+<p begin="00:08:17.350" end="00:08:21.800" style="s2"><span style="s3">dankeschön die zweite</span><span style="s4"> frage</span> von herrn</p>
+<p begin="00:08:19.400" end="00:08:23.660" style="s2">fabian<span style="s4"> kranz</span><span style="s3"> eder</span> ebenfalls<span style="s4"> im roten</span></p>
+<p begin="00:08:21.800" end="00:08:27.590" style="s2"><span style="s4">saal</span> mikrofon bitte für 30 sekunden</p>
+<p begin="00:08:23.660" end="00:08:30.290" style="s2"><span style="s3">guten</span> morgen<span style="s3"> zusammen</span> hennig wie<span style="s4"> stehen</span></p>
+<p begin="00:08:27.590" end="00:08:32.090" style="s2">sie zum<span style="s3"> text</span><span style="s4"> finden</span> sie<span style="s3"> ihn</span><span style="s4"> sinnvoll</span></p>
+<p begin="00:08:30.290" end="00:08:34.190" style="s2">oder<span style="s3"> eher</span> weniger</p>
+<p begin="00:08:32.090" end="00:08:36.469" style="s2">vielen dank<span style="s3"> dass eine</span><span style="s4"> sehr</span><span style="s3"> gute</span><span style="s4"> frage</span></p>
+<p begin="00:08:34.190" end="00:08:38.060" style="s2">also die begriffsverwirrung muss man da</p>
+<p begin="00:08:36.469" end="00:08:41.000" style="s2"><span style="s4">immer</span><span style="s3"> erst mal klären</span> wenn mit<span style="s4"> wechselt</span></p>
+<p begin="00:08:38.060" end="00:08:43.820" style="s2">gemeint ist austritt aus dem euro noch</p>
+<p begin="00:08:41.000" end="00:08:46.010" style="s2"><span style="s4">vor</span> morgen<span style="s4"> früh selbstverständlich wenn</span></p>
+<p begin="00:08:43.820" end="00:08:48.320" style="s2">allerdings mit<span style="s3"> dexxit</span> gemeint wäre</p>
+<p begin="00:08:46.010" end="00:08:51.340" style="s2">austritt aus der europäischen union dann</p>
+<p begin="00:08:48.320" end="00:08:53.750" style="s2">wäre<span style="s3"> das</span> ich<span style="s4"> sag</span> mal an der provokation</p>
+<p begin="00:08:51.340" end="00:08:55.910" style="s2">schraube die eine umdrehung<span style="s4"> zu viel</span></p>
+<p begin="00:08:53.750" end="00:08:58.130" style="s2">durch das gewinde<span style="s3"> wegbricht</span> das kriegen</p>
+<p begin="00:08:55.910" end="00:09:00.500" style="s2">wir nicht kommuniziert ich<span style="s4"> glaube</span> es ist</p>
+<p begin="00:08:58.130" end="00:09:03.140" style="s2">vernünftig hier realpolitisch zu sagen</p>
+<p begin="00:09:00.500" end="00:09:04.810" style="s2">wir wollen die eu reformieren und nicht</p>
+<p begin="00:09:03.140" end="00:09:11.580" style="s2">das kind mit dem bade ausschütten</p>
+<p begin="00:09:04.810" end="00:09:11.580" style="s2">[Applaus]</p>
+</div>
+</body>
+</tt>

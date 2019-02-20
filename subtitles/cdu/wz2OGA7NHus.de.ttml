@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.110" end="00:00:04.259" style="s2">sehr geehrte frau präsidentin meine sehr</p>
+<p begin="00:00:02.850" end="00:00:07.250" style="s2">geehrten damen und herren kollegen</p>
+<p begin="00:00:04.259" end="00:00:08.639" style="s2">abgeordnete der dringlichkeit und die</p>
+<p begin="00:00:07.250" end="00:00:10.139" style="s2">dringlichkeitsantrag und die</p>
+<p begin="00:00:08.639" end="00:00:12.420" style="s2">berichterstattung in den medien zeigen</p>
+<p begin="00:00:10.139" end="00:00:15.450" style="s2">dass es doch einige<span style="s3"> offene</span> fragen gibt</p>
+<p begin="00:00:12.420" end="00:00:17.160" style="s2">die erste frage ist hat der vorstand</p>
+<p begin="00:00:15.450" end="00:00:18.840" style="s2">eine<span style="s4"> leistung und</span><span style="s3"> erfolg</span><span style="s4"> selbe vergütung</span></p>
+<p begin="00:00:17.160" end="00:00:20.910" style="s2"><span style="s3">erhalten</span><span style="s4"> diese</span> frage<span style="s3"> lässt</span> sich</p>
+<p begin="00:00:18.840" end="00:00:24.720" style="s2">zweifelsfrei mit ja beantworten</p>
+<p begin="00:00:20.910" end="00:00:26.189" style="s2">die zweite frage ist ist das rechtmäßig</p>
+<p begin="00:00:24.720" end="00:00:27.000" style="s2">auch diese frage lässt sich mit ja</p>
+<p begin="00:00:26.189" end="00:00:29.099" style="s2">beantworten</p>
+<p begin="00:00:27.000" end="00:00:30.810" style="s2">in der antwort zu der<span style="s3"> kleinen</span> anfrage</p>
+<p begin="00:00:29.099" end="00:00:32.130" style="s2">der fraktion die linke aus dem august</p>
+<p begin="00:00:30.810" end="00:00:35.010" style="s2">letzten jahres wurde dies bereits</p>
+<p begin="00:00:32.130" end="00:00:36.360" style="s2">ausführlich beantwortet und auch<span style="s3"> unser</span></p>
+<p begin="00:00:35.010" end="00:00:38.550" style="s2">landeshochschulgesetz spricht von</p>
+<p begin="00:00:36.360" end="00:00:39.329" style="s2">leistungsabhängigen dienstverträgen die</p>
+<p begin="00:00:38.550" end="00:00:42.360" style="s2">mit den vorstandsmitgliedern</p>
+<p begin="00:00:39.329" end="00:00:44.370" style="s2">abzuschließen sind<span style="s3"> insofern</span><span style="s4"> ist</span> das</p>
+<p begin="00:00:42.360" end="00:00:46.170" style="s2">vorgehen im rechtlichen rahmen<span style="s3"> und</span></p>
+<p begin="00:00:44.370" end="00:00:48.809" style="s2"><span style="s3">schließlich</span><span style="s4"> ist</span> die dritte frage ist ein</p>
+<p begin="00:00:46.170" end="00:00:50.219" style="s2">solches vorgehen moralisch richtig es</p>
+<p begin="00:00:48.809" end="00:00:52.110" style="s2">ist<span style="s4"> natürlich</span> nicht verboten<span style="s4"> dass</span> ein</p>
+<p begin="00:00:50.219" end="00:00:53.670" style="s2">klinikum gewinne macht es ist auch nicht</p>
+<p begin="00:00:52.110" end="00:00:55.980" style="s2">verboten dass der geschäftsführer</p>
+<p begin="00:00:53.670" end="00:00:57.530" style="s2">erfolgsabhängige<span style="s4"> zahlungen</span> erhält wenn</p>
+<p begin="00:00:55.980" end="00:00:59.489" style="s2">das unternehmen wirtschaftlich läuft</p>
+<p begin="00:00:57.530" end="00:01:01.800" style="s2"><span style="s3">aber</span> bei der frage schwingt natürlich</p>
+<p begin="00:00:59.489" end="00:01:03.690" style="s2">immer die angst mit dass der patient</p>
+<p begin="00:01:01.800" end="00:01:06.299" style="s2">nicht mehr auf eine optimale behandlung</p>
+<p begin="00:01:03.690" end="00:01:07.250" style="s2">für seine gesundheit verlassen können es</p>
+<p begin="00:01:06.299" end="00:01:10.650" style="s2">steht dabei eine wahrgenommene</p>
+<p begin="00:01:07.250" end="00:01:12.450" style="s2">ökonomisierung der medizin im raum<span style="s3"> die</span></p>
+<p begin="00:01:10.650" end="00:01:14.640" style="s2">dann<span style="s4"> zu therapieentscheidung führen kann</span></p>
+<p begin="00:01:12.450" end="00:01:16.770" style="s2"><span style="s4">die medizin ist</span> gar nicht notwendig oder</p>
+<p begin="00:01:14.640" end="00:01:18.330" style="s2">erfolgsversprechend sind<span style="s3"> und</span> im</p>
+<p begin="00:01:16.770" end="00:01:20.850" style="s2">schlimmsten<span style="s4"> fall</span><span style="s3"> zu</span> nachteilen in der</p>
+<p begin="00:01:18.330" end="00:01:22.500" style="s2">medizinischen versorgung<span style="s3"> führt</span> meine</p>
+<p begin="00:01:20.850" end="00:01:24.150" style="s2">fraktion nimmt die stimmung in der</p>
+<p begin="00:01:22.500" end="00:01:27.119" style="s2">belegschaft und in der bevölkerung war</p>
+<p begin="00:01:24.150" end="00:01:28.439" style="s2">und sie beunruhigt uns weil die<span style="s4"> uni</span></p>
+<p begin="00:01:27.119" end="00:01:29.630" style="s2"><span style="s4">medizin</span> in deutschland<span style="s4"> einen</span></p>
+<p begin="00:01:28.439" end="00:01:31.950" style="s2">ausgezeichneten ruf hat</p>
+<p begin="00:01:29.630" end="00:01:34.170" style="s2"><span style="s4">und natürlich müssen wir gemeinsam dafür</span></p>
+<p begin="00:01:31.950" end="00:01:35.549" style="s2">sorge tragen dass dieser ruf dieser</p>
+<p begin="00:01:34.170" end="00:01:38.000" style="s2">klinik nicht weiter in mitleidenschaft</p>
+<p begin="00:01:35.549" end="00:01:40.350" style="s2">gezogen wird</p>
+<p begin="00:01:38.000" end="00:01:42.720" style="s2">natürlich ist<span style="s3"> ein</span> mediziner kein manager</p>
+<p begin="00:01:40.350" end="00:01:44.790" style="s2">die finanziellen ressourcen die wir als</p>
+<p begin="00:01:42.720" end="00:01:46.290" style="s2">land aber auch der bund und die</p>
+<p begin="00:01:44.790" end="00:01:48.720" style="s2">gesellschaft für das gesundheitssystem</p>
+<p begin="00:01:46.290" end="00:01:50.700" style="s2"><span style="s3">einsetzen</span> können sind aber begrenzt</p>
+<p begin="00:01:48.720" end="00:01:52.049" style="s2">deshalb können wir unsere unser</p>
+<p begin="00:01:50.700" end="00:01:53.909" style="s2">gesundheitssystem nicht vollkommen</p>
+<p begin="00:01:52.049" end="00:01:55.880" style="s2">abgekoppelt von den finanzen und der</p>
+<p begin="00:01:53.909" end="00:01:58.409" style="s2">wirtschaftlichkeit eines klinikums sehen</p>
+<p begin="00:01:55.880" end="00:02:00.869" style="s2">deshalb ist es auch mein anspruch der</p>
+<p begin="00:01:58.409" end="00:02:02.399" style="s2">anspruch meiner fraktion und der</p>
+<p begin="00:02:00.869" end="00:02:03.930" style="s2">anspruch der bürger<span style="s3"> dass</span> unser</p>
+<p begin="00:02:02.399" end="00:02:06.450" style="s2">gesundheitssystem wirtschaftlich</p>
+<p begin="00:02:03.930" end="00:02:09.039" style="s2">effektiv und effizient aufgestellt ist</p>
+<p begin="00:02:06.450" end="00:02:11.200" style="s2"><span style="s3">zum</span><span style="s4"> patientenwohl</span></p>
+<p begin="00:02:09.039" end="00:02:13.120" style="s2">die wirtschaftliche führung eines</p>
+<p begin="00:02:11.200" end="00:02:15.099" style="s2">krankenhaus hat deshalb die aufgabe eine</p>
+<p begin="00:02:13.120" end="00:02:17.500" style="s2">qualitativ hochwertige versorgung zu</p>
+<p begin="00:02:15.099" end="00:02:19.780" style="s2">gewährleisten<span style="s3"> und der ausnutzung der</span></p>
+<p begin="00:02:17.500" end="00:02:21.579" style="s2">finanziellen spielräume ich betone es</p>
+<p begin="00:02:19.780" end="00:02:23.950" style="s2">aber noch einmal<span style="s3"> im</span> interesse der</p>
+<p begin="00:02:21.579" end="00:02:25.989" style="s2">patienten und schlussendlich geht es um</p>
+<p begin="00:02:23.950" end="00:02:29.170" style="s2">die frage ob das bildungsministerium</p>
+<p begin="00:02:25.989" end="00:02:31.030" style="s2">stets richtig informiert hat wir gehen</p>
+<p begin="00:02:29.170" end="00:02:32.129" style="s2">davon aus dass dies bislang immer der</p>
+<p begin="00:02:31.030" end="00:02:34.689" style="s2">fall war</p>
+<p begin="00:02:32.129" end="00:02:35.709" style="s2">frau ministerin warum sie aber gerade</p>
+<p begin="00:02:34.689" end="00:02:38.560" style="s2">der afd</p>
+<p begin="00:02:35.709" end="00:02:38.889" style="s2">ihre rede gegeben haben das weiß ich</p>
+<p begin="00:02:38.560" end="00:02:41.049" style="s2">nicht</p>
+<p begin="00:02:38.889" end="00:02:42.939" style="s2">wenn sie mich persönlich gefragt<span style="s4"> hätte</span></p>
+<p begin="00:02:41.049" end="00:02:49.840" style="s2">ich<span style="s3"> hätte</span><span style="s4"> ihnen</span> dazu nicht<span style="s4"> gerade</span></p>
+<p begin="00:02:42.939" end="00:02:52.560" style="s2">vielen dank für die aufmerksamkeit für</p>
+<p begin="00:02:49.840" end="00:02:52.560" style="s2">die fraktion freie</p>
+</div>
+</body>
+</tt>

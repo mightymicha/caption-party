@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.170" end="00:00:05.460" style="s2">sehr geehrte damen und herren sehr</p>
+<p begin="00:00:02.639" end="00:00:07.950" style="s2">geehrte frau präsidentin verehrte bürger</p>
+<p begin="00:00:05.460" end="00:00:11.160" style="s2">heute<span style="s3"> werden</span> hier im plenum einen antrag</p>
+<p begin="00:00:07.950" end="00:00:13.650" style="s2">der fdp und unser antrag behandelt die</p>
+<p begin="00:00:11.160" end="00:00:16.350" style="s2">in der intention ähnlich sind das ist</p>
+<p begin="00:00:13.650" end="00:00:18.690" style="s2">kein zufall denn diese anträge sind die</p>
+<p begin="00:00:16.350" end="00:00:21.270" style="s2">einzig logische antwort auf das vorhaben</p>
+<p begin="00:00:18.690" end="00:00:23.430" style="s2">des ministers<span style="s3"> armut</span> bei den rentnern zu</p>
+<p begin="00:00:21.270" end="00:00:25.050" style="s2">bekämpfen indem man geld mit der</p>
+<p begin="00:00:23.430" end="00:00:28.050" style="s2">gießkanne über einen teil davon</p>
+<p begin="00:00:25.050" end="00:00:31.019" style="s2">ausschüttet<span style="s3"> was</span> hat minister<span style="s4"> heil</span> mit</p>
+<p begin="00:00:28.050" end="00:00:33.180" style="s2">der<span style="s4"> sogenannten</span> respekt rente vor<span style="s3"> der</span> 35</p>
+<p begin="00:00:31.019" end="00:00:34.739" style="s2">beitragsjahre geschafft und im</p>
+<p begin="00:00:33.180" end="00:00:36.719" style="s2">durchschnitt weniger als 0,8</p>
+<p begin="00:00:34.739" end="00:00:39.000" style="s2">entgeltpunkte im jahr erreicht hat</p>
+<p begin="00:00:36.719" end="00:00:40.980" style="s2">dessen entgeltpunkte werden automatisch</p>
+<p begin="00:00:39.000" end="00:00:41.850" style="s2">auf den wert von jährlich 0,8</p>
+<p begin="00:00:40.980" end="00:00:43.590" style="s2"><span style="s3">aufgestockt</span></p>
+<p begin="00:00:41.850" end="00:00:45.989" style="s2">der so zustande gekommene neue</p>
+<p begin="00:00:43.590" end="00:00:48.030" style="s2"><span style="s4">rentenbetrag</span><span style="s3"> soll</span> ohne prüfung der</p>
+<p begin="00:00:45.989" end="00:00:50.879" style="s2">bedürftigkeit ausgezahlt werden</p>
+<p begin="00:00:48.030" end="00:00:53.370" style="s2">das ist nicht nur unseriös sondern auch</p>
+<p begin="00:00:50.879" end="00:00:55.379" style="s2">höchst verschwenderisch und respektlos</p>
+<p begin="00:00:53.370" end="00:00:57.930" style="s2">denen gegenüber die sich in vollzeit</p>
+<p begin="00:00:55.379" end="00:00:59.449" style="s2">ihre<span style="s3"> wände</span> erarbeitet haben und im</p>
+<p begin="00:00:57.930" end="00:01:01.770" style="s2">endeffekt mit teilzeitkräften</p>
+<p begin="00:00:59.449" end="00:01:06.180" style="s2">gleichgestellt werden<span style="s4"> und</span> das nennt er</p>
+<p begin="00:01:01.770" end="00:01:07.979" style="s2">weniger respekt<span style="s4"> rente</span> im modell des</p>
+<p begin="00:01:06.180" end="00:01:10.260" style="s2">ministers findet keine unterscheidung</p>
+<p begin="00:01:07.979" end="00:01:12.090" style="s2">zwischen<span style="s4"> teil</span><span style="s3"> und</span> vollzeit stellen statt</p>
+<p begin="00:01:10.260" end="00:01:14.000" style="s2">es werden lediglich die beitragsjahre</p>
+<p begin="00:01:12.090" end="00:01:16.380" style="s2">und die erworbenen entgeltpunkte</p>
+<p begin="00:01:14.000" end="00:01:18.540" style="s2">betrachtet bei irgendeiner meinte herr</p>
+<p begin="00:01:16.380" end="00:01:20.670" style="s2">minister<span style="s4"> dass</span> für das<span style="s3"> problem</span> der</p>
+<p begin="00:01:18.540" end="00:01:22.439" style="s2">teilzeitkräfte eine lösung gefunden wird</p>
+<p begin="00:01:20.670" end="00:01:23.369" style="s2">das<span style="s4"> frage</span><span style="s3"> ich</span><span style="s4"> mich schon</span><span style="s3"> wie</span> das gemacht</p>
+<p begin="00:01:22.439" end="00:01:25.409" style="s2">werden soll</p>
+<p begin="00:01:23.369" end="00:01:27.509" style="s2">in<span style="s3"> den versicherungs konnten wird nur</span></p>
+<p begin="00:01:25.409" end="00:01:29.460" style="s2">das einkommen gespeichert nicht die</p>
+<p begin="00:01:27.509" end="00:01:32.210" style="s2">arbeitszeit<span style="s3"> wie</span> soll hier eine</p>
+<p begin="00:01:29.460" end="00:01:34.500" style="s2">teilzeitbeschäftigung lokalisiert werden</p>
+<p begin="00:01:32.210" end="00:01:36.810" style="s2">wir mussten in den letzten tagen vom</p>
+<p begin="00:01:34.500" end="00:01:38.549" style="s2">minister viel über die hart arbeitenden</p>
+<p begin="00:01:36.810" end="00:01:41.100" style="s2">menschen hören sie doch jetzt</p>
+<p begin="00:01:38.549" end="00:01:43.920" style="s2">anerkennung verdient hätten ohne prüfung</p>
+<p begin="00:01:41.100" end="00:01:46.079" style="s2">der bedürftigkeit schade dass dabei die</p>
+<p begin="00:01:43.920" end="00:01:47.759" style="s2">hart arbeitenden steuerzahler vergessen</p>
+<p begin="00:01:46.079" end="00:01:51.240" style="s2">werden die nun ein weiteres mal</p>
+<p begin="00:01:47.759" end="00:01:53.040" style="s2"><span style="s3">geschröpft</span> werden sollen und warum</p>
+<p begin="00:01:51.240" end="00:01:55.799" style="s2">gebührt den hart arbeitenden menschen</p>
+<p begin="00:01:53.040" end="00:01:58.200" style="s2">erst dank und anerkennung wenn sie 35</p>
+<p begin="00:01:55.799" end="00:01:59.969" style="s2"><span style="s4">arbeitsjahren</span><span style="s3"> geschafft</span> haben was</p>
+<p begin="00:01:58.200" end="00:02:02.640" style="s2">unterscheidet diese menschen von den</p>
+<p begin="00:01:59.969" end="00:02:04.079" style="s2">anderen müssen sich hier nicht alle</p>
+<p begin="00:02:02.640" end="00:02:06.409" style="s2">anderen versicherten verhöhnt vorkommen</p>
+<p begin="00:02:04.079" end="00:02:08.149" style="s2"><span style="s3">was</span> ist mit den erwerbsunfähig</p>
+<p begin="00:02:06.409" end="00:02:10.519" style="s2">als rentner die<span style="s3"> weil</span> sie schon eine</p>
+<p begin="00:02:08.149" end="00:02:12.170" style="s2">rente beziehen im letzten<span style="s3"> renten</span> paket</p>
+<p begin="00:02:10.519" end="00:02:14.540" style="s2">bei der erhöhung der anrechnungszeiten</p>
+<p begin="00:02:12.170" end="00:02:15.760" style="s2">übergangen wurden werden sie hier wieder</p>
+<p begin="00:02:14.540" end="00:02:20.510" style="s2">vergessen</p>
+<p begin="00:02:15.760" end="00:02:21.799" style="s2">im september 2018 bezogen über<span style="s3"> 600.000</span></p>
+<p begin="00:02:20.510" end="00:02:23.420" style="s2"><span style="s3">renten</span><span style="s4"> der neben</span><span style="s3"> einer</span> rente</p>
+<p begin="00:02:21.799" end="00:02:25.040" style="s2">grundsicherung im alter</p>
+<p begin="00:02:23.420" end="00:02:27.739" style="s2">bei rentnern<span style="s4"> die</span> in die grundsicherung</p>
+<p begin="00:02:25.040" end="00:02:29.510" style="s2">fallen<span style="s4"> wird</span><span style="s3"> die</span> gesamte rente voll auf</p>
+<p begin="00:02:27.739" end="00:02:31.370" style="s2">diese grundsicherung angerechnet</p>
+<p begin="00:02:29.510" end="00:02:33.410" style="s2">an<span style="s3"> diesen</span> rentnern geht jede</p>
+<p begin="00:02:31.370" end="00:02:34.640" style="s2">rentenerhöhung vorbei sie bekommen</p>
+<p begin="00:02:33.410" end="00:02:37.190" style="s2">keinen cent mehr</p>
+<p begin="00:02:34.640" end="00:02:38.900" style="s2"><span style="s4">genau so verpufft die</span><span style="s3"> mütter</span> rente<span style="s3"> 2</span> bei</p>
+<p begin="00:02:37.190" end="00:02:39.319" style="s2"><span style="s3">den müttern die in der grundsicherung</span></p>
+<p begin="00:02:38.900" end="00:02:42.079" style="s2">sind</p>
+<p begin="00:02:39.319" end="00:02:44.209" style="s2">das konzept<span style="s4"> von</span> minister<span style="s4"> hahn</span><span style="s3"> löst</span> diese</p>
+<p begin="00:02:42.079" end="00:02:47.180" style="s2">ungerechtigkeiten nur für einen teil</p>
+<p begin="00:02:44.209" end="00:02:49.819" style="s2">alle anderen gehen dabei leer aus ist</p>
+<p begin="00:02:47.180" end="00:02:52.519" style="s2">das gerecht minister heil diskriminiert</p>
+<p begin="00:02:49.819" end="00:02:54.410" style="s2"><span style="s4">ihr</span><span style="s3"> einen</span> großen<span style="s4"> teil</span> dieser rentner<span style="s3"> und</span></p>
+<p begin="00:02:52.519" end="00:02:59.599" style="s2">das<span style="s3"> darf</span> einem minister für arbeit und</p>
+<p begin="00:02:54.410" end="00:03:00.440" style="s2">soziales nicht passieren es geht aber</p>
+<p begin="00:02:59.599" end="00:03:02.930" style="s2">auch anders</p>
+<p begin="00:03:00.440" end="00:03:05.180" style="s2">unser konzept richtet sich gezielt an</p>
+<p begin="00:03:02.930" end="00:03:07.340" style="s2">die rentner mit geringem einkommen die</p>
+<p begin="00:03:05.180" end="00:03:09.170" style="s2">eine grundsicherung beantragen müssen um</p>
+<p begin="00:03:07.340" end="00:03:09.980" style="s2">ihren bedarf zum leben überhaupt decken</p>
+<p begin="00:03:09.170" end="00:03:12.970" style="s2">zu können</p>
+<p begin="00:03:09.980" end="00:03:15.019" style="s2">genau diesen über<span style="s3"> 600.000</span><span style="s4"> alters und</span></p>
+<p begin="00:03:12.970" end="00:03:16.819" style="s2">erwerbsminderungsrentner möchten wir mit</p>
+<p begin="00:03:15.019" end="00:03:19.370" style="s2">einer anrechnungsfrei stellung ihrer</p>
+<p begin="00:03:16.819" end="00:03:21.530" style="s2"><span style="s3">grenze</span> bei der grundsicherung helfen<span style="s3"> so</span></p>
+<p begin="00:03:19.370" end="00:03:23.599" style="s2"><span style="s3">dass</span> sie mindestens<span style="s3"> 15</span> prozent der</p>
+<p begin="00:03:21.530" end="00:03:25.760" style="s2">anrechenbaren rente behalten könnten</p>
+<p begin="00:03:23.599" end="00:03:27.669" style="s2">dieses geld haben die rentner dann real</p>
+<p begin="00:03:25.760" end="00:03:30.079" style="s2">mehr zur verfügung</p>
+<p begin="00:03:27.669" end="00:03:31.849" style="s2">anrechnungsfrei<span style="s3"> stellung</span> gibt es bereits</p>
+<p begin="00:03:30.079" end="00:03:33.859" style="s2">für die<span style="s4"> riester-rente</span><span style="s3"> auch hartz 4</span></p>
+<p begin="00:03:31.849" end="00:03:35.359" style="s2">bezieher dürfen in bestimmten engen</p>
+<p begin="00:03:33.859" end="00:03:37.370" style="s2">grenzen<span style="s4"> dazuverdienen</span></p>
+<p begin="00:03:35.359" end="00:03:39.859" style="s2">ein teil der rente anrechnungsfrei zu</p>
+<p begin="00:03:37.370" end="00:03:41.989" style="s2">stellen wäre<span style="s4"> bedeuten</span> gerechter als ich</p>
+<p begin="00:03:39.859" end="00:03:45.880" style="s2">nur eine gruppe<span style="s4"> herauszupicken</span><span style="s3"> und diese</span></p>
+<p begin="00:03:41.989" end="00:03:49.370" style="s2">dann ohne jegliche prüfung zu bedenken</p>
+<p begin="00:03:45.880" end="00:03:52.160" style="s2">in einer anhörung zum<span style="s3"> retten</span> paket im</p>
+<p begin="00:03:49.370" end="00:03:54.169" style="s2">november 2010<span style="s3"> äußerten</span> sich dgb und</p>
+<p begin="00:03:52.160" end="00:03:56.000" style="s2">sozialverband deutschland auch<span style="s3"> zur</span></p>
+<p begin="00:03:54.169" end="00:03:57.620" style="s2">teilweisen anrechnungsfrei stellung</p>
+<p begin="00:03:56.000" end="00:03:59.120" style="s2">beide forderten dass alle</p>
+<p begin="00:03:57.620" end="00:04:01.190" style="s2">rentenansprüche teilweise</p>
+<p begin="00:03:59.120" end="00:04:03.139" style="s2">anrechnungsfrei gestellt werden können</p>
+<p begin="00:04:01.190" end="00:04:04.609" style="s2">die volle anrechnung der gesetzlichen</p>
+<p begin="00:04:03.139" end="00:04:06.560" style="s2">rente auf die leistungen der</p>
+<p begin="00:04:04.609" end="00:04:08.569" style="s2">grundsicherung im alter wird von den</p>
+<p begin="00:04:06.560" end="00:04:09.740" style="s2">betroffenen als ungerecht empfunden</p>
+<p begin="00:04:08.569" end="00:04:11.480" style="s2">sie werden<span style="s4"> bezieher</span></p>
+<p begin="00:04:09.740" end="00:04:13.670" style="s2">von grundsicherung die keine beiträge</p>
+<p begin="00:04:11.480" end="00:04:15.440" style="s2">eingezahlt haben<span style="s4"> gleichgestellt</span></p>
+<p begin="00:04:13.670" end="00:04:17.870" style="s2">spätestens mit der einführung eines</p>
+<p begin="00:04:15.440" end="00:04:19.370" style="s2"><span style="s4">freibetrages</span> für<span style="s3"> betriebsrenten</span> im</p>
+<p begin="00:04:17.870" end="00:04:22.070" style="s2">rahmen des betriebsrenten stärkung des</p>
+<p begin="00:04:19.370" end="00:04:23.180" style="s2">gesetzes hätte es eine analoge regelung</p>
+<p begin="00:04:22.070" end="00:04:24.830" style="s2">auch bei der gesetzlichen</p>
+<p begin="00:04:23.180" end="00:04:27.440" style="s2">rentenversicherung geben müssen</p>
+<p begin="00:04:24.830" end="00:04:29.240" style="s2">diese regelung wollen wir nun nachholen</p>
+<p begin="00:04:27.440" end="00:04:32.000" style="s2">wir kalkulieren mit einem überschaubaren</p>
+<p begin="00:04:29.240" end="00:04:34.190" style="s2">betrag der weitaus geringer ist als der</p>
+<p begin="00:04:32.000" end="00:04:36.470" style="s2">vorschlag des ministers dabei noch</p>
+<p begin="00:04:34.190" end="00:04:39.260" style="s2">effektiv und zielgenau den rentnern</p>
+<p begin="00:04:36.470" end="00:04:45.020" style="s2">zugute kommt die diese<span style="s3"> hilfe</span> auch</p>
+<p begin="00:04:39.260" end="00:04:47.380" style="s2">benötigen vielen<span style="s3"> dank</span> jetzt kann man</p>
+<p begin="00:04:45.020" end="00:04:50.050" style="s2">abonnieren und nicht vergessen</p>
+<p begin="00:04:47.380" end="00:04:56.100" style="s2"><span style="s3">benachrichtigungen</span> aktivieren</p>
+<p begin="00:04:50.050" end="00:04:56.100" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

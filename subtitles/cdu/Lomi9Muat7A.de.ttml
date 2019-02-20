@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:07.550" end="00:00:11.540" style="s2">also jetzt bei diesem cdu<span style="s3"> live</span> zum</p>
+<p begin="00:00:09.890" end="00:00:14.290" style="s2"><span style="s4">werkstattgespräch</span> migration sicherheit</p>
+<p begin="00:00:11.540" end="00:00:15.920" style="s2">und integration<span style="s4"> war</span> das hauptthema</p>
+<p begin="00:00:14.290" end="00:00:17.210" style="s2">abschiebungen viele haben sich gefragt</p>
+<p begin="00:00:15.920" end="00:00:18.890" style="s2">was passiert jetzt eigentlich mit</p>
+<p begin="00:00:17.210" end="00:00:19.820" style="s2">denjenigen die unser land wieder</p>
+<p begin="00:00:18.890" end="00:00:21.890" style="s2">verlassen müssen</p>
+<p begin="00:00:19.820" end="00:00:23.450" style="s2">dann fiel für viele war klar<span style="s3"> wer mir</span></p>
+<p begin="00:00:21.890" end="00:00:25.099" style="s2">kein<span style="s4"> problem</span> mit denjenigen die</p>
+<p begin="00:00:23.450" end="00:00:26.450" style="s2">tatsächlich flüchtlinge sind<span style="s3"> die</span> hier</p>
+<p begin="00:00:25.099" end="00:00:28.220" style="s2">bleiben<span style="s3"> dürfen</span> oder mit<span style="s3"> asylbewerbern</span></p>
+<p begin="00:00:26.450" end="00:00:29.810" style="s2"><span style="s3">der</span><span style="s4"> sie berechtigt sind falls sie</span></p>
+<p begin="00:00:28.220" end="00:00:32.090" style="s2">verfolgt werden<span style="s4"> im</span> heimatland<span style="s4"> fast</span></p>
+<p begin="00:00:29.810" end="00:00:33.320" style="s2">passiert<span style="s4"> eigentlich</span> mit denjenigen die</p>
+<p begin="00:00:32.090" end="00:00:34.970" style="s2">unser land verlassen müssen<span style="s4"> wo</span> ein</p>
+<p begin="00:00:33.320" end="00:00:37.130" style="s2">gericht entschieden hat und wo das</p>
+<p begin="00:00:34.970" end="00:00:38.989" style="s2">häufig nicht funktioniert und um<span style="s3"> dieser</span></p>
+<p begin="00:00:37.130" end="00:00:40.969" style="s2">ganz praktischen dinge<span style="s3"> so wie beim</span></p>
+<p begin="00:00:38.989" end="00:00:43.039" style="s2">werkstattgespräch nicht eine politische</p>
+<p begin="00:00:40.969" end="00:00:44.870" style="s2">debatte sondern ganz praktisch was</p>
+<p begin="00:00:43.039" end="00:00:48.489" style="s2">müssen wir eigentlich verbessern damit</p>
+<p begin="00:00:44.870" end="00:00:48.489" style="s2"><span style="s3">das</span> in zukunft<span style="s4"> noch</span> besser funktionieren</p>
+<p begin="00:00:50.600" end="00:00:58.360" style="s2">[Musik]</p>
+<p begin="00:00:55.830" end="00:01:00.540" style="s2"><span style="s4">man merkt</span><span style="s3"> das</span> an<span style="s4"> den</span> vorschlägen aus dem</p>
+<p begin="00:00:58.360" end="00:01:03.280" style="s2">werkstattgespräch<span style="s3"> dass</span><span style="s4"> das</span><span style="s3"> praktiker</span></p>
+<p begin="00:01:00.540" end="00:01:05.410" style="s2">verfasst haben denn die sind ganz</p>
+<p begin="00:01:03.280" end="00:01:07.390" style="s2">konkret und jetzt geht es darum wir</p>
+<p begin="00:01:05.410" end="00:01:09.040" style="s2">geben<span style="s4"> das</span> in die gremien<span style="s3"> als</span> präsidium</p>
+<p begin="00:01:07.390" end="00:01:10.060" style="s2">und bundesvorstand wir haben<span style="s3"> bundes</span></p>
+<p begin="00:01:09.040" end="00:01:11.410" style="s2">fachausschüsse die sich damit</p>
+<p begin="00:01:10.060" end="00:01:13.510" style="s2">beschäftigen werden und wir schreiben</p>
+<p begin="00:01:11.410" end="00:01:15.370" style="s2"><span style="s4">gerade</span> auch das programm zur europawahl</p>
+<p begin="00:01:13.510" end="00:01:16.600" style="s2"><span style="s3">und da</span><span style="s4"> werden</span> die<span style="s4"> ideen</span> mit natürlich</p>
+<p begin="00:01:15.370" end="00:01:17.920" style="s2">den fachleuten die im</p>
+<p begin="00:01:16.600" end="00:01:19.780" style="s2">bundesfachausschuss europa sitzen</p>
+<p begin="00:01:17.920" end="00:01:22.380" style="s2">gemeinsam mit denen werden wir das mit</p>
+<p begin="00:01:19.780" end="00:01:22.380" style="s2">einfließen lassen</p>
+</div>
+</body>
+</tt>

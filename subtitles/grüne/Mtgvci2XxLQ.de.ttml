@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.110" end="00:00:05.940" style="s2">mein name ist steffi lemke ich bin</p>
+<p begin="00:00:03.330" end="00:00:07.490" style="s2">mitglied bei bündnis<span style="s3"> 90 die grünen und</span></p>
+<p begin="00:00:05.940" end="00:00:10.490" style="s2">für die grünen aus<span style="s4"> sachsen-anhalt</span></p>
+<p begin="00:00:07.490" end="00:00:13.110" style="s2">bundestagsabgeordnete ich bin im<span style="s4"> manual</span></p>
+<p begin="00:00:10.490" end="00:00:14.670" style="s2">ich arbeite mittlerweile in der<span style="s4"> grünen</span></p>
+<p begin="00:00:13.110" end="00:00:16.940" style="s2"><span style="s4">landtagsfraktion</span> als<span style="s4"> referent für</span></p>
+<p begin="00:00:14.670" end="00:00:18.990" style="s2"><span style="s4">landwirtschaft</span> verkehr energie und klima</p>
+<p begin="00:00:16.940" end="00:00:20.100" style="s2"><span style="s4">so</span><span style="s3"> dass ich jetzt auch wieder auf dem</span></p>
+<p begin="00:00:18.990" end="00:00:22.320" style="s2">gekriegt<span style="s3"> hab</span><span style="s4"> alle zusagen</span></p>
+<p begin="00:00:20.100" end="00:00:24.449" style="s2">also mein name ist keine wolke<span style="s4"> der</span> ich</p>
+<p begin="00:00:22.320" end="00:00:26.400" style="s2">bin sebastian<span style="s4"> lüdecke</span><span style="s3"> ich</span> komme aus dem</p>
+<p begin="00:00:24.449" end="00:00:28.470" style="s2">kreisverband<span style="s4"> mansfeld südharz</span><span style="s3"> mein</span> name</p>
+<p begin="00:00:26.400" end="00:00:29.820" style="s2">ist<span style="s4"> dem og täglich ich bin</span> sebastian</p>
+<p begin="00:00:28.470" end="00:00:31.199" style="s2">sebastian striegel ich bin</p>
+<p begin="00:00:29.820" end="00:00:33.270" style="s2">parlamentarische geschäftsführer der</p>
+<p begin="00:00:31.199" end="00:00:35.100" style="s2"><span style="s3">grünen</span> landtagsfraktion und seit 1998</p>
+<p begin="00:00:33.270" end="00:00:36.870" style="s2">bei den grünen mitglied ich bin<span style="s4"> kommen</span></p>
+<p begin="00:00:35.100" end="00:00:38.879" style="s2"><span style="s4">die leute meinen</span> ich<span style="s4"> komme</span> aus<span style="s4"> dessau</span></p>
+<p begin="00:00:36.870" end="00:00:41.309" style="s2"><span style="s4">roßlau</span> sind dort auch geboren</p>
+<p begin="00:00:38.879" end="00:00:43.399" style="s2">ich<span style="s3"> bin</span><span style="s4"> peter</span><span style="s3"> und</span> fürchten<span style="s3"> den</span> juliane</p>
+<p begin="00:00:41.309" end="00:00:45.870" style="s2">krause ich bin<span style="s4"> mir aber aus</span> dem</p>
+<p begin="00:00:43.399" end="00:00:47.940" style="s2">kreisverband<span style="s3"> ballack</span><span style="s4"> reiste</span> ich bin</p>
+<p begin="00:00:45.870" end="00:00:51.090" style="s2"><span style="s4">angela huber hat</span> mein name ist nach dem</p>
+<p begin="00:00:47.940" end="00:00:53.579" style="s2">winkel ja ich bin die<span style="s3"> frau mona ich</span></p>
+<p begin="00:00:51.090" end="00:00:57.649" style="s2">komme aus dem gericht<span style="s4"> im</span> land und bin</p>
+<p begin="00:00:53.579" end="00:00:57.649" style="s2"><span style="s3">schon</span> ewige<span style="s3"> zeiten berlin</span><span style="s4"> kommen</span></p>
+<p begin="00:01:00.110" end="00:01:05.690" style="s2">ich komme aus einer kirchlichen familie</p>
+<p begin="00:01:03.090" end="00:01:08.580" style="s2">katholizismus in der ddr war also alles</p>
+<p begin="00:01:05.690" end="00:01:09.869" style="s2">entsprechend kompliziert durch der ddr</p>
+<p begin="00:01:08.580" end="00:01:13.830" style="s2">nicht studieren und das ist sozusagen</p>
+<p begin="00:01:09.869" end="00:01:16.590" style="s2">der anfang<span style="s4"> eines</span> politischen denkens in</p>
+<p begin="00:01:13.830" end="00:01:19.470" style="s2"><span style="s4">der wende</span><span style="s3"> der</span> neues forum bürgerbewegung</p>
+<p begin="00:01:16.590" end="00:01:22.560" style="s2">auf der straße hinter den kulissen all</p>
+<p begin="00:01:19.470" end="00:01:25.170" style="s2">diese üblichen sachen<span style="s4"> naja</span><span style="s3"> ich</span> bin</p>
+<p begin="00:01:22.560" end="00:01:27.960" style="s2"><span style="s3">wahrscheinlich</span> in<span style="s4"> sachsen anhalt eines</span></p>
+<p begin="00:01:25.170" end="00:01:31.049" style="s2">der<span style="s3"> langjährigsten</span> mitglieder<span style="s3"> weil</span> ich</p>
+<p begin="00:01:27.960" end="00:01:33.869" style="s2">bereits bei der gründung im jahr 1989</p>
+<p begin="00:01:31.049" end="00:01:35.340" style="s2">dabei gewesen bin<span style="s4"> und für</span><span style="s3"> mich</span><span style="s4"> war das</span></p>
+<p begin="00:01:33.869" end="00:01:36.990" style="s2">in<span style="s4"> der</span> wendezeit völlig</p>
+<p begin="00:01:35.340" end="00:01:40.350" style="s2">selbstverständlich zu den grünen zu</p>
+<p begin="00:01:36.990" end="00:01:42.270" style="s2">gehen ich komme aus der ddr<span style="s3"> ein neues</span></p>
+<p begin="00:01:40.350" end="00:01:44.399" style="s2"><span style="s3">system</span><span style="s4"> was ich politisch</span><span style="s3"> grauenhaft</span></p>
+<p begin="00:01:42.270" end="00:01:46.890" style="s2">fahren wo es nur eine meinung gab die</p>
+<p begin="00:01:44.399" end="00:01:49.110" style="s2">richtige oder die falsche und<span style="s3"> habe</span></p>
+<p begin="00:01:46.890" end="00:01:50.490" style="s2"><span style="s3">einfach</span> irgendwie<span style="s3"> immer</span> ganz ganz<span style="s3"> fernen</span></p>
+<p begin="00:01:49.110" end="00:01:52.200" style="s2">das war irgendwie ich will nicht sagen</p>
+<p begin="00:01:50.490" end="00:01:54.810" style="s2">was ganz schlimmes<span style="s4"> aber</span> das war auf</p>
+<p begin="00:01:52.200" end="00:01:57.360" style="s2">jeden fall was was<span style="s4"> mit</span> mir und meinem</p>
+<p begin="00:01:54.810" end="00:01:59.700" style="s2">leben nichts zu tun hatte da waren die</p>
+<p begin="00:01:57.360" end="00:02:02.009" style="s2">handlungsstränge<span style="s4"> er</span><span style="s3"> leute</span> die ich kannte</p>
+<p begin="00:01:59.700" end="00:02:04.350" style="s2">den ich vertrauen konnte mit denen ich</p>
+<p begin="00:02:02.009" end="00:02:07.469" style="s2">gemeinsam auf<span style="s3"> einen</span> konkreten anlass<span style="s3"> in</span></p>
+<p begin="00:02:04.350" end="00:02:10.290" style="s2">etwas tun wollte als die friedliche</p>
+<p begin="00:02:07.469" end="00:02:12.329" style="s2">revolution hier im osten in gang war und</p>
+<p begin="00:02:10.290" end="00:02:14.610" style="s2">wir uns<span style="s4"> partei politisch und</span></p>
+<p begin="00:02:12.329" end="00:02:16.500" style="s2">organisatorisch irgendwie<span style="s4"> zuordneten</span></p>
+<p begin="00:02:14.610" end="00:02:18.630" style="s2">da war für mich der weg in der</p>
+<p begin="00:02:16.500" end="00:02:20.130" style="s2">bürgerbewegung<span style="s3"> ein klarer weg weil ich</span></p>
+<p begin="00:02:18.630" end="00:02:23.370" style="s2">zuletzt zeiten die in einer partei</p>
+<p begin="00:02:20.130" end="00:02:25.079" style="s2">gewesen bin also und ich wollte mit<span style="s4"> tun</span></p>
+<p begin="00:02:23.370" end="00:02:28.260" style="s2">und die<span style="s4"> leute</span><span style="s3"> mit gestalten denn ich</span></p>
+<p begin="00:02:25.079" end="00:02:30.150" style="s2">glaubte<span style="s3"> der</span> früher nicht ganz so aktiv</p>
+<p begin="00:02:28.260" end="00:02:32.790" style="s2">gewesen ist in der ddr</p>
+<p begin="00:02:30.150" end="00:02:33.660" style="s2">der hat jetzt die aufgabe jetzt auch mit</p>
+<p begin="00:02:32.790" end="00:02:35.579" style="s2">anzupacken</p>
+<p begin="00:02:33.660" end="00:02:37.799" style="s2">da schieben wir bündnis<span style="s4"> 90/die</span><span style="s3"> grünen</span></p>
+<p begin="00:02:35.579" end="00:02:40.049" style="s2">und<span style="s3"> alle vorläufer genau die richtige</span></p>
+<p begin="00:02:37.799" end="00:02:41.670" style="s2">adresse zu sein<span style="s3"> und</span> dann gab es immer so</p>
+<p begin="00:02:40.049" end="00:02:44.070" style="s2">eine situation<span style="s3"> ja</span> ich weiß gar nicht</p>
+<p begin="00:02:41.670" end="00:02:46.700" style="s2">mehr<span style="s4"> wo rum ist</span><span style="s3"> gegen</span> dahin<span style="s3"> wäre</span> es</p>
+<p begin="00:02:44.070" end="00:02:48.630" style="s2">jetzt dafür<span style="s4"> ich</span><span style="s3"> mich abmelde</span></p>
+<p begin="00:02:46.700" end="00:02:50.519" style="s2">natürlich du kannst hier nicht mit</p>
+<p begin="00:02:48.630" end="00:02:52.410" style="s2">abstimmen ich bin<span style="s4"> ich</span> ruhig<span style="s4"> nur</span><span style="s3"> noch</span></p>
+<p begin="00:02:50.519" end="00:02:56.040" style="s2">immer<span style="s3"> dabei</span> es war ja praktisch meine</p>
+<p begin="00:02:52.410" end="00:02:57.600" style="s2">idee<span style="s3"> ja</span> du bist nicht mitglied für mich</p>
+<p begin="00:02:56.040" end="00:03:00.329" style="s2">ist<span style="s4"> heute</span> ein ganz besonderer tag denn</p>
+<p begin="00:02:57.600" end="00:03:03.390" style="s2">ich war vor 25 jahren zum</p>
+<p begin="00:03:00.329" end="00:03:06.660" style="s2">gründungsparteitag der grünen bündnis 90</p>
+<p begin="00:03:03.390" end="00:03:08.819" style="s2">dabei in leipzig und insofern habe ich</p>
+<p begin="00:03:06.660" end="00:03:11.040" style="s2">heute<span style="s3"> große emotionen hier</span></p>
+<p begin="00:03:08.819" end="00:03:13.140" style="s2">ich habe mich vorher<span style="s3"> in</span> der<span style="s3"> initiative</span></p>
+<p begin="00:03:11.040" end="00:03:15.450" style="s2">engagiert die sich auch in der ddr für</p>
+<p begin="00:03:13.140" end="00:03:18.180" style="s2">umweltschutz eingesetzt hat meine mutter</p>
+<p begin="00:03:15.450" end="00:03:20.220" style="s2"><span style="s4">ist</span> bio lehrerin<span style="s3"> die</span> hat uns als kinder</p>
+<p begin="00:03:18.180" end="00:03:22.560" style="s2">immer in den wald geschleppt<span style="s4"> fangen</span> wir</p>
+<p begin="00:03:20.220" end="00:03:24.599" style="s2">damals vielleicht noch nicht so toll und</p>
+<p begin="00:03:22.560" end="00:03:27.390" style="s2">politisiert worden bin ich glaube ich</p>
+<p begin="00:03:24.599" end="00:03:30.810" style="s2">sehr stark durch mein leben<span style="s4"> in der so in</span></p>
+<p begin="00:03:27.390" end="00:03:32.909" style="s2">meiner heimat wo auf der mulde<span style="s3"> frühere</span></p>
+<p begin="00:03:30.810" end="00:03:35.430" style="s2">meter hohe<span style="s3"> schaumkelle</span> betrieben weil</p>
+<p begin="00:03:32.909" end="00:03:38.790" style="s2">das ja abwasserkanal von bitterfeld und</p>
+<p begin="00:03:35.430" end="00:03:40.980" style="s2">wolfen gewesen ist und<span style="s3"> dann</span> bin ich nach</p>
+<p begin="00:03:38.790" end="00:03:42.870" style="s2">hause gegangen<span style="s4"> habe mir da ja</span><span style="s3"> ich</span> wenn</p>
+<p begin="00:03:40.980" end="00:03:44.640" style="s2">du<span style="s3"> hast</span> jetzt<span style="s3"> in</span> der wendezeit dafür</p>
+<p begin="00:03:42.870" end="00:03:46.110" style="s2">gekämpft dass wir dieses demokratische</p>
+<p begin="00:03:44.640" end="00:03:48.659" style="s2">system kriegen</p>
+<p begin="00:03:46.110" end="00:03:51.090" style="s2"><span style="s3">träger</span> dieses<span style="s3"> demokratischen</span><span style="s4"> system sind</span></p>
+<p begin="00:03:48.659" end="00:03:52.830" style="s2">die parteien und das was da umgesetzt</p>
+<p begin="00:03:51.090" end="00:03:53.340" style="s2">wird<span style="s4"> es</span> ist ja auch genau das was du</p>
+<p begin="00:03:52.830" end="00:03:55.709" style="s2">willst</p>
+<p begin="00:03:53.340" end="00:03:57.900" style="s2"><span style="s4">und</span> wenn<span style="s3"> es nötig ist</span><span style="s4"> dafür</span><span style="s3"> eine</span> partei</p>
+<p begin="00:03:55.709" end="00:03:59.310" style="s2">zu gehen und dann<span style="s4"> habe</span> ich<span style="s3"> mir</span> das</p>
+<p begin="00:03:57.900" end="00:04:01.530" style="s2"><span style="s4">nochmal</span><span style="s3"> noch</span><span style="s4"> an geguckt</span><span style="s3"> was</span><span style="s4"> da</span> auch so</p>
+<p begin="00:03:59.310" end="00:04:02.489" style="s2">drin stand<span style="s3"> und</span> dachte ich ja<span style="s4"> okay</span> also</p>
+<p begin="00:04:01.530" end="00:04:05.580" style="s2">in dem fall</p>
+<p begin="00:04:02.489" end="00:04:08.129" style="s2">das ist mein ding<span style="s3"> ja</span> ich bin in</p>
+<p begin="00:04:05.580" end="00:04:10.080" style="s2">stürmischer zeit<span style="s4"> zum</span> bündnis<span style="s4"> 90/die</span></p>
+<p begin="00:04:08.129" end="00:04:13.620" style="s2"><span style="s3">grünen</span><span style="s4"> gekommen</span><span style="s3"> am</span> anfang<span style="s4"> zur</span> demokratie</p>
+<p begin="00:04:10.080" end="00:04:16.799" style="s2">jetzt<span style="s4"> dann zu bündnis 90 und dann vor 25</span></p>
+<p begin="00:04:13.620" end="00:04:19.979" style="s2">jahren<span style="s3"> dann</span> zu bündnis 90 die grünen</p>
+<p begin="00:04:16.799" end="00:04:23.070" style="s2">auch in<span style="s4"> sachsen anhalt und ich</span><span style="s3"> hatte</span><span style="s4"> das</span></p>
+<p begin="00:04:19.979" end="00:04:25.200" style="s2">glück oder die aufgabe im ersten landtag</p>
+<p begin="00:04:23.070" end="00:04:27.990" style="s2">von sachsen<span style="s3"> eine</span> für bündnis<span style="s4"> 90 die</span></p>
+<p begin="00:04:25.200" end="00:04:31.500" style="s2">grünen zu sein eine spannende aufregende</p>
+<p begin="00:04:27.990" end="00:04:33.330" style="s2">zeit<span style="s4"> oder wenig am hut</span><span style="s3"> hatte</span> ich ein</p>
+<p begin="00:04:31.500" end="00:04:35.640" style="s2">zwei tage später irgendwie dieses kleine</p>
+<p begin="00:04:33.330" end="00:04:38.729" style="s2"><span style="s4">büro von den grünen gegangen habe</span><span style="s3"> gesagt</span></p>
+<p begin="00:04:35.640" end="00:04:41.729" style="s2"><span style="s3">ja</span> ich mache<span style="s3"> hier</span> mit<span style="s4"> weil es die wende</span></p>
+<p begin="00:04:38.729" end="00:04:43.229" style="s2">kam war ich unheimlich glücklich und</p>
+<p begin="00:04:41.729" end="00:04:45.180" style="s2">mein glück<span style="s4"> haben</span> auch mehrere leute</p>
+<p begin="00:04:43.229" end="00:04:47.640" style="s2">bemerkt die politisch interessiert waren</p>
+<p begin="00:04:45.180" end="00:04:49.440" style="s2"><span style="s3">und ich bin angesprochen worden</span> von</p>
+<p begin="00:04:47.640" end="00:04:52.020" style="s2"><span style="s4">heide</span><span style="s3"> schorlemmer</span> die war damals im</p>
+<p begin="00:04:49.440" end="00:04:53.580" style="s2">frauenbund tätig oder für den<span style="s3"> frauen</span></p>
+<p begin="00:04:52.020" end="00:04:55.969" style="s2"><span style="s4">konnte ich ob ich nicht</span> auf eine liste</p>
+<p begin="00:04:53.580" end="00:04:58.339" style="s2">von bündnis 90 zu bündnis<span style="s3"> 9</span></p>
+<p begin="00:04:55.969" end="00:04:59.360" style="s2">mit der alternativen liste west berlin</p>
+<p begin="00:04:58.339" end="00:05:02.509" style="s2">kandidieren will</p>
+<p begin="00:04:59.360" end="00:05:04.759" style="s2">auf einem delegierten<span style="s4"> dort</span><span style="s3"> wurde</span> ich</p>
+<p begin="00:05:02.509" end="00:05:05.839" style="s2">nominiert veranstaltungen die man sich</p>
+<p begin="00:05:04.759" end="00:05:10.219" style="s2"><span style="s3">heute</span> gar<span style="s3"> nicht</span> mehr<span style="s4"> vorstellen</span> kann</p>
+<p begin="00:05:05.839" end="00:05:13.219" style="s2">dass man eine solche situation plötzlich</p>
+<p begin="00:05:10.219" end="00:05:14.989" style="s2">hatte<span style="s3"> dass</span> man in<span style="s4"> abwesenheit christmann</span></p>
+<p begin="00:05:13.219" end="00:05:16.669" style="s2"><span style="s3">hinterher</span><span style="s4"> anruf</span> also wir haben<span style="s3"> dich</span></p>
+<p begin="00:05:14.989" end="00:05:18.919" style="s2"><span style="s3">gewählt</span><span style="s4"> und</span> die liste ein<span style="s4"> du</span> bist<span style="s4"> es</span></p>
+<p begin="00:05:16.669" end="00:05:20.169" style="s2"><span style="s3">jetzt das war für mich</span> eine völlig neue</p>
+<p begin="00:05:18.919" end="00:05:23.179" style="s2">welt</p>
+<p begin="00:05:20.169" end="00:05:25.029" style="s2">ich war konfrontiert mit einer liste</p>
+<p begin="00:05:23.179" end="00:05:26.959" style="s2">wurden männer und frauen plätze</p>
+<p begin="00:05:25.029" end="00:05:29.029" style="s2"><span style="s3">abwechselnd</span> vergeben wurden</p>
+<p begin="00:05:26.959" end="00:05:32.329" style="s2">das war für mich völlig neues</p>
+<p begin="00:05:29.029" end="00:05:34.759" style="s2">politisches denken und handeln und ich</p>
+<p begin="00:05:32.329" end="00:05:35.659" style="s2">bin dadurch auf die liste gekommen als</p>
+<p begin="00:05:34.759" end="00:05:37.519" style="s2">frau und<span style="s4"> bin auch im</span></p>
+<p begin="00:05:35.659" end="00:05:40.309" style="s2">stadtbezirksparlament gelandet dann</p>
+<p begin="00:05:37.519" end="00:05:43.159" style="s2">kommt noch dazu dass ich damals in einer</p>
+<p begin="00:05:40.309" end="00:05:44.599" style="s2">serie<span style="s4"> schachten</span> liste<span style="s4"> wenn</span> es<span style="s4"> wahr</span></p>
+<p begin="00:05:43.159" end="00:05:45.649" style="s2"><span style="s3">schachtel</span> zwischen den einzelnen</p>
+<p begin="00:05:44.599" end="00:05:47.959" style="s2"><span style="s4">bürgerbewegungen</span></p>
+<p begin="00:05:45.649" end="00:05:50.449" style="s2"><span style="s3">zwischen</span> den grünen<span style="s3"> gab</span> es so diese</p>
+<p begin="00:05:47.959" end="00:05:51.949" style="s2"><span style="s4">durch platz vier</span><span style="s3"> und</span> platz<span style="s4"> 8</span> zu<span style="s3"> besetzen</span></p>
+<p begin="00:05:50.449" end="00:05:55.819" style="s2">und die haben platz<span style="s4"> drei</span> und platz</p>
+<p begin="00:05:51.949" end="00:05:58.489" style="s2"><span style="s4">sieben</span> zu besitzen<span style="s3"> und für mich war</span> das</p>
+<p begin="00:05:55.819" end="00:05:59.629" style="s2">eine geschichte die<span style="s4"> stadt</span><span style="s3"> gar</span> nicht zur</p>
+<p begin="00:05:58.489" end="00:06:01.159" style="s2">diskussion<span style="s3"> denn</span> ich hatte<span style="s3"> auch der</span></p>
+<p begin="00:05:59.629" end="00:06:03.619" style="s2">gesamtliste durch<span style="s4"> diese</span><span style="s3"> schachtel</span><span style="s4"> um</span></p>
+<p begin="00:06:01.159" end="00:06:05.389" style="s2">platz<span style="s4"> elf</span> damit war es außerhalb<span style="s4"> jeder</span></p>
+<p begin="00:06:03.619" end="00:06:11.479" style="s2">gefahr dass<span style="s4"> viele</span> landtag<span style="s3"> reinkomme</span></p>
+<p begin="00:06:05.389" end="00:06:13.219" style="s2">da war ich nur 1991 bis 93 und<span style="s3"> erlebte</span></p>
+<p begin="00:06:11.479" end="00:06:15.469" style="s2">plötzlich eine ganz andere art<span style="s4"> print</span></p>
+<p begin="00:06:13.219" end="00:06:18.050" style="s2"><span style="s3">politik</span> die ich sehr sympathisch fand</p>
+<p begin="00:06:15.469" end="00:06:19.809" style="s2">sehr demokratisch fand<span style="s3"> aber</span><span style="s4"> das</span><span style="s3"> sind so</span></p>
+<p begin="00:06:18.050" end="00:06:22.489" style="s2"><span style="s3">geschichten die nur die wende schrieb</span></p>
+<p begin="00:06:19.809" end="00:06:23.389" style="s2">plötzlich<span style="s4"> wählen hier wochen vor der</span></p>
+<p begin="00:06:22.489" end="00:06:26.149" style="s2">landtagswahl</p>
+<p begin="00:06:23.389" end="00:06:29.179" style="s2">ruft mich ein kollege ein<span style="s3"> der</span> vor mir</p>
+<p begin="00:06:26.149" end="00:06:31.219" style="s2">auf der liste stand und ich fand<span style="s4"> mich</span> in</p>
+<p begin="00:06:29.179" end="00:06:33.889" style="s2">meiner gruppe mit den alternativen</p>
+<p begin="00:06:31.219" end="00:06:35.929" style="s2"><span style="s3">grünen</span> von von<span style="s4"> west berlin</span><span style="s3"> und</span> dem</p>
+<p begin="00:06:33.889" end="00:06:36.439" style="s2">bündnis 90 leuten gerade richtig am</p>
+<p begin="00:06:35.929" end="00:06:38.599" style="s2">platz</p>
+<p begin="00:06:36.439" end="00:06:42.249" style="s2">und der hat dann die<span style="s3"> bemerkung</span> gemacht</p>
+<p begin="00:06:38.599" end="00:06:45.019" style="s2">er hätte<span style="s3"> gehört halle könnte</span></p>
+<p begin="00:06:42.249" end="00:06:47.539" style="s2">landeshauptstadt werden und dann<span style="s4"> müsst</span></p>
+<p begin="00:06:45.019" end="00:06:49.279" style="s2"><span style="s4">ihr</span><span style="s3"> hier oft meist eine</span> halle form und</p>
+<p begin="00:06:47.539" end="00:06:52.330" style="s2">das<span style="s3"> bekäme</span> er<span style="s3"> bei</span> seiner frau niemals</p>
+<p begin="00:06:49.279" end="00:06:53.800" style="s2">durch und<span style="s3"> deswegen</span></p>
+<p begin="00:06:52.330" end="00:06:56.259" style="s2"><span style="s4">hätte er gern</span> kein<span style="s4"> interesse</span> mehr<span style="s3"> an</span></p>
+<p begin="00:06:53.800" end="00:06:57.699" style="s2">einem landtagsmandat<span style="s4"> und ich</span><span style="s3"> fand</span> es</p>
+<p begin="00:06:56.259" end="00:06:59.590" style="s2">sehr achtungsvoll also sehr</p>
+<p begin="00:06:57.699" end="00:07:01.930" style="s2">bemerkenswert dass diese partei sich</p>
+<p begin="00:06:59.590" end="00:07:03.849" style="s2"><span style="s3">bündnis</span><span style="s4"> 90/die</span><span style="s3"> grünen</span> genannt hat dass</p>
+<p begin="00:07:01.930" end="00:07:05.530" style="s2"><span style="s4">die</span><span style="s3"> also</span><span style="s4"> das</span> bündnis 90 an erster stelle</p>
+<p begin="00:07:03.849" end="00:07:07.930" style="s2">gesetzt haben und überhaupt<span style="s3"> dass</span> es in</p>
+<p begin="00:07:05.530" end="00:07:10.080" style="s2">dem namen mit<span style="s3"> vorkam finde ich</span> großartig</p>
+<p begin="00:07:07.930" end="00:07:12.310" style="s2">wie<span style="s4"> viel es bei den grünen</span></p>
+<p begin="00:07:10.080" end="00:07:13.030" style="s2">und was bedeutet das für mich habe ich</p>
+<p begin="00:07:12.310" end="00:07:15.159" style="s2"><span style="s4">sofort</span> ja</p>
+<p begin="00:07:13.030" end="00:07:16.870" style="s2">ich lasse mich<span style="s3"> streichen</span> und<span style="s4"> drückst</span></p>
+<p begin="00:07:15.159" end="00:07:18.449" style="s2"><span style="s4">dann</span> entsprechend auf<span style="s3"> meinen</span> platz vor</p>
+<p begin="00:07:16.870" end="00:07:21.340" style="s2"><span style="s3">und</span> plötzlich hatte ich plötzlich</p>
+<p begin="00:07:18.449" end="00:07:23.050" style="s2">landesliste und damit wurde<span style="s3"> ist</span> sehr</p>
+<p begin="00:07:21.340" end="00:07:23.800" style="s2"><span style="s3">ernst</span> und<span style="s3"> ich</span> bin dann in den landtag</p>
+<p begin="00:07:23.050" end="00:07:25.240" style="s2">gewählt<span style="s4"> worden</span></p>
+<p begin="00:07:23.800" end="00:07:29.770" style="s2">mit hängen und würgen muss man dazu</p>
+<p begin="00:07:25.240" end="00:07:32.770" style="s2">sagen mit 5,1 prozent haben wir dort ein</p>
+<p begin="00:07:29.770" end="00:07:34.599" style="s2">wahlabend lebt mit höhen und tiefen mal</p>
+<p begin="00:07:32.770" end="00:07:36.789" style="s2">unter der<span style="s4"> fünf prozent hürde</span></p>
+<p begin="00:07:34.599" end="00:07:38.560" style="s2"><span style="s4">gold</span> über<span style="s4"> der 5 prozent oder menschen</span></p>
+<p begin="00:07:36.789" end="00:07:40.690" style="s2"><span style="s3">hat</span> es<span style="s3"> geklappt</span> wir waren mit drin im</p>
+<p begin="00:07:38.560" end="00:07:43.449" style="s2">landtag<span style="s3"> und</span><span style="s4"> das ist</span><span style="s3"> dort</span> heute<span style="s3"> mit</span></p>
+<p begin="00:07:40.690" end="00:07:45.430" style="s2">meinem sohn baden gehen kann auf der</p>
+<p begin="00:07:43.449" end="00:07:47.289" style="s2">elbe paddel<span style="s4"> hingegen kann</span></p>
+<p begin="00:07:45.430" end="00:07:49.210" style="s2">das war damals nicht vorstellbar gewesen</p>
+<p begin="00:07:47.289" end="00:07:51.250" style="s2"><span style="s3">dass</span> das eine so wunderbare natur</p>
+<p begin="00:07:49.210" end="00:07:51.849" style="s2">landschaft wird<span style="s3"> deshalb</span> bin ich bei den</p>
+<p begin="00:07:51.250" end="00:07:54.819" style="s2">grünen</p>
+<p begin="00:07:51.849" end="00:07:56.580" style="s2">damit das so werden konnte und damit das</p>
+<p begin="00:07:54.819" end="00:07:59.560" style="s2">so bleibt</p>
+<p begin="00:07:56.580" end="00:08:01.690" style="s2">ja ich gesagt ich bin ja länger<span style="s4"> grünen</span></p>
+<p begin="00:07:59.560" end="00:08:04.120" style="s2">als die grüne partei gibt<span style="s3"> ich</span> erinnere</p>
+<p begin="00:08:01.690" end="00:08:06.310" style="s2">mich daran wie ich 76<span style="s3"> im</span> regen in der</p>
+<p begin="00:08:04.120" end="00:08:07.120" style="s2">kälte<span style="s3"> vor</span> der französischen grenze stand</p>
+<p begin="00:08:06.310" end="00:08:09.240" style="s2"><span style="s4">um gegen katar</span></p>
+<p begin="00:08:07.120" end="00:08:11.110" style="s2">das atomkraftwerk<span style="s4"> in cattenom</span></p>
+<p begin="00:08:09.240" end="00:08:13.389" style="s2"><span style="s3">protestiert</span> habe<span style="s4"> weiß</span> gar<span style="s3"> nicht</span> mehr</p>
+<p begin="00:08:11.110" end="00:08:15.520" style="s2"><span style="s4">richtig</span> warum<span style="s4"> mich</span><span style="s3"> zur grünen</span></p>
+<p begin="00:08:13.389" end="00:08:17.080" style="s2"><span style="s3">hochschulgruppe</span><span style="s4"> porsche</span><span style="s3"> aber</span> ich wollte</p>
+<p begin="00:08:15.520" end="00:08:19.360" style="s2">es auf jeden fall sehr dollar das weiß</p>
+<p begin="00:08:17.080" end="00:08:21.460" style="s2">ich<span style="s4"> dann</span> wenn<span style="s4"> ich jetzt zum beispiel</span><span style="s3"> bei</span></p>
+<p begin="00:08:19.360" end="00:08:22.930" style="s2">facebook<span style="s4"> noch</span> in die historie<span style="s4"> brücke</span> von</p>
+<p begin="00:08:21.460" end="00:08:26.379" style="s2">den nachrichten<span style="s3"> dann</span> sehe ich<span style="s3"> immer noch</span></p>
+<p begin="00:08:22.930" end="00:08:29.199" style="s2">nachricht von mir von<span style="s4"> 34</span><span style="s3"> ja</span><span style="s4"> fast</span><span style="s3"> fünf</span></p>
+<p begin="00:08:26.379" end="00:08:31.240" style="s2">jahren glaube ich<span style="s3"> indem</span> ich verzweifelt</p>
+<p begin="00:08:29.199" end="00:08:33.590" style="s2">versuche die<span style="s4"> grüne</span><span style="s3"> hochschulgruppe im</span></p>
+<p begin="00:08:31.240" end="00:08:35.630" style="s2"><span style="s3">café</span><span style="s4"> central</span><span style="s3"> zu</span> finden was damals noch</p>
+<p begin="00:08:33.590" end="00:08:37.490" style="s2"><span style="s4">die</span><span style="s3"> straße</span> war<span style="s3"> und</span> die<span style="s4"> waren</span><span style="s3"> immer</span></p>
+<p begin="00:08:35.630" end="00:08:39.080" style="s2"><span style="s3">irgendwie</span> nicht da und ich war<span style="s4"> mir zu</span></p>
+<p begin="00:08:37.490" end="00:08:41.090" style="s2">der vorlesungsfreien zeit irgendwie dort</p>
+<p begin="00:08:39.080" end="00:08:42.770" style="s2">und<span style="s3"> komischerweise</span> waren<span style="s4"> dann</span> die</p>
+<p begin="00:08:41.090" end="00:08:44.150" style="s2">menschen immer<span style="s3"> zur zeit</span><span style="s4"> des stammtisches</span></p>
+<p begin="00:08:42.770" end="00:08:46.160" style="s2"><span style="s4">nicht</span> da und jetzt<span style="s3"> in</span> verzweifelte</p>
+<p begin="00:08:44.150" end="00:08:48.380" style="s2">nachrichten so<span style="s3"> nicht versucht schon zum</span></p>
+<p begin="00:08:46.160" end="00:08:50.780" style="s2">dritten mal am stammtisch zu kommen<span style="s3"> aber</span></p>
+<p begin="00:08:48.380" end="00:08:53.900" style="s2"><span style="s3">immer</span> ist keiner da sollte erzählen wie</p>
+<p begin="00:08:50.780" end="00:08:58.400" style="s2">ich zu früh gekommen bin und<span style="s4"> war</span> hat</p>
+<p begin="00:08:53.900" end="00:09:01.100" style="s2">mich meine<span style="s3"> tanzpartnerin</span> in<span style="s4"> wanheim</span><span style="s3"> mit</span></p>
+<p begin="00:08:58.400" end="00:09:03.020" style="s2">zur grünen jugend genommen und die war</p>
+<p begin="00:09:01.100" end="00:09:04.250" style="s2">zu diesem zeitpunkt nicht so gut</p>
+<p begin="00:09:03.020" end="00:09:05.720" style="s2">organisiert und das fand ich ganz</p>
+<p begin="00:09:04.250" end="00:09:06.860" style="s2">schrecklich</p>
+<p begin="00:09:05.720" end="00:09:09.170" style="s2">das muss<span style="s3"> man</span><span style="s4"> noch</span> mal ein<span style="s3"> bisschen</span> was</p>
+<p begin="00:09:06.860" end="00:09:12.050" style="s2">machen<span style="s4"> aber so richtig in die partei</span></p>
+<p begin="00:09:09.170" end="00:09:14.510" style="s2">eingetreten bin ich erst 2007 weil ich</p>
+<p begin="00:09:12.050" end="00:09:16.670" style="s2">einfach als wissenschaftlerin ganz viele</p>
+<p begin="00:09:14.510" end="00:09:18.170" style="s2">wechselnde<span style="s4"> wohn</span> und arbeitsorte hatte</p>
+<p begin="00:09:16.670" end="00:09:23.020" style="s2">und dann eingetreten</p>
+<p begin="00:09:18.170" end="00:09:25.340" style="s2">tatsächlich beginn des jahres 2010 nicht</p>
+<p begin="00:09:23.020" end="00:09:26.750" style="s2"><span style="s4">immer</span><span style="s3"> sehr</span> lustig<span style="s3"> war</span><span style="s4"> das</span> die zeit<span style="s3"> war</span></p>
+<p begin="00:09:25.340" end="00:09:28.340" style="s2"><span style="s4">wo</span><span style="s3"> sehr</span> viele leute in die spd</p>
+<p begin="00:09:26.750" end="00:09:31.280" style="s2">eingetreten wird aber ich bin bei den</p>
+<p begin="00:09:28.340" end="00:09:33.650" style="s2">grünen an meinem zweiten tag in</p>
+<p begin="00:09:31.280" end="00:09:35.150" style="s2">magdeburg bin ich in die lgs damals noch</p>
+<p begin="00:09:33.650" end="00:09:37.570" style="s2"><span style="s3">außerparlamentarische opposition zu</span></p>
+<p begin="00:09:35.150" end="00:09:40.660" style="s2"><span style="s4">wolfram</span><span style="s3"> und</span> uwe gegangen und<span style="s3"> hat</span> gesagt</p>
+<p begin="00:09:37.570" end="00:09:43.730" style="s2"><span style="s3">ich</span> mache jetzt mit und es wird super</p>
+<p begin="00:09:40.660" end="00:09:46.460" style="s2"><span style="s3">und</span> im<span style="s3"> dezember</span> bin ich zur klimaschutz</p>
+<p begin="00:09:43.730" end="00:09:48.170" style="s2">demo nach kopenhagen gefahren und habe</p>
+<p begin="00:09:46.460" end="00:09:50.840" style="s2"><span style="s3">auch ein bericht für die homepage</span></p>
+<p begin="00:09:48.170" end="00:09:52.529" style="s2">geschrieben und das war der anlass<span style="s3"> wo</span></p>
+<p begin="00:09:50.840" end="00:09:54.490" style="s2"><span style="s3">ich</span> dann auch<span style="s4"> nicht so</span><span style="s3"> eingetreten</span></p>
+<p begin="00:09:52.529" end="00:09:57.089" style="s2"><span style="s4">naja</span> und dann<span style="s4"> ging</span> es natürlich ganz</p>
+<p begin="00:09:54.490" end="00:10:00.660" style="s2">schnell in die verantwortung</p>
+<p begin="00:09:57.089" end="00:10:03.870" style="s2">stadtverband vanessa<span style="s4"> profilbildung</span></p>
+<p begin="00:10:00.660" end="00:10:05.170" style="s2">landesvorsitzende<span style="s3"> spitzenkandidatin</span></p>
+<p begin="00:10:03.870" end="00:10:07.300" style="s2">fraktionsvorsitzende</p>
+<p begin="00:10:05.170" end="00:10:09.250" style="s2">also meine anfänge in der<span style="s3"> grünen</span> partei</p>
+<p begin="00:10:07.300" end="00:10:11.010" style="s2">hier bei uns in<span style="s3"> sachsen anhalt ist</span><span style="s4"> hat</span></p>
+<p begin="00:10:09.250" end="00:10:14.160" style="s2">geprägt durch die<span style="s3"> außerparlamentarische</span></p>
+<p begin="00:10:11.010" end="00:10:16.870" style="s2">opposition als wir wenig leute waren</p>
+<p begin="00:10:14.160" end="00:10:17.560" style="s2">wenig geld hat ein wenig unterstützung</p>
+<p begin="00:10:16.870" end="00:10:20.110" style="s2">hatten</p>
+<p begin="00:10:17.560" end="00:10:24.070" style="s2">und umso mehr ist natürlich für mich</p>
+<p begin="00:10:20.110" end="00:10:25.690" style="s2">prägend der märz 20.11 als wir dann</p>
+<p begin="00:10:24.070" end="00:10:28.019" style="s2">endlich nach 13 jahren wieder in den</p>
+<p begin="00:10:25.690" end="00:10:30.940" style="s2">landtag gekommen sind</p>
+<p begin="00:10:28.019" end="00:10:33.519" style="s2">also ich muss zugeben<span style="s4"> das</span><span style="s3"> ist dass ich</span></p>
+<p begin="00:10:30.940" end="00:10:36.519" style="s2">während meiner schulzeit nicht sehr</p>
+<p begin="00:10:33.519" end="00:10:37.680" style="s2">politisiert<span style="s3"> hat das</span><span style="s4"> vielen</span><span style="s3"> abitur 2013</span></p>
+<p begin="00:10:36.519" end="00:10:41.079" style="s2">2014 an</p>
+<p begin="00:10:37.680" end="00:10:43.930" style="s2">und letztendlich<span style="s3"> als haben die</span><span style="s4"> afg</span> wo</p>
+<p begin="00:10:41.079" end="00:10:45.220" style="s2">kam war<span style="s4"> das</span><span style="s3"> dann</span> der punkt an dem ich</p>
+<p begin="00:10:43.930" end="00:10:47.260" style="s2">gesagt<span style="s4"> habe jetzt</span><span style="s3"> muss</span><span style="s4"> ich</span><span style="s3"> was</span><span style="s4"> ändern</span></p>
+<p begin="00:10:45.220" end="00:10:49.350" style="s2">jetzt muss ich mich auch irgendwo</p>
+<p begin="00:10:47.260" end="00:10:54.279" style="s2">beteiligen und<span style="s3"> da gegenzusteuern</span></p>
+<p begin="00:10:49.350" end="00:10:56.290" style="s2"><span style="s3">was hatte ich</span> politisiert ich war schon</p>
+<p begin="00:10:54.279" end="00:10:58.240" style="s2">immer politisiert ich war nur noch<span style="s3"> nie</span></p>
+<p begin="00:10:56.290" end="00:10:59.920" style="s2">aktiv in einer partei<span style="s3"> weil</span> immer</p>
+<p begin="00:10:58.240" end="00:11:04.120" style="s2">irgendwas dazwischen kommen und nur<span style="s4"> war</span></p>
+<p begin="00:10:59.920" end="00:11:05.199" style="s2">aber der der leidensdruck so hoch durch</p>
+<p begin="00:11:04.120" end="00:11:06.910" style="s2">den einzug der<span style="s3"> afd</span></p>
+<p begin="00:11:05.199" end="00:11:09.910" style="s2">das ist jetzt<span style="s4"> können denn nun</span><span style="s3"> aber</span> mehr</p>
+<p begin="00:11:06.910" end="00:11:11.160" style="s2"><span style="s3">glaube ich habe mich beworben für ein</span></p>
+<p begin="00:11:09.910" end="00:11:13.930" style="s2">praktikum in der landesgeschäftsstelle</p>
+<p begin="00:11:11.160" end="00:11:15.519" style="s2"><span style="s3">was</span> mir so gut gefallen hat weil man</p>
+<p begin="00:11:13.930" end="00:11:18.100" style="s2">sehr herzlich aufgenommen wird und</p>
+<p begin="00:11:15.519" end="00:11:20.329" style="s2">sofort integriert und<span style="s4"> es</span> da überhaupt</p>
+<p begin="00:11:18.100" end="00:11:21.619" style="s2">keine berührung</p>
+<p begin="00:11:20.329" end="00:11:22.999" style="s2">danach<span style="s4"> habe</span> ich<span style="s3"> mir gedacht da musst du</span></p>
+<p begin="00:11:21.619" end="00:11:25.970" style="s2">jetzt einsteigen<span style="s4"> das</span> macht es<span style="s4"> so</span> viel</p>
+<p begin="00:11:22.999" end="00:11:28.369" style="s2"><span style="s3">spaß</span> und deshalb<span style="s3"> bin</span> ich eingetreten und</p>
+<p begin="00:11:25.970" end="00:11:30.649" style="s2"><span style="s3">es</span> ist ja bei den grünen so einfach wenn</p>
+<p begin="00:11:28.369" end="00:11:32.509" style="s2">man etwas machen will<span style="s4"> und</span><span style="s3"> bestehen doch</span></p>
+<p begin="00:11:30.649" end="00:11:34.939" style="s2"><span style="s3">hier</span> sofort<span style="s3"> sämtliche möglichkeiten alle</span></p>
+<p begin="00:11:32.509" end="00:11:35.899" style="s2">türen<span style="s3"> und das hat mir</span><span style="s4"> etwas mehr</span></p>
+<p begin="00:11:34.939" end="00:11:37.910" style="s2"><span style="s3">motivation</span><span style="s4"> gegeben</span></p>
+<p begin="00:11:35.899" end="00:11:41.540" style="s2">ich engagiere mich jetzt in der<span style="s4"> landes</span></p>
+<p begin="00:11:37.910" end="00:11:42.949" style="s2">fachgruppe frauen<span style="s3"> da</span> machen<span style="s3"> wir</span></p>
+<p begin="00:11:41.540" end="00:11:45.529" style="s2">frauenspezifische themen da geht es zum</p>
+<p begin="00:11:42.949" end="00:11:48.259" style="s2">beispiel um<span style="s4"> frauenarmut</span><span style="s3"> und</span> im frauen</p>
+<p begin="00:11:45.529" end="00:11:49.850" style="s2">also gewalt an frauen und ganz wichtiges</p>
+<p begin="00:11:48.259" end="00:11:52.420" style="s2">thema frauen in<span style="s4"> die kommunale politik</span></p>
+<p begin="00:11:49.850" end="00:11:55.100" style="s2"><span style="s3">denn</span> da müssen wir<span style="s4"> noch</span> kräftig</p>
+<p begin="00:11:52.420" end="00:11:57.860" style="s2">vorantreiben<span style="s4"> damit</span> frauen endlich<span style="s4"> mal</span></p>
+<p begin="00:11:55.100" end="00:11:59.720" style="s2">mehr stadträte besetzen<span style="s3"> und gerade für</span></p>
+<p begin="00:11:57.860" end="00:12:02.299" style="s2">frauen gibt es in keiner anderen partei</p>
+<p begin="00:11:59.720" end="00:12:04.339" style="s2">so viele möglichkeiten weil wir einfach</p>
+<p begin="00:12:02.299" end="00:12:06.739" style="s2"><span style="s3">auch</span> die sind die wirklich ganz offensiv</p>
+<p begin="00:12:04.339" end="00:12:09.049" style="s2">frauen fördern<span style="s3"> und</span> ich<span style="s4"> hoffe</span> dass<span style="s3"> das</span></p>
+<p begin="00:12:06.739" end="00:12:11.149" style="s2">auch die nächsten 25 jahre hier im land</p>
+<p begin="00:12:09.049" end="00:12:17.299" style="s2">nicht nur<span style="s4"> weiter geht sondern auch noch</span></p>
+<p begin="00:12:11.149" end="00:12:19.129" style="s2">mehr wird ich glaube im sommer 2010 auf</p>
+<p begin="00:12:17.299" end="00:12:21.589" style="s2">einem parteitag in magdeburg es war</p>
+<p begin="00:12:19.129" end="00:12:23.149" style="s2">unfassbar<span style="s3"> war</span><span style="s4"> es</span> war gleichzeitig</p>
+<p begin="00:12:21.589" end="00:12:27.350" style="s2"><span style="s3">irgendeine</span><span style="s4"> fußball-weltmeisterschaft</span> ich</p>
+<p begin="00:12:23.149" end="00:12:29.389" style="s2">habe damals in mannheim gelebt und ich</p>
+<p begin="00:12:27.350" end="00:12:31.779" style="s2"><span style="s4">habe ihnen eine kaserne gewohnt wir</span></p>
+<p begin="00:12:29.389" end="00:12:34.040" style="s2">haben<span style="s4"> war</span> völlig unter uns<span style="s4"> getagt</span></p>
+<p begin="00:12:31.779" end="00:12:36.199" style="s2"><span style="s4">aufgrund</span> dessen<span style="s4"> dass</span><span style="s3"> im</span><span style="s4"> fußball</span> gespielt</p>
+<p begin="00:12:34.040" end="00:12:37.819" style="s2">worden ist und<span style="s3"> so</span> passt total</p>
+<p begin="00:12:36.199" end="00:12:39.589" style="s2">bemerkenswert es passiert aber<span style="s4"> auf</span> eine</p>
+<p begin="00:12:37.819" end="00:12:42.019" style="s2">gruppe von<span style="s3"> jungen</span> delegierten</p>
+<p begin="00:12:39.589" end="00:12:44.059" style="s2">angeführt von<span style="s3"> dem</span> damals<span style="s3"> 14-jährigen und</span></p>
+<p begin="00:12:42.019" end="00:12:47.259" style="s2"><span style="s3">er</span> hatte die idee gehabt wir wollen</p>
+<p begin="00:12:44.059" end="00:12:48.829" style="s2">statt eines verpflichtenden</p>
+<p begin="00:12:47.259" end="00:12:50.600" style="s2">ethikunterricht<span style="s3"> ist</span><span style="s4"> werteunterricht</span></p>
+<p begin="00:12:48.829" end="00:12:52.009" style="s2"><span style="s4">einführen</span> dass der<span style="s3"> irakkrieg dann</span></p>
+<p begin="00:12:50.600" end="00:12:54.519" style="s2"><span style="s3">anfingen</span> haben wir von dieser kaserne</p>
+<p begin="00:12:52.009" end="00:12:55.939" style="s2"><span style="s4">eben</span><span style="s3"> demonstriert</span> habt heutigen jugend</p>
+<p begin="00:12:54.519" end="00:12:57.410" style="s2">auch gesehen</p>
+<p begin="00:12:55.939" end="00:12:59.119" style="s2"><span style="s4">damit demonstriert hat</span><span style="s3"> und</span> dadurch<span style="s3"> bin</span></p>
+<p begin="00:12:57.410" end="00:13:00.980" style="s2">ich eigentlich zu der partei gekommen</p>
+<p begin="00:12:59.119" end="00:13:02.720" style="s2">und er war<span style="s4"> wenige</span> wochen<span style="s4"> als</span> in der</p>
+<p begin="00:13:00.980" end="00:13:04.160" style="s2">partei<span style="s3"> hatte</span> eine fulminante rede</p>
+<p begin="00:13:02.720" end="00:13:07.100" style="s2">gehalten und hat sich durchgesetzt</p>
+<p begin="00:13:04.160" end="00:13:08.480" style="s2">keine niemand<span style="s4"> kannte de hat aber</span> mit</p>
+<p begin="00:13:07.100" end="00:13:09.589" style="s2">guten argumenten<span style="s4"> es</span> geschafft sich<span style="s4"> da</span></p>
+<p begin="00:13:08.480" end="00:13:12.079" style="s2"><span style="s3">durchzusetzen und das fand ich total</span></p>
+<p begin="00:13:09.589" end="00:13:13.189" style="s2">beeindruckend<span style="s3"> ist</span> die grüne bündnis<span style="s4"> 90</span></p>
+<p begin="00:13:12.079" end="00:13:16.579" style="s2"><span style="s4">die</span><span style="s3"> grünen</span><span style="s4"> die partei in sachsen-anhalt</span></p>
+<p begin="00:13:13.189" end="00:13:18.529" style="s2"><span style="s4">sind</span> die<span style="s3"> das</span> einzig<span style="s3"> und</span> allein nach dem</p>
+<p begin="00:13:16.579" end="00:13:21.350" style="s2">inhaltlichen wert dessen</p>
+<p begin="00:13:18.529" end="00:13:22.850" style="s2">beurteilt hat und nicht wer<span style="s3"> redet ja in</span></p>
+<p begin="00:13:21.350" end="00:13:24.499" style="s2">den anderen vielen anderen parteien ist</p>
+<p begin="00:13:22.850" end="00:13:25.970" style="s2">es so da kann man abstimmungen nur</p>
+<p begin="00:13:24.499" end="00:13:27.649" style="s2">gewinnen wenn man einige politische</p>
+<p begin="00:13:25.970" end="00:13:31.120" style="s2">schwergewichte auf der eigenen seite hat</p>
+<p begin="00:13:27.649" end="00:13:33.769" style="s2">also ich bin in hannover geboren also</p>
+<p begin="00:13:31.120" end="00:13:35.689" style="s2">keine ostdeutsche<span style="s3"> per</span> geburt und<span style="s4"> habe</span></p>
+<p begin="00:13:33.769" end="00:13:37.129" style="s2">jetzt<span style="s3"> immer</span> noch<span style="s4"> mehr</span> diese erlebnisse</p>
+<p begin="00:13:35.689" end="00:13:38.899" style="s2"><span style="s3">dass</span> ich<span style="s4"> hier bin ich bei</span><span style="s3"> uns</span> gerade<span style="s3"> in</span></p>
+<p begin="00:13:37.129" end="00:13:41.389" style="s2">der fläche unterwegs bin<span style="s4"> macht</span><span style="s3"> viel</span> für</p>
+<p begin="00:13:38.899" end="00:13:43.160" style="s2">senioren vereine und dann<span style="s3"> kommt ach</span></p>
+<p begin="00:13:41.389" end="00:13:44.899" style="s2">mensch von den grünen</p>
+<p begin="00:13:43.160" end="00:13:46.399" style="s2">wo sind sie denn geboren noch nicht mal</p>
+<p begin="00:13:44.899" end="00:13:48.199" style="s2">hier geboren und dann redet man eine</p>
+<p begin="00:13:46.399" end="00:13:49.790" style="s2">stunde und am ende heißt es dann okay</p>
+<p begin="00:13:48.199" end="00:13:51.110" style="s2">obwohl sie eine grüne sind und obwohl</p>
+<p begin="00:13:49.790" end="00:13:54.100" style="s2">sie<span style="s4"> nicht</span><span style="s3"> in ostdeutschland geboren sind</span></p>
+<p begin="00:13:51.110" end="00:13:56.269" style="s2">sind sie<span style="s3"> ja</span> trotzdem ganz nett ich bin</p>
+<p begin="00:13:54.100" end="00:13:57.860" style="s2"><span style="s4">890</span> zu<span style="s3"> den</span><span style="s4"> gewinnen</span> gekommen<span style="s4"> nachdem</span> ich</p>
+<p begin="00:13:56.269" end="00:14:00.259" style="s2">vorher schon eine reihe von dingen</p>
+<p begin="00:13:57.860" end="00:14:04.220" style="s2">umweltbereich gemacht habe ich habe mich</p>
+<p begin="00:14:00.259" end="00:14:06.259" style="s2">mit klassenkameraden<span style="s4"> freundin</span> begonnen</p>
+<p begin="00:14:04.220" end="00:14:09.170" style="s2">als eine bohrinsel versenkt werden</p>
+<p begin="00:14:06.259" end="00:14:10.490" style="s2"><span style="s4">sollten ob sie</span><span style="s3"> für</span> umweltschutz zu</p>
+<p begin="00:14:09.170" end="00:14:12.800" style="s2">engagieren wir haben gegen diese</p>
+<p begin="00:14:10.490" end="00:14:16.970" style="s2">versenkung protestiert der<span style="s3"> entscheidung</span></p>
+<p begin="00:14:12.800" end="00:14:19.329" style="s2"><span style="s4">aufschlag</span> hat dann<span style="s4"> trauriges</span> ereignis</p>
+<p begin="00:14:16.970" end="00:14:22.850" style="s2">gegeben<span style="s4"> das</span><span style="s3"> war</span> die krebserkrankung</p>
+<p begin="00:14:19.329" end="00:14:26.000" style="s2">großvaters der mir krankenhaus berichtet</p>
+<p begin="00:14:22.850" end="00:14:28.550" style="s2">hatte<span style="s3"> dass er mal</span><span style="s4"> ein</span><span style="s3"> lehrer und war in</span></p>
+<p begin="00:14:26.000" end="00:14:30.740" style="s2"><span style="s4">werdohl</span> und<span style="s4"> hat da hat</span><span style="s3"> eine</span></p>
+<p begin="00:14:28.550" end="00:14:33.199" style="s2">bildungsreise<span style="s3"> unternommen</span> hat von diesem</p>
+<p begin="00:14:30.740" end="00:14:34.819" style="s2"><span style="s3">von</span> den eindruck<span style="s4"> mir</span> erzählt und<span style="s3"> dass</span></p>
+<p begin="00:14:33.199" end="00:14:38.629" style="s2">man sich<span style="s3"> selbst</span><span style="s4"> noch</span><span style="s3"> damals</span> geschworen</p>
+<p begin="00:14:34.819" end="00:14:39.680" style="s2">hat dass<span style="s3"> er</span> nie wieder so eine tragödie</p>
+<p begin="00:14:38.629" end="00:14:44.389" style="s2">zu lassen will</p>
+<p begin="00:14:39.680" end="00:14:46.309" style="s2">ja also<span style="s3"> ich</span> bin so richtig durch und</p>
+<p begin="00:14:44.389" end="00:14:48.290" style="s2">durch naturschützerin<span style="s4"> die</span> manchmal</p>
+<p begin="00:14:46.309" end="00:14:53.600" style="s2"><span style="s3">irgend auch vor</span> einigen zeugen nicht</p>
+<p begin="00:14:48.290" end="00:14:55.910" style="s2"><span style="s4">halt macht im sinne der sache und wenn</span></p>
+<p begin="00:14:53.600" end="00:14:59.300" style="s2"><span style="s4">man</span> so viel aktionismus an den tag legt</p>
+<p begin="00:14:55.910" end="00:15:00.399" style="s2">braucht man manchmal freunde gute</p>
+<p begin="00:14:59.300" end="00:15:02.689" style="s2">freunde</p>
+<p begin="00:15:00.399" end="00:15:04.670" style="s2"><span style="s3">und</span> weil<span style="s3"> er</span><span style="s4"> ist nicht mehr</span><span style="s3"> weiterführen</span></p>
+<p begin="00:15:02.689" end="00:15:06.679" style="s2">konnte weil er dann relativ kurz danach</p>
+<p begin="00:15:04.670" end="00:15:08.120" style="s2">gestorben ist habe ich für mich gesagt</p>
+<p begin="00:15:06.679" end="00:15:10.519" style="s2">ich möchte dieses versprechen weiter</p>
+<p begin="00:15:08.120" end="00:15:11.990" style="s2">führen und<span style="s3"> habe</span> in der politik die</p>
+<p begin="00:15:10.519" end="00:15:15.079" style="s2"><span style="s3">größte</span> wahrscheinlichkeit dafür gefunden</p>
+<p begin="00:15:11.990" end="00:15:16.999" style="s2"><span style="s3">und</span> ich bin 98 bei den grünen mitglied</p>
+<p begin="00:15:15.079" end="00:15:19.550" style="s2"><span style="s4">geworden eigentlich aus ärger über die</span></p>
+<p begin="00:15:16.999" end="00:15:21.980" style="s2">grünen<span style="s3"> die</span> grüns 98 aus dem landtag</p>
+<p begin="00:15:19.550" end="00:15:23.629" style="s2">geflogen<span style="s3"> in</span><span style="s4"> sachsen anhalt ich glaube</span></p>
+<p begin="00:15:21.980" end="00:15:25.160" style="s2">das lag nicht unwesentlich darin dass</p>
+<p begin="00:15:23.629" end="00:15:26.660" style="s2">sie eine bildungspolitik gemacht haben</p>
+<p begin="00:15:25.160" end="00:15:28.910" style="s2">die ich zu diesem zeitpunkt überhaupt</p>
+<p begin="00:15:26.660" end="00:15:30.079" style="s2">nicht überzeugend fand als schüler als</p>
+<p begin="00:15:28.910" end="00:15:32.600" style="s2">auch betroffen von dieser</p>
+<p begin="00:15:30.079" end="00:15:34.040" style="s2">bildungspolitik und das hat<span style="s4"> dann</span> den</p>
+<p begin="00:15:32.600" end="00:15:36.740" style="s2">ausschlag gegeben dass ich die partei</p>
+<p begin="00:15:34.040" end="00:15:40.839" style="s2">eingetreten<span style="s3"> mit</span> über den grünen<span style="s3"> und</span><span style="s4"> dort</span></p>
+<p begin="00:15:36.740" end="00:15:43.420" style="s2"><span style="s3">zwei jahren nämlich nur vor</span> der</p>
+<p begin="00:15:40.839" end="00:15:47.179" style="s2">bundestagswahl 2013</p>
+<p begin="00:15:43.420" end="00:15:49.720" style="s2">da war ich noch in der schule<span style="s3"> und</span> da</p>
+<p begin="00:15:47.179" end="00:15:51.649" style="s2">sollten wir im sozialkundeunterricht</p>
+<p begin="00:15:49.720" end="00:15:56.600" style="s2"><span style="s3">vorträge über die einzelnen parteien</span></p>
+<p begin="00:15:51.649" end="00:15:59.149" style="s2">halten<span style="s3"> und</span> bei<span style="s3"> mir</span> auf dem heimweg nach</p>
+<p begin="00:15:56.600" end="00:15:59.779" style="s2">hause lag<span style="s4"> dass</span> beruf<span style="s4"> und</span> sebastian</p>
+<p begin="00:15:59.149" end="00:16:01.819" style="s2">striegel</p>
+<p begin="00:15:59.779" end="00:16:05.360" style="s2">wie bist du<span style="s4"> denn</span><span style="s3"> ganz</span> konkret zu seinen</p>
+<p begin="00:16:01.819" end="00:16:07.370" style="s2">kreisverband<span style="s4"> wirkungen</span><span style="s3"> darüber</span> dass<span style="s4"> mir</span></p>
+<p begin="00:16:05.360" end="00:16:10.250" style="s2">wirklich konkret hilfe angeboten wurde</p>
+<p begin="00:16:07.370" end="00:16:13.069" style="s2"><span style="s4">dass</span> man gesagt hat mensch<span style="s3"> wenn</span><span style="s4"> du</span><span style="s3"> so</span></p>
+<p begin="00:16:10.250" end="00:16:15.410" style="s2">tapfer<span style="s3"> bist</span> pass auf dich auf und wenn</p>
+<p begin="00:16:13.069" end="00:16:17.059" style="s2">du hilfe brauchst wir werden eine gute</p>
+<p begin="00:16:15.410" end="00:16:19.759" style="s2">truppe wir<span style="s4"> würden sich</span><span style="s3"> aufnehmen</span><span style="s4"> und</span> wir</p>
+<p begin="00:16:17.059" end="00:16:21.559" style="s2">helfen<span style="s3"> dir</span> und dann habe ich zu meiner</p>
+<p begin="00:16:19.759" end="00:16:24.199" style="s2">gruppe gesagt ja leute hier<span style="s4"> wir</span> nehmen</p>
+<p begin="00:16:21.559" end="00:16:25.399" style="s2">die grünen<span style="s3"> da</span> ist das büro bei mir auf</p>
+<p begin="00:16:24.199" end="00:16:27.129" style="s2">dem weg nach hause da kann ich ja mal</p>
+<p begin="00:16:25.399" end="00:16:28.819" style="s2">hingehen und uns<span style="s4"> irgendwelche</span></p>
+<p begin="00:16:27.129" end="00:16:31.779" style="s2"><span style="s4">infomaterial</span><span style="s3"> holen</span></p>
+<p begin="00:16:28.819" end="00:16:34.850" style="s2">und ja das habe ich dann auch gemacht</p>
+<p begin="00:16:31.779" end="00:16:37.610" style="s2"><span style="s3">und</span> da war man dann auch sehr bemüht</p>
+<p begin="00:16:34.850" end="00:16:39.019" style="s2">darum dass unser<span style="s3"> vortrag</span> gut wird also</p>
+<p begin="00:16:37.610" end="00:16:41.959" style="s2">ich<span style="s3"> hab</span> dann da viele fragen gestellt</p>
+<p begin="00:16:39.019" end="00:16:44.750" style="s2">und dann<span style="s3"> sind</span> die grünen im wahlkampf</p>
+<p begin="00:16:41.959" end="00:16:46.759" style="s2">über den weg gelaufen<span style="s4"> ich</span> habe<span style="s3"> lange</span> mit</p>
+<p begin="00:16:44.750" end="00:16:49.279" style="s2">damals oliver<span style="s3"> paulsen</span> in halle</p>
+<p begin="00:16:46.759" end="00:16:51.500" style="s2">diskutiert und am ende habe ich gesagt</p>
+<p begin="00:16:49.279" end="00:16:52.699" style="s2"><span style="s4">na ja also diskutieren ist das eine sich</span></p>
+<p begin="00:16:51.500" end="00:16:54.439" style="s2"><span style="s4">ärger und ist</span><span style="s3"> das eine</span></p>
+<p begin="00:16:52.699" end="00:16:56.750" style="s2">wenn man<span style="s3"> was</span> ändern will dann muss man</p>
+<p begin="00:16:54.439" end="00:16:58.670" style="s2"><span style="s3">mitglied werden und muss sich engagieren</span></p>
+<p begin="00:16:56.750" end="00:16:59.290" style="s2">die<span style="s3"> grünen</span> flogen 98 aus dem landtag ich</p>
+<p begin="00:16:58.670" end="00:17:02.019" style="s2">bin<span style="s4"> 89</span></p>
+<p begin="00:16:59.290" end="00:17:05.829" style="s2">sich mit gewonnen ich bin<span style="s4"> ein kleinen</span></p>
+<p begin="00:17:02.019" end="00:17:07.569" style="s2">dorf groß<span style="s3"> gewachsen und bin immer</span><span style="s4"> mehr</span></p>
+<p begin="00:17:05.829" end="00:17:10.540" style="s2">bus zur schule gefahren lange wege weite</p>
+<p begin="00:17:07.569" end="00:17:11.470" style="s2">strecken und in den<span style="s3"> neunzigern</span><span style="s4"> wurde</span></p>
+<p begin="00:17:10.540" end="00:17:14.949" style="s2"><span style="s3">dann</span> gegenüber von der bushaltestelle</p>
+<p begin="00:17:11.470" end="00:17:17.169" style="s2"><span style="s4">über meinen bus</span> losgefahren ist<span style="s4"> ein</span><span style="s3"> haus</span></p>
+<p begin="00:17:14.949" end="00:17:19.150" style="s2"><span style="s3">umgewidmet</span> als flüchtlingsunterkunft und</p>
+<p begin="00:17:17.169" end="00:17:20.110" style="s2">da gab es dann den brandanschlag drauf</p>
+<p begin="00:17:19.150" end="00:17:23.290" style="s2"><span style="s4">dann</span> habe ich<span style="s3"> natürlich auch noch andere</span></p>
+<p begin="00:17:20.110" end="00:17:27.429" style="s2">parteien angeguckt<span style="s4"> diesen die richtung</span></p>
+<p begin="00:17:23.290" end="00:17:29.470" style="s2"><span style="s3">ging also linke</span> spd war hat auch meine</p>
+<p begin="00:17:27.429" end="00:17:31.419" style="s2"><span style="s3">großeltern</span> in der spd sind und von<span style="s3"> daher</span></p>
+<p begin="00:17:29.470" end="00:17:33.970" style="s2">politik irgendwie immer schon eine rolle</p>
+<p begin="00:17:31.419" end="00:17:36.220" style="s2">gespielt hat und das war so der moment</p>
+<p begin="00:17:33.970" end="00:17:37.600" style="s2">wo ich als teenager gedacht<span style="s4"> habe</span> das</p>
+<p begin="00:17:36.220" end="00:17:40.240" style="s2">kann nicht sein so was passiert in</p>
+<p begin="00:17:37.600" end="00:17:42.100" style="s2">meinem eigenen dorf und<span style="s4"> habe</span><span style="s3"> gedacht</span> so</p>
+<p begin="00:17:40.240" end="00:17:44.020" style="s2"><span style="s3">sowas</span> will ich nicht weiter einfach</p>
+<p begin="00:17:42.100" end="00:17:46.929" style="s2">akzeptieren haben wir eine<span style="s4"> schul</span><span style="s3"> demo</span></p>
+<p begin="00:17:44.020" end="00:17:49.390" style="s2">mit organisiert aber die spd hat dann</p>
+<p begin="00:17:46.929" end="00:17:50.830" style="s2">doch so ein stückchen abgeschreckt weil</p>
+<p begin="00:17:49.390" end="00:17:52.990" style="s2">die immer gleich schon mit dem zettel</p>
+<p begin="00:17:50.830" end="00:17:54.580" style="s2"><span style="s4">dastand</span> und<span style="s3"> gesagt</span> hat ja dann<span style="s3"> wäre</span> doch</p>
+<p begin="00:17:52.990" end="00:17:56.350" style="s2">mitglied und<span style="s4"> mach</span><span style="s3"> und</span> wir brauchen junge</p>
+<p begin="00:17:54.580" end="00:17:58.510" style="s2">leute<span style="s3"> wir</span> brauchen frauen und immer</p>
+<p begin="00:17:56.350" end="00:18:00.280" style="s2">schön mitglied werden und<span style="s4"> das wald bei</span></p>
+<p begin="00:17:58.510" end="00:18:01.780" style="s2">den grünen nicht so<span style="s4"> da stand niemand</span><span style="s3"> da</span></p>
+<p begin="00:18:00.280" end="00:18:02.770" style="s2">und hat gesagt ja du kannst<span style="s3"> hier nicht</span></p>
+<p begin="00:18:01.780" end="00:18:04.960" style="s2"><span style="s4">weiter machen</span><span style="s3"> wenn</span> du nicht<span style="s4"> mehr</span></p>
+<p begin="00:18:02.770" end="00:18:08.530" style="s2"><span style="s4">gekriegt wirst und dann habe ich mir das</span></p>
+<p begin="00:18:04.960" end="00:18:10.210" style="s2"><span style="s3">erst</span> mal<span style="s4"> ein jahr</span><span style="s3"> angeguckt</span> und<span style="s3"> ja</span> das</p>
+<p begin="00:18:08.530" end="00:18:10.929" style="s2">war dann so eine mischung aus themen und</p>
+<p begin="00:18:10.210" end="00:18:12.970" style="s2">personen</p>
+<p begin="00:18:10.929" end="00:18:13.990" style="s2">weshalb<span style="s3"> ich</span> dann irgendwann gesagt<span style="s4"> habe</span></p>
+<p begin="00:18:12.970" end="00:18:16.240" style="s2">gut ich habe mir das lange noch</p>
+<p begin="00:18:13.990" end="00:18:18.280" style="s2">angeguckt jetzt kann man ja mal mitglied</p>
+<p begin="00:18:16.240" end="00:18:20.620" style="s2">werden<span style="s3"> und mitmachen und</span> das<span style="s3"> hat</span> mich</p>
+<p begin="00:18:18.280" end="00:18:22.409" style="s2">eigentlich dann richtig politisiert</p>
+<p begin="00:18:20.620" end="00:18:25.240" style="s2">obwohl ich vorher schon gerade am</p>
+<p begin="00:18:22.409" end="00:18:27.280" style="s2">umweltschutz<span style="s4"> greenpeace</span> team sehr</p>
+<p begin="00:18:25.240" end="00:18:29.530" style="s2">interessiert war<span style="s3"> gesagt</span><span style="s4"> habe</span><span style="s3"> so</span> jetzt</p>
+<p begin="00:18:27.280" end="00:18:31.120" style="s2">will ich mich mit<span style="s4"> einmischen</span><span style="s3"> und erst</span></p>
+<p begin="00:18:29.530" end="00:18:32.710" style="s2">als<span style="s3"> journalistin</span> und<span style="s4"> dann</span> bin ich in<span style="s3"> die</span></p>
+<p begin="00:18:31.120" end="00:18:33.470" style="s2">partei eingetreten<span style="s4"> hat gesagt</span><span style="s3"> wir müssen</span></p>
+<p begin="00:18:32.710" end="00:18:35.620" style="s2">richtig was</p>
+<p begin="00:18:33.470" end="00:18:35.620" style="s2"><span style="s4">an</span></p>
+<p begin="00:18:35.730" end="00:18:44.349" style="s2">[Musik]</p>
+<p begin="00:18:41.270" end="00:18:44.349" style="s2">[Applaus]</p>
+<p begin="00:18:51.580" end="00:19:00.549" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

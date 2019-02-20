@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.500" end="00:00:05.310" style="s2">vielen dank frau präsidentin meine sehr</p>
+<p begin="00:00:03.300" end="00:00:07.740" style="s2">geehrten damen und herren abgeordnete</p>
+<p begin="00:00:05.310" end="00:00:09.840" style="s2">liebe gäste<span style="s3"> sehr</span> geehrter herr minister</p>
+<p begin="00:00:07.740" end="00:00:11.429" style="s2"><span style="s3">holter</span><span style="s4"> wir</span> haben<span style="s3"> hier</span> viel allgemeines</p>
+<p begin="00:00:09.840" end="00:00:14.940" style="s2">gesagt vieles was ich trotz der</p>
+<p begin="00:00:11.429" end="00:00:17.100" style="s2">allgemeinheit kritikwürdig<span style="s4"> finde</span><span style="s3"> unter</span></p>
+<p begin="00:00:14.940" end="00:00:18.449" style="s2">anderem auch einen ausspruch<span style="s3"> der</span></p>
+<p begin="00:00:17.100" end="00:00:20.670" style="s2">natürlich sehr schön<span style="s3"> klingt</span> nämlich</p>
+<p begin="00:00:18.449" end="00:00:22.859" style="s2"><span style="s3">gemeinsam</span> sind wir stark der aber</p>
+<p begin="00:00:20.670" end="00:00:25.350" style="s2">natürlich auch so nahezu auf jeden</p>
+<p begin="00:00:22.859" end="00:00:27.660" style="s2">sachverhalt passen kann und deswegen so</p>
+<p begin="00:00:25.350" end="00:00:29.460" style="s2">platt<span style="s4"> uns</span> dass er zum einen wir glaube</p>
+<p begin="00:00:27.660" end="00:00:31.019" style="s2">ich eher nicht anwendbar ist und vor</p>
+<p begin="00:00:29.460" end="00:00:32.730" style="s2">allem auch nicht anwendbar ist wenn es</p>
+<p begin="00:00:31.019" end="00:00:35.340" style="s2">faktisch keine gemeinsamkeiten gibt</p>
+<p begin="00:00:32.730" end="00:00:36.600" style="s2">zwischen den akteuren habe mir</p>
+<p begin="00:00:35.340" end="00:00:38.340" style="s2">vorgenommen eine sache die sie gesagt</p>
+<p begin="00:00:36.600" end="00:00:42.300" style="s2">haben<span style="s4"> herauszugreifen</span><span style="s3"> weil</span> ich glaube</p>
+<p begin="00:00:38.340" end="00:00:43.980" style="s2">dass sie ganz gut ihre denkweise zeigt</p>
+<p begin="00:00:42.300" end="00:00:45.899" style="s2">die vielleicht auch durch ihren sed</p>
+<p begin="00:00:43.980" end="00:00:48.539" style="s2">werdegang geprägt<span style="s4"> ist</span> ich weiß es nicht</p>
+<p begin="00:00:45.899" end="00:00:50.879" style="s2">sie haben gesagt sie haben<span style="s3"> beteiligungs</span></p>
+<p begin="00:00:48.539" end="00:00:52.980" style="s2">veranstaltungen gemacht regionalforen</p>
+<p begin="00:00:50.879" end="00:00:55.199" style="s2">und dann haben sie gesagt niemand kann</p>
+<p begin="00:00:52.980" end="00:00:57.120" style="s2">sagen dass er nicht berücksichtigt<span style="s3"> wurde</span></p>
+<p begin="00:00:55.199" end="00:00:59.609" style="s2"><span style="s4">und ich</span><span style="s3"> finde</span><span style="s4"> dass</span> kritik würde ich zum</p>
+<p begin="00:00:57.120" end="00:01:00.989" style="s2">einen weil sie quasi sagen da ich als</p>
+<p begin="00:00:59.609" end="00:01:03.840" style="s2">minister ich habe mich bemüht</p>
+<p begin="00:01:00.989" end="00:01:06.659" style="s2">also darf niemand mehr was sagen und</p>
+<p begin="00:01:03.840" end="00:01:08.010" style="s2"><span style="s4">dass der dieses kriterium ich habe mich</span></p>
+<p begin="00:01:06.659" end="00:01:10.200" style="s2">bemüht und ich habe etwas<span style="s4"> mut gemacht</span></p>
+<p begin="00:01:08.010" end="00:01:11.280" style="s2">etwas<span style="s3"> deutlich</span> anderes ist er sollte ihn</p>
+<p begin="00:01:10.200" end="00:01:13.590" style="s2">auch bekannt<span style="s3"> sein</span></p>
+<p begin="00:01:11.280" end="00:01:15.570" style="s2"><span style="s4">und</span> der zweite<span style="s4"> punkt</span> ist dass ich auch</p>
+<p begin="00:01:13.590" end="00:01:17.670" style="s2">nicht<span style="s4"> finde</span><span style="s3"> dass</span> es ihnen als<span style="s3"> minister</span></p>
+<p begin="00:01:15.570" end="00:01:19.890" style="s2">oder<span style="s4"> dass</span> man<span style="s3"> ist</span> als minister tun</p>
+<p begin="00:01:17.670" end="00:01:21.930" style="s2">sollte<span style="s3"> wenn man eltern lehrer schüler</span></p>
+<p begin="00:01:19.890" end="00:01:23.549" style="s2">hat viele verunsichert sind dass man</p>
+<p begin="00:01:21.930" end="00:01:26.970" style="s2">dann her geht und sagt niemand kann</p>
+<p begin="00:01:23.549" end="00:01:28.590" style="s2">sagen<span style="s3"> was</span> auch<span style="s3"> immer</span> es steht ihm nicht</p>
+<p begin="00:01:26.970" end="00:01:30.240" style="s2">zu und natürlich kann jeder kritisieren</p>
+<p begin="00:01:28.590" end="00:01:31.320" style="s2">jeder kann sagen was er möchte<span style="s3"> und ich</span></p>
+<p begin="00:01:30.240" end="00:01:33.210" style="s2">glaube auch dass die stimmung in</p>
+<p begin="00:01:31.320" end="00:01:35.860" style="s2">thüringen so ist es viele kritisieren</p>
+<p begin="00:01:33.210" end="00:01:39.310" style="s2">und versuchen eben noch was an dieser</p>
+<p begin="00:01:35.860" end="00:01:40.990" style="s2"><span style="s3">reform</span> wie sie<span style="s3"> denen</span> zuwenden viele</p>
+<p begin="00:01:39.310" end="00:01:43.090" style="s2">eltern sind verunsichert weil sie nicht</p>
+<p begin="00:01:40.990" end="00:01:44.830" style="s2">wissen ob die schule in die ihr kind</p>
+<p begin="00:01:43.090" end="00:01:47.410" style="s2">geht oder auch gehen soll in ein paar</p>
+<p begin="00:01:44.830" end="00:01:49.210" style="s2">jahren noch vorhanden sein wird viele</p>
+<p begin="00:01:47.410" end="00:01:50.950" style="s2">schüler sind verunsichert weil so viel</p>
+<p begin="00:01:49.210" end="00:01:52.660" style="s2">unterricht ausfällt wie noch nie und die</p>
+<p begin="00:01:50.950" end="00:01:54.760" style="s2">landesregierung eben keine lösung</p>
+<p begin="00:01:52.660" end="00:01:56.590" style="s2">anbietet vor allem nicht mit<span style="s4"> diesem</span></p>
+<p begin="00:01:54.760" end="00:01:58.390" style="s2"><span style="s4">schulgesetz</span><span style="s3"> viele</span> lehrer sind</p>
+<p begin="00:01:56.590" end="00:02:00.010" style="s2">verunsichert weil das neue schulgesetz</p>
+<p begin="00:01:58.390" end="00:02:02.470" style="s2"><span style="s3">unsere</span> schullandschaft in ihren</p>
+<p begin="00:02:00.010" end="00:02:04.570" style="s2">grundpfeilern durcheinander wird und<span style="s4"> es</span></p>
+<p begin="00:02:02.470" end="00:02:06.070" style="s2">auch momentan aussieht als ob man als</p>
+<p begin="00:02:04.570" end="00:02:06.840" style="s2">lehrer eben auch dagegen nicht viel</p>
+<p begin="00:02:06.070" end="00:02:08.679" style="s2">machen kann</p>
+<p begin="00:02:06.840" end="00:02:10.330" style="s2"><span style="s3">selbstverständlich</span> haben lehrer schüler</p>
+<p begin="00:02:08.679" end="00:02:10.840" style="s2">und eltern ein recht verunsichert zu</p>
+<p begin="00:02:10.330" end="00:02:13.150" style="s2">sein</p>
+<p begin="00:02:10.840" end="00:02:15.700" style="s2">wenn die landesregierung das umsetzt was</p>
+<p begin="00:02:13.150" end="00:02:17.350" style="s2">in<span style="s3"> diesem</span><span style="s4"> gesetzentwurf</span><span style="s3"> steht</span> dann wird</p>
+<p begin="00:02:15.700" end="00:02:18.730" style="s2">das schwerwiegende folgen nicht nur für</p>
+<p begin="00:02:17.350" end="00:02:20.709" style="s2">die schüler heute sondern auch für die</p>
+<p begin="00:02:18.730" end="00:02:22.959" style="s2">zukünftigen schüler<span style="s3"> generation</span> haben</p>
+<p begin="00:02:20.709" end="00:02:24.700" style="s2">wenn ich<span style="s3"> ihren</span> gesetzentwurf<span style="s3"> sehe</span> dann</p>
+<p begin="00:02:22.959" end="00:02:26.890" style="s2">sage ich bestehendes<span style="s4"> kaputt zu machen</span></p>
+<p begin="00:02:24.700" end="00:02:28.690" style="s2"><span style="s3">das fällt ihnen offenbar ganz leicht mit</span></p>
+<p begin="00:02:26.890" end="00:02:30.430" style="s2">einem fingerschnipsen werfen sie unser</p>
+<p begin="00:02:28.690" end="00:02:32.260" style="s2">förderschulsystem über den haufen<span style="s3"> und</span></p>
+<p begin="00:02:30.430" end="00:02:34.959" style="s2"><span style="s3">sie</span> zerstören damit bildungschancen</p>
+<p begin="00:02:32.260" end="00:02:36.340" style="s2">vieler kinder und um die geht es<span style="s3"> doch</span> so</p>
+<p begin="00:02:34.959" end="00:02:37.930" style="s2">schnell kann man ehrlich gesagt gar</p>
+<p begin="00:02:36.340" end="00:02:39.970" style="s2">nicht mit den augen<span style="s3"> klimpern</span> wie schnell</p>
+<p begin="00:02:37.930" end="00:02:41.680" style="s2">sie die vorteile die ein gegliedertes</p>
+<p begin="00:02:39.970" end="00:02:44.230" style="s2">und leistungsorientiertes schulsystem</p>
+<p begin="00:02:41.680" end="00:02:46.180" style="s2">für unsere schüler hat verleugnen an</p>
+<p begin="00:02:44.230" end="00:02:48.670" style="s2">sich auf den weg zu einer einheitsschule</p>
+<p begin="00:02:46.180" end="00:02:50.160" style="s2">mit<span style="s3"> einheits</span> lehrern machen und<span style="s3"> er</span></p>
+<p begin="00:02:48.670" end="00:02:53.230" style="s2"><span style="s3">weiter</span> wenn sie sagen</p>
+<p begin="00:02:50.160" end="00:02:54.910" style="s2">inklusion beginnt im kopf<span style="s3"> dann</span><span style="s4"> sagt ich</span></p>
+<p begin="00:02:53.230" end="00:02:56.920" style="s2">ihn ich habe den eindruck dass das</p>
+<p begin="00:02:54.910" end="00:02:59.019" style="s2">prinzip einheitsschule bei ihm im kopf</p>
+<p begin="00:02:56.920" end="00:03:01.600" style="s2"><span style="s4">beginnt</span><span style="s3"> und</span> das ist absolut negativ für</p>
+<p begin="00:02:59.019" end="00:03:03.340" style="s2">die schulen in thüringen<span style="s3"> insgesamt</span></p>
+<p begin="00:03:01.600" end="00:03:05.380" style="s2"><span style="s4">setzten</span> sie einen bildungspolitischen</p>
+<p begin="00:03:03.340" end="00:03:07.180" style="s2">abschwung in gang der einmal in richtung</p>
+<p begin="00:03:05.380" end="00:03:08.980" style="s2">tal unterwegs nur schwer wieder</p>
+<p begin="00:03:07.180" end="00:03:10.720" style="s2">aufzuhalten ist und für uns als<span style="s4"> ab der</span></p>
+<p begin="00:03:08.980" end="00:03:13.030" style="s2"><span style="s3">fraktion</span> sage ich ganz klar dass wir</p>
+<p begin="00:03:10.720" end="00:03:14.799" style="s2">diese umwälzungen die die rot rot grüne</p>
+<p begin="00:03:13.030" end="00:03:16.750" style="s2">landesregierung vornehmen möchte nicht</p>
+<p begin="00:03:14.799" end="00:03:18.400" style="s2">unterstützen und alles was uns</p>
+<p begin="00:03:16.750" end="00:03:20.410" style="s2">parlamentarisch<span style="s3"> zu steht dagegen tun</span></p>
+<p begin="00:03:18.400" end="00:03:22.720" style="s2">werden um es aufzuhalten</p>
+<p begin="00:03:20.410" end="00:03:24.130" style="s2">wir als<span style="s4"> fdp</span><span style="s3"> stehen</span> auf der seite der</p>
+<p begin="00:03:22.720" end="00:03:26.140" style="s2">schüler die die reguläre<span style="s4"> unterricht</span></p>
+<p begin="00:03:24.130" end="00:03:27.670" style="s2"><span style="s3">einteilung</span> ohne stundenausfall wollen</p>
+<p begin="00:03:26.140" end="00:03:29.110" style="s2">wir als fdp stehen auf der seite der</p>
+<p begin="00:03:27.670" end="00:03:31.780" style="s2">eltern die das beste für ihre kinder</p>
+<p begin="00:03:29.110" end="00:03:34.090" style="s2"><span style="s3">wollen nämlich eine gute schulbildung</span></p>
+<p begin="00:03:31.780" end="00:03:35.709" style="s2">mit der ihre kinder als mündige</p>
+<p begin="00:03:34.090" end="00:03:38.350" style="s2">staatsbürger ihr leben selbst gestalten</p>
+<p begin="00:03:35.709" end="00:03:40.600" style="s2">können<span style="s3"> wir</span> als<span style="s4"> fdp</span><span style="s3"> stehen</span> auf der seite</p>
+<p begin="00:03:38.350" end="00:03:42.549" style="s2">der lehrer die jeden tag vollen einsatz</p>
+<p begin="00:03:40.600" end="00:03:44.530" style="s2">zeigen aber an ihre grenzen geraten</p>
+<p begin="00:03:42.549" end="00:03:45.760" style="s2">werden wenn die landesregierung sie in</p>
+<p begin="00:03:44.530" end="00:03:47.830" style="s2">zukunft zwischen</p>
+<p begin="00:03:45.760" end="00:03:50.230" style="s2"><span style="s4">in den</span><span style="s3"> schulen hin und her fahren lässt</span></p>
+<p begin="00:03:47.830" end="00:03:52.780" style="s2">und im interesse dieser schüler lehrer</p>
+<p begin="00:03:50.230" end="00:03:54.340" style="s2">und eltern werden wir eben das tun was</p>
+<p begin="00:03:52.780" end="00:03:55.569" style="s2">ich gesagt habe<span style="s3"> ihnen</span> unseren widerstand</p>
+<p begin="00:03:54.340" end="00:03:58.150" style="s2">entgegensetzen</p>
+<p begin="00:03:55.569" end="00:04:00.400" style="s2">wichtig ist uns dabei der schutz und die</p>
+<p begin="00:03:58.150" end="00:04:02.319" style="s2">optimale förderung derer die<span style="s3"> dieses</span></p>
+<p begin="00:04:00.400" end="00:04:02.909" style="s2">schutzes besonders bedürfen nämlich der</p>
+<p begin="00:04:02.319" end="00:04:05.650" style="s2">kinder mit sonderpädagogischem</p>
+<p begin="00:04:02.909" end="00:04:07.420" style="s2">förderbedarf in thüringen und in</p>
+<p begin="00:04:05.650" end="00:04:09.370" style="s2">deutschland haben diese kinder das glück</p>
+<p begin="00:04:07.420" end="00:04:10.989" style="s2">auf ein hochwertiges gut ausgebaut ist</p>
+<p begin="00:04:09.370" end="00:04:13.150" style="s2">und vielseitiges förderschulsystem</p>
+<p begin="00:04:10.989" end="00:04:14.849" style="s2">zurückgreifen zu können<span style="s3"> und</span> das soll in</p>
+<p begin="00:04:13.150" end="00:04:17.289" style="s2">unseren augen auch so bleiben</p>
+<p begin="00:04:14.849" end="00:04:18.669" style="s2">und deswegen finde ich es befremdlich</p>
+<p begin="00:04:17.289" end="00:04:20.949" style="s2">wenn sie in der problembeschreibung</p>
+<p begin="00:04:18.669" end="00:04:22.690" style="s2">ihres<span style="s3"> gesetzentwurfes</span> sagen dass</p>
+<p begin="00:04:20.949" end="00:04:24.850" style="s2">förderschulen weiterhin möglich sein</p>
+<p begin="00:04:22.690" end="00:04:27.490" style="s2">sollen und dann der satz folgt ich</p>
+<p begin="00:04:24.850" end="00:04:29.560" style="s2">zitiere wörtlich<span style="s3"> die</span> damit verbundenen</p>
+<p begin="00:04:27.490" end="00:04:31.600" style="s2">absehbaren konsequenzen insbesondere</p>
+<p begin="00:04:29.560" end="00:04:33.970" style="s2">hinsichtlich des lehrerbedarfs und der</p>
+<p begin="00:04:31.600" end="00:04:34.690" style="s2">kosten<span style="s4"> des schul aufwand aufwands sind</span></p>
+<p begin="00:04:33.970" end="00:04:36.699" style="s2">zu tragen</p>
+<p begin="00:04:34.690" end="00:04:38.169" style="s2">sie suggerieren<span style="s3"> an</span> dieser stelle dass</p>
+<p begin="00:04:36.699" end="00:04:40.360" style="s2">der erhalt der förderschulen<span style="s3"> ein</span></p>
+<p begin="00:04:38.169" end="00:04:41.740" style="s2">finanzieller mehraufwand wäre was doch</p>
+<p begin="00:04:40.360" end="00:04:43.630" style="s2">mitnichten der fall ist wenn man sich</p>
+<p begin="00:04:41.740" end="00:04:45.699" style="s2">die lage<span style="s3"> mal anguckt die förderschulen</span></p>
+<p begin="00:04:43.630" end="00:04:47.860" style="s2">existieren<span style="s3"> schon sie sind ausgestattet</span></p>
+<p begin="00:04:45.699" end="00:04:49.870" style="s2"><span style="s3">und</span> entsprechend ausgebildete lehrer</p>
+<p begin="00:04:47.860" end="00:04:52.060" style="s2">unterrichten dort ein finanzieller</p>
+<p begin="00:04:49.870" end="00:04:53.229" style="s2">mehraufwand gegenüber dem was jetzt ist</p>
+<p begin="00:04:52.060" end="00:04:55.090" style="s2">entsteht<span style="s4"> auch</span> eben nicht durch den</p>
+<p begin="00:04:53.229" end="00:04:56.650" style="s2"><span style="s3">beibehalt</span> der<span style="s3"> förderschulen</span> sondern</p>
+<p begin="00:04:55.090" end="00:04:59.080" style="s2">durch<span style="s4"> die in ihr weg das komplette</span></p>
+<p begin="00:04:56.650" end="00:05:00.940" style="s2"><span style="s4">schulsystem inklusive aller schüler</span></p>
+<p begin="00:04:59.080" end="00:05:03.699" style="s2"><span style="s4">ob</span> beeinträchtigt oder nicht in ihre</p>
+<p begin="00:05:00.940" end="00:05:05.680" style="s2">welt der inklusion zu pressen<span style="s4"> und wenn</span></p>
+<p begin="00:05:03.699" end="00:05:06.669" style="s2">sie<span style="s3"> flächendeckend</span><span style="s4"> dann</span><span style="s3"> gemeinsam</span></p>
+<p begin="00:05:05.680" end="00:05:08.650" style="s2"><span style="s3">unterricht</span> mit der brechstange</p>
+<p begin="00:05:06.669" end="00:05:10.570" style="s2">durchsetzen<span style="s3"> heißt</span><span style="s4"> das</span><span style="s3"> selbstverständlich</span></p>
+<p begin="00:05:08.650" end="00:05:12.729" style="s2">dass<span style="s3"> sie</span> die ressourcen<span style="s4"> namentlich</span> die</p>
+<p begin="00:05:10.570" end="00:05:15.820" style="s2">lehrer<span style="s3"> die</span> momentan in den förderschulen</p>
+<p begin="00:05:12.729" end="00:05:17.530" style="s2">unterrichten dort abziehen werden<span style="s3"> wenn</span></p>
+<p begin="00:05:15.820" end="00:05:19.090" style="s2">sie flächendeckend gemeinsam unterricht</p>
+<p begin="00:05:17.530" end="00:05:20.860" style="s2">durchsetzen heißt das dass der</p>
+<p begin="00:05:19.090" end="00:05:22.449" style="s2">unterricht für alle kinder also für</p>
+<p begin="00:05:20.860" end="00:05:24.699" style="s2">diejenigen die eine besondere betreuung</p>
+<p begin="00:05:22.449" end="00:05:26.979" style="s2">brauchen aber auch für diejenigen die</p>
+<p begin="00:05:24.699" end="00:05:28.030" style="s2">eben keine brauchen darunter leidet das</p>
+<p begin="00:05:26.979" end="00:05:29.740" style="s2">sind die konsequenzen ihres</p>
+<p begin="00:05:28.030" end="00:05:32.070" style="s2"><span style="s3">gesetzentwurfs</span> und darüber sollten<span style="s3"> die</span></p>
+<p begin="00:05:29.740" end="00:05:33.490" style="s2">eltern<span style="s3"> und</span> kinder mal informieren</p>
+<p begin="00:05:32.070" end="00:05:35.289" style="s2"><span style="s4">das</span></p>
+<p begin="00:05:33.490" end="00:05:37.960" style="s2">die inklusion mit der brechstange nicht</p>
+<p begin="00:05:35.289" end="00:05:39.580" style="s2">ohne ausreichende vorbereitung auch dass</p>
+<p begin="00:05:37.960" end="00:05:40.960" style="s2">die inklusion mit der brechstange ohne</p>
+<p begin="00:05:39.580" end="00:05:43.000" style="s2">ausreichende vorbereitung nicht</p>
+<p begin="00:05:40.960" end="00:05:45.250" style="s2">funktioniert zeigt sich auch an weniger</p>
+<p begin="00:05:43.000" end="00:05:47.110" style="s2">prominenter stelle ihres gesetzentwurfs</p>
+<p begin="00:05:45.250" end="00:05:49.810" style="s2">wo sie dann plötzlich zu den kosten des</p>
+<p begin="00:05:47.110" end="00:05:51.880" style="s2">landes<span style="s3"> zu geben ich zitiere im rahmen</span></p>
+<p begin="00:05:49.810" end="00:05:54.300" style="s2">der beabsichtigten weiterentwicklung des</p>
+<p begin="00:05:51.880" end="00:05:55.990" style="s2">gemeinsamen unterrichts wird ein nicht</p>
+<p begin="00:05:54.300" end="00:05:59.380" style="s2"><span style="s3">prognostizierbare</span> personalmehrbedarf</p>
+<p begin="00:05:55.990" end="00:06:00.970" style="s2">entstehen<span style="s3"> und</span> zu den kosten der kommunen</p>
+<p begin="00:05:59.380" end="00:06:03.039" style="s2">sagen sie dann ganz lapidar</p>
+<p begin="00:06:00.970" end="00:06:04.930" style="s2">die konkrete höhe der eventuellen</p>
+<p begin="00:06:03.039" end="00:06:06.190" style="s2">steigerung sonstiger sachkosten durch</p>
+<p begin="00:06:04.930" end="00:06:08.199" style="s2">den<span style="s3"> ausbau</span> des gemeinsamen unterrichts</p>
+<p begin="00:06:06.190" end="00:06:10.270" style="s2"><span style="s3">ist</span> nicht prognostizierbar</p>
+<p begin="00:06:08.199" end="00:06:11.770" style="s2">sie geben also an der stelle an der sie</p>
+<p begin="00:06:10.270" end="00:06:14.050" style="s2">es tun müssen wo es um die kosten geht</p>
+<p begin="00:06:11.770" end="00:06:15.699" style="s2">das deutliche mehrkosten durch den</p>
+<p begin="00:06:14.050" end="00:06:16.840" style="s2">gemeinsamen unterricht entstehen werden</p>
+<p begin="00:06:15.699" end="00:06:17.949" style="s2">und das auch mehr kosten auf die</p>
+<p begin="00:06:16.840" end="00:06:19.659" style="s2">kommunen zukommen</p>
+<p begin="00:06:17.949" end="00:06:20.650" style="s2">beides können sie nicht beziffern und</p>
+<p begin="00:06:19.659" end="00:06:22.300" style="s2">für beide stellen sie<span style="s4"> auch</span></p>
+<p begin="00:06:20.650" end="00:06:24.729" style="s2">offensichtlich kein geld zur verfügung</p>
+<p begin="00:06:22.300" end="00:06:26.680" style="s2">das wird nicht nur<span style="s4"> planlos</span><span style="s3"> sondern</span> lässt</p>
+<p begin="00:06:24.729" end="00:06:28.000" style="s2">auch den schluss zu dass sie gerade</p>
+<p begin="00:06:26.680" end="00:06:29.650" style="s2">durch das ausbluten lassen der</p>
+<p begin="00:06:28.000" end="00:06:32.169" style="s2">förderschulen am falschen ende sparen</p>
+<p begin="00:06:29.650" end="00:06:34.330" style="s2">werden<span style="s3"> und</span> am ende<span style="s3"> kommt</span> dann natürlich</p>
+<p begin="00:06:32.169" end="00:06:35.830" style="s2">die konsequenz<span style="s3"> die</span> behaupten dann so</p>
+<p begin="00:06:34.330" end="00:06:37.479" style="s2">groß<span style="s4"> wären</span> die<span style="s3"> mehrkosten</span> für den</p>
+<p begin="00:06:35.830" end="00:06:39.909" style="s2">gemeinsamen unterricht dann<span style="s3"> gar nicht</span></p>
+<p begin="00:06:37.479" end="00:06:41.199" style="s2">dass währenddessen an<span style="s3"> allgemeinbildenden</span></p>
+<p begin="00:06:39.909" end="00:06:42.400" style="s2">schulen<span style="s4"> wir</span> an förderschulen der</p>
+<p begin="00:06:41.199" end="00:06:44.080" style="s2">unterricht drunter und drüber geht</p>
+<p begin="00:06:42.400" end="00:06:46.449" style="s2">scheint sie auch nicht zu interessieren</p>
+<p begin="00:06:44.080" end="00:06:48.130" style="s2">es ist also kein geheimnis dass<span style="s4"> sie</span> als</p>
+<p begin="00:06:46.449" end="00:06:51.550" style="s2">landesregierung einen anderen weg gehen</p>
+<p begin="00:06:48.130" end="00:06:53.199" style="s2">als<span style="s4"> dem dfb zu</span> bevorzugen würden<span style="s3"> das</span></p>
+<p begin="00:06:51.550" end="00:06:56.020" style="s2">ziel der landesregierung ist ganz klar</p>
+<p begin="00:06:53.199" end="00:06:58.090" style="s2">die entkernung der förderschulen als</p>
+<p begin="00:06:56.020" end="00:06:59.139" style="s2">kursziel oder mittelfristiges ziel und</p>
+<p begin="00:06:58.090" end="00:07:01.150" style="s2">langfristig die schließung der</p>
+<p begin="00:06:59.139" end="00:07:03.690" style="s2">förderschule als solche und<span style="s3"> dagegen</span> gibt</p>
+<p begin="00:07:01.150" end="00:07:06.460" style="s2">es natürlich berechtigten widerstand</p>
+<p begin="00:07:03.690" end="00:07:07.780" style="s2">diesen widerstand versuchen sie zwar in</p>
+<p begin="00:07:06.460" end="00:07:08.979" style="s2">ihrer rede auszublenden</p>
+<p begin="00:07:07.780" end="00:07:10.870" style="s2">dennoch scheint die<span style="s4"> landesregierung</span></p>
+<p begin="00:07:08.979" end="00:07:12.880" style="s2"><span style="s4">ihnen</span> bemerkt zu haben denn in dem</p>
+<p begin="00:07:10.870" end="00:07:14.500" style="s2"><span style="s3">gesetzesentwurf</span> werden einige</p>
+<p begin="00:07:12.880" end="00:07:16.960" style="s2">verrenkungen gemacht um den begriff</p>
+<p begin="00:07:14.500" end="00:07:19.090" style="s2">schule und zu definieren und so zu tun</p>
+<p begin="00:07:16.960" end="00:07:20.650" style="s2">als würde sie nicht schon als würden sie</p>
+<p begin="00:07:19.090" end="00:07:22.360" style="s2">als landesregierung nicht schon die</p>
+<p begin="00:07:20.650" end="00:07:23.349" style="s2">ersten schritte in richtung<span style="s4"> lesung</span> der</p>
+<p begin="00:07:22.360" end="00:07:26.080" style="s2">förderschulen tun</p>
+<p begin="00:07:23.349" end="00:07:28.539" style="s2">in paragraf 13 absatz 1 satz 4 des</p>
+<p begin="00:07:26.080" end="00:07:30.729" style="s2">entwurfs wird eine definition davon was</p>
+<p begin="00:07:28.539" end="00:07:32.530" style="s2">schule sein soll eingefügt im nächsten</p>
+<p begin="00:07:30.729" end="00:07:35.199" style="s2">satz folgt<span style="s3"> dann</span> die aussage ich zitiere</p>
+<p begin="00:07:32.530" end="00:07:37.389" style="s2">mit ihrer erlaubnis förderschulen gelten</p>
+<p begin="00:07:35.199" end="00:07:39.580" style="s2">abweichend von satz<span style="s4"> 4</span> auch dann als</p>
+<p begin="00:07:37.389" end="00:07:40.510" style="s2">schulen wenn sie ausschließlich schüler</p>
+<p begin="00:07:39.580" end="00:07:42.040" style="s2">fördern die<span style="s4"> 1</span></p>
+<p begin="00:07:40.510" end="00:07:44.500" style="s2"><span style="s4">pool</span><span style="s3"> verhältnis</span> zu einer allgemeinen</p>
+<p begin="00:07:42.040" end="00:07:46.930" style="s2">schule begründet haben mit anderen</p>
+<p begin="00:07:44.500" end="00:07:48.360" style="s2">worten die landesregierung behauptet wir</p>
+<p begin="00:07:46.930" end="00:07:51.400" style="s2">stellen hier ein gebäude hin</p>
+<p begin="00:07:48.360" end="00:07:52.810" style="s2">in diesem gebäude sind keine schüler in</p>
+<p begin="00:07:51.400" end="00:07:54.820" style="s2">diesem gebäude sind vermutlich auch</p>
+<p begin="00:07:52.810" end="00:07:56.490" style="s2">keine lehrer in diesem gebäude wird</p>
+<p begin="00:07:54.820" end="00:07:58.990" style="s2">definitiv<span style="s4"> kein</span> unterricht erteilt aber</p>
+<p begin="00:07:56.490" end="00:08:00.550" style="s2">dieses gebäude hat den namen schule wir</p>
+<p begin="00:07:58.990" end="00:08:02.620" style="s2">als landesregierung sagen<span style="s4"> dass</span> und</p>
+<p begin="00:08:00.550" end="00:08:04.240" style="s2">deswegen muss das jeder<span style="s3"> glauben meine</span></p>
+<p begin="00:08:02.620" end="00:08:06.420" style="s2"><span style="s3">damen</span> und herren der landesregierung</p>
+<p begin="00:08:04.240" end="00:08:08.700" style="s2">sehr geehrter herr minister sie</p>
+<p begin="00:08:06.420" end="00:08:11.020" style="s2">schreiben gesetze nach dem motto</p>
+<p begin="00:08:08.700" end="00:08:14.980" style="s2"><span style="s3">einbildung</span> ist<span style="s3"> auch</span> eine bildung und das</p>
+<p begin="00:08:11.020" end="00:08:17.740" style="s2">ist wirklich irre<span style="s3"> mit</span> großer sorge sehe</p>
+<p begin="00:08:14.980" end="00:08:20.080" style="s2">ich auch dass sie<span style="s4"> andere</span> schularten wie</p>
+<p begin="00:08:17.740" end="00:08:21.400" style="s2">dem gymnasium oder der regelschule an</p>
+<p begin="00:08:20.080" end="00:08:22.690" style="s2">den kragen wollen das ist ja schon</p>
+<p begin="00:08:21.400" end="00:08:25.750" style="s2">angesprochen worden</p>
+<p begin="00:08:22.690" end="00:08:28.120" style="s2"><span style="s3">in</span> § 3a des entwurfs legen sie fest dass</p>
+<p begin="00:08:25.750" end="00:08:30.040" style="s2">das schulsystem fortan nicht nur nach</p>
+<p begin="00:08:28.120" end="00:08:32.350" style="s2">schularten gegliedert sondern vor allem</p>
+<p begin="00:08:30.040" end="00:08:33.210" style="s2">auch nach schulstufen aus aufgebaut<span style="s4"> wert</span></p>
+<p begin="00:08:32.350" end="00:08:35.380" style="s2"><span style="s3">sein</span> sollen</p>
+<p begin="00:08:33.210" end="00:08:36.940" style="s2">gleichzeitig erinnern wir uns daran dass</p>
+<p begin="00:08:35.380" end="00:08:39.190" style="s2">bildungsminister<span style="s4"> holger schon im</span><span style="s3"> august</span></p>
+<p begin="00:08:36.940" end="00:08:41.290" style="s2">angekündigt hat lehrer nicht<span style="s3"> mehr</span> nach</p>
+<p begin="00:08:39.190" end="00:08:42.820" style="s2">schularten sondern schulstufen bezogen</p>
+<p begin="00:08:41.290" end="00:08:45.010" style="s2">ausbilden lassen zu wollen</p>
+<p begin="00:08:42.820" end="00:08:46.900" style="s2">auch hier erkennen wir das von der</p>
+<p begin="00:08:45.010" end="00:08:47.950" style="s2">landesregierung eben keine schulvielfalt</p>
+<p begin="00:08:46.900" end="00:08:50.410" style="s2">gewollt ist</p>
+<p begin="00:08:47.950" end="00:08:51.850" style="s2">sie wollen keine grundschule sie wollen</p>
+<p begin="00:08:50.410" end="00:08:52.510" style="s2">keine<span style="s4"> regelschulen</span> gymnasien<span style="s4"> und</span></p>
+<p begin="00:08:51.850" end="00:08:54.790" style="s2">förderschulen</p>
+<p begin="00:08:52.510" end="00:08:56.560" style="s2">sie wollen als endziel einheitsschulen</p>
+<p begin="00:08:54.790" end="00:08:59.560" style="s2">in<span style="s4"> denen</span> dann keine differenzierung nach</p>
+<p begin="00:08:56.560" end="00:09:01.900" style="s2"><span style="s4">leistungen</span> mehr möglich ist<span style="s4"> dass</span> meine</p>
+<p begin="00:08:59.560" end="00:09:03.760" style="s2"><span style="s4">damen</span> und herren der landesregierung hat</p>
+<p begin="00:09:01.900" end="00:09:04.650" style="s2">aber nichts mit bildung zu tun sondern</p>
+<p begin="00:09:03.760" end="00:09:08.020" style="s2">ist schlicht und ergreifend</p>
+<p begin="00:09:04.650" end="00:09:09.460" style="s2"><span style="s3">gleichmacherischen</span><span style="s4"> sinn</span> der uns<span style="s4"> uns</span> und</p>
+<p begin="00:09:08.020" end="00:09:12.250" style="s2">unser land<span style="s4"> zurückwerfen</span><span style="s3"> wird ins</span></p>
+<p begin="00:09:09.460" end="00:09:14.110" style="s2"><span style="s3">bildungspolitische</span> mittelalter in die</p>
+<p begin="00:09:12.250" end="00:09:15.600" style="s2"><span style="s3">gleiche kerbe schlägt auch ihr vorschlag</span></p>
+<p begin="00:09:14.110" end="00:09:17.290" style="s2">zu den klassen und<span style="s4"> schulgröße</span></p>
+<p begin="00:09:15.600" end="00:09:19.930" style="s2"><span style="s4">gemeinschaftsschulen</span> müssen mindestens</p>
+<p begin="00:09:17.290" end="00:09:21.670" style="s2">260 schüler in den klassenstufen<span style="s4"> fünf</span></p>
+<p begin="00:09:19.930" end="00:09:25.540" style="s2">bis<span style="s4"> zehn</span> und in<span style="s4"> der</span> oberstufe mindestens</p>
+<p begin="00:09:21.670" end="00:09:27.430" style="s2">40 haben<span style="s3"> insgesamt also 300 gymnasien</span></p>
+<p begin="00:09:25.540" end="00:09:28.930" style="s2">hingegen müssen deutlich mehr schüler</p>
+<p begin="00:09:27.430" end="00:09:32.790" style="s2">vor weiß noch mehr<span style="s3"> essen</span> zu bleiben</p>
+<p begin="00:09:28.930" end="00:09:35.110" style="s2">nämlich 540 also gymnasien haben dann</p>
+<p begin="00:09:32.790" end="00:09:37.330" style="s2">müssen im endeffekt gesehen wenn man</p>
+<p begin="00:09:35.110" end="00:09:39.090" style="s2"><span style="s4">zusammen rechnet 240 schüler mehr haben</span></p>
+<p begin="00:09:37.330" end="00:09:41.890" style="s2">als<span style="s4"> gemeinschaftsschule</span><span style="s3"> mit</span> gymnasialer</p>
+<p begin="00:09:39.090" end="00:09:44.520" style="s2"><span style="s3">oberstufe</span> das ist eine offensichtliche</p>
+<p begin="00:09:41.890" end="00:09:45.960" style="s2">ungleichbehandlung das ist ungerecht<span style="s3"> und</span></p>
+<p begin="00:09:44.520" end="00:09:47.130" style="s2"><span style="s3">recht</span> und jetzt zweifellos dazu führen</p>
+<p begin="00:09:45.960" end="00:09:48.300" style="s2">dass im nahen gegenüber</p>
+<p begin="00:09:47.130" end="00:09:50.490" style="s2">gemeinschaftsschulen zurückgedrängt</p>
+<p begin="00:09:48.300" end="00:09:54.320" style="s2">werden<span style="s3"> obwohl</span> diese<span style="s3"> schulform</span> doch bei</p>
+<p begin="00:09:50.490" end="00:09:56.550" style="s2">eltern und schülern erwünscht ist und</p>
+<p begin="00:09:54.320" end="00:09:58.310" style="s2"><span style="s4">erwartung</span> sie haben das vorhin so schön</p>
+<p begin="00:09:56.550" end="00:10:00.360" style="s2">gesagt dass ihr ursprungs</p>
+<p begin="00:09:58.310" end="00:10:02.970" style="s2">gesetzesentwurf wäre eine</p>
+<p begin="00:10:00.360" end="00:10:04.110" style="s2">schulschließung programm geworden so</p>
+<p begin="00:10:02.970" end="00:10:05.910" style="s2">ganz lapidar<span style="s4"> haben</span><span style="s3"> sie</span> das<span style="s4"> mal</span></p>
+<p begin="00:10:04.110" end="00:10:09.030" style="s2"><span style="s4">hingeworfen</span><span style="s3"> glaubt</span> das<span style="s3"> ist</span> nach dem</p>
+<p begin="00:10:05.910" end="00:10:10.560" style="s2">jetzigen entwurf nicht anders ihre</p>
+<p begin="00:10:09.030" end="00:10:11.940" style="s2">vorschläge zur schule und klassengrößen</p>
+<p begin="00:10:10.560" end="00:10:14.370" style="s2">sind insgesamt kritisch insbesondere</p>
+<p begin="00:10:11.940" end="00:10:15.950" style="s2">auch<span style="s3"> auf</span> für die grundschulen auf die</p>
+<p begin="00:10:14.370" end="00:10:18.210" style="s2">ich eingehen möchte</p>
+<p begin="00:10:15.950" end="00:10:20.100" style="s2"><span style="s3">gestatten</span> serie zwischen frage des</p>
+<p begin="00:10:18.210" end="00:10:23.100" style="s2">abgeordneten hatten am ende gerne wenn</p>
+<p begin="00:10:20.100" end="00:10:24.480" style="s2">ich noch seine<span style="s4"> wie</span> willkürlich das ganze</p>
+<p begin="00:10:23.100" end="00:10:25.950" style="s2">ist können sie auch daran erkennen dass</p>
+<p begin="00:10:24.480" end="00:10:28.110" style="s2">herr minister<span style="s4"> holter</span> die<span style="s3"> schuhe größe</span></p>
+<p begin="00:10:25.950" end="00:10:30.270" style="s2"><span style="s3">für</span> grundschulen zunächst auf 160</p>
+<p begin="00:10:28.110" end="00:10:31.970" style="s2">schüler pro schule festgelegt hat diese</p>
+<p begin="00:10:30.270" end="00:10:34.290" style="s2">zahl aber nach massiven protesten</p>
+<p begin="00:10:31.970" end="00:10:36.240" style="s2">revidiert hat und plötzlich braucht man</p>
+<p begin="00:10:34.290" end="00:10:38.640" style="s2">nicht mehr 160 schüler pro grundschule</p>
+<p begin="00:10:36.240" end="00:10:40.530" style="s2">sondern nur noch 80<span style="s3"> wo da die rote linie</span></p>
+<p begin="00:10:38.640" end="00:10:41.640" style="s2">bleiben soll das bleibt<span style="s4"> ja</span><span style="s3"> wohl</span> ihr wohl</p>
+<p begin="00:10:40.530" end="00:10:44.960" style="s2">gehütetes geheimnis</p>
+<p begin="00:10:41.640" end="00:10:47.310" style="s2">auch für gronau es gibt einen weiteren</p>
+<p begin="00:10:44.960" end="00:10:49.350" style="s2">wunsch aber<span style="s3"> inzwischen</span> frage<span style="s4"> des</span></p>
+<p begin="00:10:47.310" end="00:10:53.270" style="s2"><span style="s3">abgeordneten wolf mit blick auf die</span></p>
+<p begin="00:10:49.350" end="00:10:53.270" style="s2">redezeit gerne wenn es am ende möglich</p>
+<p begin="00:10:53.930" end="00:10:58.230" style="s2">auch für grundschüler sind ihre</p>
+<p begin="00:10:56.400" end="00:11:00.900" style="s2">vorschläge also dann ganz besonders</p>
+<p begin="00:10:58.230" end="00:11:02.250" style="s2">kritisch wenn die<span style="s3"> mindestschülerzahl da</span></p>
+<p begin="00:11:00.900" end="00:11:04.200" style="s2">nicht erreicht werden kann was gerade</p>
+<p begin="00:11:02.250" end="00:11:05.850" style="s2">auf dem<span style="s3"> land</span> zweifellos vorkommen wird</p>
+<p begin="00:11:04.200" end="00:11:07.470" style="s2">dann ist die schule natürlich von der</p>
+<p begin="00:11:05.850" end="00:11:09.150" style="s2">schließung bedroht wenn sie nicht</p>
+<p begin="00:11:07.470" end="00:11:10.620" style="s2">geschlossen werden will dann muss sie</p>
+<p begin="00:11:09.150" end="00:11:12.330" style="s2">sich zu einer kooperation mit anderen</p>
+<p begin="00:11:10.620" end="00:11:14.340" style="s2">schulen bereit erklären was für</p>
+<p begin="00:11:12.330" end="00:11:16.920" style="s2">grundschüler im extremfall heißen kann</p>
+<p begin="00:11:14.340" end="00:11:19.140" style="s2">dass sie nicht nur die von ihnen auf 35</p>
+<p begin="00:11:16.920" end="00:11:21.390" style="s2">minuten festgelegte maximale schulwegs</p>
+<p begin="00:11:19.140" end="00:11:22.740" style="s2">zeit haben sondern auch zwischen</p>
+<p begin="00:11:21.390" end="00:11:24.840" style="s2">verschiedenen schulen hin und her</p>
+<p begin="00:11:22.740" end="00:11:26.340" style="s2">pendeln müssen oder eben lehrer haben</p>
+<p begin="00:11:24.840" end="00:11:27.390" style="s2"><span style="s4">die</span><span style="s3"> selten</span> sehen weil die lehrer</p>
+<p begin="00:11:26.340" end="00:11:29.040" style="s2">zwischen den verschiedenen standorten</p>
+<p begin="00:11:27.390" end="00:11:30.630" style="s2">hin und her pendeln müssen</p>
+<p begin="00:11:29.040" end="00:11:32.640" style="s2">und da hilft es<span style="s3"> auch</span><span style="s4"> nichts</span> immer zu</p>
+<p begin="00:11:30.630" end="00:11:34.440" style="s2">sagen das ist alles<span style="s4"> freilich</span><span style="s3"> dass</span> diese</p>
+<p begin="00:11:32.640" end="00:11:35.670" style="s2"><span style="s4">argumentation</span> kriegen wir kennen wir ja</p>
+<p begin="00:11:34.440" end="00:11:37.470" style="s2">von der gebietsreform<span style="s4"> dann</span> sagen sie</p>
+<p begin="00:11:35.670" end="00:11:39.150" style="s2"><span style="s3">auch</span><span style="s4"> immer</span> ja<span style="s4"> die</span> für die fusion sind</p>
+<p begin="00:11:37.470" end="00:11:40.920" style="s2">alle freiwillig aber fakt ist doch</p>
+<p begin="00:11:39.150" end="00:11:43.200" style="s2">entweder die gemeinden fusionieren<span style="s4"> oder</span></p>
+<p begin="00:11:40.920" end="00:11:44.640" style="s2"><span style="s4">es</span> kommt<span style="s4"> nur</span> konsequenz und das prinzip</p>
+<p begin="00:11:43.200" end="00:11:47.010" style="s2"><span style="s3">wenden</span> sie<span style="s4"> jetzt</span> auch bei<span style="s3"> den</span> schulen<span style="s3"> an</span></p>
+<p begin="00:11:44.640" end="00:11:48.330" style="s2">sagen entweder ihr<span style="s3"> kooperiert</span> oder ihr</p>
+<p begin="00:11:47.010" end="00:11:50.160" style="s2">werdet geschlossen und das ist nicht das</p>
+<p begin="00:11:48.330" end="00:11:53.210" style="s2">prinzip freiwilligkeit das ist das</p>
+<p begin="00:11:50.160" end="00:11:53.210" style="s2">prinzip friss oder stirb</p>
+<p begin="00:11:53.480" end="00:11:57.569" style="s2">und ich sage auch ganz deutlich dass<span style="s4"> ich</span></p>
+<p begin="00:11:55.800" end="00:11:59.550" style="s2"><span style="s4">das</span><span style="s3"> gerade</span> im grundschulbereich<span style="s4"> quartal</span></p>
+<p begin="00:11:57.569" end="00:12:01.680" style="s2">finde und dass wir als<span style="s4"> afd</span><span style="s3"> diese</span></p>
+<p begin="00:11:59.550" end="00:12:03.060" style="s2">entwicklung nicht wollen<span style="s3"> für</span> alle</p>
+<p begin="00:12:01.680" end="00:12:04.310" style="s2">schulen außer der gemeinschaftsschule</p>
+<p begin="00:12:03.060" end="00:12:06.000" style="s2">ist absehbar dass ihre</p>
+<p begin="00:12:04.310" end="00:12:07.470" style="s2">kooperationsmodelle zu schulschließungen</p>
+<p begin="00:12:06.000" end="00:12:09.449" style="s2">oder eben auch zu einer massiven</p>
+<p begin="00:12:07.470" end="00:12:12.990" style="s2">verschlechterung des unterrichts und der</p>
+<p begin="00:12:09.449" end="00:12:14.670" style="s2">situation der lehrer kommen wird ihr</p>
+<p begin="00:12:12.990" end="00:12:16.139" style="s2"><span style="s3">gesetzesentwurf</span> ist kein weg den</p>
+<p begin="00:12:14.670" end="00:12:17.699" style="s2">lehrermangel zu bekämpfen<span style="s4"> ich</span> habe auch</p>
+<p begin="00:12:16.139" end="00:12:20.160" style="s2">noch keinen vorschlag gehört<span style="s4"> der</span> sich</p>
+<p begin="00:12:17.699" end="00:12:21.870" style="s2">darauf bezieht kein weg dafür zu sorgen</p>
+<p begin="00:12:20.160" end="00:12:24.120" style="s2">dass weniger stunden ausfallen</p>
+<p begin="00:12:21.870" end="00:12:26.459" style="s2">ihr gesetzentwurf ist ein<span style="s3"> rot-rot-grünes</span></p>
+<p begin="00:12:24.120" end="00:12:28.500" style="s2">chaos stiften auf dem weg zum einheits</p>
+<p begin="00:12:26.459" end="00:12:30.209" style="s2">lehrer an der einheitsschule<span style="s4"> und ich</span></p>
+<p begin="00:12:28.500" end="00:12:32.189" style="s2"><span style="s4">sage ihnen jetzt schon voraus</span> wenn</p>
+<p begin="00:12:30.209" end="00:12:34.829" style="s2">dieses gesetz so umgesetzt wird und in</p>
+<p begin="00:12:32.189" end="00:12:36.149" style="s2">der nächsten legislatur nicht nur nicht</p>
+<p begin="00:12:34.829" end="00:12:37.980" style="s2">durch bürgerliche kräfte<span style="s3"> gegengesteuert</span></p>
+<p begin="00:12:36.149" end="00:12:40.350" style="s2">werden kann<span style="s3"> dann</span> ist<span style="s3"> unsere</span></p>
+<p begin="00:12:37.980" end="00:12:42.980" style="s2">schullandschaft in zehn jahren einfältig</p>
+<p begin="00:12:40.350" end="00:12:44.670" style="s2"><span style="s4">stadt</span> vielfältig<span style="s4"> leistungsfach stadt</span></p>
+<p begin="00:12:42.980" end="00:12:47.040" style="s2">leistungsorientiert und in ihrem</p>
+<p begin="00:12:44.670" end="00:12:49.370" style="s2">heutigen kern zerstört und minister</p>
+<p begin="00:12:47.040" end="00:12:52.290" style="s2">heute hat ja angekündigt das ganze bis</p>
+<p begin="00:12:49.370" end="00:12:55.529" style="s2">2030 geschafft haben zu wollen<span style="s4"> wie er</span></p>
+<p begin="00:12:52.290" end="00:12:57.060" style="s2"><span style="s4">heißt afd stellen uns natürlich vor dass</span></p>
+<p begin="00:12:55.529" end="00:12:59.069" style="s2">eine intensive diskussion zumindest</p>
+<p begin="00:12:57.060" end="00:13:01.139" style="s2">geführt wird bitte daher um</p>
+<p begin="00:12:59.069" end="00:13:03.089" style="s2"><span style="s4">überweisungen</span> des gesetzesentwurfs in</p>
+<p begin="00:13:01.139" end="00:13:05.279" style="s2"><span style="s4">verschiedene</span><span style="s3"> ausschuss und zwar in den</span></p>
+<p begin="00:13:03.089" end="00:13:07.050" style="s2">bildungsausschuss<span style="s4"> in</span> den finanzausschuss</p>
+<p begin="00:13:05.279" end="00:13:09.689" style="s2">und auch in den ausschuss für inneres</p>
+<p begin="00:13:07.050" end="00:13:12.120" style="s2">und kommunales<span style="s3"> weil</span> ich das ganze thema</p>
+<p begin="00:13:09.689" end="00:13:12.689" style="s2">sehr wichtig finde möchte<span style="s3"> ich</span> auf ihren</p>
+<p begin="00:13:12.120" end="00:13:14.879" style="s2"><span style="s3">antrag</span> zur</p>
+<p begin="00:13:12.689" end="00:13:16.370" style="s2"><span style="s4">un-behindertenrechtskonvention</span> noch</p>
+<p begin="00:13:14.879" end="00:13:18.449" style="s2">gesondert eingehen</p>
+<p begin="00:13:16.370" end="00:13:20.370" style="s2">allgemein finde ich das thema wichtig</p>
+<p begin="00:13:18.449" end="00:13:21.779" style="s2">weil ich es wichtig finde dass wir als</p>
+<p begin="00:13:20.370" end="00:13:23.819" style="s2">gesellschaft oder auch als parlament</p>
+<p begin="00:13:21.779" end="00:13:25.410" style="s2">diskutieren wie wir mit menschen die mit</p>
+<p begin="00:13:23.819" end="00:13:26.910" style="s2">einer behinderung leben müssen umgehen</p>
+<p begin="00:13:25.410" end="00:13:29.040" style="s2">und wie wir sie unterstützen können</p>
+<p begin="00:13:26.910" end="00:13:31.199" style="s2">leider ist das ein bereich der von</p>
+<p begin="00:13:29.040" end="00:13:32.759" style="s2"><span style="s4">rot-rot-grün</span> konsequent vernachlässigt</p>
+<p begin="00:13:31.199" end="00:13:34.620" style="s2">wird und sich auch in ihrem antrag</p>
+<p begin="00:13:32.759" end="00:13:36.149" style="s2">überhaupt gar nicht wieder findet auch</p>
+<p begin="00:13:34.620" end="00:13:38.610" style="s2">bei ihnen in der einbringung herrschaft</p>
+<p begin="00:13:36.149" end="00:13:39.660" style="s2">habe ich viel von inklusion gehört aber</p>
+<p begin="00:13:38.610" end="00:13:40.639" style="s2">nichts über die menschen um die es</p>
+<p begin="00:13:39.660" end="00:13:43.170" style="s2">eigentlich geht</p>
+<p begin="00:13:40.639" end="00:13:44.550" style="s2">sie versteifen sich<span style="s4"> darauf</span> flächen</p>
+<p begin="00:13:43.170" end="00:13:46.139" style="s2"><span style="s3">deckende</span> inklusion in allen schulen</p>
+<p begin="00:13:44.550" end="00:13:48.059" style="s2">durchsetzen zu wollen aber mit keinem</p>
+<p begin="00:13:46.139" end="00:13:49.709" style="s2">wort gehen sie eben darauf an<span style="s4"> ein</span> welche</p>
+<p begin="00:13:48.059" end="00:13:52.680" style="s2">folgen das für die betreffenden menschen</p>
+<p begin="00:13:49.709" end="00:13:54.509" style="s2">tatsächlich hat nicht mit einem wort</p>
+<p begin="00:13:52.680" end="00:13:55.860" style="s2">erklären sie in welchen lebenslagen sind</p>
+<p begin="00:13:54.509" end="00:13:57.209" style="s2">die menschen die mit einer behinderung</p>
+<p begin="00:13:55.860" end="00:13:59.279" style="s2">leben in welchen lebenslagen befinden</p>
+<p begin="00:13:57.209" end="00:14:00.320" style="s2">sie sich nicht mit einem wort erklären</p>
+<p begin="00:13:59.279" end="00:14:02.060" style="s2">sie welchen mehrwert</p>
+<p begin="00:14:00.320" end="00:14:03.770" style="s2">ein inklusives schulsystem für all diese</p>
+<p begin="00:14:02.060" end="00:14:04.820" style="s2">kinder haben<span style="s3"> sollen</span> und das sollte man</p>
+<p begin="00:14:03.770" end="00:14:06.680" style="s2"><span style="s4">noch einmal</span><span style="s3"> begründen</span></p>
+<p begin="00:14:04.820" end="00:14:08.330" style="s2">sie blenden die menschen über deren</p>
+<p begin="00:14:06.680" end="00:14:10.430" style="s2">lebenswelt<span style="s4"> sie</span><span style="s3"> heute beschließen wollen</span></p>
+<p begin="00:14:08.330" end="00:14:11.690" style="s2">komplett aus weil sie nicht wollen dass</p>
+<p begin="00:14:10.430" end="00:14:13.610" style="s2">die sinnhaftigkeit<span style="s4"> fläzen</span></p>
+<p begin="00:14:11.690" end="00:14:13.910" style="s2"><span style="s3">flächendeckender</span> inklusion hinterfragt</p>
+<p begin="00:14:13.610" end="00:14:16.550" style="s2">wird</p>
+<p begin="00:14:13.910" end="00:14:19.040" style="s2">sie<span style="s3"> gehen</span> und<span style="s3"> stellen</span> ein inklusives</p>
+<p begin="00:14:16.550" end="00:14:21.170" style="s2">schulsystem als etwas<span style="s4"> absolutes</span><span style="s3"> da</span> als</p>
+<p begin="00:14:19.040" end="00:14:21.770" style="s2">etwas was unhinterfragt war gut sein</p>
+<p begin="00:14:21.170" end="00:14:23.540" style="s2">soll</p>
+<p begin="00:14:21.770" end="00:14:25.160" style="s2">dadurch stellen sie eben nicht nur sich</p>
+<p begin="00:14:23.540" end="00:14:26.780" style="s2">selbst als die angeblich guten menschen</p>
+<p begin="00:14:25.160" end="00:14:29.690" style="s2"><span style="s4">hängen</span><span style="s3"> sondern sie stellen auch kritiker</span></p>
+<p begin="00:14:26.780" end="00:14:30.410" style="s2">des<span style="s4"> unterfangens</span> als angeblich schlechte</p>
+<p begin="00:14:29.690" end="00:14:31.610" style="s2">menschen hin</p>
+<p begin="00:14:30.410" end="00:14:33.800" style="s2">wir haben<span style="s4"> dass</span><span style="s3"> er</span><span style="s4"> in</span> einer debatte</p>
+<p begin="00:14:31.610" end="00:14:35.750" style="s2"><span style="s3">glaube</span> ich auch<span style="s4"> vorhin</span><span style="s3"> schon</span> gehört sie</p>
+<p begin="00:14:33.800" end="00:14:37.820" style="s2"><span style="s3">versuchen</span> sie versuchen damit auch eine</p>
+<p begin="00:14:35.750" end="00:14:39.350" style="s2">debatte darüber ob ein inklusives</p>
+<p begin="00:14:37.820" end="00:14:41.030" style="s2">schulsystem für betroffene kinder und</p>
+<p begin="00:14:39.350" end="00:14:43.430" style="s2">jugendliche sinnvoll ist so erschweren</p>
+<p begin="00:14:41.030" end="00:14:45.050" style="s2"><span style="s3">auf</span> die<span style="s3"> unsachlichen</span><span style="s4"> schiene zu ziehen</span></p>
+<p begin="00:14:43.430" end="00:14:46.850" style="s2">wenn nicht gar zu unterbinden</p>
+<p begin="00:14:45.050" end="00:14:48.320" style="s2">das finde ich bedauerlich nicht nur für</p>
+<p begin="00:14:46.850" end="00:14:49.990" style="s2">unsere demokratie sondern auch für die</p>
+<p begin="00:14:48.320" end="00:14:52.190" style="s2">betroffenen menschen</p>
+<p begin="00:14:49.990" end="00:14:53.870" style="s2">bevor wir uns allerdings der frage</p>
+<p begin="00:14:52.190" end="00:14:56.030" style="s2">widmen die flächendeckende inklusion</p>
+<p begin="00:14:53.870" end="00:14:57.800" style="s2">überhaupt realisiert werden soll<span style="s4"> sollten</span></p>
+<p begin="00:14:56.030" end="00:14:59.450" style="s2"><span style="s4">wie</span><span style="s3"> ihr</span> argument warum wir angeblich ein</p>
+<p begin="00:14:57.800" end="00:15:01.250" style="s2">inklusives schulsystem installieren</p>
+<p begin="00:14:59.450" end="00:15:03.410" style="s2">müssen unter die lupe nehmen</p>
+<p begin="00:15:01.250" end="00:15:04.550" style="s2">sie argumentieren in ihrem antrag nicht</p>
+<p begin="00:15:03.410" end="00:15:06.590" style="s2">mit den bedürfnissen der betroffenen</p>
+<p begin="00:15:04.550" end="00:15:07.580" style="s2">menschen<span style="s3"> sie</span> argumentieren mit der</p>
+<p begin="00:15:06.590" end="00:15:10.490" style="s2">existenz der<span style="s4"> un</span></p>
+<p begin="00:15:07.580" end="00:15:11.990" style="s2"><span style="s4">behindertenrechtskonvention</span><span style="s3"> ja</span> die un</p>
+<p begin="00:15:10.490" end="00:15:14.300" style="s2">behindertenrechtskonvention ist für</p>
+<p begin="00:15:11.990" end="00:15:15.860" style="s2">deutschland verbindlich in<span style="s3"> ihr</span> steht</p>
+<p begin="00:15:14.300" end="00:15:17.390" style="s2"><span style="s3">aber</span> mitnichten<span style="s3"> dass deutschland oder</span></p>
+<p begin="00:15:15.860" end="00:15:19.100" style="s2">thüringen verpflichtet<span style="s4"> werden</span> ein</p>
+<p begin="00:15:17.390" end="00:15:21.530" style="s2">inklusives schulsystem zu installieren</p>
+<p begin="00:15:19.100" end="00:15:22.670" style="s2">oder gar förderschulen abzuschaffen<span style="s4"> und</span></p>
+<p begin="00:15:21.530" end="00:15:25.370" style="s2"><span style="s3">dass</span> sie<span style="s3"> sich</span> auf die<span style="s3"> un</span></p>
+<p begin="00:15:22.670" end="00:15:26.870" style="s2"><span style="s3">behindertenrechtskonvention berufen um</span></p>
+<p begin="00:15:25.370" end="00:15:28.610" style="s2">unser förderschulsystem kaputt zu machen</p>
+<p begin="00:15:26.870" end="00:15:29.990" style="s2">das wird auch dadurch nicht besser dass</p>
+<p begin="00:15:28.610" end="00:15:31.150" style="s2"><span style="s3">ihr</span> es wiederholt und mit schnappatmung</p>
+<p begin="00:15:29.990" end="00:15:33.500" style="s2">tun</p>
+<p begin="00:15:31.150" end="00:15:34.700" style="s2">gerade weil sie sich wiederholt weigert</p>
+<p begin="00:15:33.500" end="00:15:36.170" style="s2">an<span style="s4"> diesen</span><span style="s3"> punkt</span> noch einmal zur kenntnis</p>
+<p begin="00:15:34.700" end="00:15:37.010" style="s2">zu nehmen möchte ich auch darauf noch</p>
+<p begin="00:15:36.170" end="00:15:38.870" style="s2"><span style="s3">mal</span> eingehen</p>
+<p begin="00:15:37.010" end="00:15:41.000" style="s2">der deutsche text der un</p>
+<p begin="00:15:38.870" end="00:15:43.880" style="s2">behindertenrechtskonvention enthält an</p>
+<p begin="00:15:41.000" end="00:15:45.660" style="s2">keiner stelle die<span style="s3"> wörter</span> inklusion oder</p>
+<p begin="00:15:43.880" end="00:15:48.480" style="s2">inclusive</p>
+<p begin="00:15:45.660" end="00:15:49.920" style="s2">lassen sie mich doch<span style="s3"> erst mal</span><span style="s4"> wenn</span><span style="s3"> das</span></p>
+<p begin="00:15:48.480" end="00:15:51.120" style="s2">das problem ist dann berufen sie sich</p>
+<p begin="00:15:49.920" end="00:15:53.940" style="s2">doch gar nicht auf die<span style="s4"> un</span></p>
+<p begin="00:15:51.120" end="00:15:56.160" style="s2"><span style="s4">behindertenrechtskonvention</span><span style="s3"> also</span> die<span style="s4"> un</span></p>
+<p begin="00:15:53.940" end="00:15:58.290" style="s2"><span style="s4">behindertenrechtskonvention</span><span style="s3"> enthält</span></p>
+<p begin="00:15:56.160" end="00:16:00.300" style="s2">diese wörter inklusion und<span style="s4"> inclusive</span> an</p>
+<p begin="00:15:58.290" end="00:16:02.430" style="s2">keiner einzigen stelle auch wenn sie</p>
+<p begin="00:16:00.300" end="00:16:04.860" style="s2">noch so<span style="s4"> ramm</span> entern<span style="s3"> das englische wort</span></p>
+<p begin="00:16:02.430" end="00:16:07.650" style="s2"><span style="s4">inclusive</span> wird im deutschen text mit</p>
+<p begin="00:16:04.860" end="00:16:09.960" style="s2">integrativ<span style="s3"> wiedergegeben</span> das englische</p>
+<p begin="00:16:07.650" end="00:16:11.520" style="s2">wort inklusion<span style="s4"> dass ich in der</span></p>
+<p begin="00:16:09.960" end="00:16:13.410" style="s2"><span style="s3">englischen</span> vertrags fassung dann auch</p>
+<p begin="00:16:11.520" end="00:16:16.740" style="s2">findet wird in der deutschen fassung in</p>
+<p begin="00:16:13.410" end="00:16:18.080" style="s2">der regel mit teilhabe übersetzt es geht</p>
+<p begin="00:16:16.740" end="00:16:21.150" style="s2">in der<span style="s4"> un-behindertenrechtskonvention</span></p>
+<p begin="00:16:18.080" end="00:16:22.620" style="s2"><span style="s3">also richtigerweise</span><span style="s4"> um</span><span style="s3"> teilhabe von</span></p>
+<p begin="00:16:21.150" end="00:16:25.080" style="s2">menschen<span style="s3"> die mit einer behinderung leben</span></p>
+<p begin="00:16:22.620" end="00:16:25.890" style="s2">an bildung an unserem bildungssystem</p>
+<p begin="00:16:25.080" end="00:16:28.020" style="s2">es geht in der</p>
+<p begin="00:16:25.890" end="00:16:29.790" style="s2"><span style="s4">un-behindertenrechtskonvention</span><span style="s3"> nicht</span> um</p>
+<p begin="00:16:28.020" end="00:16:30.960" style="s2">einen flächen<span style="s4"> den</span> inklusiven<span style="s3"> unterricht</span></p>
+<p begin="00:16:29.790" end="00:16:33.360" style="s2">und schon gar nicht um die abschaffung</p>
+<p begin="00:16:30.960" end="00:16:35.370" style="s2">der förderschulen und im interesse der</p>
+<p begin="00:16:33.360" end="00:16:37.230" style="s2">betroffenen im interesse einer<span style="s4"> d filmen</span></p>
+<p begin="00:16:35.370" end="00:16:39.300" style="s2">diskussion würde ich sie bitten diese</p>
+<p begin="00:16:37.230" end="00:16:41.610" style="s2">tatsache endlich einmal zur kenntnis zu</p>
+<p begin="00:16:39.300" end="00:16:42.810" style="s2">nehmen und<span style="s3"> auch</span> noch ein aspekt möchte</p>
+<p begin="00:16:41.610" end="00:16:45.300" style="s2">ich sie gerne hinweisen</p>
+<p begin="00:16:42.810" end="00:16:48.630" style="s2">die vereinten nationen bestehen derzeit</p>
+<p begin="00:16:45.300" end="00:16:50.250" style="s2">aus 193 staaten unter diesen staaten</p>
+<p begin="00:16:48.630" end="00:16:52.590" style="s2">befinden sich sicherlich starten die</p>
+<p begin="00:16:50.250" end="00:16:53.820" style="s2"><span style="s4">einem</span> niveau deutschland vergleichbares</p>
+<p begin="00:16:52.590" end="00:16:56.970" style="s2">bildungssystem haben</p>
+<p begin="00:16:53.820" end="00:16:58.830" style="s2">unter<span style="s3"> diesen</span> 193<span style="s3"> staaten</span> gibt es aber</p>
+<p begin="00:16:56.970" end="00:17:00.570" style="s2">auch noch viel mehr starten in<span style="s4"> den</span></p>
+<p begin="00:16:58.830" end="00:17:02.550" style="s2"><span style="s4">vollkommen</span> andere teils<span style="s4"> äußerst</span></p>
+<p begin="00:17:00.570" end="00:17:04.620" style="s2">bedauernswerte<span style="s4"> zustände herrschen was</span></p>
+<p begin="00:17:02.550" end="00:17:06.840" style="s2"><span style="s4">den</span> zustand des staates im allgemeinen</p>
+<p begin="00:17:04.620" end="00:17:08.190" style="s2">die sicherheit die bildung und eben auch</p>
+<p begin="00:17:06.840" end="00:17:11.130" style="s2">die bildungsmöglichkeiten von kindern</p>
+<p begin="00:17:08.190" end="00:17:13.320" style="s2">die mit einer behinderung leben betrifft</p>
+<p begin="00:17:11.130" end="00:17:15.060" style="s2">und in diesen staaten ist es eben nicht</p>
+<p begin="00:17:13.320" end="00:17:16.320" style="s2">nur allgemein problematisch dass kinder</p>
+<p begin="00:17:15.060" end="00:17:18.600" style="s2">überhaupt bildung erhalten es</p>
+<p begin="00:17:16.320" end="00:17:19.590" style="s2">insbesondere problematisch dass kinder</p>
+<p begin="00:17:18.600" end="00:17:20.880" style="s2">die mit einer behinderung leben</p>
+<p begin="00:17:19.590" end="00:17:23.160" style="s2">überhaupt nicht zur schule geschickt</p>
+<p begin="00:17:20.880" end="00:17:24.060" style="s2">werden<span style="s3"> und gerade für</span> solche kinder soll</p>
+<p begin="00:17:23.160" end="00:17:25.880" style="s2">auch das von der un</p>
+<p begin="00:17:24.060" end="00:17:28.170" style="s2">behindertenrechtskonvention gewollte</p>
+<p begin="00:17:25.880" end="00:17:28.650" style="s2"><span style="s3">integrativen</span> schulsystem eine chance</p>
+<p begin="00:17:28.170" end="00:17:30.690" style="s2">bieten</p>
+<p begin="00:17:28.650" end="00:17:31.920" style="s2">und wenn es um deutschland um thüringen</p>
+<p begin="00:17:30.690" end="00:17:34.020" style="s2">geht dann sage ich</p>
+<p begin="00:17:31.920" end="00:17:36.030" style="s2">trotz aller probleme in der schulpolitik</p>
+<p begin="00:17:34.020" end="00:17:38.520" style="s2">was<span style="s4"> man</span><span style="s3"> eine</span><span style="s4"> lehre</span><span style="s3"> einstellungen</span> und</p>
+<p begin="00:17:36.030" end="00:17:40.260" style="s2">ausfallstunden<span style="s3"> angeht</span> trotz allem was zu</p>
+<p begin="00:17:38.520" end="00:17:41.970" style="s2">verbessern wäre finden kinder die mit</p>
+<p begin="00:17:40.260" end="00:17:43.590" style="s2">einer behinderung leben an deutschen</p>
+<p begin="00:17:41.970" end="00:17:45.210" style="s2">förderschulen gute wenn nicht sogar die</p>
+<p begin="00:17:43.590" end="00:17:48.000" style="s2">besten bedingungen im vergleich zu den</p>
+<p begin="00:17:45.210" end="00:17:49.470" style="s2">bedingungen anderer staaten vor deswegen</p>
+<p begin="00:17:48.000" end="00:17:51.060" style="s2">wollen wir ich kann es nur wieder</p>
+<p begin="00:17:49.470" end="00:17:52.480" style="s2">betonen als<span style="s4"> auch</span><span style="s3"> die</span> förderschulen</p>
+<p begin="00:17:51.060" end="00:17:54.130" style="s2">erhalten und inklusion</p>
+<p begin="00:17:52.480" end="00:17:55.660" style="s2"><span style="s3">nur</span> an speziellen<span style="s4"> schwerpunkt schulen</span></p>
+<p begin="00:17:54.130" end="00:17:57.669" style="s2">ermöglichen<span style="s3"> die</span><span style="s4"> dann eben auch</span></p>
+<p begin="00:17:55.660" end="00:17:59.700" style="s2"><span style="s3">personelle</span> und<span style="s3"> sächliche so ausgestattet</span></p>
+<p begin="00:17:57.669" end="00:18:01.480" style="s2">sein müssen dass es klappt</p>
+<p begin="00:17:59.700" end="00:18:03.160" style="s2">selbstverständlich ist der erhalt der</p>
+<p begin="00:18:01.480" end="00:18:05.559" style="s2">förderschulen eine maßnahme die von der</p>
+<p begin="00:18:03.160" end="00:18:07.360" style="s2">forderung<span style="s4"> dass</span><span style="s3"> der</span><span style="s4"> un</span></p>
+<p begin="00:18:05.559" end="00:18:09.070" style="s2"><span style="s4">behindertenrechtskonvention</span> dass kinder</p>
+<p begin="00:18:07.360" end="00:18:10.780" style="s2">die mit einer behinderung leben an</p>
+<p begin="00:18:09.070" end="00:18:12.760" style="s2">bildung teilhaben sollen gedeckt ist</p>
+<p begin="00:18:10.780" end="00:18:14.110" style="s2">selbstverständlich werden kinder die an</p>
+<p begin="00:18:12.760" end="00:18:15.540" style="s2">einer förderschule lernen und dazu</p>
+<p begin="00:18:14.110" end="00:18:17.890" style="s2">befähigt werden ihr leben möglichst</p>
+<p begin="00:18:15.540" end="00:18:19.630" style="s2">selbstbestimmt und bei bedarf möglichst</p>
+<p begin="00:18:17.890" end="00:18:22.540" style="s2">gut mit unterstützung zu meistern in</p>
+<p begin="00:18:19.630" end="00:18:23.830" style="s2"><span style="s3">unsere</span> gesellschaft integriert<span style="s3"> genauso</span></p>
+<p begin="00:18:22.540" end="00:18:25.360" style="s2">selbstverständlich kann man an dieser</p>
+<p begin="00:18:23.830" end="00:18:27.429" style="s2">stelle fragen ob wir als gesellschaft</p>
+<p begin="00:18:25.360" end="00:18:29.320" style="s2">hier noch mehr leisten können und diese</p>
+<p begin="00:18:27.429" end="00:18:31.570" style="s2"><span style="s4">diskussion wollen wir als afd</span> gerne</p>
+<p begin="00:18:29.320" end="00:18:34.030" style="s2">führen was wir aber nicht tun wollen ist</p>
+<p begin="00:18:31.570" end="00:18:36.250" style="s2">inklusion zu einer<span style="s4"> ala</span><span style="s3"> über allem</span></p>
+<p begin="00:18:34.030" end="00:18:38.140" style="s2"><span style="s3">stehende</span><span style="s4"> gesellschaft</span> doktrin zu erheben</p>
+<p begin="00:18:36.250" end="00:18:40.570" style="s2">die als solche nicht mehr hinterfragt</p>
+<p begin="00:18:38.140" end="00:18:42.850" style="s2">werden darf und damit<span style="s3"> komme</span> ich zu der</p>
+<p begin="00:18:40.570" end="00:18:44.950" style="s2">in ihrem antrag aufgeworfenen frage wie</p>
+<p begin="00:18:42.850" end="00:18:45.429" style="s2">inklusion überhaupt realisiert werden</p>
+<p begin="00:18:44.950" end="00:18:47.290" style="s2">sollen</p>
+<p begin="00:18:45.429" end="00:18:49.540" style="s2">ich finde es erstaunlich dass ihnen</p>
+<p begin="00:18:47.290" end="00:18:51.640" style="s2">diese frage hat<span style="s3"> jetzt</span><span style="s4"> anfällt</span> sie</p>
+<p begin="00:18:49.540" end="00:18:54.580" style="s2">reagieren seit sie regieren seit vier</p>
+<p begin="00:18:51.640" end="00:18:56.169" style="s2">jahren installieren mit der mit der</p>
+<p begin="00:18:54.580" end="00:18:58.030" style="s2">angesichts des großen<span style="s4"> widerstandes</span></p>
+<p begin="00:18:56.169" end="00:19:00.309" style="s2"><span style="s4">größtmöglichen</span> geschwindigkeit ein</p>
+<p begin="00:18:58.030" end="00:19:02.020" style="s2">inklusives schulsystem<span style="s4"> und</span><span style="s3"> mittendrin</span></p>
+<p begin="00:19:00.309" end="00:19:03.820" style="s2">merken sie dann plötzlich dass es vorne</p>
+<p begin="00:19:02.020" end="00:19:05.380" style="s2">und hinten nicht funktioniert dass das</p>
+<p begin="00:19:03.820" end="00:19:06.730" style="s2">kind in den brunnen fällt und sie fragen</p>
+<p begin="00:19:05.380" end="00:19:08.169" style="s2">sich wie überhaupt die</p>
+<p begin="00:19:06.730" end="00:19:09.790" style="s2">grundvoraussetzung für das was sie</p>
+<p begin="00:19:08.169" end="00:19:10.510" style="s2">längst in gang gesetzt haben geschaffen</p>
+<p begin="00:19:09.790" end="00:19:12.190" style="s2">werden sollen</p>
+<p begin="00:19:10.510" end="00:19:13.660" style="s2">in diesem zusammenhang soll die</p>
+<p begin="00:19:12.190" end="00:19:16.470" style="s2">landesregierung laut ihrem antrag</p>
+<p begin="00:19:13.660" end="00:19:18.370" style="s2">maßnahmen aufzeigen wie sie ich zitiere</p>
+<p begin="00:19:16.470" end="00:19:20.140" style="s2">zukünftig sonderpädagogisch</p>
+<p begin="00:19:18.370" end="00:19:22.090" style="s2">qualifiziertes personal für thüringer</p>
+<p begin="00:19:20.140" end="00:19:24.580" style="s2">schulen gewinnen und vorhalten will</p>
+<p begin="00:19:22.090" end="00:19:26.500" style="s2">das ist in der tat eine interessante</p>
+<p begin="00:19:24.580" end="00:19:27.850" style="s2">frage da<span style="s4"> es</span><span style="s3"> der</span> landesregierung<span style="s4"> noch</span></p>
+<p begin="00:19:26.500" end="00:19:29.799" style="s2">nicht einmal gelingt überhaupt</p>
+<p begin="00:19:27.850" end="00:19:31.600" style="s2">ausreichend lehrer an<span style="s3"> unsere</span><span style="s4"> schule</span><span style="s3"> zu</span></p>
+<p begin="00:19:29.799" end="00:19:33.820" style="s2">bringen um den regulären unterricht zu</p>
+<p begin="00:19:31.600" end="00:19:35.530" style="s2">gewährleisten dass die<span style="s4"> schule</span><span style="s3"> dass</span> sie</p>
+<p begin="00:19:33.820" end="00:19:37.750" style="s2"><span style="s3">die</span> schulen dann auch noch umfassend mit</p>
+<p begin="00:19:35.530" end="00:19:39.790" style="s2">der inklusion überfordern das zeigt dass</p>
+<p begin="00:19:37.750" end="00:19:41.650" style="s2">sie als koalition mit ihren</p>
+<p begin="00:19:39.790" end="00:19:44.020" style="s2">vorstellungen von inklusion auf dem weg</p>
+<p begin="00:19:41.650" end="00:19:45.549" style="s2">nach utopia sind<span style="s3"> ihr</span> antrag geht</p>
+<p begin="00:19:44.020" end="00:19:47.410" style="s2">komplett an den bedürfnissen von kindern</p>
+<p begin="00:19:45.549" end="00:19:49.510" style="s2">die mit einer behinderung leben vorbei</p>
+<p begin="00:19:47.410" end="00:19:50.470" style="s2"><span style="s3">und deswegen das sage ich ihnen schon</span></p>
+<p begin="00:19:49.510" end="00:19:52.450" style="s2"><span style="s3">lehnen</span> wir ihn ab</p>
+<p begin="00:19:50.470" end="00:19:55.640" style="s2">herzlichen dank herr<span style="s3"> hartung</span> wenn sie</p>
+<p begin="00:19:52.450" end="00:19:58.670" style="s2">noch wollen<span style="s3"> verantwortlichen fragen</span></p>
+<p begin="00:19:55.640" end="00:20:00.740" style="s2"><span style="s3">hat irgendwer jetzt</span> das wort<span style="s3"> ja</span> vielen</p>
+<p begin="00:19:58.670" end="00:20:03.280" style="s2"><span style="s4">dank</span> dass die frage stellen darf würden</p>
+<p begin="00:20:00.740" end="00:20:03.280" style="s2">sie bitte zur kenntnis</p>
+</div>
+</body>
+</tt>

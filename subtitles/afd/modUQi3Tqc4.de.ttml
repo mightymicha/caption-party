@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.469" end="00:00:07.680" style="s2"><span style="s3">für</span> präsident<span style="s4"> sehr</span><span style="s3"> geehrte</span> abgeordnete</p>
+<p begin="00:00:03.770" end="00:00:10.190" style="s2">der vorliegende antrag der<span style="s4"> afg</span> fordert</p>
+<p begin="00:00:07.680" end="00:00:12.990" style="s2">eine selbstverständlichkeit wir wollen</p>
+<p begin="00:00:10.190" end="00:00:15.389" style="s2"><span style="s4">dass</span> die grundsatzfragen der deutschen</p>
+<p begin="00:00:12.990" end="00:00:18.869" style="s2"><span style="s3">sicherheits-</span> und verteidigungspolitik</p>
+<p begin="00:00:15.389" end="00:00:22.010" style="s2">hier im bundestag debattiert werden</p>
+<p begin="00:00:18.869" end="00:00:25.109" style="s2">meine damen und herren der deutschen</p>
+<p begin="00:00:22.010" end="00:00:28.529" style="s2">sicherheitspolitik fehlt seit dem ende</p>
+<p begin="00:00:25.109" end="00:00:31.369" style="s2">des kalten krieges der kompass die</p>
+<p begin="00:00:28.529" end="00:00:35.010" style="s2">regierung der letzten<span style="s4"> drei</span> jahrzehnte</p>
+<p begin="00:00:31.369" end="00:00:37.739" style="s2">haben es nicht geschafft<span style="s4"> deutschlands</span></p>
+<p begin="00:00:35.010" end="00:00:41.629" style="s2">interessen in der welt ausreichend zu</p>
+<p begin="00:00:37.739" end="00:00:44.550" style="s2">definieren<span style="s4"> meistens</span> unter dem verweis</p>
+<p begin="00:00:41.629" end="00:00:48.570" style="s2">auf deutschlands historische hypothek</p>
+<p begin="00:00:44.550" end="00:00:53.250" style="s2">den zweiten weltkrieg und<span style="s3"> dem</span> holocaust</p>
+<p begin="00:00:48.570" end="00:00:55.710" style="s2">doch dieser dieser verweis ist<span style="s3"> zu</span><span style="s4"> faulen</span></p>
+<p begin="00:00:53.250" end="00:00:58.289" style="s2"><span style="s4">ausrede</span> verkommen<span style="s3"> die</span><span style="s4"> regierung</span></p>
+<p begin="00:00:55.710" end="00:01:01.399" style="s2">versteckt sich dahinter und flüchtet sie</p>
+<p begin="00:00:58.289" end="00:01:04.519" style="s2">stattdessen in untaugliche</p>
+<p begin="00:01:01.399" end="00:01:06.650" style="s2">allgemeinplätze einer<span style="s3"> sogenannten</span></p>
+<p begin="00:01:04.519" end="00:01:09.510" style="s2">friedenspolitik aber diese</p>
+<p begin="00:01:06.650" end="00:01:12.630" style="s2">friedenspolitik ist in wahrheit gar</p>
+<p begin="00:01:09.510" end="00:01:15.750" style="s2">keine politik es ist nur eine vulgäre</p>
+<p begin="00:01:12.630" end="00:01:19.890" style="s2">art des pazifismus bei dem es am ende</p>
+<p begin="00:01:15.750" end="00:01:23.390" style="s2">egal ist ob menschen sterben oder nicht</p>
+<p begin="00:01:19.890" end="00:01:25.290" style="s2">hauptsache die politisch handelnden</p>
+<p begin="00:01:23.390" end="00:01:29.180" style="s2">fühlen sich rein</p>
+<p begin="00:01:25.290" end="00:01:32.700" style="s2">doch das ist eine illusion<span style="s4"> die</span> deutsche</p>
+<p begin="00:01:29.180" end="00:01:36.390" style="s2">verweigerung macht schuldig schuldig</p>
+<p begin="00:01:32.700" end="00:01:38.909" style="s2">durch nichthandeln<span style="s4"> im</span> ausland werden die</p>
+<p begin="00:01:36.390" end="00:01:42.479" style="s2">deutschen<span style="s3"> ausreden</span> schon lange nicht</p>
+<p begin="00:01:38.909" end="00:01:45.119" style="s2">mehr akzeptiert wenn nicht die wenn ich</p>
+<p begin="00:01:42.479" end="00:01:47.850" style="s2">die deutsche vergangenheit als ausrede</p>
+<p begin="00:01:45.119" end="00:01:52.530" style="s2"><span style="s4">missbraucht</span> wird dann flüchtet sich die</p>
+<p begin="00:01:47.850" end="00:01:53.250" style="s2">regierung in ein imaginäres europäisches</p>
+<p begin="00:01:52.530" end="00:01:55.860" style="s2">interesse</p>
+<p begin="00:01:53.250" end="00:01:59.250" style="s2">ein solches existiert weder in</p>
+<p begin="00:01:55.860" end="00:02:00.390" style="s2">frankreich noch in großbritannien noch</p>
+<p begin="00:01:59.250" end="00:02:03.170" style="s2">in italien</p>
+<p begin="00:02:00.390" end="00:02:06.530" style="s2"><span style="s4">es</span> ist existiert nirgendwo</p>
+<p begin="00:02:03.170" end="00:02:08.959" style="s2">aber die regierung nutzt diese illusion</p>
+<p begin="00:02:06.530" end="00:02:12.170" style="s2">um nicht liefern zu müssen</p>
+<p begin="00:02:08.959" end="00:02:15.910" style="s2">der lieblingssatz<span style="s3"> deutsche außenminister</span></p>
+<p begin="00:02:12.170" end="00:02:18.010" style="s2">lautet das muss auf europäischer ebene</p>
+<p begin="00:02:15.910" end="00:02:20.510" style="s2">beschlossen werden</p>
+<p begin="00:02:18.010" end="00:02:21.980" style="s2">das muss auf europäischer ebene</p>
+<p begin="00:02:20.510" end="00:02:25.700" style="s2">beschlossen werden</p>
+<p begin="00:02:21.980" end="00:02:28.220" style="s2">es ist das synonym für jetzt passiert</p>
+<p begin="00:02:25.700" end="00:02:29.959" style="s2">lange nichts und deutschland hat keine</p>
+<p begin="00:02:28.220" end="00:02:35.870" style="s2">eigene position</p>
+<p begin="00:02:29.959" end="00:02:38.450" style="s2">das muss sich ändern deutsche deutsche</p>
+<p begin="00:02:35.870" end="00:02:41.630" style="s2">sicherheitspolitik gehört aus zweierlei</p>
+<p begin="00:02:38.450" end="00:02:44.830" style="s2">gründen hier ins plenum</p>
+<p begin="00:02:41.630" end="00:02:47.989" style="s2">zum einen sind<span style="s3"> sicherheitspolitische</span></p>
+<p begin="00:02:44.830" end="00:02:50.830" style="s2">entscheidung in letzter konsequenz auch</p>
+<p begin="00:02:47.989" end="00:02:53.780" style="s2">immer<span style="s3"> entscheidung</span> über<span style="s4"> leben</span> und tod</p>
+<p begin="00:02:50.830" end="00:02:55.940" style="s2">nicht über das leben und tod der</p>
+<p begin="00:02:53.780" end="00:02:59.060" style="s2"><span style="s3">entscheider</span><span style="s4"> sondern</span> über das leben und</p>
+<p begin="00:02:55.940" end="00:03:00.500" style="s2"><span style="s3">den tod</span><span style="s4"> junger</span> männer und frauen die</p>
+<p begin="00:02:59.060" end="00:03:01.640" style="s2">etwa ihren dienst in den streitkräften</p>
+<p begin="00:03:00.500" end="00:03:03.940" style="s2"><span style="s4">tun</span></p>
+<p begin="00:03:01.640" end="00:03:07.280" style="s2">ein parlament<span style="s4"> das sich der</span> debatte</p>
+<p begin="00:03:03.940" end="00:03:09.769" style="s2">verweigert warum seine soldaten ihr</p>
+<p begin="00:03:07.280" end="00:03:16.910" style="s2">leben geben ist eine schande</p>
+<p begin="00:03:09.769" end="00:03:19.340" style="s2">der zweite der zweite grund der zweite</p>
+<p begin="00:03:16.910" end="00:03:24.890" style="s2">grund hat weniger mit anstand zu tun</p>
+<p begin="00:03:19.340" end="00:03:26.840" style="s2">denn mit handlungssicherheit<span style="s3"> hier</span> legen</p>
+<p begin="00:03:24.890" end="00:03:30.160" style="s2">sich die richtigen auf nur wenn die</p>
+<p begin="00:03:26.840" end="00:03:33.380" style="s2">strategische ausrichtung der deutschen</p>
+<p begin="00:03:30.160" end="00:03:36.290" style="s2"><span style="s3">sicherheits-</span> und verteidigungspolitik</p>
+<p begin="00:03:33.380" end="00:03:39.260" style="s2">definiert ist kann das operative</p>
+<p begin="00:03:36.290" end="00:03:41.859" style="s2">tagesgeschäft von<span style="s3"> der</span> regierung und</p>
+<p begin="00:03:39.260" end="00:03:44.720" style="s2">parlament gelingen<span style="s4"> da</span> die regierung</p>
+<p begin="00:03:41.859" end="00:03:47.030" style="s2">diese basis nie geschafft wird schaffen</p>
+<p begin="00:03:44.720" end="00:03:50.299" style="s2">hat<span style="s4"> stochert</span> sie auch bei allen</p>
+<p begin="00:03:47.030" end="00:03:51.620" style="s2">nachgeordneten entscheidungen im nebel</p>
+<p begin="00:03:50.299" end="00:03:53.840" style="s2">einige beispiele</p>
+<p begin="00:03:51.620" end="00:03:56.239" style="s2">weil die bundesregierung nie definiert</p>
+<p begin="00:03:53.840" end="00:03:58.310" style="s2">definiert hat was deutschlands</p>
+<p begin="00:03:56.239" end="00:04:01.459" style="s2">interessen im nördlichen afrika sind</p>
+<p begin="00:03:58.310" end="00:04:03.709" style="s2">kann sie bis heute auch keine tragfähige</p>
+<p begin="00:04:01.459" end="00:04:05.870" style="s2">strategie für den einsatz der bundeswehr</p>
+<p begin="00:04:03.709" end="00:04:07.710" style="s2">in<span style="s4"> mali</span> vorlegen weil die</p>
+<p begin="00:04:05.870" end="00:04:10.440" style="s2">bundesregierung<span style="s4"> nicht</span> sagen<span style="s4"> will</span></p>
+<p begin="00:04:07.710" end="00:04:12.720" style="s2"><span style="s3">dass</span> es im<span style="s4"> deutschen</span> interesse liegt die</p>
+<p begin="00:04:10.440" end="00:04:15.780" style="s2">fluchtrouten bereits südlich der sahara</p>
+<p begin="00:04:12.720" end="00:04:18.780" style="s2">abzuriegeln<span style="s4"> kann</span> sie der bundeswehr kein</p>
+<p begin="00:04:15.780" end="00:04:21.030" style="s2">robustes mandat geben um schleuserbanden</p>
+<p begin="00:04:18.780" end="00:04:23.280" style="s2">zu kämpfen<span style="s4"> die</span> folge weder die</p>
+<p begin="00:04:21.030" end="00:04:26.220" style="s2">bevölkerung noch die truppen wissen</p>
+<p begin="00:04:23.280" end="00:04:28.910" style="s2">eigentlich warum die bundeswehr in mali</p>
+<p begin="00:04:26.220" end="00:04:31.560" style="s2">ist ein solcher einsatz ist sinnlos</p>
+<p begin="00:04:28.910" end="00:04:35.300" style="s2">nächstes beispiel weil die</p>
+<p begin="00:04:31.560" end="00:04:39.800" style="s2">bundesregierung den konflikt<span style="s3"> in</span><span style="s4"> syrien</span></p>
+<p begin="00:04:35.300" end="00:04:42.810" style="s2"><span style="s4">den</span> konflikt um syrien aus</p>
+<p begin="00:04:39.800" end="00:04:45.000" style="s2">innenpolitischer gefallsucht beurteilt</p>
+<p begin="00:04:42.810" end="00:04:47.160" style="s2">hat sie nichts zur beendigung des</p>
+<p begin="00:04:45.000" end="00:04:50.760" style="s2">furchtbaren krieges beigetragen</p>
+<p begin="00:04:47.160" end="00:04:53.850" style="s2">im gegenteil<span style="s3"> die</span> bundesregierung<span style="s4"> gab</span><span style="s3"> vor</span></p>
+<p begin="00:04:50.760" end="00:04:57.150" style="s2"><span style="s3">jahren</span> die parole heraus assad muss weg</p>
+<p begin="00:04:53.850" end="00:05:00.360" style="s2">das war alles ohne eine alternative zu</p>
+<p begin="00:04:57.150" end="00:05:02.910" style="s2">benennen ohne eigenes engagement<span style="s4"> ohne</span></p>
+<p begin="00:05:00.360" end="00:05:06.000" style="s2">einen plan das ist keine außenpolitik</p>
+<p begin="00:05:02.910" end="00:05:12.000" style="s2">das ist gesinnungs politik man könnte</p>
+<p begin="00:05:06.000" end="00:05:15.150" style="s2">auch sagen ideologie richtig wäre</p>
+<p begin="00:05:12.000" end="00:05:18.120" style="s2"><span style="s3">gewesen</span> deutschlands interesse an</p>
+<p begin="00:05:15.150" end="00:05:21.150" style="s2">stabilität in dieser region klar zu</p>
+<p begin="00:05:18.120" end="00:05:22.710" style="s2">formulieren und danach das handeln</p>
+<p begin="00:05:21.150" end="00:05:25.800" style="s2">auszurichten</p>
+<p begin="00:05:22.710" end="00:05:27.290" style="s2">denn ohne stabilität wird es auch keinen</p>
+<p begin="00:05:25.800" end="00:05:31.350" style="s2">frieden geben</p>
+<p begin="00:05:27.290" end="00:05:33.930" style="s2">nur so funktioniert<span style="s4"> realpolitik</span> daran</p>
+<p begin="00:05:31.350" end="00:05:35.610" style="s2">können sich deutsche diplomaten und</p>
+<p begin="00:05:33.930" end="00:05:39.480" style="s2"><span style="s4">militärs</span> klar orientieren</p>
+<p begin="00:05:35.610" end="00:05:42.510" style="s2">der wunsch der bloße wunsch ein diktator</p>
+<p begin="00:05:39.480" end="00:05:46.290" style="s2">möge verschwinden ohne zu sagen was</p>
+<p begin="00:05:42.510" end="00:05:50.700" style="s2">danach kommt ist der stärksten nation in</p>
+<p begin="00:05:46.290" end="00:05:54.080" style="s2">europa unwürdig<span style="s4"> ein</span> letztes</p>
+<p begin="00:05:50.700" end="00:05:55.700" style="s2"><span style="s3">ein</span> letztes<span style="s3"> beispiel</span><span style="s4"> die</span> deutsche</p>
+<p begin="00:05:54.080" end="00:05:58.910" style="s2">wehrtechnische industrie</p>
+<p begin="00:05:55.700" end="00:06:01.230" style="s2">was ist das strategische ziel</p>
+<p begin="00:05:58.910" end="00:06:03.930" style="s2">deutschlands wir wissen<span style="s4"> es</span> nicht</p>
+<p begin="00:06:01.230" end="00:06:08.600" style="s2">welche<span style="s3"> schlüsseltechnologien</span><span style="s4"> wollen</span> wir</p>
+<p begin="00:06:03.930" end="00:06:08.600" style="s2">rein national vorhalten</p>
+<p begin="00:06:11.300" end="00:06:16.070" style="s2">welche<span style="s4"> schlüsseltechnologien</span> wollen wir</p>
+<p begin="00:06:13.740" end="00:06:18.660" style="s2">rein national vorhalten welche</p>
+<p begin="00:06:16.070" end="00:06:20.760" style="s2"><span style="s4">exportquote</span> brauchen wir um das zu</p>
+<p begin="00:06:18.660" end="00:06:22.980" style="s2">erreichen welche aus<span style="s3"> mit</span></p>
+<p begin="00:06:20.760" end="00:06:24.680" style="s2">sicherheitspolitischen<span style="s3"> interessen fed</span></p>
+<p begin="00:06:22.980" end="00:06:27.810" style="s2"><span style="s3">dort</span> folgt deutschland mit</p>
+<p begin="00:06:24.680" end="00:06:30.780" style="s2">rüstungsexporten und an welche</p>
+<p begin="00:06:27.810" end="00:06:34.770" style="s2">bedingungen knüpfen wir diese exporte</p>
+<p begin="00:06:30.780" end="00:06:37.590" style="s2">alles fragen<span style="s3"> die</span> in diesem parlament<span style="s4"> die</span></p>
+<p begin="00:06:34.770" end="00:06:38.820" style="s2"><span style="s4">debattiert</span> wurden<span style="s4"> und</span> deshalb auch nie</p>
+<p begin="00:06:37.590" end="00:06:42.570" style="s2">beschlossen worden</p>
+<p begin="00:06:38.820" end="00:06:45.900" style="s2">aus<span style="s4"> dieser</span> mangel an offenheit und</p>
+<p begin="00:06:42.570" end="00:06:49.110" style="s2"><span style="s3">demokratischer</span> debattenkultur<span style="s4"> entsteht</span></p>
+<p begin="00:06:45.900" end="00:06:51.470" style="s2"><span style="s3">handlungs</span> unsicherheit aus<span style="s3"> handlungs</span></p>
+<p begin="00:06:49.110" end="00:06:52.680" style="s2">unsicherheit entsteht deutsche</p>
+<p begin="00:06:51.470" end="00:06:54.870" style="s2">unzuverlässigkeit</p>
+<p begin="00:06:52.680" end="00:06:59.640" style="s2">meine damen<span style="s3"> und</span> herren es reicht nicht</p>
+<p begin="00:06:54.870" end="00:07:03.360" style="s2">mit dem finger des moralisten auf die</p>
+<p begin="00:06:59.640" end="00:07:05.760" style="s2">usa zu zeigen die unzuverlässigkeit in</p>
+<p begin="00:07:03.360" end="00:07:10.260" style="s2">bündnisfragen ist eine deutsche</p>
+<p begin="00:07:05.760" end="00:07:12.630" style="s2">erfindung<span style="s4"> wozu</span><span style="s3"> der held wozu der hält</span></p>
+<p begin="00:07:10.260" end="00:07:13.920" style="s2">die bundesrepublik<span style="s4"> deutschland strikt</span></p>
+<p begin="00:07:12.630" end="00:07:16.710" style="s2">streitkräfte<span style="s3"> ein</span></p>
+<p begin="00:07:13.920" end="00:07:20.310" style="s2">für sich eine simple frage<span style="s3"> sie</span> ist<span style="s3"> aber</span></p>
+<p begin="00:07:16.710" end="00:07:21.440" style="s2">seit 1990 nicht mehr ausreichend</p>
+<p begin="00:07:20.310" end="00:07:24.930" style="s2">beantwortet worden</p>
+<p begin="00:07:21.440" end="00:07:27.180" style="s2">streitkräfte<span style="s3"> sollen</span> uns verteidigen und</p>
+<p begin="00:07:24.930" end="00:07:28.530" style="s2">unsere interessen<span style="s4"> zur</span> not auch mit</p>
+<p begin="00:07:27.180" end="00:07:31.260" style="s2">gewalt durchsetzen</p>
+<p begin="00:07:28.530" end="00:07:34.650" style="s2">genau das sagte der britische</p>
+<p begin="00:07:31.260" end="00:07:37.080" style="s2">verteidigungsminister<span style="s4"> für</span> sein land am</p>
+<p begin="00:07:34.650" end="00:07:40.800" style="s2">montag in einer rede am royal united</p>
+<p begin="00:07:37.080" end="00:07:42.300" style="s2">services institute<span style="s3"> einer</span> unabhängigen</p>
+<p begin="00:07:40.800" end="00:07:45.500" style="s2">denkfabrik für verteidigung und</p>
+<p begin="00:07:42.300" end="00:07:48.570" style="s2">sicherheit<span style="s3"> ja</span> die briten haben so etwas</p>
+<p begin="00:07:45.500" end="00:07:51.390" style="s2">und noch etwas<span style="s4"> haben</span> die briten eine</p>
+<p begin="00:07:48.570" end="00:07:54.050" style="s2">breite öffentliche debatte darüber</p>
+<p begin="00:07:51.390" end="00:07:56.250" style="s2">wann gab es das<span style="s3"> jede deutschland</span></p>
+<p begin="00:07:54.050" end="00:07:58.560" style="s2">deutschland ist heute nicht mehr zur</p>
+<p begin="00:07:56.250" end="00:08:01.470" style="s2">verteidigung befähigt<span style="s3"> wer</span><span style="s4"> zur</span></p>
+<p begin="00:07:58.560" end="00:08:02.670" style="s2">landesverteidigung noch im bündnis diese</p>
+<p begin="00:08:01.470" end="00:08:05.490" style="s2">tatsache allein</p>
+<p begin="00:08:02.670" end="00:08:06.600" style="s2"><span style="s3">sollten dem bundestag nicht mehr zur</span></p>
+<p begin="00:08:05.490" end="00:08:08.520" style="s2">ruhe kommen lassen</p>
+<p begin="00:08:06.600" end="00:08:12.360" style="s2"><span style="s3">doch</span> was<span style="s4"> was</span> macht die bundeskanzlerin</p>
+<p begin="00:08:08.520" end="00:08:15.030" style="s2"><span style="s3">sie</span> schweigt als ob sie mit diesem</p>
+<p begin="00:08:12.360" end="00:08:18.780" style="s2">unhaltbaren zustand nichts zu tun habe</p>
+<p begin="00:08:15.030" end="00:08:21.660" style="s2">das ist nicht akzeptabel und das</p>
+<p begin="00:08:18.780" end="00:08:22.970" style="s2">parlament sollte sie zwingen sich zu</p>
+<p begin="00:08:21.660" end="00:08:25.400" style="s2">erklären</p>
+<p begin="00:08:22.970" end="00:08:26.580" style="s2">deutschland muss seine</p>
+<p begin="00:08:25.400" end="00:08:27.660" style="s2">sicherheitspolitischen interessen</p>
+<p begin="00:08:26.580" end="00:08:30.810" style="s2">definieren</p>
+<p begin="00:08:27.660" end="00:08:33.270" style="s2">vorher muss das<span style="s4"> höchste</span> verfassungsorgan</p>
+<p begin="00:08:30.810" end="00:08:35.700" style="s2">darüber streiten danach muss die</p>
+<p begin="00:08:33.270" end="00:08:37.370" style="s2">gesellschaft darüber streiten streit</p>
+<p begin="00:08:35.700" end="00:08:39.720" style="s2">gehört zur demokratie</p>
+<p begin="00:08:37.370" end="00:08:42.630" style="s2">morgen beginnt in münchen die</p>
+<p begin="00:08:39.720" end="00:08:43.740" style="s2">sicherheitskonferenz<span style="s4"> deutschland</span> ist</p>
+<p begin="00:08:42.630" end="00:08:45.900" style="s2"><span style="s3">dass es in diesem schluss kommt</span></p>
+<p begin="00:08:43.740" end="00:08:48.950" style="s2"><span style="s3">deutschland</span> sollte aber auch teilnehmer</p>
+<p begin="00:08:45.900" end="00:08:50.780" style="s2"><span style="s4">sein</span><span style="s3"> dass</span> jetzt<span style="s4"> voraus</span> die eigene</p>
+<p begin="00:08:48.950" end="00:08:54.210" style="s2"><span style="s4">sicherheitspolitische</span> position zu</p>
+<p begin="00:08:50.780" end="00:08:58.700" style="s2"><span style="s4">definieren</span> es gibt nur einen ort das zu</p>
+<p begin="00:08:54.210" end="00:08:58.700" style="s2">tun das ist der deutsche bundestag<span style="s3"> danke</span></p>
+<p begin="00:08:59.360" end="00:09:07.070" style="s2">jetzt<span style="s3"> kanal</span> abonnieren und nicht</p>
+<p begin="00:09:02.310" end="00:09:07.070" style="s2">vergessen<span style="s3"> wenn</span><span style="s4"> nach</span> richtigen aktivieren</p>
+</div>
+</body>
+</tt>

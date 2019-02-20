@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:03.380" end="00:00:08.460" style="s2"><span style="s3">ganz</span> deutschland mein name ist<span style="s3"> max</span> vogel</p>
+<p begin="00:00:06.480" end="00:00:11.400" style="s2">ich bin hier abgeordneter im landtag<span style="s3"> mit</span></p>
+<p begin="00:00:08.460" end="00:00:12.660" style="s2"><span style="s3">der source</span><span style="s4"> sind</span> verkehr und inneres und</p>
+<p begin="00:00:11.400" end="00:00:13.679" style="s2">ich<span style="s4"> mach</span> die<span style="s3"> pos</span><span style="s4"> die</span></p>
+<p begin="00:00:12.660" end="00:00:14.880" style="s2">untersuchungsausschüsse</p>
+<p begin="00:00:13.679" end="00:00:16.590" style="s2">da bin ich<span style="s4"> aber</span> schon<span style="s3"> darauf</span> vorbereitet</p>
+<p begin="00:00:14.880" end="00:00:18.170" style="s2"><span style="s3">jetzt</span> geht es darum dass wir uns hier</p>
+<p begin="00:00:16.590" end="00:00:20.580" style="s2">für<span style="s3"> das plenum</span><span style="s4"> vorbereiten</span></p>
+<p begin="00:00:18.170" end="00:00:22.830" style="s2"><span style="s4">unsere</span> tagesordnungspunkte unsere<span style="s3"> regel</span></p>
+<p begin="00:00:20.580" end="00:00:26.010" style="s2">beiträge beziehungsweise<span style="s3"> meine</span> in diesem</p>
+<p begin="00:00:22.830" end="00:00:27.630" style="s2">fall und da<span style="s3"> mag</span><span style="s4"> ich</span> euch beide jetzt</p>
+<p begin="00:00:26.010" end="00:00:30.060" style="s2">noch bitten irgendwie<span style="s4"> helft</span> mir<span style="s3"> nochmal</span></p>
+<p begin="00:00:27.630" end="00:00:32.790" style="s2">bei der recherche bei<span style="s4"> ihr möchte ich bei</span></p>
+<p begin="00:00:30.060" end="00:00:36.149" style="s2">den alltagsgegenständen<span style="s4"> mal</span><span style="s3"> noch mal die</span></p>
+<p begin="00:00:32.790" end="00:00:38.160" style="s2">werte haben<span style="s4"> das</span> heißt<span style="s4"> von</span> von<span style="s4"> gas</span><span style="s3"> härten</span></p>
+<p begin="00:00:36.149" end="00:00:40.260" style="s2"><span style="s3">des</span><span style="s4"> kerzen</span> was<span style="s3"> hier</span> so einfällt was</p>
+<p begin="00:00:38.160" end="00:00:42.059" style="s2">jetzt<span style="s4"> feinstaub</span> produzenten sind und bei</p>
+<p begin="00:00:40.260" end="00:00:46.559" style="s2">dir machen<span style="s3"> das</span><span style="s4"> im</span><span style="s3"> größeren</span> stil</p>
+<p begin="00:00:42.059" end="00:00:49.530" style="s2">das<span style="s4"> heißt</span> landwirtschaft unwetter oder</p>
+<p begin="00:00:46.559" end="00:00:50.910" style="s2"><span style="s4">wie oder vulkanausbrüche wie es im buch</span></p>
+<p begin="00:00:49.530" end="00:00:53.670" style="s2">ist<span style="s3"> in die beteiligung bei der ganzen</span></p>
+<p begin="00:00:50.910" end="00:00:55.620" style="s2">sache<span style="s3"> jetzt</span><span style="s4"> einer</span> von 13 abgeordneten</p>
+<p begin="00:00:53.670" end="00:00:57.750" style="s2">also seid euch sicher dass in den</p>
+<p begin="00:00:55.620" end="00:01:01.289" style="s2">anderen büros jetzt gerade<span style="s3"> genau so gut</span></p>
+<p begin="00:00:57.750" end="00:01:03.769" style="s2"><span style="s3">wird</span> wie<span style="s3"> bei</span> uns<span style="s4"> und</span> ja ihr könnt uns</p>
+<p begin="00:01:01.289" end="00:01:06.600" style="s2">verfolgen<span style="s3"> auf facebook oder twitter und</span></p>
+<p begin="00:01:03.769" end="00:01:08.670" style="s2">schon<span style="s3"> längst</span> an den einstieg haben um zu</p>
+<p begin="00:01:06.600" end="00:01:10.890" style="s2">sehen welche<span style="s3"> tagesordnungspunkte</span> könnten</p>
+<p begin="00:01:08.670" end="00:01:13.110" style="s2">interessant vielleicht sein und<span style="s3"> dort</span></p>
+<p begin="00:01:10.890" end="00:01:15.920" style="s2"><span style="s4">mich sehr freuen wenn wir uns</span><span style="s3"> von</span><span style="s4"> diesem</span></p>
+<p begin="00:01:13.110" end="00:01:15.920" style="s2">wege<span style="s4"> wieder sehen</span></p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.140" end="00:00:07.170" style="s2">herr präsident liebe kollegen muss eine</p>
+<p begin="00:00:04.819" end="00:00:09.269" style="s2">kurze vorbereitung machen weil der</p>
+<p begin="00:00:07.170" end="00:00:11.790" style="s2">kollege<span style="s3"> hunko</span> hier von der linken jetzt</p>
+<p begin="00:00:09.269" end="00:00:13.469" style="s2">gerade zum thema menschenrechte sich</p>
+<p begin="00:00:11.790" end="00:00:17.430" style="s2"><span style="s4">geäußert</span> hat<span style="s3"> und es passt genau</span> zu</p>
+<p begin="00:00:13.469" end="00:00:20.070" style="s2">diesem thema<span style="s3"> peru co sie haben in einem</span></p>
+<p begin="00:00:17.430" end="00:00:24.330" style="s2"><span style="s3">twitter-beitrag</span> in menschenverachtender</p>
+<p begin="00:00:20.070" end="00:00:26.609" style="s2">weise den journalisten<span style="s3"> basics</span> schlecht</p>
+<p begin="00:00:24.330" end="00:00:28.980" style="s2">gemacht der im knast in venezuela<span style="s4"> sitzt</span></p>
+<p begin="00:00:26.609" end="00:00:30.960" style="s2"><span style="s4">sie</span> sollten<span style="s3"> sich</span> schämen<span style="s3"> hier</span> überhaupt</p>
+<p begin="00:00:28.980" end="00:00:31.769" style="s2">das wort zum thema menschenrechte zu</p>
+<p begin="00:00:30.960" end="00:00:33.719" style="s2">ergreifen</p>
+<p begin="00:00:31.769" end="00:00:35.489" style="s2">sie haben gesagt<span style="s4"> dass ein komfortabler</span></p>
+<p begin="00:00:33.719" end="00:00:37.950" style="s2">knast und sie haben sich auf die seite</p>
+<p begin="00:00:35.489" end="00:00:39.960" style="s2">ihrer kommunistischen genossen des</p>
+<p begin="00:00:37.950" end="00:00:40.920" style="s2">venezolanischen regimes gestellt in</p>
+<p begin="00:00:39.960" end="00:00:43.760" style="s2">ihrem twitter account</p>
+<p begin="00:00:40.920" end="00:00:46.950" style="s2">das geht nicht das ist abseits jeglicher</p>
+<p begin="00:00:43.760" end="00:00:48.420" style="s2">jeglicher menschlicher politik<span style="s4"> sorgt</span> so</p>
+<p begin="00:00:46.950" end="00:00:50.039" style="s2">können wir<span style="s4"> hier</span> nicht<span style="s3"> weiter arbeiten</span></p>
+<p begin="00:00:48.420" end="00:00:56.670" style="s2">meine damen<span style="s3"> und</span> herren<span style="s3"> das ist pure</span></p>
+<p begin="00:00:50.039" end="00:00:58.590" style="s2">heuchelei<span style="s4"> es</span> ist gut und wichtig dass</p>
+<p begin="00:00:56.670" end="00:01:00.059" style="s2">sich auch in unserem land eine</p>
+<p begin="00:00:58.590" end="00:01:02.879" style="s2">institution mit den menschenrechten</p>
+<p begin="00:01:00.059" end="00:01:04.530" style="s2">beschäftigt und nun liegen also gleich</p>
+<p begin="00:01:02.879" end="00:01:06.900" style="s2">mehrere<span style="s4"> jahresbericht des deutschen</span></p>
+<p begin="00:01:04.530" end="00:01:09.869" style="s2">instituts für menschenrechte vor vier</p>
+<p begin="00:01:06.900" end="00:01:12.210" style="s2"><span style="s4">dicken</span> packen<span style="s4"> papier besser wäre es aber</span></p>
+<p begin="00:01:09.869" end="00:01:14.509" style="s2">wenn sich diese berichte auch wirklich</p>
+<p begin="00:01:12.210" end="00:01:16.860" style="s2">mit den menschenrechtsverletzungen</p>
+<p begin="00:01:14.509" end="00:01:19.530" style="s2">beschäftigen würden in unserem lande</p>
+<p begin="00:01:16.860" end="00:01:22.650" style="s2">doch genau das tun diese berichte nicht</p>
+<p begin="00:01:19.530" end="00:01:25.070" style="s2">in angemessener form nichts lesen<span style="s4"> wir</span></p>
+<p begin="00:01:22.650" end="00:01:27.570" style="s2">zum beispiel von den massiven und oft</p>
+<p begin="00:01:25.070" end="00:01:29.430" style="s2">lebensbedrohlichen angriffen<span style="s4"> denen</span> sich</p>
+<p begin="00:01:27.570" end="00:01:30.930" style="s2"><span style="s3">christliche</span> asylbewerber hierzulande</p>
+<p begin="00:01:29.430" end="00:01:33.450" style="s2">ausgesetzt sehen</p>
+<p begin="00:01:30.930" end="00:01:36.270" style="s2">diese<span style="s4"> christentreffen hierzulande ihre</span></p>
+<p begin="00:01:33.450" end="00:01:38.130" style="s2">peiniger wieder<span style="s4"> unter sind moslems das</span></p>
+<p begin="00:01:36.270" end="00:01:40.409" style="s2">hilfswerk open doors hat darüber</p>
+<p begin="00:01:38.130" end="00:01:43.579" style="s2">informiert<span style="s4"> ohne folgen</span></p>
+<p begin="00:01:40.409" end="00:01:45.899" style="s2">über die realität in asylbewerberheimen</p>
+<p begin="00:01:43.579" end="00:01:48.720" style="s2">erfahren wir<span style="s3"> vom</span><span style="s4"> menschenrechts</span></p>
+<p begin="00:01:45.899" end="00:01:50.310" style="s2"><span style="s3">institute</span> also wenig lediglich das</p>
+<p begin="00:01:48.720" end="00:01:51.600" style="s2"><span style="s3">sogenannte</span> flüchtlinge angeblich zu</p>
+<p begin="00:01:50.310" end="00:01:52.890" style="s2">wenig geld erhalten</p>
+<p begin="00:01:51.600" end="00:01:54.659" style="s2"><span style="s4">und</span> das soll eine</p>
+<p begin="00:01:52.890" end="00:01:56.850" style="s2">menschenrechtsverletzung<span style="s4"> sein</span> meine</p>
+<p begin="00:01:54.659" end="00:01:58.549" style="s2">damen und herren<span style="s4"> das</span> menschenrecht auf</p>
+<p begin="00:01:56.850" end="00:02:01.649" style="s2">leben und körperliche unversehrtheit</p>
+<p begin="00:01:58.549" end="00:02:03.540" style="s2">kommt völlig zu kurz verbrechen an</p>
+<p begin="00:02:01.649" end="00:02:06.670" style="s2"><span style="s4">christen</span> und verbrechen an deutschen</p>
+<p begin="00:02:03.540" end="00:02:10.390" style="s2">werden verschwiegen</p>
+<p begin="00:02:06.670" end="00:02:12.069" style="s2">und was für themen<span style="s4"> und was wird dem</span></p>
+<p begin="00:02:10.390" end="00:02:13.599" style="s2">enthalten<span style="s4"> diese jahresberichte ansonsten</span></p>
+<p begin="00:02:12.069" end="00:02:15.430" style="s2">da geht es um das angebliche dritte</p>
+<p begin="00:02:13.599" end="00:02:17.230" style="s2">geschlechter geht es um<span style="s4"> waffenexporte</span></p>
+<p begin="00:02:15.430" end="00:02:18.819" style="s2">als wäre das deutsche institut für</p>
+<p begin="00:02:17.230" end="00:02:21.670" style="s2">menschenrechte nur ein stichwortgeber</p>
+<p begin="00:02:18.819" end="00:02:24.850" style="s2">für den menschenrechtsrat der vereinten</p>
+<p begin="00:02:21.670" end="00:02:26.830" style="s2">nationen wahrhaft<span style="s3"> verbindliche</span> länder in</p>
+<p begin="00:02:24.850" end="00:02:28.030" style="s2">sachen menschenrechte machen sich dort</p>
+<p begin="00:02:26.830" end="00:02:29.739" style="s2">über deutschland her</p>
+<p begin="00:02:28.030" end="00:02:32.230" style="s2">alle fünf jahre mal da bekommen wir dann</p>
+<p begin="00:02:29.739" end="00:02:34.690" style="s2">von china venezuela<span style="s4"> katar und</span></p>
+<p begin="00:02:32.230" end="00:02:36.640" style="s2">afghanistan die leviten gelesen wahrhaft</p>
+<p begin="00:02:34.690" end="00:02:40.750" style="s2">vorbildliche länder in sachen</p>
+<p begin="00:02:36.640" end="00:02:42.970" style="s2"><span style="s4">menschenrechte die jahresberichte</span> die</p>
+<p begin="00:02:40.750" end="00:02:44.440" style="s2">jahresberichte entlarven das institut im</p>
+<p begin="00:02:42.970" end="00:02:46.959" style="s2">ganzen als ideologisch<span style="s3"> geprägte</span></p>
+<p begin="00:02:44.440" end="00:02:48.430" style="s2">einrichtungen dieser<span style="s3"> rangehen</span><span style="s4"> weise</span> ist</p>
+<p begin="00:02:46.959" end="00:02:50.080" style="s2">weit entfernt von den menschenrechten</p>
+<p begin="00:02:48.430" end="00:02:52.299" style="s2">den klassischen freiheitsrechten den</p>
+<p begin="00:02:50.080" end="00:02:55.000" style="s2">schutzrechten<span style="s3"> im</span> jüngsten bericht dieses</p>
+<p begin="00:02:52.299" end="00:02:57.400" style="s2">instituts werden<span style="s4"> stattdessen</span> auf 145</p>
+<p begin="00:02:55.000" end="00:02:58.510" style="s2">seiten sozialer anrechte gefordert es</p>
+<p begin="00:02:57.400" end="00:03:00.580" style="s2"><span style="s3">wird</span> das demokratische gemeinwesen</p>
+<p begin="00:02:58.510" end="00:03:01.180" style="s2">deutschland verunglimpft und in zweifel</p>
+<p begin="00:03:00.580" end="00:03:03.549" style="s2">gezogen</p>
+<p begin="00:03:01.180" end="00:03:04.799" style="s2">es wird der eindruck erweckt als<span style="s3"> ließen</span></p>
+<p begin="00:03:03.549" end="00:03:06.610" style="s2"><span style="s4">sich</span><span style="s3"> mit</span><span style="s4"> hilfe sozialer</span></p>
+<p begin="00:03:04.799" end="00:03:08.709" style="s2">maximalforderungen eine<span style="s3"> links-grüne</span></p>
+<p begin="00:03:06.610" end="00:03:10.540" style="s2"><span style="s3">hyper</span> moral über deutschland<span style="s4"> stülpen</span></p>
+<p begin="00:03:08.709" end="00:03:13.780" style="s2">in deutschland dem die autoren der</p>
+<p begin="00:03:10.540" end="00:03:15.880" style="s2"><span style="s3">berichte zutiefst</span><span style="s4"> misstrauen das ist ein</span></p>
+<p begin="00:03:13.780" end="00:03:18.160" style="s2">ausdruck der<span style="s4"> linksgrüne</span> über moral</p>
+<p begin="00:03:15.880" end="00:03:20.680" style="s2"><span style="s4">dieses</span> institut offenkundig verfallen</p>
+<p begin="00:03:18.160" end="00:03:23.260" style="s2">ist und diese<span style="s3"> links grün</span><span style="s4"> europa</span><span style="s3"> hyper</span></p>
+<p begin="00:03:20.680" end="00:03:27.579" style="s2">moral ist eine totalitäre ideologie</p>
+<p begin="00:03:23.260" end="00:03:29.410" style="s2">meine damen und herren die wirklichen</p>
+<p begin="00:03:27.579" end="00:03:31.269" style="s2">tatsachen erfahren wer dagegen nicht was</p>
+<p begin="00:03:29.410" end="00:03:33.160" style="s2">in diesen berichten fehlt ist kritik am</p>
+<p begin="00:03:31.269" end="00:03:35.590" style="s2">internet<span style="s3"> zensur gesetz den sogenannten</span></p>
+<p begin="00:03:33.160" end="00:03:37.420" style="s2">netzwerk durchsetzungs<span style="s4"> gesetz</span> dieses</p>
+<p begin="00:03:35.590" end="00:03:38.859" style="s2">gesetz schränkt die vielfalt der</p>
+<p begin="00:03:37.420" end="00:03:41.980" style="s2"><span style="s3">meinungen</span><span style="s4"> massiv ein</span></p>
+<p begin="00:03:38.859" end="00:03:43.780" style="s2">es beseitigt die freiheit der meinung es</p>
+<p begin="00:03:41.980" end="00:03:47.109" style="s2">führt<span style="s3"> zu</span><span style="s4"> selbstzensur zur willkürlichen</span></p>
+<p begin="00:03:43.780" end="00:03:49.720" style="s2">löschung von inhalten menschen haben</p>
+<p begin="00:03:47.109" end="00:03:53.890" style="s2">angst frei ihre meinung zu sagen das ist</p>
+<p begin="00:03:49.720" end="00:03:55.020" style="s2">das ergebnis ihrer politik was<span style="s3"> ihr</span><span style="s4"> in</span></p>
+<p begin="00:03:53.890" end="00:03:57.190" style="s2">den berichten</p>
+<p begin="00:03:55.020" end="00:03:58.660" style="s2">was<span style="s3"> in</span> den<span style="s3"> berichten</span> des instituts</p>
+<p begin="00:03:57.190" end="00:04:00.220" style="s2">ebenfalls<span style="s4"> viel dazu ein hinweis darauf</span></p>
+<p begin="00:03:58.660" end="00:04:02.290" style="s2">dass die kritiker totalitäre tendenzen</p>
+<p begin="00:04:00.220" end="00:04:05.140" style="s2">hierzulande zunehmend kriminalisiert</p>
+<p begin="00:04:02.290" end="00:04:07.180" style="s2">werden wer hierzulande den islam</p>
+<p begin="00:04:05.140" end="00:04:10.330" style="s2">kritisch diskutiert wird kriminalisiert</p>
+<p begin="00:04:07.180" end="00:04:11.800" style="s2">und die menschen spüren dass in einer</p>
+<p begin="00:04:10.330" end="00:04:13.810" style="s2">bemerkenswerten neuen studie des</p>
+<p begin="00:04:11.800" end="00:04:16.570" style="s2">historikers und soziologen<span style="s4"> rainer</span><span style="s3"> zipfel</span></p>
+<p begin="00:04:13.810" end="00:04:18.250" style="s2"><span style="s3">man</span> steht<span style="s3"> das</span> in deutschland<span style="s4"> 94</span> prozent</p>
+<p begin="00:04:16.570" end="00:04:20.680" style="s2">der menschen mittlerweile glauben man</p>
+<p begin="00:04:18.250" end="00:04:21.640" style="s2">dürfe christen ungestraft beleidigen und</p>
+<p begin="00:04:20.680" end="00:04:24.070" style="s2">bloßstellen</p>
+<p begin="00:04:21.640" end="00:04:26.130" style="s2">nur noch ein drittel<span style="s4"> der</span> menschen glaubt</p>
+<p begin="00:04:24.070" end="00:04:29.350" style="s2"><span style="s4">hierzulande dass man den islam</span></p>
+<p begin="00:04:26.130" end="00:04:32.950" style="s2">kritisieren darf<span style="s4"> zwei</span> drittel meinen</p>
+<p begin="00:04:29.350" end="00:04:35.470" style="s2">also<span style="s4"> islamkritik</span> sei verboten was</p>
+<p begin="00:04:32.950" end="00:04:41.020" style="s2">spricht aus diesen zahlen wenn nicht</p>
+<p begin="00:04:35.470" end="00:04:42.460" style="s2">angst die menschen<span style="s3"> schweigen</span> auch die</p>
+<p begin="00:04:41.020" end="00:04:44.080" style="s2">menschen schweigen auch weil sie von der</p>
+<p begin="00:04:42.460" end="00:04:46.630" style="s2">politik hierzulande keinen schutz mehr</p>
+<p begin="00:04:44.080" end="00:04:49.840" style="s2">erwarten weil kritik am islam bereits</p>
+<p begin="00:04:46.630" end="00:04:51.220" style="s2">kriminalisiert ist dieses schweigen ist</p>
+<p begin="00:04:49.840" end="00:04:52.390" style="s2">der anfang vom ende der freien</p>
+<p begin="00:04:51.220" end="00:04:55.020" style="s2">gesellschaft</p>
+<p begin="00:04:52.390" end="00:04:58.510" style="s2">diese freie gesellschaft gibt sich</p>
+<p begin="00:04:55.020" end="00:05:01.270" style="s2"><span style="s3">aufgibt</span><span style="s4"> ihre</span> menschenrechte auf ganz wie</p>
+<p begin="00:04:58.510" end="00:05:03.820" style="s2">es bei michael beck zu lesen ist<span style="s3"> zur</span></p>
+<p begin="00:05:01.270" end="00:05:05.860" style="s2">mission heißt das buch unterwerfung und</p>
+<p begin="00:05:03.820" end="00:05:08.620" style="s2">nur zur erinnerung das arabische wort</p>
+<p begin="00:05:05.860" end="00:05:13.360" style="s2">islam bedeutet unterwerfung das ist</p>
+<p begin="00:05:08.620" end="00:05:16.090" style="s2">wörtlich übersetzt<span style="s4"> aber</span><span style="s3"> an allzu viel</span></p>
+<p begin="00:05:13.360" end="00:05:18.570" style="s2">freiheit<span style="s3"> kann also</span><span style="s4"> wie viel freiheit ist</span></p>
+<p begin="00:05:16.090" end="00:05:20.830" style="s2"><span style="s4">ihnen</span> ja sowieso nicht gelegen die spd</p>
+<p begin="00:05:18.570" end="00:05:22.770" style="s2">kontrolliert eine vielzahl von medien in</p>
+<p begin="00:05:20.830" end="00:05:25.120" style="s2">diesem land sie<span style="s4"> hält</span> hunderte von</p>
+<p begin="00:05:22.770" end="00:05:27.729" style="s2">medienbeteiligungen<span style="s4"> das</span> wollen sie<span style="s4"> schön</span></p>
+<p begin="00:05:25.120" end="00:05:29.260" style="s2">unter dem teppich halten<span style="s3"> frau hendrix</span></p>
+<p begin="00:05:27.729" end="00:05:31.030" style="s2">von<span style="s4"> der spd jetzt ist</span><span style="s3"> sie</span><span style="s4"> gerade</span> mal</p>
+<p begin="00:05:29.260" end="00:05:32.740" style="s2"><span style="s4">nicht da lassen sie mich direkt</span> sagen</p>
+<p begin="00:05:31.030" end="00:05:36.010" style="s2">sie haben das parlament belogen</p>
+<p begin="00:05:32.740" end="00:05:38.530" style="s2"><span style="s4">am 12 dezember</span><span style="s3"> zwölfter</span> oktober haben</p>
+<p begin="00:05:36.010" end="00:05:41.770" style="s2">sie hier gesagt dass die spd eine</p>
+<p begin="00:05:38.530" end="00:05:44.250" style="s2">tarnfirma<span style="s4"> ddvg an keinem verlag mehr als</span></p>
+<p begin="00:05:41.770" end="00:05:46.990" style="s2"><span style="s4">23 prozent besitzt das</span> ist die pure</p>
+<p begin="00:05:44.250" end="00:05:49.240" style="s2">unwahrheit<span style="s4"> am</span> verlag der neuen</p>
+<p begin="00:05:46.990" end="00:05:52.530" style="s2">westfälischen in bielefeld<span style="s3"> besitzt</span> die</p>
+<p begin="00:05:49.240" end="00:05:54.790" style="s2">spd 100 prozent öko test verlag<span style="s3"> 65%</span></p>
+<p begin="00:05:52.530" end="00:05:56.229" style="s2"><span style="s4">dresdner</span> druck- und verlagshaus<span style="s3"> 40</span></p>
+<p begin="00:05:54.790" end="00:05:58.090" style="s2"><span style="s3">prozent an</span><span style="s4"> diversen nordbayerischen</span></p>
+<p begin="00:05:56.229" end="00:05:59.890" style="s2"><span style="s3">tageszeitung</span><span style="s4"> sind</span> es rund<span style="s4"> 30 prozent</span></p>
+<p begin="00:05:58.090" end="00:06:00.720" style="s2">auch druckereien in<span style="s4"> hildesheim</span> und</p>
+<p begin="00:05:59.890" end="00:06:03.470" style="s2">lübeck</p>
+<p begin="00:06:00.720" end="00:06:05.250" style="s2">gehören zu 100 prozent zur spd</p>
+<p begin="00:06:03.470" end="00:06:06.930" style="s2"><span style="s3">propagandamaschine</span> ja<span style="s3"> sagst</span><span style="s4"> können</span> sie</p>
+<p begin="00:06:05.250" end="00:06:08.910" style="s2">nicht hören was sie in sachen</p>
+<p begin="00:06:06.930" end="00:06:11.070" style="s2">medienvielfalt hier untergraben</p>
+<p begin="00:06:08.910" end="00:06:13.460" style="s2">und wie sagte eine spd schatzmeisterin</p>
+<p begin="00:06:11.070" end="00:06:16.350" style="s2"><span style="s3">und chefin dieser</span><span style="s4"> tarnfirma</span> ddvg</p>
+<p begin="00:06:13.460" end="00:06:19.500" style="s2"><span style="s3">inwendig</span><span style="s4"> daniel</span><span style="s3"> raimer</span> so<span style="s4"> schön</span> ich</p>
+<p begin="00:06:16.350" end="00:06:22.020" style="s2">zitiere auch dort wo wir nur 30 oder 40</p>
+<p begin="00:06:19.500" end="00:06:25.110" style="s2">prozent haben kann in der regel nichts</p>
+<p begin="00:06:22.020" end="00:06:26.220" style="s2">ohne uns ohne uns von der spd passieren</p>
+<p begin="00:06:25.110" end="00:06:29.130" style="s2">zitat ende</p>
+<p begin="00:06:26.220" end="00:06:32.220" style="s2">eine regierungspartei<span style="s4"> die</span><span style="s3"> ein</span></p>
+<p begin="00:06:29.130" end="00:06:33.960" style="s2"><span style="s4">medienkonzern</span> ist die wesentlich dafür</p>
+<p begin="00:06:32.220" end="00:06:35.730" style="s2">verantwortlich ist dass die</p>
+<p begin="00:06:33.960" end="00:06:36.810" style="s2">medienvielfalt und die meinungsvielfalt</p>
+<p begin="00:06:35.730" end="00:06:38.040" style="s2">in diesem land immer stärker</p>
+<p begin="00:06:36.810" end="00:06:40.140" style="s2">eingeschränkt werden</p>
+<p begin="00:06:38.040" end="00:06:43.430" style="s2">eine<span style="s4"> solche</span> macht<span style="s4"> einer</span> regierungspartei</p>
+<p begin="00:06:40.140" end="00:06:47.850" style="s2">ist das kennzeichen einer diktatur</p>
+<p begin="00:06:43.430" end="00:06:50.760" style="s2">und es geht noch weiter<span style="s3"> und es geht noch</span></p>
+<p begin="00:06:47.850" end="00:06:52.919" style="s2">weiter die spd tarnfirma<span style="s3"> den</span> vw ist<span style="s4"> am</span></p>
+<p begin="00:06:50.760" end="00:06:56.100" style="s2"><span style="s4">redaktions</span> netzwerk deutschland</p>
+<p begin="00:06:52.919" end="00:06:59.400" style="s2">maßgeblich beteiligt dieses<span style="s4"> redaktions</span></p>
+<p begin="00:06:56.100" end="00:07:01.110" style="s2">netzwerk liefert an<span style="s4"> 40 tageszeitung ja</span></p>
+<p begin="00:06:59.400" end="00:07:02.790" style="s2">das<span style="s4"> liegt</span> sie<span style="s4"> auch von die wahrheit</span></p>
+<p begin="00:07:01.110" end="00:07:04.530" style="s2">können sie nicht vertragen liebe spd</p>
+<p begin="00:07:02.790" end="00:07:06.720" style="s2">freunde die wahrheit können sie nicht</p>
+<p begin="00:07:04.530" end="00:07:08.880" style="s2">vertragen<span style="s4"> liefert</span> an 40<span style="s3"> tageszeitungen</span></p>
+<p begin="00:07:06.720" end="00:07:11.190" style="s2"><span style="s3">und</span> deren lokalausgaben ein und<span style="s3"> den</span></p>
+<p begin="00:07:08.880" end="00:07:13.830" style="s2"><span style="s3">selben</span><span style="s4"> artikel</span><span style="s3"> aus</span> die kommen dann aus</p>
+<p begin="00:07:11.190" end="00:07:16.010" style="s2">dem hause mazda<span style="s4"> den häufigen fällen wo</span></p>
+<p begin="00:07:13.830" end="00:07:18.210" style="s2">auch die spd<span style="s3"> fest</span> beteiligt ist</p>
+<p begin="00:07:16.010" end="00:07:20.150" style="s2">meinungsfreiheit ist<span style="s4"> aber</span> vor allem die</p>
+<p begin="00:07:18.210" end="00:07:24.150" style="s2">freiheit die regierung zu kritisieren</p>
+<p begin="00:07:20.150" end="00:07:27.000" style="s2"><span style="s3">die</span> regierungspartei spd steuert dagegen</p>
+<p begin="00:07:24.150" end="00:07:29.190" style="s2">40 namhafte<span style="s3"> tageszeitungen</span><span style="s4"> die</span> verfügt</p>
+<p begin="00:07:27.000" end="00:07:32.040" style="s2">darüber hinaus über ein undurchsichtiges</p>
+<p begin="00:07:29.190" end="00:07:33.510" style="s2">geflecht an rundfunk beteiligung nicht</p>
+<p begin="00:07:32.040" end="00:07:35.280" style="s2">zu vergessen die kontrolle über die</p>
+<p begin="00:07:33.510" end="00:07:35.910" style="s2">rundfunkräte der<span style="s3"> staat sender ard und</span></p>
+<p begin="00:07:35.280" end="00:07:39.820" style="s2"><span style="s4">zdf</span></p>
+<p begin="00:07:35.910" end="00:07:42.280" style="s2">solch eine regierungspartei</p>
+<p begin="00:07:39.820" end="00:07:45.430" style="s2">solch eine regierungsparteien ungarn in</p>
+<p begin="00:07:42.280" end="00:07:46.420" style="s2">polen in italien<span style="s3"> das</span> da würden<span style="s3"> sie sich</span></p>
+<p begin="00:07:45.430" end="00:07:49.030" style="s2"><span style="s3">außerdem</span> kritisieren<span style="s4"> nicht</span> mehr</p>
+<p begin="00:07:46.420" end="00:07:51.820" style="s2"><span style="s4">rauskommen</span> viktor orban<span style="s3"> das ist doch ihr</span></p>
+<p begin="00:07:49.030" end="00:07:52.740" style="s2">hassobjekt er dürfte sich das nicht</p>
+<p begin="00:07:51.820" end="00:07:55.690" style="s2">erlauben</p>
+<p begin="00:07:52.740" end="00:07:57.250" style="s2">sie beklagen<span style="s4"> die</span> lage von migranten</p>
+<p begin="00:07:55.690" end="00:07:59.520" style="s2">denen es hier besser geht als es<span style="s4"> ihnen</span></p>
+<p begin="00:07:57.250" end="00:08:01.510" style="s2">ihre heimat<span style="s4"> fliegen</span> und verschweigen die</p>
+<p begin="00:07:59.520" end="00:08:03.160" style="s2">christenverfolgung sie interpretieren</p>
+<p begin="00:08:01.510" end="00:08:05.590" style="s2">die menschenrechte oben und lassen</p>
+<p begin="00:08:03.160" end="00:08:07.480" style="s2"><span style="s4">tausendfach geäußerten islamischen</span></p>
+<p begin="00:08:05.590" end="00:08:09.610" style="s2">judenhass hierzulande raum gewinnen</p>
+<p begin="00:08:07.480" end="00:08:11.860" style="s2">sie<span style="s4"> deuten</span> elementaren<span style="s4"> rechte der</span></p>
+<p begin="00:08:09.610" end="00:08:13.000" style="s2"><span style="s4">menschen in</span><span style="s3"> sozialer</span><span style="s4"> ansprüche</span> und pure</p>
+<p begin="00:08:11.860" end="00:08:14.680" style="s2">geldforderungen<span style="s3"> um</span></p>
+<p begin="00:08:13.000" end="00:08:16.720" style="s2">doch die allgemeine erklärung der</p>
+<p begin="00:08:14.680" end="00:08:19.060" style="s2">menschenrechte ist kein<span style="s3"> ver.di</span> blättchen</p>
+<p begin="00:08:16.720" end="00:08:19.600" style="s2">kein info keine info<span style="s3"> postierte</span> der ig</p>
+<p begin="00:08:19.060" end="00:08:20.950" style="s2"><span style="s4">metall</span></p>
+<p begin="00:08:19.600" end="00:08:22.930" style="s2">kümmern sie sich endlich um die</p>
+<p begin="00:08:20.950" end="00:08:24.400" style="s2">wirklichen menschenrechte tun sie etwas</p>
+<p begin="00:08:22.930" end="00:08:29.200" style="s2">zum beispiel für die meinungsfreiheit</p>
+<p begin="00:08:24.400" end="00:08:31.530" style="s2">auch in deutschland jetzt kann man</p>
+<p begin="00:08:29.200" end="00:08:35.310" style="s2">abonnieren und nicht vergessen</p>
+<p begin="00:08:31.530" end="00:08:35.310" style="s2">benachrichtigungen aktivieren</p>
+</div>
+</body>
+</tt>

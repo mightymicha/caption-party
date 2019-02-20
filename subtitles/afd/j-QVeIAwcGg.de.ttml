@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.080" end="00:00:05.890" style="s2">sehr geehrte frau präsidentin sehr</p>
+<p begin="00:00:03.760" end="00:00:08.019" style="s2">geehrte kollegen liebes publikum liebe</p>
+<p begin="00:00:05.890" end="00:00:10.210" style="s2">zuschauer auch zu hause an den</p>
+<p begin="00:00:08.019" end="00:00:12.490" style="s2">fernsehgeräten und<span style="s3"> liebes</span> leider<span style="s4"> immer</span></p>
+<p begin="00:00:10.210" end="00:00:14.769" style="s2"><span style="s4">noch</span><span style="s3"> unvollständiges</span> präsidium ich<span style="s4"> darf</span></p>
+<p begin="00:00:12.490" end="00:00:15.339" style="s2">daran erinnern die<span style="s4"> afg</span> hat<span style="s4"> immer</span> noch</p>
+<p begin="00:00:14.769" end="00:00:17.140" style="s2">keine</p>
+<p begin="00:00:15.339" end="00:00:20.320" style="s2"><span style="s3">bundestags-vizepräsident einen</span></p>
+<p begin="00:00:17.140" end="00:00:21.939" style="s2"><span style="s3">vize-präsidenten</span><span style="s4"> die</span> linkspartei möchte</p>
+<p begin="00:00:20.320" end="00:00:24.699" style="s2">wieder einmal<span style="s4"> wie</span> die freiheitsrechte</p>
+<p begin="00:00:21.939" end="00:00:26.369" style="s2">der marktteilnehmer unserer sozialen</p>
+<p begin="00:00:24.699" end="00:00:29.199" style="s2">marktwirtschaft eingreifen</p>
+<p begin="00:00:26.369" end="00:00:32.349" style="s2">diesmal soll das eh<span style="s4"> schon darbende</span></p>
+<p begin="00:00:29.199" end="00:00:34.270" style="s2">bankgewerbe getroffen werden meine</p>
+<p begin="00:00:32.349" end="00:00:37.420" style="s2">lieben kolleginnen und kollegen der</p>
+<p begin="00:00:34.270" end="00:00:39.700" style="s2">linkspartei über<span style="s4"> fabio</span><span style="s3"> de masi das</span> waren</p>
+<p begin="00:00:37.420" end="00:00:41.230" style="s2">zum<span style="s3"> dinner airbus dabei wusste da eben</span></p>
+<p begin="00:00:39.700" end="00:00:43.059" style="s2"><span style="s3">kam als volkswirt müsse</span><span style="s4"> ein</span> bisschen</p>
+<p begin="00:00:41.230" end="00:00:44.860" style="s2"><span style="s4">mehr</span> substanz am knochen zeigen</p>
+<p begin="00:00:43.059" end="00:00:47.079" style="s2">ja wir gehen jetzt mal auf drei themen</p>
+<p begin="00:00:44.860" end="00:00:48.850" style="s2"><span style="s3">einmal</span> auf die<span style="s4"> banken</span> sicht der banken</p>
+<p begin="00:00:47.079" end="00:00:50.289" style="s2">einmal die<span style="s4"> sicht</span> der verbraucher oder</p>
+<p begin="00:00:48.850" end="00:00:51.180" style="s2"><span style="s3">als drittes rechnen war gleich mal ein</span></p>
+<p begin="00:00:50.289" end="00:00:53.680" style="s2"><span style="s3">bisschen</span> zusammen</p>
+<p begin="00:00:51.180" end="00:00:55.629" style="s2">meine damen und herren die linke will</p>
+<p begin="00:00:53.680" end="00:00:58.210" style="s2">den banken vorschreiben dass der<span style="s3"> dispo</span></p>
+<p begin="00:00:55.629" end="00:01:01.570" style="s2"><span style="s3">zins</span> für kunden maximal<span style="s3"> fünf</span><span style="s4"> prozent</span></p>
+<p begin="00:00:58.210" end="00:01:03.219" style="s2">über dem so wie sie es nennt leitzins</p>
+<p begin="00:01:01.570" end="00:01:05.290" style="s2">der ezb liegen soll</p>
+<p begin="00:01:03.219" end="00:01:07.870" style="s2">das ist linke gleichmacherei<span style="s3"> da</span></p>
+<p begin="00:01:05.290" end="00:01:13.180" style="s2"><span style="s4">sozialismus</span> pur und das ist mit uns</p>
+<p begin="00:01:07.870" end="00:01:14.830" style="s2">nicht zu machen<span style="s3"> so ich kündigte</span><span style="s4"> signal</span></p>
+<p begin="00:01:13.180" end="00:01:16.260" style="s2">punkt<span style="s4"> eins</span> wir schauen uns die</p>
+<p begin="00:01:14.830" end="00:01:18.790" style="s2"><span style="s4">bankenseite an</span></p>
+<p begin="00:01:16.260" end="00:01:20.500" style="s2">also das war<span style="s3"> mir so wie</span> nina<span style="s3"> portman</span></p>
+<p begin="00:01:18.790" end="00:01:22.450" style="s2"><span style="s3">hier so&#39;n kraft machen kann dass</span> cannoli</p>
+<p begin="00:01:20.500" end="00:01:23.380" style="s2">linkspartei wir schauen uns die</p>
+<p begin="00:01:22.450" end="00:01:25.960" style="s2"><span style="s3">bandseite an</span></p>
+<p begin="00:01:23.380" end="00:01:27.630" style="s2">haben sie als antragsteller eigentlich</p>
+<p begin="00:01:25.960" end="00:01:30.700" style="s2">schon mal eine bank von ihnen gesehen</p>
+<p begin="00:01:27.630" end="00:01:34.120" style="s2">als gelernter<span style="s4"> ja</span><span style="s3"> dispo-zins beantragte</span></p>
+<p begin="00:01:30.700" end="00:01:36.600" style="s2">ich<span style="s4"> weiß</span> als gelernter bankkaufmann und</p>
+<p begin="00:01:34.120" end="00:01:38.800" style="s2"><span style="s4">studierte betriebswirt schwerpunkt</span> bank</p>
+<p begin="00:01:36.600" end="00:01:40.300" style="s2">betriebswirtschaftslehre will ich ihnen</p>
+<p begin="00:01:38.800" end="00:01:42.930" style="s2">dabei ein bisschen was erklären</p>
+<p begin="00:01:40.300" end="00:01:45.030" style="s2">der hauptrefinanzierungssatz der ezb</p>
+<p begin="00:01:42.930" end="00:01:47.400" style="s2">dient der beleihung von</p>
+<p begin="00:01:45.030" end="00:01:50.700" style="s2"><span style="s4">das klassigen wertpapieren die die bank</span></p>
+<p begin="00:01:47.400" end="00:01:52.940" style="s2">zuvor erworben hat also gute bonitäten</p>
+<p begin="00:01:50.700" end="00:01:54.750" style="s2"><span style="s4">mit</span> der refinanzierung von</p>
+<p begin="00:01:52.940" end="00:01:56.790" style="s2">dispositionskredite hat dieser satz</p>
+<p begin="00:01:54.750" end="00:01:59.190" style="s2"><span style="s3">nichts</span> aber überhaupt gar nichts zu tun</p>
+<p begin="00:01:56.790" end="00:02:01.399" style="s2"><span style="s4">vielmehr kommt hier einen mix aus</span></p>
+<p begin="00:01:59.190" end="00:02:02.880" style="s2">einlagen aus<span style="s4"> den</span></p>
+<p begin="00:02:01.399" end="00:02:04.830" style="s2"><span style="s3">inhaberschuldverschreibungen</span> und</p>
+<p begin="00:02:02.880" end="00:02:05.550" style="s2">diversen<span style="s4"> eigenkapital</span> produkten zur</p>
+<p begin="00:02:04.830" end="00:02:08.100" style="s2">anwendung</p>
+<p begin="00:02:05.550" end="00:02:10.220" style="s2">dazu kommen noch die<span style="s3"> kreditmargen</span> zur</p>
+<p begin="00:02:08.100" end="00:02:12.780" style="s2"><span style="s4">abdeckung</span> des<span style="s4"> kredit</span> fall aus</p>
+<p begin="00:02:10.220" end="00:02:14.790" style="s2">kreditausfallrisiko sowie die operativen</p>
+<p begin="00:02:12.780" end="00:02:16.830" style="s2">kosten die<span style="s3"> bank an und ja</span> auch das</p>
+<p begin="00:02:14.790" end="00:02:17.510" style="s2">gebundene eigenkapital will verzinst</p>
+<p begin="00:02:16.830" end="00:02:19.739" style="s2">werden</p>
+<p begin="00:02:17.510" end="00:02:21.870" style="s2">überlassen sie den banken mit ihren</p>
+<p begin="00:02:19.739" end="00:02:23.610" style="s2">produkten und kunden<span style="s4"> kalkulation</span> selber</p>
+<p begin="00:02:21.870" end="00:02:25.709" style="s2">sie müssen sich im wettbewerb behaupten</p>
+<p begin="00:02:23.610" end="00:02:26.489" style="s2"><span style="s4">da</span> muss eine linke überhaupt gar nicht</p>
+<p begin="00:02:25.709" end="00:02:30.239" style="s2">eingreifen</p>
+<p begin="00:02:26.489" end="00:02:32.819" style="s2">wir leben nicht<span style="s4"> wir</span> leben nicht in einer</p>
+<p begin="00:02:30.239" end="00:02:35.160" style="s2">sozialistischen planwirtschaft und das</p>
+<p begin="00:02:32.819" end="00:02:37.080" style="s2">ist auch gut so</p>
+<p begin="00:02:35.160" end="00:02:39.380" style="s2">wir kommen weiter<span style="s4"> zum punkt</span><span style="s3"> 2</span> wir</p>
+<p begin="00:02:37.080" end="00:02:42.390" style="s2">schauen uns die kundenseite an</p>
+<p begin="00:02:39.380" end="00:02:44.670" style="s2"><span style="s3">dispokredite</span> die<span style="s4"> mit</span> dem<span style="s4"> abbau</span> von von</p>
+<p begin="00:02:42.390" end="00:02:46.110" style="s2"><span style="s4">unregelmäßigen zahlungen und soll</span></p>
+<p begin="00:02:44.670" end="00:02:48.780" style="s2">idealerweise im jahresverlauf</p>
+<p begin="00:02:46.110" end="00:02:50.250" style="s2">zurückgeführt werden<span style="s4"> dass</span> zahlreiche</p>
+<p begin="00:02:48.780" end="00:02:53.160" style="s2">bankkunden auch über<span style="s3"> einen</span></p>
+<p begin="00:02:50.250" end="00:02:55.560" style="s2">dispositionskredit hinaus<span style="s4"> vorgezogenen</span></p>
+<p begin="00:02:53.160" end="00:02:57.510" style="s2">konsum finanzieren<span style="s4"> mag</span> bedauerlich</p>
+<p begin="00:02:55.560" end="00:02:59.700" style="s2">erscheinen ist jedoch nicht im</p>
+<p begin="00:02:57.510" end="00:03:01.799" style="s2">einflussbereich eines staates der auf</p>
+<p begin="00:02:59.700" end="00:03:04.380" style="s2">die freiheit des einzelnen<span style="s4"> setzt</span> und</p>
+<p begin="00:03:01.799" end="00:03:06.510" style="s2">politisch nicht zu verhindern dass ihnen</p>
+<p begin="00:03:04.380" end="00:03:07.980" style="s2">als sozialisten das nicht passt das</p>
+<p begin="00:03:06.510" end="00:03:09.840" style="s2">glaube ich gerne aber sie wollen<span style="s3"> dort</span></p>
+<p begin="00:03:07.980" end="00:03:11.400" style="s2"><span style="s3">geht es</span><span style="s4"> nicht</span> ernsthaft ein angriff auf</p>
+<p begin="00:03:09.840" end="00:03:14.600" style="s2">unsere freiheitlich demokratischen</p>
+<p begin="00:03:11.400" end="00:03:14.600" style="s2">grundordnung staaten oder</p>
+<p begin="00:03:16.510" end="00:03:22.340" style="s2">in der praxis machen die banken ihren</p>
+<p begin="00:03:20.030" end="00:03:24.200" style="s2">kunden angebote für ratenkredite</p>
+<p begin="00:03:22.340" end="00:03:27.080" style="s2">die banken sind sogar verpflichtet zu</p>
+<p begin="00:03:24.200" end="00:03:29.390" style="s2">beraten und im zweifel umzuschulden auf</p>
+<p begin="00:03:27.080" end="00:03:30.260" style="s2">kredite die mit dem einkommen zu</p>
+<p begin="00:03:29.390" end="00:03:32.209" style="s2">bezahlen sind</p>
+<p begin="00:03:30.260" end="00:03:33.640" style="s2">dazu sind sie verpflichtet und das</p>
+<p begin="00:03:32.209" end="00:03:36.709" style="s2">wissen sie auch deshalb ist dieser</p>
+<p begin="00:03:33.640" end="00:03:39.380" style="s2">antrag wieder einmal zusätzlich<span style="s4"> unnütz</span></p>
+<p begin="00:03:36.709" end="00:03:42.170" style="s2"><span style="s4">und</span><span style="s3"> hier</span> kommt es darauf an dass der</p>
+<p begin="00:03:39.380" end="00:03:45.410" style="s2">kunde die<span style="s4"> raten</span> mit seinem einkommen</p>
+<p begin="00:03:42.170" end="00:03:47.630" style="s2">bezahlen kann<span style="s4"> das</span> passiert dann auch von</p>
+<p begin="00:03:45.410" end="00:03:49.220" style="s2">daher wird bereits<span style="s3"> von</span><span style="s4"> vor</span> der<span style="s4"> bemessung</span></p>
+<p begin="00:03:47.630" end="00:03:52.370" style="s2">des kreditrahmens auf die bonität</p>
+<p begin="00:03:49.220" end="00:03:54.739" style="s2">abgestellt<span style="s4"> und</span><span style="s3"> ja</span> banken lassen derweil</p>
+<p begin="00:03:52.370" end="00:03:56.510" style="s2"><span style="s3">euro beziehungen zu das ist auch gut so</span></p>
+<p begin="00:03:54.739" end="00:03:58.940" style="s2">soll<span style="s3"> die klappe</span><span style="s4"> ausschöpfung</span> des</p>
+<p begin="00:03:56.510" end="00:04:01.100" style="s2">kreditrahmens die die mietzahlungen der</p>
+<p begin="00:03:58.940" end="00:04:03.080" style="s2">dauerauftrag oder die lastschrift für</p>
+<p begin="00:04:01.100" end="00:04:05.330" style="s2">den strom<span style="s3"> die</span><span style="s4"> abgebucht</span> werden<span style="s4"> eher</span></p>
+<p begin="00:04:03.080" end="00:04:07.880" style="s2">nicht<span style="s4"> aber wenn ein kunde sein konto</span></p>
+<p begin="00:04:05.330" end="00:04:09.799" style="s2">nicht<span style="s4"> im</span> vorgesehenen disposition zu uns</p>
+<p begin="00:04:07.880" end="00:04:12.170" style="s2"><span style="s4">rahmen</span> führt stellt<span style="s4"> er halt eine</span></p>
+<p begin="00:04:09.799" end="00:04:14.120" style="s2">schlechtere bonität<span style="s3"> da</span><span style="s4"> so</span> jetzt sagt<span style="s3"> ich</span></p>
+<p begin="00:04:12.170" end="00:04:15.860" style="s2">punkt<span style="s3"> 3</span><span style="s4"> wir recht normal</span> zusammen</p>
+<p begin="00:04:14.120" end="00:04:18.109" style="s2">das handelsblatt<span style="s3"> hat</span> eine umfrage</p>
+<p begin="00:04:15.860" end="00:04:21.169" style="s2"><span style="s3">gemacht</span> nur 11,8 prozent der</p>
+<p begin="00:04:18.109" end="00:04:25.550" style="s2"><span style="s3">dispositionskredit eliten</span><span style="s4"> über</span> 1500 euro</p>
+<p begin="00:04:21.169" end="00:04:26.930" style="s2">das<span style="s3"> heißt</span><span style="s4"> über</span><span style="s3"> 88</span> unter<span style="s4"> 1500</span> direkt</p>
+<p begin="00:04:25.550" end="00:04:29.320" style="s2"><span style="s3">einmal</span><span style="s4"> bei</span> einem durchschnittlichen</p>
+<p begin="00:04:26.930" end="00:04:33.650" style="s2"><span style="s3">dispositions</span> satz von<span style="s3"> 9,72</span> prozent</p>
+<p begin="00:04:29.320" end="00:04:36.229" style="s2"><span style="s4">beträgt</span> die zinslast 138 euro pro</p>
+<p begin="00:04:33.650" end="00:04:37.729" style="s2">kreditnehmer pro jahr<span style="s4"> was</span> sie<span style="s4"> mit</span> der</p>
+<p begin="00:04:36.229" end="00:04:41.419" style="s2"><span style="s4">deckel</span> erreichen wollen wäre eine</p>
+<p begin="00:04:37.729" end="00:04:43.340" style="s2">ersparnis von 63<span style="s3"> eur</span><span style="s4"> dh die zinslast</span></p>
+<p begin="00:04:41.419" end="00:04:45.380" style="s2">würde bei 75 euro liegen</p>
+<p begin="00:04:43.340" end="00:04:47.810" style="s2">meinen sie wirklich dass sie mit diesem</p>
+<p begin="00:04:45.380" end="00:04:49.700" style="s2"><span style="s3">marginalen</span> betracht<span style="s4"> die</span> verbraucher</p>
+<p begin="00:04:47.810" end="00:04:53.890" style="s2">entschulden können<span style="s4"> dass</span> dies<span style="s3"> eine</span> echter</p>
+<p begin="00:04:49.700" end="00:04:53.890" style="s2">beitrag dazu ist ich glaube mal nicht</p>
+<p begin="00:04:54.860" end="00:04:59.030" style="s2">nein es geht<span style="s4"> ihm</span> um<span style="s4"> etwas</span> ganz anderes</p>
+<p begin="00:04:56.840" end="00:05:01.610" style="s2"><span style="s3">dienen</span> sind<span style="s4"> für</span><span style="s3"> wat</span> wirtschaftlich</p>
+<p begin="00:04:59.030" end="00:05:04.370" style="s2"><span style="s4">geführte</span> banken ein graus und sie wollen</p>
+<p begin="00:05:01.610" end="00:05:05.900" style="s2">diese zerstören und das ist im kern ein</p>
+<p begin="00:05:04.370" end="00:05:08.300" style="s2">angriff auf unsere freiheitliche</p>
+<p begin="00:05:05.900" end="00:05:10.819" style="s2">grundordnung meine damen und herren und</p>
+<p begin="00:05:08.300" end="00:05:14.289" style="s2">deshalb lehnt die<span style="s3"> fdp</span><span style="s4"> ihren</span> antrag ganz</p>
+<p begin="00:05:10.819" end="00:05:18.590" style="s2">vehement<span style="s4"> und</span> konsequent ab vielen dank</p>
+<p begin="00:05:14.289" end="00:05:21.319" style="s2"><span style="s4">einzig</span><span style="s3"> ein</span><span style="s4"> hat</span> weiter jetzt<span style="s3"> kanal</span></p>
+<p begin="00:05:18.590" end="00:05:24.669" style="s2">abonnieren und nicht vergessen<span style="s3"> wenn</span><span style="s4"> nach</span></p>
+<p begin="00:05:21.319" end="00:05:24.669" style="s2"><span style="s4">richtigen</span> aktivieren</p>
+</div>
+</body>
+</tt>

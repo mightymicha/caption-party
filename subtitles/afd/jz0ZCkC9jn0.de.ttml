@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:03.870" style="s2">der mariannenplatz in kreuzberg</p>
+<p begin="00:00:01.399" end="00:00:06.089" style="s2">schauplatz einer neuen<span style="s3"> rot-rot-grünen</span></p>
+<p begin="00:00:03.870" end="00:00:08.010" style="s2">posten<span style="s4"> berlins</span> echte probleme</p>
+<p begin="00:00:06.089" end="00:00:10.170" style="s2">interessieren linke ganz linke und grüne</p>
+<p begin="00:00:08.010" end="00:00:13.049" style="s2">nicht stattdessen wollen sie den platz</p>
+<p begin="00:00:10.170" end="00:00:15.210" style="s2">der seit 170 jahren so<span style="s4"> heißt</span> teilweise</p>
+<p begin="00:00:13.049" end="00:00:16.560" style="s2"><span style="s3">nach dem sänger rio reiser benennen</span></p>
+<p begin="00:00:15.210" end="00:00:18.480" style="s2"><span style="s4">das</span> mit marianne von preussen</p>
+<p begin="00:00:16.560" end="00:00:20.250" style="s2">ausgerechnet eine freiheitliche und</p>
+<p begin="00:00:18.480" end="00:00:22.230" style="s2">emanzipierte frau von den schildern</p>
+<p begin="00:00:20.250" end="00:00:23.789" style="s2">getilgt werden soll findet<span style="s3"> jeanette</span></p>
+<p begin="00:00:22.230" end="00:00:25.320" style="s2">auricht mehr als seltsam</p>
+<p begin="00:00:23.789" end="00:00:26.970" style="s2">ja ist schon eine schräge idee also auch</p>
+<p begin="00:00:25.320" end="00:00:28.080" style="s2">von den kreuzbergern weil<span style="s3"> marjan</span> er</p>
+<p begin="00:00:26.970" end="00:00:30.599" style="s2"><span style="s4">hätte</span> eigentlich gut nach kreuzberg</p>
+<p begin="00:00:28.080" end="00:00:32.669" style="s2">gepasst sie war sozial engagiert auch</p>
+<p begin="00:00:30.599" end="00:00:34.800" style="s2">politisch engagiert sie wollte ja den</p>
+<p begin="00:00:32.669" end="00:00:36.719" style="s2">napoleon aus<span style="s3"> deutschland raus schmeißen</span></p>
+<p begin="00:00:34.800" end="00:00:39.000" style="s2"><span style="s3">auch für</span><span style="s4"> hatte</span> sie<span style="s4"> einen</span> aufruf</p>
+<p begin="00:00:36.719" end="00:00:41.360" style="s2">gestartet an alle frauen<span style="s3"> im</span> preußischen</p>
+<p begin="00:00:39.000" end="00:00:44.430" style="s2"><span style="s3">staat</span> sie gründete sogar einen</p>
+<p begin="00:00:41.360" end="00:00:46.050" style="s2"><span style="s4">frauenverband</span> dort lud sie alle klassen</p>
+<p begin="00:00:44.430" end="00:00:48.300" style="s2"><span style="s3">ein</span> sie wollte also<span style="s4"> eine</span> vereinigungs</p>
+<p begin="00:00:46.050" end="00:00:49.469" style="s2">punkt für alle klassen etablieren und</p>
+<p begin="00:00:48.300" end="00:00:51.149" style="s2">das passt doch eigentlich in die</p>
+<p begin="00:00:49.469" end="00:00:51.570" style="s2">kreuzberger und linke szene ganz gut</p>
+<p begin="00:00:51.149" end="00:00:53.129" style="s2">rein</p>
+<p begin="00:00:51.570" end="00:00:55.140" style="s2">besonders bemerkenswert da diese</p>
+<p begin="00:00:53.129" end="00:00:57.480" style="s2">umbenennung planung entgegen aller</p>
+<p begin="00:00:55.140" end="00:00:59.609" style="s2"><span style="s4">rot-rot-grünen</span> sonntags bekundungen soll</p>
+<p begin="00:00:57.480" end="00:01:02.000" style="s2">hier eine frau für einen mann reichen</p>
+<p begin="00:00:59.609" end="00:01:04.769" style="s2">noch<span style="s4"> unverständlicher</span> ist ja dass man</p>
+<p begin="00:01:02.000" end="00:01:06.780" style="s2">2005 hier schon eine frauenquote bei</p>
+<p begin="00:01:04.769" end="00:01:09.540" style="s2"><span style="s3">straßenbahn</span> festgelegt hat in der bvv</p>
+<p begin="00:01:06.780" end="00:01:10.920" style="s2">kreuzberg und jetzt will man einen platz</p>
+<p begin="00:01:09.540" end="00:01:12.510" style="s2">der<span style="s4"> offensichtlich</span> nach einer frau</p>
+<p begin="00:01:10.920" end="00:01:14.490" style="s2">benannt ist mich nach der marianne</p>
+<p begin="00:01:12.510" end="00:01:15.780" style="s2">umbenennen nach<span style="s3"> einem</span> mann</p>
+<p begin="00:01:14.490" end="00:01:18.860" style="s2">das ist selbst in kreuzberger</p>
+<p begin="00:01:15.780" end="00:01:18.860" style="s2">verhältnisse schon schräg</p>
+</div>
+</body>
+</tt>

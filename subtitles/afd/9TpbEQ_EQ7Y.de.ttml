@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.390" end="00:00:06.370" style="s2">[Musik]</p>
+<p begin="00:00:03.660" end="00:00:09.930" style="s2"><span style="s3">es</span><span style="s4"> ist</span> unterwegs im ruhrgebiet</p>
+<p begin="00:00:06.370" end="00:00:12.780" style="s2">wir verteilen natürlich<span style="s3"> warme</span><span style="s4"> getränke</span></p>
+<p begin="00:00:09.930" end="00:00:15.370" style="s2"><span style="s4">selbst</span> gestrickte schals<span style="s3"> an</span><span style="s4"> dabei</span></p>
+<p begin="00:00:12.780" end="00:00:17.470" style="s2">nahrungsmittel schlafsäcke sind ganz</p>
+<p begin="00:00:15.370" end="00:00:19.600" style="s2">wichtig<span style="s3"> thermo matten aber erster linie</span></p>
+<p begin="00:00:17.470" end="00:00:24.850" style="s2">unterhalten<span style="s4"> und nach losen und das ist</span></p>
+<p begin="00:00:19.600" end="00:00:26.460" style="s2">ganz wichtig ich habe vor zwei jahren</p>
+<p begin="00:00:24.850" end="00:00:29.230" style="s2">angefangen mit dem thema zu beschäftigen</p>
+<p begin="00:00:26.460" end="00:00:32.109" style="s2">damals ist eine obdachlose mitten in der</p>
+<p begin="00:00:29.230" end="00:00:33.129" style="s2">düsseldorfer altstadt erfroren zwei tage</p>
+<p begin="00:00:32.109" end="00:00:36.399" style="s2">vor weihnachten<span style="s3"> fand ich besonders</span></p>
+<p begin="00:00:33.129" end="00:00:39.129" style="s2">bitter und<span style="s4"> damals</span> habe ich recherchiert</p>
+<p begin="00:00:36.399" end="00:00:42.399" style="s2">sprach<span style="s3"> man</span><span style="s4"> von</span> 860.000 menschen auf der</p>
+<p begin="00:00:39.129" end="00:00:45.969" style="s2">straße leben 860.000 menschen jetzt zwei</p>
+<p begin="00:00:42.399" end="00:00:47.350" style="s2">jahre später sind es 1,2 millionen also</p>
+<p begin="00:00:45.969" end="00:00:48.699" style="s2">wir waren tatsächlich sehr erfolgreich</p>
+<p begin="00:00:47.350" end="00:00:51.159" style="s2">den ganzen bus wird ohne spenden nicht</p>
+<p begin="00:00:48.699" end="00:00:52.510" style="s2">geben<span style="s4"> aber</span> wir brauchen natürlich noch</p>
+<p begin="00:00:51.159" end="00:00:54.699" style="s2">weiter gilt also wir haben ganz ganz</p>
+<p begin="00:00:52.510" end="00:00:57.410" style="s2">viel<span style="s4"> vor und deswegen jeder euro ist bei</span></p>
+<p begin="00:00:54.699" end="00:01:04.630" style="s2">uns bedankt danke</p>
+<p begin="00:00:57.410" end="00:01:04.630" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

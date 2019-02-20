@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.730" style="s2"><span style="s3">ich habe</span><span style="s4"> meine</span> sehr geehrten damen und</p>
+<p begin="00:00:01.469" end="00:00:07.670" style="s2">herren ich bin parteimitglied seit april</p>
+<p begin="00:00:04.730" end="00:00:09.179" style="s2">2013 und gehöre zu den</p>
+<p begin="00:00:07.670" end="00:00:10.950" style="s2">gründungsmitgliedern unseres</p>
+<p begin="00:00:09.179" end="00:00:13.500" style="s2">kreisverbandes münster</p>
+<p begin="00:00:10.950" end="00:00:15.269" style="s2"><span style="s3">meine</span><span style="s4"> mitgliedsbeiträge</span> werden abgebucht</p>
+<p begin="00:00:13.500" end="00:00:16.619" style="s2">und ich habe eine abgeschlossene</p>
+<p begin="00:00:15.269" end="00:00:19.680" style="s2">berufsausbildung</p>
+<p begin="00:00:16.619" end="00:00:22.470" style="s2">ich bin selbstständig habe ein kleines</p>
+<p begin="00:00:19.680" end="00:00:25.920" style="s2"><span style="s4">textilunternehmen</span> und<span style="s4"> somit</span> bin ich ein</p>
+<p begin="00:00:22.470" end="00:00:28.289" style="s2">teil des größten arbeitgeber</p>
+<p begin="00:00:25.920" end="00:00:31.529" style="s2">deutschlands nämlich des mittelstandes</p>
+<p begin="00:00:28.289" end="00:00:36.350" style="s2"><span style="s3">der</span><span style="s4"> mittelstand</span> der kleinere<span style="s3"> und größere</span></p>
+<p begin="00:00:31.529" end="00:00:42.079" style="s2">mittelstand gehören nämlich zum größten</p>
+<p begin="00:00:36.350" end="00:00:46.340" style="s2">arbeitgeber unseres landes<span style="s4"> aber</span><span style="s3"> für</span> die</p>
+<p begin="00:00:42.079" end="00:00:50.489" style="s2">globalisierten altparteien sind wir</p>
+<p begin="00:00:46.340" end="00:00:52.949" style="s2">nicht systemrelevant der mittelstand ist</p>
+<p begin="00:00:50.489" end="00:00:55.379" style="s2">nicht systemrelevant<span style="s4"> und</span><span style="s3"> je</span><span style="s4"> mehr</span></p>
+<p begin="00:00:52.949" end="00:00:57.930" style="s2">kompetenzen und entscheidungsgewalt wir</p>
+<p begin="00:00:55.379" end="00:00:59.730" style="s2">an die eu abgeben um so mehr geben wir</p>
+<p begin="00:00:57.930" end="00:01:02.699" style="s2">auch den mittelstand<span style="s3"> umso</span> mehr geben wir</p>
+<p begin="00:00:59.730" end="00:01:06.170" style="s2">auch letztendlich unsere freie</p>
+<p begin="00:01:02.699" end="00:01:06.170" style="s2">marktwirtschaft auf</p>
+<p begin="00:01:09.240" end="00:01:15.930" style="s2">denn eu das<span style="s3"> bedeutet</span> zentralisierung eu</p>
+<p begin="00:01:12.630" end="00:01:19.740" style="s2">das bedeutet macht wirtschaft und nicht</p>
+<p begin="00:01:15.930" end="00:01:22.049" style="s2">mehr marktwirtschaft<span style="s3"> denen</span> die eu das</p>
+<p begin="00:01:19.740" end="00:01:24.840" style="s2">ist ein projekt der<span style="s4"> konzern</span> und</p>
+<p begin="00:01:22.049" end="00:01:28.080" style="s2">finanzeliten<span style="s4"> großkonzerne wie budweiser</span></p>
+<p begin="00:01:24.840" end="00:01:30.479" style="s2"><span style="s3">l&#39;oréal oder</span><span style="s4"> blackrock</span> korrumpieren die</p>
+<p begin="00:01:28.080" end="00:01:32.600" style="s2"><span style="s3">eu gesetzgebung um sich selbst</span></p>
+<p begin="00:01:30.479" end="00:01:35.520" style="s2">marktvorteile zu erschleichen und genau</p>
+<p begin="00:01:32.600" end="00:01:37.549" style="s2">diese großkonzerne sind es dann auch</p>
+<p begin="00:01:35.520" end="00:01:39.840" style="s2">noch<span style="s4"> wie</span> nutzen dieser dieser</p>
+<p begin="00:01:37.549" end="00:01:42.420" style="s2">gelddruckmaschine ezb und dieser</p>
+<p begin="00:01:39.840" end="00:01:45.780" style="s2">aberwitzigen tage zwei<span style="s4"> seiten</span></p>
+<p begin="00:01:42.420" end="00:01:48.630" style="s2">und ich frage<span style="s4"> euch</span> brauchen wir eine<span style="s4"> eu</span></p>
+<p begin="00:01:45.780" end="00:01:51.990" style="s2">die<span style="s4"> sich</span> als<span style="s3"> insolvenz verschleppt</span></p>
+<p begin="00:01:48.630" end="00:01:53.580" style="s2"><span style="s3">fertig</span> macht brauchen wir eine eu die</p>
+<p begin="00:01:51.990" end="00:01:55.890" style="s2">noch nicht mal<span style="s4"> in</span> der lage ist die</p>
+<p begin="00:01:53.580" end="00:01:58.770" style="s2">außengrenzen zu schützen brauchen wir</p>
+<p begin="00:01:55.890" end="00:02:01.590" style="s2">eine eu die die misswirtschaft<span style="s3"> manuel</span></p>
+<p begin="00:01:58.770" end="00:02:04.590" style="s2"><span style="s3">marcos</span><span style="s4"> unterstützt</span> brauchen wir<span style="s4"> eine</span> eu</p>
+<p begin="00:02:01.590" end="00:02:07.580" style="s2">die mit absurden messwerten und</p>
+<p begin="00:02:04.590" end="00:02:09.750" style="s2">bürokratie und einem unglaublichen</p>
+<p begin="00:02:07.580" end="00:02:10.200" style="s2"><span style="s4">zertifizierungs</span> waren die wirtschaft</p>
+<p begin="00:02:09.750" end="00:02:14.070" style="s2"><span style="s3">gängen</span></p>
+<p begin="00:02:10.200" end="00:02:16.820" style="s2">ich sage euch nein so<span style="s3"> eine</span> eu braucht</p>
+<p begin="00:02:14.070" end="00:02:16.820" style="s2">kein mensch</p>
+<p begin="00:02:21.250" end="00:02:27.140" style="s2">aber die uns regierenden eliten die</p>
+<p begin="00:02:24.769" end="00:02:28.700" style="s2">sagen ja wir brauchen da ist ja wir</p>
+<p begin="00:02:27.140" end="00:02:30.940" style="s2">brauchen<span style="s3"> uns</span> sogar noch<span style="s4"> mehr</span> davon</p>
+<p begin="00:02:28.700" end="00:02:35.330" style="s2"><span style="s3">und</span> sie kommen<span style="s3"> mit</span> billigem populismus</p>
+<p begin="00:02:30.940" end="00:02:37.760" style="s2">sie sagen uns wenn wenn der euro</p>
+<p begin="00:02:35.330" end="00:02:39.380" style="s2">scheitert dann scheitert europa sogar</p>
+<p begin="00:02:37.760" end="00:02:43.340" style="s2">kriegsszenarien werden an die wand</p>
+<p begin="00:02:39.380" end="00:02:45.110" style="s2">gemalt sie spielen ganz bewusst mit den</p>
+<p begin="00:02:43.340" end="00:02:49.160" style="s2">gefühlen<span style="s3"> nur</span><span style="s4"> mit</span> der angst der</p>
+<p begin="00:02:45.110" end="00:02:52.099" style="s2">bevölkerung<span style="s4"> dabei</span> hat diese eu nichts</p>
+<p begin="00:02:49.160" end="00:02:54.830" style="s2">mit dem kontinent europa zu tun diese eu</p>
+<p begin="00:02:52.099" end="00:02:56.599" style="s2">ist kein friedensprojekt und schon<span style="s4"> gar</span></p>
+<p begin="00:02:54.830" end="00:02:58.160" style="s2"><span style="s4">nicht das projekt ist der</span><span style="s3"> bürger</span><span style="s4"> und</span></p>
+<p begin="00:02:56.599" end="00:03:04.610" style="s2">schon gar nicht das projekt des</p>
+<p begin="00:02:58.160" end="00:03:06.670" style="s2">deutschen steuerzahlers<span style="s4"> und</span><span style="s3"> deswegen</span></p>
+<p begin="00:03:04.610" end="00:03:09.200" style="s2">sagen wir als afd</p>
+<p begin="00:03:06.670" end="00:03:11.390" style="s2">fürchtet euch nicht mehr mut zur</p>
+<p begin="00:03:09.200" end="00:03:13.280" style="s2">nationalen souveränität weniger</p>
+<p begin="00:03:11.390" end="00:03:15.650" style="s2">zentralismus weniger<span style="s4"> umverteilung</span></p>
+<p begin="00:03:13.280" end="00:03:17.840" style="s2"><span style="s4">bedeutet</span> letztendlich auch weniger</p>
+<p begin="00:03:15.650" end="00:03:21.110" style="s2">korruption weniger verschwendung und</p>
+<p begin="00:03:17.840" end="00:03:24.680" style="s2">auch weniger misswirtschaft es liegt in</p>
+<p begin="00:03:21.110" end="00:03:27.350" style="s2">der natur der dinge dass so ein moloch</p>
+<p begin="00:03:24.680" end="00:03:29.389" style="s2">wie europa will die eu das steuer</p>
+<p begin="00:03:27.350" end="00:03:31.239" style="s2">milliarden verwaltet letztendlich</p>
+<p begin="00:03:29.389" end="00:03:33.650" style="s2">bedürfnisse und ansprüche weckte</p>
+<p begin="00:03:31.239" end="00:03:35.510" style="s2">abhängigkeiten werden geschaffen<span style="s4"> und</span> so</p>
+<p begin="00:03:33.650" end="00:03:37.400" style="s2">muss sich natürlich immer wieder diese</p>
+<p begin="00:03:35.510" end="00:03:39.430" style="s2">eu<span style="s3"> sie</span><span style="s4"> ständig</span> neu erfinden sich</p>
+<p begin="00:03:37.400" end="00:03:42.940" style="s2"><span style="s4">auflehnen</span> und permanent neue</p>
+<p begin="00:03:39.430" end="00:03:45.380" style="s2">verantwortungsbereiche<span style="s4"> aufmachen nur ein</span></p>
+<p begin="00:03:42.940" end="00:03:47.900" style="s2">paradigmenwechsel weg von dieser</p>
+<p begin="00:03:45.380" end="00:03:50.600" style="s2">zentralismus<span style="s4"> umverteilungs</span> mentalität</p>
+<p begin="00:03:47.900" end="00:03:53.680" style="s2">kann helfen und die auf<span style="s3"> die</span> steht für so</p>
+<p begin="00:03:50.600" end="00:03:53.680" style="s2">einen paradigmenwechsel</p>
+<p begin="00:03:59.290" end="00:04:06.500" style="s2">meine damen und herren das ist eine</p>
+<p begin="00:04:02.390" end="00:04:09.890" style="s2">möhre<span style="s3"> für viele von ihnen ist das</span></p>
+<p begin="00:04:06.500" end="00:04:14.330" style="s2"><span style="s3">gemuese</span> aber falsch laut<span style="s4"> einer</span></p>
+<p begin="00:04:09.890" end="00:04:16.220" style="s2"><span style="s3">eu-verordnung</span> ist das obst<span style="s4"> aufgrund</span></p>
+<p begin="00:04:14.330" end="00:04:18.140" style="s2">einer auf druck der<span style="s4"> portugiesischen</span></p>
+<p begin="00:04:16.220" end="00:04:22.430" style="s2">marmeladen lobby aus portugal</p>
+<p begin="00:04:18.140" end="00:04:25.540" style="s2">so wie übrigens auch pferde keine</p>
+<p begin="00:04:22.430" end="00:04:27.820" style="s2">reittiere sind<span style="s4"> sondern</span> nahrungsmittel</p>
+<p begin="00:04:25.540" end="00:04:30.850" style="s2">das ist ja alles<span style="s4"> noch sehr witzig aber</span></p>
+<p begin="00:04:27.820" end="00:04:32.750" style="s2"><span style="s4">der</span> spaß hört bei target2 salden bei</p>
+<p begin="00:04:30.850" end="00:04:35.270" style="s2">stabilitätskriterien mal schulden</p>
+<p begin="00:04:32.750" end="00:04:37.610" style="s2"><span style="s3">transferunion</span><span style="s4"> daher</span> hat<span style="s4"> es</span> auf denn es</p>
+<p begin="00:04:35.270" end="00:04:46.520" style="s2">sind unsere steuergelder meine damen und</p>
+<p begin="00:04:37.610" end="00:04:48.350" style="s2">herren<span style="s4"> ich habe zehn jahre in mexiko</span></p>
+<p begin="00:04:46.520" end="00:04:50.270" style="s2">gelebt und gearbeitet<span style="s4"> ich war dort</span></p>
+<p begin="00:04:48.350" end="00:04:53.000" style="s2">vertriebsleiter für ein deutsches</p>
+<p begin="00:04:50.270" end="00:04:56.090" style="s2">maschinenbauunternehmen<span style="s4"> mein</span> markt der</p>
+<p begin="00:04:53.000" end="00:04:59.290" style="s2">erstreckte sich<span style="s4"> von</span> usa bis runter nach</p>
+<p begin="00:04:56.090" end="00:05:02.150" style="s2">honduras und ob spanisch oder englisch</p>
+<p begin="00:04:59.290" end="00:05:05.570" style="s2">ich sage das ganz ehrlich<span style="s4"> ja</span> mir macht</p>
+<p begin="00:05:02.150" end="00:05:07.820" style="s2">das spaß mit menschen anderer nationen</p>
+<p begin="00:05:05.570" end="00:05:09.650" style="s2">in berührung zu kommen<span style="s4"> da ein oder</span></p>
+<p begin="00:05:07.820" end="00:05:11.870" style="s2">andere kennt ja meine geschichte ich bin</p>
+<p begin="00:05:09.650" end="00:05:14.660" style="s2">in dresden geboren ich bin in rostock</p>
+<p begin="00:05:11.870" end="00:05:16.700" style="s2">aufgewachsen bin dann über den umweg ddr</p>
+<p begin="00:05:14.660" end="00:05:18.220" style="s2">gefängnis und prager botschaft</p>
+<p begin="00:05:16.700" end="00:05:22.250" style="s2">letztendlich in den<span style="s4"> feinen</span> teil</p>
+<p begin="00:05:18.220" end="00:05:25.130" style="s2">deutschlands gekommen und glauben sie</p>
+<p begin="00:05:22.250" end="00:05:28.419" style="s2">mir ich<span style="s3"> mach</span><span style="s4"> mich</span> dafür stark dass</p>
+<p begin="00:05:25.130" end="00:05:30.800" style="s2">dieses<span style="s4"> nicht</span> erneut ein neues</p>
+<p begin="00:05:28.419" end="00:05:32.870" style="s2">großflächen experiment gibt ein</p>
+<p begin="00:05:30.800" end="00:05:35.690" style="s2">sozialistisches großflächen experiment</p>
+<p begin="00:05:32.870" end="00:05:39.550" style="s2">dem namen vereinigte staaten von europa</p>
+<p begin="00:05:35.690" end="00:05:39.550" style="s2">vielen dank für ihre aufmerksamkeit</p>
+<p begin="00:05:49.410" end="00:05:53.740" style="s2">dann bedanke ich mich<span style="s3"> beim reuigen</span></p>
+<p begin="00:05:51.460" end="00:05:58.260" style="s2"><span style="s3">schiller</span> der uns zeit geschenkt hat gibt</p>
+<p begin="00:05:53.740" end="00:05:58.260" style="s2">es fragen<span style="s3"> ja</span><span style="s4"> die</span> bitte<span style="s3"> aus losen</span></p>
+<p begin="00:06:06.670" end="00:06:14.900" style="s2"><span style="s3">dankeschön</span> wir haben zwei fragen das ist</p>
+<p begin="00:06:10.460" end="00:06:16.880" style="s2">einmal der kollege christa<span style="s3"> cremer</span> und<span style="s4"> es</span></p>
+<p begin="00:06:14.900" end="00:06:22.520" style="s2">ist der kollege pascal<span style="s4"> van ist die ich</span></p>
+<p begin="00:06:16.880" end="00:06:24.080" style="s2"><span style="s4">dann diese</span><span style="s3"> all</span><span style="s4"> mikrofone</span> bitte<span style="s4"> lieber</span></p>
+<p begin="00:06:22.520" end="00:06:26.690" style="s2"><span style="s3">martin schiller du hast gerade von den</span></p>
+<p begin="00:06:24.080" end="00:06:31.340" style="s2">erfahrungen in der ddr gesprochen welche</p>
+<p begin="00:06:26.690" end="00:06:34.120" style="s2">ähnlichkeiten siehst du heute und damals</p>
+<p begin="00:06:31.340" end="00:06:36.560" style="s2">also auch in bezug auf unfreiheit in ca</p>
+<p begin="00:06:34.120" end="00:06:38.600" style="s2">vielleicht<span style="s3"> kann es</span><span style="s4"> mit</span><span style="s3"> ein</span><span style="s4"> erläutern</span> wo</p>
+<p begin="00:06:36.560" end="00:06:41.120" style="s2">du auch sie ist dass wir auf dem weg<span style="s3"> zur</span></p>
+<p begin="00:06:38.600" end="00:06:43.570" style="s2"><span style="s3">zusage zu</span><span style="s4"> einer</span> neuen sozialistischen</p>
+<p begin="00:06:41.120" end="00:06:48.110" style="s2">republik sind</p>
+<p begin="00:06:43.570" end="00:06:49.820" style="s2"><span style="s3">bitte schön</span><span style="s4"> es</span> ist<span style="s3"> natürlich</span> so dass der</p>
+<p begin="00:06:48.110" end="00:06:51.980" style="s2">direkte vergleich die jetzigen</p>
+<p begin="00:06:49.820" end="00:06:54.350" style="s2">verhältnisse und<span style="s4"> ddr</span> dieser vergleich</p>
+<p begin="00:06:51.980" end="00:06:57.050" style="s2">hinkt natürlich so schlimm ist es noch</p>
+<p begin="00:06:54.350" end="00:06:57.770" style="s2">nicht aber es gibt ohne zweifel starke</p>
+<p begin="00:06:57.050" end="00:07:00.500" style="s2">parallelen</p>
+<p begin="00:06:57.770" end="00:07:01.160" style="s2">schauen wir<span style="s3"> uns</span> die das verhalten der</p>
+<p begin="00:07:00.500" end="00:07:02.780" style="s2">kirchen an</p>
+<p begin="00:07:01.160" end="00:07:04.700" style="s2">schauen wir uns das verhalten der medien</p>
+<p begin="00:07:02.780" end="00:07:05.630" style="s2">an schauen wir uns das verhalten der</p>
+<p begin="00:07:04.700" end="00:07:06.800" style="s2">gewerkschaften an</p>
+<p begin="00:07:05.630" end="00:07:08.900" style="s2">schauen wir uns das verhalten des</p>
+<p begin="00:07:06.800" end="00:07:10.820" style="s2">mainstreams<span style="s4"> an</span> und ja da gibt es</p>
+<p begin="00:07:08.900" end="00:07:12.950" style="s2">ähnlichkeiten und ich sehe oder</p>
+<p begin="00:07:10.820" end="00:07:16.419" style="s2"><span style="s3">parallelen</span> und natürlich sehe ich in</p>
+<p begin="00:07:12.950" end="00:07:18.380" style="s2">einem aufgeblähten<span style="s3"> superstaat</span></p>
+<p begin="00:07:16.419" end="00:07:20.810" style="s2">zentralisiert und einheitlich</p>
+<p begin="00:07:18.380" end="00:07:24.650" style="s2">durchorganisiert natürlich wieder eine</p>
+<p begin="00:07:20.810" end="00:07:29.080" style="s2">gewisse gefahr<span style="s4"> letztendlich</span> eine<span style="s4"> große</span></p>
+<p begin="00:07:24.650" end="00:07:29.080" style="s2">gefahr für unsere freiheit</p>
+<p begin="00:07:33.320" end="00:07:38.240" style="s2"><span style="s3">danke schön</span><span style="s4"> dann</span> herr<span style="s3"> freundes</span></p>
+<p begin="00:07:35.090" end="00:07:41.360" style="s2"><span style="s4">bitteschön</span><span style="s3"> hs</span><span style="s4"> schiller</span> wie denken sie</p>
+<p begin="00:07:38.240" end="00:07:43.970" style="s2">hat die jugend in europa<span style="s3"> eine</span><span style="s4"> zukunft</span><span style="s3"> in</span></p>
+<p begin="00:07:41.360" end="00:07:46.070" style="s2">dieser eu und was müsste man ändern</p>
+<p begin="00:07:43.970" end="00:07:48.500" style="s2">damit beispielsweise die hohe</p>
+<p begin="00:07:46.070" end="00:07:50.090" style="s2">jugendarbeitslosigkeit und viele andere</p>
+<p begin="00:07:48.500" end="00:07:52.040" style="s2">probleme<span style="s4"> ganz</span> europa<span style="s4"> aber</span> auch in</p>
+<p begin="00:07:50.090" end="00:07:55.940" style="s2">deutschland für junge menschen gelöst</p>
+<p begin="00:07:52.040" end="00:07:59.270" style="s2">werden können ja ich selbst habe ja zwei</p>
+<p begin="00:07:55.940" end="00:08:02.840" style="s2">kinder caroline 16 und<span style="s4"> maximilian</span> 18</p>
+<p begin="00:07:59.270" end="00:08:04.190" style="s2">und mein engagement in der<span style="s3"> afc</span><span style="s4"> ist</span></p>
+<p begin="00:08:02.840" end="00:08:05.930" style="s2">natürlich auch da ist natürlich auch<span style="s3"> ein</span></p>
+<p begin="00:08:04.190" end="00:08:09.590" style="s2"><span style="s4">grund</span><span style="s3"> deswegen</span> ich mich darauf<span style="s4"> die</span> stark</p>
+<p begin="00:08:05.930" end="00:08:11.030" style="s2"><span style="s4">mache</span> für die jugend wird sich dieser</p>
+<p begin="00:08:09.590" end="00:08:13.340" style="s2">ganzen eu prozess natürlich sehr</p>
+<p begin="00:08:11.030" end="00:08:15.620" style="s2">schwierig da oder konflikt<span style="s3"> eve</span> da da wir</p>
+<p begin="00:08:13.340" end="00:08:17.480" style="s2">unterschiedliche kulturen und werte</p>
+<p begin="00:08:15.620" end="00:08:19.490" style="s2">haben<span style="s3"> und</span> es<span style="s3"> ist</span><span style="s4"> ja</span> nicht ohne grund so</p>
+<p begin="00:08:17.480" end="00:08:22.400" style="s2">dass wir gerade in ländern wie spanien</p>
+<p begin="00:08:19.490" end="00:08:25.100" style="s2">oder<span style="s4"> auch portugal eine extrem hohe</span></p>
+<p begin="00:08:22.400" end="00:08:27.770" style="s2">jugendarbeitslosigkeit haben der<span style="s4"> billige</span></p>
+<p begin="00:08:25.100" end="00:08:30.920" style="s2"><span style="s4">euro</span> sorgt dafür dass die wirtschaft in</p>
+<p begin="00:08:27.770" end="00:08:33.680" style="s2">deutschland<span style="s3"> unverhältnismäßig</span> boomt</p>
+<p begin="00:08:30.920" end="00:08:34.820" style="s2">schlecht bezahlt<span style="s4"> gut wohlgemerkt und in</span></p>
+<p begin="00:08:33.680" end="00:08:36.099" style="s2">anderen lehrer andere länder werden</p>
+<p begin="00:08:34.820" end="00:08:38.750" style="s2">ausgesaugt</p>
+<p begin="00:08:36.099" end="00:08:40.010" style="s2">das<span style="s3"> ist natürlich</span><span style="s4"> extrem negativ gerade</span></p>
+<p begin="00:08:38.750" end="00:08:45.260" style="s2">auf die auf die jugend auf die</p>
+<p begin="00:08:40.010" end="00:08:47.300" style="s2">heranwachsenden personen aus<span style="s4"> dankeschön</span></p>
+<p begin="00:08:45.260" end="00:08:49.550" style="s2"><span style="s3">gern</span> bedanke ich mich recht herzlich</p>
+<p begin="00:08:47.300" end="00:08:52.630" style="s2"><span style="s4">beim kandidaten martin schiller</span></p>
+<p begin="00:08:49.550" end="00:08:52.630" style="s2">herzlichen dank<span style="s3"> an</span><span style="s4"> geschäft</span></p>
+</div>
+</body>
+</tt>

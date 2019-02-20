@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:02.570" end="00:00:11.750" style="s2">[Musik]</p>
+<p begin="00:00:07.570" end="00:00:13.250" style="s2">also liebe genossinnen und genossen<span style="s3"> man</span></p>
+<p begin="00:00:11.750" end="00:00:16.129" style="s2"><span style="s3">könnte</span> ja<span style="s3"> meine</span> kandidatur ein bisschen</p>
+<p begin="00:00:13.250" end="00:00:18.560" style="s2">als zurück zu den wurzeln bezeichnen und</p>
+<p begin="00:00:16.129" end="00:00:21.760" style="s2">ich<span style="s4"> verstehe</span><span style="s3"> vielleicht</span> auch diese kann</p>
+<p begin="00:00:18.560" end="00:00:23.750" style="s2">die kandidatur ein bisschen mehr als das</p>
+<p begin="00:00:21.760" end="00:00:26.570" style="s2"><span style="s3">obwohl</span><span style="s4"> so</span> richtig weg war ich ja</p>
+<p begin="00:00:23.750" end="00:00:28.220" style="s2">eigentlich nie meine<span style="s3"> eltern wohnen</span><span style="s4"> ja</span> in</p>
+<p begin="00:00:26.570" end="00:00:30.380" style="s2">schneeberg und bin auch der</p>
+<p begin="00:00:28.220" end="00:00:31.699" style="s2"><span style="s3">stadtfraktion in schneeberg dankbar dass</span></p>
+<p begin="00:00:30.380" end="00:00:33.800" style="s2">sich das seit vielen jahren ja auch in</p>
+<p begin="00:00:31.699" end="00:00:36.370" style="s2">der<span style="s4"> stadtfraktion in schneeberg im</span></p>
+<p begin="00:00:33.800" end="00:00:39.799" style="s2">aufsichtsrat sitzen darf und</p>
+<p begin="00:00:36.370" end="00:00:42.100" style="s2">letztendlich auch<span style="s3"> danach bin an</span> vielen</p>
+<p begin="00:00:39.799" end="00:00:45.650" style="s2"><span style="s3">probleme</span> die hier in der region</p>
+<p begin="00:00:42.100" end="00:00:47.059" style="s2"><span style="s3">dies</span> hier viele<span style="s3"> viel</span> erfolg<span style="s3"> dieses</span></p>
+<p begin="00:00:45.650" end="00:00:48.010" style="s2">problem in der region dann nicht auch</p>
+<p begin="00:00:47.059" end="00:00:50.180" style="s2">dort<span style="s4"> mitbekommen</span></p>
+<p begin="00:00:48.010" end="00:00:53.000" style="s2">ja ich habe vor vielen jahren</p>
+<p begin="00:00:50.180" end="00:00:56.269" style="s2">tatsächlich aus beruflichen gründen<span style="s4"> die</span></p>
+<p begin="00:00:53.000" end="00:00:58.549" style="s2">region verlassen zumindest<span style="s3"> den</span> wohnort</p>
+<p begin="00:00:56.269" end="00:01:00.949" style="s2"><span style="s3">aber</span><span style="s4"> ich</span> war ja auch immer mitglied</p>
+<p begin="00:00:58.549" end="00:01:02.780" style="s2">unseres kreisverbandes<span style="s4"> habt auch</span></p>
+<p begin="00:01:00.949" end="00:01:04.850" style="s2">ernsthaft<span style="s4"> nie</span><span style="s3"> darüber</span> nachgedacht<span style="s3"> ob</span> das</p>
+<p begin="00:01:02.780" end="00:01:06.439" style="s2">jeweils eine option wäre<span style="s3"> aus</span><span style="s4"> dem</span></p>
+<p begin="00:01:04.850" end="00:01:08.689" style="s2"><span style="s3">kreisverband</span><span style="s4"> zu</span> verlassen</p>
+<p begin="00:01:06.439" end="00:01:10.490" style="s2">ich sehe ihn auch bis zum heutigen tag</p>
+<p begin="00:01:08.689" end="00:01:13.520" style="s2">nicht dass es da eine notwendigkeit gebe</p>
+<p begin="00:01:10.490" end="00:01:15.229" style="s2"><span style="s4">diesen</span> kreisverband zu verlassen ich</p>
+<p begin="00:01:13.520" end="00:01:17.479" style="s2">habe ja auch meine<span style="s4"> abgeordnetenbüros</span></p>
+<p begin="00:01:15.229" end="00:01:21.020" style="s2"><span style="s3">hier</span> in aue und<span style="s3"> den</span> schneeberg</p>
+<p begin="00:01:17.479" end="00:01:22.729" style="s2"><span style="s4">matschiner und</span><span style="s3"> den</span> annaberg interessant</p>
+<p begin="00:01:21.020" end="00:01:24.350" style="s2">ist immer noch auch für mich so zu</p>
+<p begin="00:01:22.729" end="00:01:26.179" style="s2">manchmal ist so eine begebenheit ich bin</p>
+<p begin="00:01:24.350" end="00:01:28.759" style="s2">abends leipzig oder<span style="s3"> in</span> görlitz unterwegs</p>
+<p begin="00:01:26.179" end="00:01:30.979" style="s2">und dann gibt es dann menschen die mich</p>
+<p begin="00:01:28.759" end="00:01:33.770" style="s2"><span style="s3">kennen</span> und fragen müssen sie dann heute</p>
+<p begin="00:01:30.979" end="00:01:35.509" style="s2">noch ins erzgebirge fahren<span style="s4"> dass</span> eine</p>
+<p begin="00:01:33.770" end="00:01:37.009" style="s2">denke ich dann immer bedauern die mich</p>
+<p begin="00:01:35.509" end="00:01:39.049" style="s2">jetzt<span style="s3"> dass</span> ich<span style="s4"> es</span> ins erzgebirge fahren</p>
+<p begin="00:01:37.009" end="00:01:41.329" style="s2">muss und<span style="s3"> bei</span> den anderen stelle ich dann</p>
+<p begin="00:01:39.049" end="00:01:42.469" style="s2">immer fest<span style="s4"> hat</span> sich<span style="s3"> immer</span> noch nicht</p>
+<p begin="00:01:41.329" end="00:01:44.210" style="s2"><span style="s4">ganz</span> herumgesprochen dass<span style="s3"> ich</span></p>
+<p begin="00:01:42.469" end="00:01:48.920" style="s2">tatsächlich<span style="s3"> irgendwie</span> haben mittlerweile</p>
+<p begin="00:01:44.210" end="00:01:51.799" style="s2">tatsächlich einen wohnsitz in dresden ab</p>
+<p begin="00:01:48.920" end="00:01:54.350" style="s2">und es ist<span style="s4"> trotzdem</span> immer wieder<span style="s3"> auch</span></p>
+<p begin="00:01:51.799" end="00:01:58.249" style="s2"><span style="s3">spannend</span> und interessant für mich ins</p>
+<p begin="00:01:54.350" end="00:01:59.170" style="s2">gebirge<span style="s3"> zurückzufahren</span> oder<span style="s3"> termine</span><span style="s4"> hier</span></p>
+<p begin="00:01:58.249" end="00:02:03.139" style="s2"><span style="s4">zu</span> absolvieren</p>
+<p begin="00:01:59.170" end="00:02:05.509" style="s2">anfang dezember gab<span style="s3"> es</span> so<span style="s3"> in ein</span></p>
+<p begin="00:02:03.139" end="00:02:08.360" style="s2"><span style="s3">ereignis</span><span style="s4"> natürlich</span><span style="s3"> auch</span> wieder daran</p>
+<p begin="00:02:05.509" end="00:02:09.679" style="s2">erinnerte wo man eigentlich herkommt die</p>
+<p begin="00:02:08.360" end="00:02:11.360" style="s2">neuen fahrer den die<span style="s4"> fraktionen</span></p>
+<p begin="00:02:09.679" end="00:02:12.620" style="s2">eingestellt hat mit<span style="s3"> ihnen waren weiters</span></p>
+<p begin="00:02:11.360" end="00:02:15.950" style="s2"><span style="s4">glashütter</span> also<span style="s4"> ein</span> ortsteil von</p>
+<p begin="00:02:12.620" end="00:02:16.710" style="s2"><span style="s4">karlsfeld coesfeld und</span> seine bemerkung</p>
+<p begin="00:02:15.950" end="00:02:19.650" style="s2">war</p>
+<p begin="00:02:16.710" end="00:02:21.480" style="s2"><span style="s4">das</span><span style="s3"> ist</span> auch<span style="s4"> schon</span><span style="s3"> schön</span> geschmückt das</p>
+<p begin="00:02:19.650" end="00:02:22.770" style="s2">waren vollkommen überraschend jemand ja</p>
+<p begin="00:02:21.480" end="00:02:24.600" style="s2">auch<span style="s3"> so</span><span style="s4"> aus jetzt kommt</span> und<span style="s3"> jetzt</span> seit</p>
+<p begin="00:02:22.770" end="00:02:26.340" style="s2">vielen jahren auch in<span style="s3"> dresden</span><span style="s4"> bund</span><span style="s3"> war</span></p>
+<p begin="00:02:24.600" end="00:02:29.660" style="s2"><span style="s3">überrascht</span><span style="s4"> das ist anfang dezember schon</span></p>
+<p begin="00:02:26.340" end="00:02:33.450" style="s2">tatsächlich überall<span style="s4"> glitzerte</span> und<span style="s4"> dass</span></p>
+<p begin="00:02:29.660" end="00:02:36.900" style="s2">man natürlich schon das gefühl hat er es</p>
+<p begin="00:02:33.450" end="00:02:37.640" style="s2">geht hier um eine<span style="s3"> wichtige ein wichtiges</span></p>
+<p begin="00:02:36.900" end="00:02:40.290" style="s2">ereignis</p>
+<p begin="00:02:37.640" end="00:02:43.230" style="s2">interessant ist auch<span style="s4"> das</span> will<span style="s3"> ich auch</span></p>
+<p begin="00:02:40.290" end="00:02:44.910" style="s2">nicht unerwähnt lassen dass ich zum</p>
+<p begin="00:02:43.230" end="00:02:46.860" style="s2">beispiel immer wieder<span style="s4"> reaktionen kriege</span></p>
+<p begin="00:02:44.910" end="00:02:49.290" style="s2">auch auf den letzten brief den ich</p>
+<p begin="00:02:46.860" end="00:02:50.550" style="s2">geschrieben hat<span style="s3"> er</span><span style="s4"> mir</span><span style="s3"> dann menschen</span></p>
+<p begin="00:02:49.290" end="00:02:53.750" style="s2">hier aus der region schreiben</p>
+<p begin="00:02:50.550" end="00:02:57.420" style="s2">erstens<span style="s3"> irgendwelche ereignisse die sie</span></p>
+<p begin="00:02:53.750" end="00:02:58.950" style="s2">mit der region verbinden<span style="s3"> oder</span> letztes</p>
+<p begin="00:02:57.420" end="00:03:01.500" style="s2"><span style="s3">hab</span> ich<span style="s3"> denn</span> der nähe von<span style="s4"> hunt</span><span style="s3"> züge</span></p>
+<p begin="00:02:58.950" end="00:03:02.850" style="s2"><span style="s3">jemanden</span><span style="s4"> gesucht der mir</span> geschrieben hat</p>
+<p begin="00:03:01.500" end="00:03:04.520" style="s2">und ein anliegen hatte ich mich dorthin</p>
+<p begin="00:03:02.850" end="00:03:09.240" style="s2">gefahren</p>
+<p begin="00:03:04.520" end="00:03:10.980" style="s2">dann kam ich in das haus<span style="s4"> ein</span><span style="s3"> erinnerte</span></p>
+<p begin="00:03:09.240" end="00:03:13.920" style="s2">dass ich mich und dann sagte der zum</p>
+<p begin="00:03:10.980" end="00:03:15.330" style="s2">jahr das sie kennen ja den weg wie ich</p>
+<p begin="00:03:13.920" end="00:03:18.120" style="s2">kenne den<span style="s3"> weg dass</span><span style="s4"> ich</span><span style="s3"> war</span> ja vor 15</p>
+<p begin="00:03:15.330" end="00:03:19.050" style="s2">jahren schon mal ja stimmt ist es<span style="s3"> mir</span></p>
+<p begin="00:03:18.120" end="00:03:20.670" style="s2">wieder eingefallen dass ich damals</p>
+<p begin="00:03:19.050" end="00:03:22.320" style="s2">tatsächlich als kreisrat schon mal bei</p>
+<p begin="00:03:20.670" end="00:03:24.030" style="s2"><span style="s3">ihm</span> gewesen bin und<span style="s4"> wir um eine</span></p>
+<p begin="00:03:22.320" end="00:03:26.370" style="s2">umgehungsstraße<span style="s3"> miteinander</span> diskutiert</p>
+<p begin="00:03:24.030" end="00:03:28.920" style="s2">haben<span style="s3"> die</span> damals dort in hundshübel</p>
+<p begin="00:03:26.370" end="00:03:31.260" style="s2">gebaut werden sollte es ist viel</p>
+<p begin="00:03:28.920" end="00:03:35.310" style="s2">passiert in den letzten jahren<span style="s3"> und</span> viele</p>
+<p begin="00:03:31.260" end="00:03:37.230" style="s2">haben ja dasselbe<span style="s4"> ergebnis wie ich dass</span></p>
+<p begin="00:03:35.310" end="00:03:39.720" style="s2">viele<span style="s4"> menschen</span> wegen der arbeit auch dem</p>
+<p begin="00:03:37.230" end="00:03:41.250" style="s2">erzgebirge den rücken gekehrt haben und</p>
+<p begin="00:03:39.720" end="00:03:44.670" style="s2"><span style="s4">in</span> den westen gegangen sind wie mein</p>
+<p begin="00:03:41.250" end="00:03:47.610" style="s2">sohn<span style="s4"> meiner</span> schwiegertochter<span style="s4"> und</span><span style="s3"> deshalb</span></p>
+<p begin="00:03:44.670" end="00:03:49.440" style="s2">geht es mir<span style="s3"> also wie vielen anderen in</span></p>
+<p begin="00:03:47.610" end="00:03:52.410" style="s2">meiner generation wir müssen weit fahren</p>
+<p begin="00:03:49.440" end="00:03:53.970" style="s2">um unsere enkelkinder zu sehen<span style="s3"> gibt</span> es</p>
+<p begin="00:03:52.410" end="00:03:56.940" style="s2">ja erfreulicherweise seit einiger zeit</p>
+<p begin="00:03:53.970" end="00:03:59.430" style="s2">wieder so einen<span style="s3"> großen</span> wanderungssaldo</p>
+<p begin="00:03:56.940" end="00:04:01.770" style="s2">auch in sachsen<span style="s3"> auch</span> in das erzgebirge</p>
+<p begin="00:03:59.430" end="00:04:04.680" style="s2"><span style="s3">kern</span> menschen wieder zurück mittlerweile</p>
+<p begin="00:04:01.770" end="00:04:06.030" style="s2">auch mit familie die als jugendliche<span style="s3"> weg</span></p>
+<p begin="00:04:04.680" end="00:04:08.000" style="s2"><span style="s3">gegangen</span> sind weil infolge der</p>
+<p begin="00:04:06.030" end="00:04:10.680" style="s2">deindustrialisierung nach der wende</p>
+<p begin="00:04:08.000" end="00:04:12.390" style="s2">keine ausbildung oder noch arbeit hier</p>
+<p begin="00:04:10.680" end="00:04:15.210" style="s2">in der heimat es gegeben hat</p>
+<p begin="00:04:12.390" end="00:04:18.000" style="s2">inzwischen hat sich also die<span style="s4"> lager</span> in</p>
+<p begin="00:04:15.210" end="00:04:19.980" style="s2">der<span style="s4"> region</span> geändert auf dem arbeitsmarkt</p>
+<p begin="00:04:18.000" end="00:04:20.940" style="s2">zum beispiel radikal<span style="s3"> der</span><span style="s4"> ein oder andere</span></p>
+<p begin="00:04:19.980" end="00:04:21.549" style="s2">wird<span style="s4"> zwischen</span> noch erinnern<span style="s4"> und das</span></p>
+<p begin="00:04:20.940" end="00:04:23.259" style="s2"><span style="s4">erzgebirge</span></p>
+<p begin="00:04:21.549" end="00:04:26.699" style="s2">gehörte viele jahre zu den negativen</p>
+<p begin="00:04:23.259" end="00:04:28.080" style="s2">spitzenreitern<span style="s3"> gerade</span> wenn<span style="s3"> es</span> um die</p>
+<p begin="00:04:26.699" end="00:04:32.050" style="s2">arbeitslosen</p>
+<p begin="00:04:28.080" end="00:04:33.669" style="s2">heute sind wir mit 5,0 prozent positiver</p>
+<p begin="00:04:32.050" end="00:04:35.470" style="s2">spitzenreiter in ganz sachsen was die</p>
+<p begin="00:04:33.669" end="00:04:38.020" style="s2">anzahl der menschen sind die als</p>
+<p begin="00:04:35.470" end="00:04:39.550" style="s2">arbeitslos gemeldet sind die unternehmen</p>
+<p begin="00:04:38.020" end="00:04:42.340" style="s2">besonders auch die handwerksbetriebe</p>
+<p begin="00:04:39.550" end="00:04:45.669" style="s2">suchen jetzt teilweise händeringend</p>
+<p begin="00:04:42.340" end="00:04:48.340" style="s2">leute<span style="s3"> gerade</span> erst vor wenigen tagen war</p>
+<p begin="00:04:45.669" end="00:04:50.860" style="s2">zu lesen<span style="s3"> dass</span> hier in unserer region</p>
+<p begin="00:04:48.340" end="00:04:54.129" style="s2">also im erzgebirge<span style="s3"> in</span> den nächsten</p>
+<p begin="00:04:50.860" end="00:04:55.810" style="s2">jahren bis zu<span style="s3"> 50.000</span> arbeitskräfte im</p>
+<p begin="00:04:54.129" end="00:04:58.120" style="s2">erzgebirge fehlen werden<span style="s3"> diese</span> plätze</p>
+<p begin="00:04:55.810" end="00:05:00.099" style="s2">werden sich nicht<span style="s4"> ausschließlich</span> mit</p>
+<p begin="00:04:58.120" end="00:05:02.080" style="s2">denen<span style="s4"> setzen lassen</span><span style="s3"> die</span> vielleicht</p>
+<p begin="00:05:00.099" end="00:05:04.419" style="s2"><span style="s3">zurückkehren</span> in die alte heimat</p>
+<p begin="00:05:02.080" end="00:05:06.520" style="s2"><span style="s4">es</span> werden wir nur schaffen wenn menschen</p>
+<p begin="00:05:04.419" end="00:05:08.710" style="s2">das erzgebirge für sich als neue heimat</p>
+<p begin="00:05:06.520" end="00:05:11.199" style="s2">entdecken<span style="s4"> die</span> derzeit noch<span style="s3"> in</span> anderen</p>
+<p begin="00:05:08.710" end="00:05:12.190" style="s2">regionen dieser welt leben und wird ihr</p>
+<p begin="00:05:11.199" end="00:05:14.500" style="s2">zuhause haben</p>
+<p begin="00:05:12.190" end="00:05:16.180" style="s2">man kann ja in den lokalen medien schon</p>
+<p begin="00:05:14.500" end="00:05:18.370" style="s2">viele schöne beispiele gelungener</p>
+<p begin="00:05:16.180" end="00:05:20.650" style="s2">integration lesen<span style="s3"> sollten</span><span style="s4"> dann</span></p>
+<p begin="00:05:18.370" end="00:05:22.870" style="s2"><span style="s3">tatsächlich</span> auch als erzgebirge nicht</p>
+<p begin="00:05:20.650" end="00:05:25.060" style="s2">das licht unter den scheffel stellen</p>
+<p begin="00:05:22.870" end="00:05:26.889" style="s2">schließlich hat das erzgebirge ja eine</p>
+<p begin="00:05:25.060" end="00:05:29.500" style="s2"><span style="s3">800</span> jahre lange tradition der</p>
+<p begin="00:05:26.889" end="00:05:31.779" style="s2">anziehungskraft auf menschen<span style="s3"> die</span> den<span style="s3"> ruf</span></p>
+<p begin="00:05:29.500" end="00:05:34.659" style="s2">nach gemeinsamer arbeit folgten ich<span style="s4"> sag</span></p>
+<p begin="00:05:31.779" end="00:05:36.610" style="s2"><span style="s4">dir</span><span style="s3"> mal</span> als stichwort werke schreiben<span style="s4"> es</span></p>
+<p begin="00:05:34.659" end="00:05:39.159" style="s2">mag ja<span style="s3"> sein</span> dass es in zukunft weniger</p>
+<p begin="00:05:36.610" end="00:05:40.860" style="s2">die kunde von neuen reichen<span style="s4"> erfunden</span></p>
+<p begin="00:05:39.159" end="00:05:43.300" style="s2">sein<span style="s3"> wird</span> die die leute anlockt sondern</p>
+<p begin="00:05:40.860" end="00:05:45.849" style="s2">spannende bilder von kreativer</p>
+<p begin="00:05:43.300" end="00:05:48.639" style="s2">innovativer<span style="s4"> arbeit</span><span style="s3"> lust bekommt</span></p>
+<p begin="00:05:45.849" end="00:05:49.210" style="s2"><span style="s3">hinzufahren mitzumachen und hier</span> zu</p>
+<p begin="00:05:48.639" end="00:05:51.370" style="s2">bleiben</p>
+<p begin="00:05:49.210" end="00:05:53.050" style="s2"><span style="s4">liebe genossinnen und</span><span style="s3"> genossen hat die</span></p>
+<p begin="00:05:51.370" end="00:05:54.849" style="s2"><span style="s3">landesvorsitzender</span> linken und ich als</p>
+<p begin="00:05:53.050" end="00:05:57.039" style="s2"><span style="s3">spitzenkandidatin</span> fraktionsvorsitzender</p>
+<p begin="00:05:54.849" end="00:05:59.199" style="s2">linken bewerben sich ja zusammen mit</p>
+<p begin="00:05:57.039" end="00:06:01.150" style="s2">drei weiteren tollen genossen um eine</p>
+<p begin="00:05:59.199" end="00:06:02.379" style="s2">direktkandidatur im erzgebirge für mich</p>
+<p begin="00:06:01.150" end="00:06:04.389" style="s2">das kann ich glaube ich auch für</p>
+<p begin="00:06:02.379" end="00:06:06.340" style="s2">anzusprechen ist es auch ein klares</p>
+<p begin="00:06:04.389" end="00:06:08.080" style="s2">bekenntnis zum größten und</p>
+<p begin="00:06:06.340" end="00:06:10.599" style="s2">bevölkerungsreichsten<span style="s4"> landkreis</span> in</p>
+<p begin="00:06:08.080" end="00:06:12.639" style="s2">sachsen<span style="s3"> zur</span> attraktiven<span style="s3"> region</span> des</p>
+<p begin="00:06:10.599" end="00:06:14.139" style="s2">erzgebirges in denen die menschen dinge</p>
+<p begin="00:06:12.639" end="00:06:15.819" style="s2"><span style="s3">zusammen bekommen wie sonst in</span></p>
+<p begin="00:06:14.139" end="00:06:18.669" style="s2">deutschland kaum irgendwo nämlich</p>
+<p begin="00:06:15.819" end="00:06:21.279" style="s2">industrie gewerbe und handwerk auf der</p>
+<p begin="00:06:18.669" end="00:06:23.139" style="s2">einen seite tourismus freizeit und</p>
+<p begin="00:06:21.279" end="00:06:25.330" style="s2">vergnügen auf der anderen seite<span style="s3"> hier</span></p>
+<p begin="00:06:23.139" end="00:06:28.029" style="s2">moderne produktionsweisen und<span style="s3"> da</span></p>
+<p begin="00:06:25.330" end="00:06:31.180" style="s2">liebevolle pflege traditioneller kunst</p>
+<p begin="00:06:28.029" end="00:06:34.389" style="s2"><span style="s3">all das zusammen nennen wir erzgebirgler</span></p>
+<p begin="00:06:31.180" end="00:06:34.969" style="s2"><span style="s4">hamid</span> und<span style="s3"> diese damit lassen wir uns</span></p>
+<p begin="00:06:34.389" end="00:06:36.469" style="s2">nicht</p>
+<p begin="00:06:34.969" end="00:06:38.959" style="s2"><span style="s3">jedoch</span> von nazis noch<span style="s3"> von</span></p>
+<p begin="00:06:36.469" end="00:06:48.379" style="s2">rechtspopulisten weg nehmen denn es ist</p>
+<p begin="00:06:38.959" end="00:06:50.839" style="s2">unsere welt offener damit die software</p>
+<p begin="00:06:48.379" end="00:06:52.789" style="s2">aktuell rücksichtslos auf dieser heimat</p>
+<p begin="00:06:50.839" end="00:06:55.519" style="s2"><span style="s4">werde</span> dabei wissen wir dass die<span style="s4"> blau</span></p>
+<p begin="00:06:52.789" end="00:06:58.219" style="s2"><span style="s3">braunen</span> gar nicht wissen was heimat ist</p>
+<p begin="00:06:55.519" end="00:07:00.349" style="s2">und<span style="s3"> wieder</span><span style="s4"> posch</span> der langjährige<span style="s4"> landes</span></p>
+<p begin="00:06:58.219" end="00:07:02.299" style="s2"><span style="s4">und</span><span style="s3"> fraktionsvorsitzender</span> der<span style="s3"> pds</span> hat</p>
+<p begin="00:07:00.349" end="00:07:04.879" style="s2">mal klar<span style="s3"> hat</span> es<span style="s3"> mal</span><span style="s4"> klar auf den punkt</span></p>
+<p begin="00:07:02.299" end="00:07:07.429" style="s2"><span style="s3">gebracht heimat sagt peter und</span></p>
+<p begin="00:07:04.879" end="00:07:10.039" style="s2">nationalismus passen nicht zueinander</p>
+<p begin="00:07:07.429" end="00:07:12.259" style="s2">heimat ist da wo menschen sich<span style="s4"> zu hause</span></p>
+<p begin="00:07:10.039" end="00:07:14.839" style="s2">fühlen weil<span style="s4"> ihre</span> familie freundeskreis</p>
+<p begin="00:07:12.259" end="00:07:17.299" style="s2">kurzum weil es<span style="s4"> da</span><span style="s3"> menschen</span><span style="s4"> gibt</span> mit</p>
+<p begin="00:07:14.839" end="00:07:17.959" style="s2">denen<span style="s3"> die ihnen besonders</span> lieb und teuer</p>
+<p begin="00:07:17.299" end="00:07:20.209" style="s2">sind</p>
+<p begin="00:07:17.959" end="00:07:22.519" style="s2">diese heimat werden wir gegenüber den</p>
+<p begin="00:07:20.209" end="00:07:25.519" style="s2">billigen<span style="s3"> hetzerischen</span> sprüchen<span style="s3"> der</span><span style="s4"> afd</span></p>
+<p begin="00:07:22.519" end="00:07:27.739" style="s2"><span style="s4">und</span> allen anderen rechten spinnern in</p>
+<p begin="00:07:25.519" end="00:07:30.110" style="s2">schutz nehmen gerade als gebürtige</p>
+<p begin="00:07:27.739" end="00:07:31.819" style="s2">erzgebirgler liegt mir die<span style="s4"> röhre</span> liegt</p>
+<p begin="00:07:30.110" end="00:07:33.860" style="s2"><span style="s3">mir</span> das europa der<span style="s4"> regionen</span><span style="s3"> sehr</span> am</p>
+<p begin="00:07:31.819" end="00:07:35.419" style="s2">herzen<span style="s3"> wie</span> am erzgebirge wissen dass</p>
+<p begin="00:07:33.860" end="00:07:39.949" style="s2">gute nachbarschaft über staatsgrenzen</p>
+<p begin="00:07:35.419" end="00:07:42.800" style="s2">hinweg geht und gott sei dank wissen wir</p>
+<p begin="00:07:39.949" end="00:07:44.959" style="s2">auch dass es anders gewesen ist</p>
+<p begin="00:07:42.800" end="00:07:46.909" style="s2">denn dort wo menschen voneinander</p>
+<p begin="00:07:44.959" end="00:07:49.219" style="s2">abgegrenzt werden<span style="s3"> da</span> werden<span style="s3"> sie</span></p>
+<p begin="00:07:46.909" end="00:07:51.139" style="s2">irgendwann wieder aufeinander schießen</p>
+<p begin="00:07:49.219" end="00:07:53.169" style="s2">aber wir wollen ein europa des friedens</p>
+<p begin="00:07:51.139" end="00:07:55.009" style="s2"><span style="s3">auch</span> deshalb lehnen wir</p>
+<p begin="00:07:53.169" end="00:07:57.339" style="s2">truppentransporte durch sachsen zu</p>
+<p begin="00:07:55.009" end="00:08:00.709" style="s2">kriegsspielen nahe der russischen grenze</p>
+<p begin="00:07:57.339" end="00:08:03.110" style="s2">strikt ab wir haben<span style="s4"> ja</span><span style="s3"> in</span> diesem jahr</p>
+<p begin="00:08:00.709" end="00:08:05.299" style="s2">kommunalwahlen<span style="s4"> europa</span> und<span style="s4"> landtagswahlen</span></p>
+<p begin="00:08:03.110" end="00:08:07.039" style="s2">das ist für alle unsere genossinnen und</p>
+<p begin="00:08:05.299" end="00:08:09.289" style="s2">genossen die unermüdlich unterwegs sind</p>
+<p begin="00:08:07.039" end="00:08:10.339" style="s2">um die inhalte unserer politik<span style="s3"> unter</span> die</p>
+<p begin="00:08:09.289" end="00:08:11.239" style="s2">leute zu bringen eine große</p>
+<p begin="00:08:10.339" end="00:08:13.159" style="s2">herausforderung</p>
+<p begin="00:08:11.239" end="00:08:15.079" style="s2">ich danke euch auch jetzt schon ganz</p>
+<p begin="00:08:13.159" end="00:08:17.779" style="s2">herzlich dafür dass<span style="s3"> ihr</span> auch viele</p>
+<p begin="00:08:15.079" end="00:08:19.969" style="s2">monate lange dieses mühen auf euch<span style="s3"> nehmt</span></p>
+<p begin="00:08:17.779" end="00:08:22.489" style="s2">und das oftmals in einem alter in dem</p>
+<p begin="00:08:19.969" end="00:08:22.879" style="s2">man sich ja angeblich zur ruhe setzen</p>
+<p begin="00:08:22.489" end="00:08:25.039" style="s2">soll</p>
+<p begin="00:08:22.879" end="00:08:27.739" style="s2">doch<span style="s4"> der</span><span style="s3"> bleibt in bewegung dass er</span></p>
+<p begin="00:08:25.039" end="00:08:30.559" style="s2">geistig wie körperlich<span style="s4"> weit</span> bleibt ihr</p>
+<p begin="00:08:27.739" end="00:08:33.050" style="s2"><span style="s3">fit</span> gemeinsam mit den jüngeren werden</p>
+<p begin="00:08:30.559" end="00:08:34.639" style="s2">wir auch in den letzten jahr die den</p>
+<p begin="00:08:33.050" end="00:08:36.829" style="s2">letzten ganze uns gefunden haben werden</p>
+<p begin="00:08:34.639" end="00:08:39.319" style="s2">wir einen engagierten wahlkampf führen</p>
+<p begin="00:08:36.829" end="00:08:41.089" style="s2">zugleich sind<span style="s3"> diese</span> drei wahlen in</p>
+<p begin="00:08:39.319" end="00:08:43.610" style="s2"><span style="s4">zukunft zur</span><span style="s3"> zeit</span> ja gerade für uns als</p>
+<p begin="00:08:41.089" end="00:08:45.649" style="s2"><span style="s3">linke auch eine große chance wir stehen</span></p>
+<p begin="00:08:43.610" end="00:08:47.740" style="s2"><span style="s3">wir</span> sehen ja die welt als ganzes</p>
+<p begin="00:08:45.649" end="00:08:49.600" style="s2">die verbindung zwischen dem leben</p>
+<p begin="00:08:47.740" end="00:08:51.760" style="s2"><span style="s4">ort</span><span style="s3"> und den globalen zusammenhängen das</span></p>
+<p begin="00:08:49.600" end="00:08:54.040" style="s2">unterscheidet uns ja auch von denen die</p>
+<p begin="00:08:51.760" end="00:08:56.649" style="s2">konzeptlos nur die symptome an den</p>
+<p begin="00:08:54.040" end="00:08:59.080" style="s2">symptomen<span style="s3"> herumdoktern und das dann als</span></p>
+<p begin="00:08:56.649" end="00:09:01.450" style="s2">pragmatismus verkaufen so<span style="s3"> wurde</span> das land</p>
+<p begin="00:08:59.080" end="00:09:04.060" style="s2"><span style="s4">meine verehrten lehrkräftemangel geführt</span></p>
+<p begin="00:09:01.450" end="00:09:05.950" style="s2">und so geht es wirklich nicht weiter</p>
+<p begin="00:09:04.060" end="00:09:08.290" style="s2">doch der zeitgeist<span style="s4"> schreibt</span><span style="s3"> nach</span></p>
+<p begin="00:09:05.950" end="00:09:10.120" style="s2">einfachen<span style="s3"> lösungen</span><span style="s4"> folgt man ihnen</span> wird</p>
+<p begin="00:09:08.290" end="00:09:12.790" style="s2">die welt nicht einfacher sondern ein</p>
+<p begin="00:09:10.120" end="00:09:14.200" style="s2"><span style="s3">förmiger</span> mühsam erkämpfte grundrechte</p>
+<p begin="00:09:12.790" end="00:09:16.029" style="s2">bleiben auf der strecke</p>
+<p begin="00:09:14.200" end="00:09:18.070" style="s2"><span style="s3">die</span> menschen wollen<span style="s3"> zu recht sicherheit</span></p>
+<p begin="00:09:16.029" end="00:09:20.200" style="s2">sicherheit schafft man aber nicht</p>
+<p begin="00:09:18.070" end="00:09:22.540" style="s2">dadurch dass man wie in den usa<span style="s3"> hätten</span></p>
+<p begin="00:09:20.200" end="00:09:24.220" style="s2"><span style="s4">in</span> zugang<span style="s3"> zu waffen gibt sicherheit</span></p>
+<p begin="00:09:22.540" end="00:09:25.899" style="s2">schafft man in erster linie durch</p>
+<p begin="00:09:24.220" end="00:09:27.310" style="s2"><span style="s3">soziale</span> sicherheit durch eine</p>
+<p begin="00:09:25.899" end="00:09:28.029" style="s2">überwindung der spaltung der</p>
+<p begin="00:09:27.310" end="00:09:29.560" style="s2">gesellschaft</p>
+<p begin="00:09:28.029" end="00:09:32.800" style="s2">dazu gehören<span style="s4"> zwölf</span> euro mindestlohn</p>
+<p begin="00:09:29.560" end="00:09:35.770" style="s2">damit niemand der arbeit geht ein alter</p>
+<p begin="00:09:32.800" end="00:09:37.630" style="s2"><span style="s3">da</span> muss gerade im niedriglohn gebiet</p>
+<p begin="00:09:35.770" end="00:09:40.420" style="s2">erzgebirge ist es auch eine klare ansage</p>
+<p begin="00:09:37.630" end="00:09:42.040" style="s2">von links ohne uns klappt das nicht wir</p>
+<p begin="00:09:40.420" end="00:09:45.100" style="s2">werden die<span style="s4"> anderen</span> vor<span style="s3"> uns</span><span style="s4"> hertreiben</span></p>
+<p begin="00:09:42.040" end="00:09:46.240" style="s2"><span style="s3">auch</span><span style="s4"> wenn</span> es um das soziale wird viele</p>
+<p begin="00:09:45.100" end="00:09:48.850" style="s2">menschen<span style="s3"> haben angst vor kriminalität</span></p>
+<p begin="00:09:46.240" end="00:09:50.709" style="s2">das hat auch<span style="s3"> der</span><span style="s4"> westen das</span><span style="s3"> tut er</span><span style="s4"> hat</span></p>
+<p begin="00:09:48.850" end="00:09:52.570" style="s2"><span style="s3">auch damit was etwas zu tun dass die</span></p>
+<p begin="00:09:50.709" end="00:09:54.670" style="s2">polizei als ordnungsfaktor durch den</p>
+<p begin="00:09:52.570" end="00:09:56.290" style="s2">personalabbau von der cdu geführten</p>
+<p begin="00:09:54.670" end="00:09:58.060" style="s2">staatsregierung weitgehend aus dem</p>
+<p begin="00:09:56.290" end="00:09:59.890" style="s2">öffentlichen leben verschwunden ist und</p>
+<p begin="00:09:58.060" end="00:10:01.570" style="s2">deshalb<span style="s4"> rüsten</span> sie<span style="s3"> jetzt</span> mit</p>
+<p begin="00:09:59.890" end="00:10:03.790" style="s2">videoüberwachung auf und greifen damit</p>
+<p begin="00:10:01.570" end="00:10:05.860" style="s2">in die rechte der menschen ein<span style="s3"> dass</span> sie</p>
+<p begin="00:10:03.790" end="00:10:09.160" style="s2">ungestört<span style="s3"> ihr</span> privatleben ohne ständige</p>
+<p begin="00:10:05.860" end="00:10:11.290" style="s2">beobachtung führen können wir sagen klar</p>
+<p begin="00:10:09.160" end="00:10:13.600" style="s2">das land braucht mehr polizistinnen und</p>
+<p begin="00:10:11.290" end="00:10:15.250" style="s2">polizisten auf der straße damit sie auch</p>
+<p begin="00:10:13.600" end="00:10:18.279" style="s2"><span style="s3">im ohr für</span> die sorgen<span style="s3"> der</span> bürgerinnen</p>
+<p begin="00:10:15.250" end="00:10:20.079" style="s2">und bürger<span style="s4"> wir</span> in der zeit des</p>
+<p begin="00:10:18.279" end="00:10:22.420" style="s2">menschengemachten klimawandels ist auch</p>
+<p begin="00:10:20.079" end="00:10:24.130" style="s2">ökologie eine soziale frage<span style="s4"> auch</span></p>
+<p begin="00:10:22.420" end="00:10:26.110" style="s2"><span style="s3">künftige</span> generationen und nicht nur die</p>
+<p begin="00:10:24.130" end="00:10:28.540" style="s2">reichsten<span style="s4"> und</span><span style="s3"> ihnen</span> sollten auf der erde</p>
+<p begin="00:10:26.110" end="00:10:30.760" style="s2">leben können ohne ständig<span style="s3"> abwechselnd</span></p>
+<p begin="00:10:28.540" end="00:10:32.829" style="s2">von<span style="s4"> durch überschwemmungen unerträgliche</span></p>
+<p begin="00:10:30.760" end="00:10:33.850" style="s2">hitze und<span style="s4"> extreme kälteeinbrüchen</span></p>
+<p begin="00:10:32.829" end="00:10:36.070" style="s2">geplagt zu werden</p>
+<p begin="00:10:33.850" end="00:10:38.220" style="s2">die vorboten davon lassen<span style="s3"> sich ja</span></p>
+<p begin="00:10:36.070" end="00:10:40.300" style="s2">bereits weltweit beobachten deshalb</p>
+<p begin="00:10:38.220" end="00:10:42.480" style="s2">irgendwie unsere welt wichtigen</p>
+<p begin="00:10:40.300" end="00:10:45.120" style="s2">klimawandel leugnen</p>
+<p begin="00:10:42.480" end="00:10:47.399" style="s2">konservativen überlassen sachsen darf</p>
+<p begin="00:10:45.120" end="00:10:48.930" style="s2">politisch nicht<span style="s4"> schwarz blau werben</span></p>
+<p begin="00:10:47.399" end="00:10:51.029" style="s2">und zum<span style="s4"> schluss</span> liebe genossinnen und</p>
+<p begin="00:10:48.930" end="00:10:53.430" style="s2">genossen wir sollten tatsächlich für</p>
+<p begin="00:10:51.029" end="00:10:55.470" style="s2">jede stimme für die linke<span style="s3"> werden</span> weil<span style="s3"> es</span></p>
+<p begin="00:10:53.430" end="00:10:57.269" style="s2">wichtig ist<span style="s4"> wir</span> sollten<span style="s3"> auch</span> für unsere</p>
+<p begin="00:10:55.470" end="00:10:58.740" style="s2">inhaltliche<span style="s3"> überzeugungen</span> stehen</p>
+<p begin="00:10:57.269" end="00:11:00.720" style="s2">ich glaube da<span style="s4"> brauche ich</span><span style="s3"> ja</span> hier</p>
+<p begin="00:10:58.740" end="00:11:02.370" style="s2">niemanden davon überzeugen aber wir</p>
+<p begin="00:11:00.720" end="00:11:03.449" style="s2">sollten auch nicht jeden<span style="s3"> all</span> das</p>
+<p begin="00:11:02.370" end="00:11:05.790" style="s2">versprechen was er von uns</p>
+<p begin="00:11:03.449" end="00:11:06.810" style="s2">möglicherweise<span style="s4"> hören</span> will<span style="s3"> sondern wir</span></p>
+<p begin="00:11:05.790" end="00:11:09.510" style="s2">sollten bei unserer<span style="s3"> grundüberzeugungen</span></p>
+<p begin="00:11:06.810" end="00:11:11.130" style="s2"><span style="s3">bleiben</span> weil<span style="s4"> ein altes versprechen das</span></p>
+<p begin="00:11:09.510" end="00:11:13.649" style="s2">macht schon einer der ministerpräsident</p>
+<p begin="00:11:11.130" end="00:11:15.480" style="s2">wir sagen klar für<span style="s3"> was verstehen und für</span></p>
+<p begin="00:11:13.649" end="00:11:17.279" style="s2">was wir was wir ändern wollen in<span style="s3"> diesem</span></p>
+<p begin="00:11:15.480" end="00:11:19.230" style="s2">land wir haben<span style="s4"> konzepte</span><span style="s3"> wir haben die in</span></p>
+<p begin="00:11:17.279" end="00:11:21.149" style="s2">den letzten jahren vorgelegt und<span style="s4"> dass</span><span style="s3"> es</span></p>
+<p begin="00:11:19.230" end="00:11:23.100" style="s2"><span style="s3">wirklich</span> braucht ist eine linke kraft in</p>
+<p begin="00:11:21.149" end="00:11:25.139" style="s2">dieses land weiterhin treibt und</p>
+<p begin="00:11:23.100" end="00:11:28.050" style="s2">natürlich wollen wir auch in diesem land</p>
+<p begin="00:11:25.139" end="00:11:30.000" style="s2">verantwortung übernehmen aber nicht zu</p>
+<p begin="00:11:28.050" end="00:11:32.220" style="s2">den bedingungen der dauer<span style="s3"> regierung cdu</span></p>
+<p begin="00:11:30.000" end="00:11:33.300" style="s2">auch dazu gibt es schon genügend andere</p>
+<p begin="00:11:32.220" end="00:11:36.000" style="s2">parteien die das wollten</p>
+<p begin="00:11:33.300" end="00:11:37.769" style="s2">also lasst uns gemeinsam so stark werden</p>
+<p begin="00:11:36.000" end="00:11:39.630" style="s2">wie es nur irgendwie geht ich will</p>
+<p begin="00:11:37.769" end="00:11:41.399" style="s2">meinen beitrag dazu<span style="s3"> leisten auch</span><span style="s4"> gerne</span></p>
+<p begin="00:11:39.630" end="00:11:44.300" style="s2">hier<span style="s3"> vor</span> ort mit euch gemeinsam<span style="s3"> in</span></p>
+<p begin="00:11:41.399" end="00:11:44.300" style="s2">meiner<span style="s4"> arbeit</span></p>
+<p begin="00:11:45.650" end="00:11:51.679" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

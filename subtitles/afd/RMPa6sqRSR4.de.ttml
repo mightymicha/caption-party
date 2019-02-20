@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:08.630" end="00:00:12.599" style="s2">liebe freunde heute habe ich eine ernste</p>
+<p begin="00:00:11.670" end="00:00:14.370" style="s2">angelegenheit</p>
+<p begin="00:00:12.599" end="00:00:17.250" style="s2">ich bitte euch unterstützt mich</p>
+<p begin="00:00:14.370" end="00:00:20.460" style="s2">unterstützt vor allem den freien den</p>
+<p begin="00:00:17.250" end="00:00:23.189" style="s2">kritischen<span style="s3"> journalisten billy six</span> der</p>
+<p begin="00:00:20.460" end="00:00:24.060" style="s2"><span style="s4">ist</span> in der<span style="s4"> dreizehnten</span> woche in haft<span style="s3"> in</span></p>
+<p begin="00:00:23.189" end="00:00:26.789" style="s2"><span style="s3">venezuela</span></p>
+<p begin="00:00:24.060" end="00:00:30.150" style="s2">er hat dort sehr<span style="s4"> kritischen</span> regierung</p>
+<p begin="00:00:26.789" end="00:00:32.160" style="s2">berichtet wurde verhaftet<span style="s4"> und</span><span style="s3"> keiner</span></p>
+<p begin="00:00:30.150" end="00:00:33.960" style="s2">kümmert sich<span style="s3"> drum</span><span style="s4"> die</span> deutsche<span style="s4"> botschaft</span></p>
+<p begin="00:00:32.160" end="00:00:35.790" style="s2">schafft es nicht<span style="s3"> die</span> bundesrepublik</p>
+<p begin="00:00:33.960" end="00:00:38.700" style="s2">schafft<span style="s3"> es</span> nicht<span style="s4"> ihnen frei zu bekommen</span></p>
+<p begin="00:00:35.790" end="00:00:42.090" style="s2">bitte engagieren<span style="s3"> sie</span> sich<span style="s4"> das basics</span></p>
+<p begin="00:00:38.700" end="00:00:44.370" style="s2">wieder<span style="s4"> freikommt</span> meinungsfreiheit ist</p>
+<p begin="00:00:42.090" end="00:00:45.600" style="s2"><span style="s3">kein</span> verbrechen meinungsfreiheit ist</p>
+<p begin="00:00:44.370" end="00:00:47.550" style="s2">wichtig wir sind froh<span style="s4"> dass wir</span><span style="s3"> solche</span></p>
+<p begin="00:00:45.600" end="00:00:48.710" style="s2"><span style="s4">geboren in der ganzen welt zu und in</span></p>
+<p begin="00:00:47.550" end="00:00:51.809" style="s2"><span style="s3">deutschland</span> unterwegs haben</p>
+<p begin="00:00:48.710" end="00:00:54.289" style="s2"><span style="s4">bitte</span> unterstützen<span style="s3"> sie</span> uns unterstützen</p>
+<p begin="00:00:51.809" end="00:00:57.629" style="s2">sie vor allem<span style="s4"> unter</span><span style="s3"> free willy de</span></p>
+<p begin="00:00:54.289" end="00:00:59.370" style="s2">spenden sie dort sprechen sie ihren</p>
+<p begin="00:00:57.629" end="00:01:00.239" style="s2">bundestagsabgeordneten in ihrem</p>
+<p begin="00:00:59.370" end="00:01:01.920" style="s2">wahlkreis an</p>
+<p begin="00:01:00.239" end="00:01:05.040" style="s2">wir brauchen jetzt eine welle der</p>
+<p begin="00:01:01.920" end="00:01:08.310" style="s2">solidarität der mit billy<span style="s3"> six</span><span style="s4"> freikommt</span></p>
+<p begin="00:01:05.040" end="00:01:11.040" style="s2">ich danke euch ganz herzlich<span style="s3"> jetzt kanal</span></p>
+<p begin="00:01:08.310" end="00:01:13.040" style="s2">abonnieren und nicht vergessen<span style="s3"> wenn nach</span></p>
+<p begin="00:01:11.040" end="00:01:13.940" style="s2"><span style="s4">richtungen</span> aktivieren</p>
+<p begin="00:01:13.040" end="00:01:18.129" style="s2">[Musik]</p>
+<p begin="00:01:13.940" end="00:01:18.129" style="s2">[Applaus]</p>
+</div>
+</body>
+</tt>

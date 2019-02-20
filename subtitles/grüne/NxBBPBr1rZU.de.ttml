@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:02.870" end="00:00:07.649" style="s2">hallo liebe leute jetzt wird es konkret</p>
+<p begin="00:00:05.190" end="00:00:09.690" style="s2">mit<span style="s3"> dem</span><span style="s4"> bildungs</span> bonus es kann losgehen</p>
+<p begin="00:00:07.649" end="00:00:12.450" style="s2">wir stellen für das nächste schuljahr</p>
+<p begin="00:00:09.690" end="00:00:13.320" style="s2"><span style="s4">acht</span> millionen euro<span style="s3"> zur</span> verfügung das</p>
+<p begin="00:00:12.450" end="00:00:16.199" style="s2">ist eine menge holz</p>
+<p begin="00:00:13.320" end="00:00:17.880" style="s2">uns ist<span style="s3"> das</span> wichtig als grünen weil der</p>
+<p begin="00:00:16.199" end="00:00:20.550" style="s2"><span style="s4">bildungs</span> bonus ein baustein zur</p>
+<p begin="00:00:17.880" end="00:00:22.080" style="s2">bildungsgerechtigkeit ist jetzt müssen</p>
+<p begin="00:00:20.550" end="00:00:23.820" style="s2"><span style="s3">wir</span> noch herausfinden welche schulen das</p>
+<p begin="00:00:22.080" end="00:00:27.330" style="s2">geld bekommen<span style="s3"> dafür</span> wird gerade<span style="s4"> einen</span></p>
+<p begin="00:00:23.820" end="00:00:29.189" style="s2">sozialatlas entwickelt und daran<span style="s3"> kann</span></p>
+<p begin="00:00:27.330" end="00:00:31.529" style="s2"><span style="s3">man</span> dann sehen welche schulen wir</p>
+<p begin="00:00:29.189" end="00:00:33.000" style="s2">besonders dringend unterstützen wollen</p>
+<p begin="00:00:31.529" end="00:00:35.070" style="s2">wir wollen das geld nicht mit der</p>
+<p begin="00:00:33.000" end="00:00:37.410" style="s2">gießkanne verteilen die schulen können</p>
+<p begin="00:00:35.070" end="00:00:39.120" style="s2">dann die mittel verwenden für lehrer</p>
+<p begin="00:00:37.410" end="00:00:42.440" style="s2">stunden oder auch erzieherinnen</p>
+<p begin="00:00:39.120" end="00:00:45.120" style="s2">einstellen<span style="s3"> sozialpädagogin</span> oder auch</p>
+<p begin="00:00:42.440" end="00:00:48.120" style="s2"><span style="s4">tanzangebote</span> machen oder theaterprojekte</p>
+<p begin="00:00:45.120" end="00:00:49.980" style="s2">das hängt<span style="s3"> vom</span> konzept der<span style="s3"> schulen</span> ab wir</p>
+<p begin="00:00:48.120" end="00:00:53.930" style="s2">freuen uns<span style="s4"> das</span> es jetzt endlich<span style="s3"> losgeht</span></p>
+<p begin="00:00:49.980" end="00:00:53.930" style="s2">das gibt den schulen rückenwind</p>
+</div>
+</body>
+</tt>

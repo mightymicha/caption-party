@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:05.069" style="s2">liebe bürger herr präsident meine damen</p>
+<p begin="00:00:02.790" end="00:00:06.839" style="s2">und herren ist es wichtig und gut dass</p>
+<p begin="00:00:05.069" end="00:00:07.620" style="s2">wir über dieses projekt nord stream<span style="s3"> zwei</span></p>
+<p begin="00:00:06.839" end="00:00:09.450" style="s2"><span style="s4">heute</span> reden</p>
+<p begin="00:00:07.620" end="00:00:11.820" style="s2">wenngleich der titel mich ein wenig</p>
+<p begin="00:00:09.450" end="00:00:12.870" style="s2">verwirrt hat von den grünen und grünen</p>
+<p begin="00:00:11.820" end="00:00:14.639" style="s2"><span style="s4">jahr</span> in auftrag geben</p>
+<p begin="00:00:12.870" end="00:00:16.379" style="s2">es geht um die vereinbarkeit von<span style="s3"> nord</span></p>
+<p begin="00:00:14.639" end="00:00:18.869" style="s2"><span style="s3">stream 2 mit den</span> klima und<span style="s4"> energie</span></p>
+<p begin="00:00:16.379" end="00:00:21.029" style="s2"><span style="s3">zielen</span> der eu<span style="s4"> als</span> ob<span style="s4"> das</span> der wirklich</p>
+<p begin="00:00:18.869" end="00:00:23.430" style="s2">entscheidende punkt wäre<span style="s3"> ich</span><span style="s4"> muss</span> sagen</p>
+<p begin="00:00:21.029" end="00:00:24.900" style="s2">er<span style="s3"> hätte themen ihre argumentation ist</span></p>
+<p begin="00:00:23.430" end="00:00:28.050" style="s2">wirklich abenteuerlich nach der</p>
+<p begin="00:00:24.900" end="00:00:30.060" style="s2">kernkraft nach der kohle wollen sie</p>
+<p begin="00:00:28.050" end="00:00:32.340" style="s2">jetzt auch noch die gaskraft verteufeln</p>
+<p begin="00:00:30.060" end="00:00:34.920" style="s2">wo bekommen wir dann<span style="s3"> bitteschön</span> zukunft</p>
+<p begin="00:00:32.340" end="00:00:36.899" style="s2">die vernünftige stetig energie<span style="s4"> erzeugte</span></p>
+<p begin="00:00:34.920" end="00:00:39.629" style="s2">energie her<span style="s4"> da</span> kann ich wirklich die</p>
+<p begin="00:00:36.899" end="00:00:42.090" style="s2">bürger nur<span style="s3"> waren</span> wenn die grünen unser</p>
+<p begin="00:00:39.629" end="00:00:44.129" style="s2">land regieren dann werden sie uns in die</p>
+<p begin="00:00:42.090" end="00:00:45.539" style="s2">steinzeit zurück befördern was sie hier</p>
+<p begin="00:00:44.129" end="00:00:49.050" style="s2">anbieten ist eine energiepolitische</p>
+<p begin="00:00:45.539" end="00:00:51.030" style="s2"><span style="s4">amokfahrt</span> richtig und vernünftig ist</p>
+<p begin="00:00:49.050" end="00:00:52.949" style="s2"><span style="s3">vielmehr</span> wir<span style="s3"> brauchen</span> in zukunft mehr</p>
+<p begin="00:00:51.030" end="00:00:56.010" style="s2">gas gerade wegen der vermurksten</p>
+<p begin="00:00:52.949" end="00:00:57.870" style="s2">energiewende nur<span style="s4"> flexible</span> schnell an</p>
+<p begin="00:00:56.010" end="00:01:00.270" style="s2"><span style="s4">fahrbare</span> gaskraftwerke<span style="s3"> eröffnet</span> die</p>
+<p begin="00:00:57.870" end="00:01:02.129" style="s2">möglichkeiten<span style="s4"> auch</span> in zeiten ohne wind</p>
+<p begin="00:01:00.270" end="00:01:02.899" style="s2">und sonnenstrom das land am laufen zu</p>
+<p begin="00:01:02.129" end="00:01:06.689" style="s2">halten</p>
+<p begin="00:01:02.899" end="00:01:09.780" style="s2"><span style="s3">nord stream 2</span><span style="s4"> ist</span> also eine absolut</p>
+<p begin="00:01:06.689" end="00:01:11.400" style="s2"><span style="s3">folgerichtige</span> idee diese neue leitung</p>
+<p begin="00:01:09.780" end="00:01:13.500" style="s2">gefährdet nicht unsere energiesicherheit</p>
+<p begin="00:01:11.400" end="00:01:15.030" style="s2">sondern sie stärkt sie und das ist</p>
+<p begin="00:01:13.500" end="00:01:17.640" style="s2"><span style="s4">wichtig</span> für deutschland für die bürger</p>
+<p begin="00:01:15.030" end="00:01:19.799" style="s2">und für die unternehmen<span style="s3"> dass die neue</span></p>
+<p begin="00:01:17.640" end="00:01:22.380" style="s2">leitung<span style="s3"> unsere</span> abhängigkeit von russland</p>
+<p begin="00:01:19.799" end="00:01:24.030" style="s2">erhöht das ist<span style="s4"> ebenso</span> quatsch mit soße</p>
+<p begin="00:01:22.380" end="00:01:26.220" style="s2"><span style="s4">denn</span> das<span style="s4"> gleiche</span> russische gas durch die</p>
+<p begin="00:01:24.030" end="00:01:28.650" style="s2">ukraine fließt dann sind<span style="s3"> für</span><span style="s4"> weniger</span></p>
+<p begin="00:01:26.220" end="00:01:30.689" style="s2">abhängig nein natürlich nicht vielmehr</p>
+<p begin="00:01:28.650" end="00:01:31.140" style="s2">haben wir<span style="s3"> daher</span> sogar ein zusätzliches</p>
+<p begin="00:01:30.689" end="00:01:33.060" style="s2">risiko</p>
+<p begin="00:01:31.140" end="00:01:35.640" style="s2">wenn<span style="s4"> die</span><span style="s3"> transitländer ding mit den hahn</span></p>
+<p begin="00:01:33.060" end="00:01:38.450" style="s2">zudrehen eine bilaterale pipeline liegt</p>
+<p begin="00:01:35.640" end="00:01:41.570" style="s2">also ganz klar im deutschen interesse</p>
+<p begin="00:01:38.450" end="00:01:44.370" style="s2">ein paar zahlen dazu</p>
+<p begin="00:01:41.570" end="00:01:46.890" style="s2">2017 haben wir<span style="s3"> einen</span> 117<span style="s4"> milliarden</span></p>
+<p begin="00:01:44.370" end="00:01:49.200" style="s2">kubikmeter gas importiert davon nicht</p>
+<p begin="00:01:46.890" end="00:01:51.120" style="s2">mal die hälfte aus<span style="s4"> russland</span> und wir<span style="s4"> um</span></p>
+<p begin="00:01:49.200" end="00:01:53.040" style="s2">davon die hälfte haben wir nur selbst</p>
+<p begin="00:01:51.120" end="00:01:54.800" style="s2">verbraucht von abhängigkeit kann also</p>
+<p begin="00:01:53.040" end="00:01:56.730" style="s2">überhaupt gar keine rede sein</p>
+<p begin="00:01:54.800" end="00:01:58.170" style="s2"><span style="s3">nun</span> verstehe<span style="s4"> ich</span> ja dass die</p>
+<p begin="00:01:56.730" end="00:01:59.820" style="s2">transitländer die pipeline nicht gut</p>
+<p begin="00:01:58.170" end="00:02:00.300" style="s2">finden und das ist durchaus ernst zu</p>
+<p begin="00:01:59.820" end="00:02:02.460" style="s2">nehmen</p>
+<p begin="00:02:00.300" end="00:02:04.260" style="s2">das<span style="s4"> aber</span> kann nichts an unserer</p>
+<p begin="00:02:02.460" end="00:02:05.970" style="s2">grundsätzlichen entscheidung ändern wie</p>
+<p begin="00:02:04.260" end="00:02:08.000" style="s2">im privaten leben wählt man eben das</p>
+<p begin="00:02:05.970" end="00:02:10.170" style="s2">beste und sicherste angebot</p>
+<p begin="00:02:08.000" end="00:02:12.000" style="s2">gleichwohl macht es aber natürlich sind</p>
+<p begin="00:02:10.170" end="00:02:14.610" style="s2">mitzuhelfen dass auch die ukraine weiter</p>
+<p begin="00:02:12.000" end="00:02:16.140" style="s2">versorgt wird es ist zu begrüßen wenn</p>
+<p begin="00:02:14.610" end="00:02:16.770" style="s2">auch die<span style="s3"> land</span> leitung weiter betrieben</p>
+<p begin="00:02:16.140" end="00:02:19.410" style="s2">werden kann</p>
+<p begin="00:02:16.770" end="00:02:21.720" style="s2">im übrigen stärken wir mit<span style="s3"> nord stream</span></p>
+<p begin="00:02:19.410" end="00:02:24.030" style="s2">sogar die energiesicherheit der ukraine</p>
+<p begin="00:02:21.720" end="00:02:27.020" style="s2">denn natürlich kann das<span style="s4"> ostsee</span> gas bei</p>
+<p begin="00:02:24.030" end="00:02:29.460" style="s2">notwendigkeit auch in richtung osteuropa</p>
+<p begin="00:02:27.020" end="00:02:31.320" style="s2">weitergeleitet werden meine damen und</p>
+<p begin="00:02:29.460" end="00:02:33.360" style="s2">herren<span style="s4"> nord</span> stream<span style="s4"> 2</span> ist ein absolut</p>
+<p begin="00:02:31.320" end="00:02:35.700" style="s2">sinnvolles projekt an dem übrigens nicht</p>
+<p begin="00:02:33.360" end="00:02:37.250" style="s2">nur russen und deutsche beteiligt sind</p>
+<p begin="00:02:35.700" end="00:02:39.900" style="s2">sondern auch unternehmen aus österreich</p>
+<p begin="00:02:37.250" end="00:02:41.970" style="s2"><span style="s4">aus</span> frankreich belgien aus den</p>
+<p begin="00:02:39.900" end="00:02:43.590" style="s2">niederlanden aus großbritannien</p>
+<p begin="00:02:41.970" end="00:02:45.030" style="s2">es ist ein privatwirtschaftliches</p>
+<p begin="00:02:43.590" end="00:02:47.970" style="s2">projekt<span style="s4"> das</span> auch der völkerverständigung</p>
+<p begin="00:02:45.030" end="00:02:49.290" style="s2"><span style="s4">die</span> das ist ein projekt des friedens<span style="s4"> wer</span></p>
+<p begin="00:02:47.970" end="00:02:53.100" style="s2">miteinander<span style="s4"> handelt der</span><span style="s3"> schießt</span><span style="s4"> nicht</span></p>
+<p begin="00:02:49.290" end="00:02:56.489" style="s2"><span style="s4">aufeinander lasse mich noch kurz zum</span></p>
+<p begin="00:02:53.100" end="00:02:58.170" style="s2">thema flüssiggas kommen da wird ja nun</p>
+<p begin="00:02:56.489" end="00:03:00.720" style="s2">die diskussion bevor er<span style="s3"> das deutschland</span></p>
+<p begin="00:02:58.170" end="00:03:02.970" style="s2">flüssiggas aus den usa kaufen könnte das</p>
+<p begin="00:03:00.720" end="00:03:05.250" style="s2">hielte ich für völlig absurd da dieses</p>
+<p begin="00:03:02.970" end="00:03:08.010" style="s2">gas deutlich teurer als das russische</p>
+<p begin="00:03:05.250" end="00:03:09.930" style="s2">ist wenn das kommt dann kann man das nur</p>
+<p begin="00:03:08.010" end="00:03:11.400" style="s2">als einknicken vor der ungewöhnlichen</p>
+<p begin="00:03:09.930" end="00:03:12.420" style="s2"><span style="s3">draw</span><span style="s4"> politik</span> der<span style="s3"> us-administration</span></p>
+<p begin="00:03:11.400" end="00:03:13.920" style="s2">werden</p>
+<p begin="00:03:12.420" end="00:03:16.290" style="s2">das werden die bürger<span style="s4"> zu</span><span style="s3"> recht nicht</span></p>
+<p begin="00:03:13.920" end="00:03:20.560" style="s2"><span style="s4">akzeptieren</span> deutschland muss endlich<span style="s3"> zu</span></p>
+<p begin="00:03:16.290" end="00:03:23.290" style="s2"><span style="s3">bereden handeln im</span> bau</p>
+<p begin="00:03:20.560" end="00:03:24.760" style="s2">den bau von lng terminals an unserer</p>
+<p begin="00:03:23.290" end="00:03:26.670" style="s2">küste herr minister<span style="s3"> den</span><span style="s4"> halten</span> auch wir</p>
+<p begin="00:03:24.760" end="00:03:28.239" style="s2"><span style="s4">für</span> richtig und zwar vor allem als</p>
+<p begin="00:03:26.670" end="00:03:29.380" style="s2"><span style="s3">sicherheitsinfrastruktur natürlich</span></p>
+<p begin="00:03:28.239" end="00:03:31.390" style="s2">müssen wir auch für einen fall der fälle</p>
+<p begin="00:03:29.380" end="00:03:33.250" style="s2">gewappnet sein dass kein gas mehr aus</p>
+<p begin="00:03:31.390" end="00:03:33.610" style="s2">der<span style="s3"> pram</span> kommt aus welchem grund auch</p>
+<p begin="00:03:33.250" end="00:03:35.560" style="s2">immer</p>
+<p begin="00:03:33.610" end="00:03:38.349" style="s2"><span style="s3">aber</span> stand heute gibt es eben keinerlei</p>
+<p begin="00:03:35.560" end="00:03:40.269" style="s2">grund das deutlich teurere fracking gras</p>
+<p begin="00:03:38.349" end="00:03:42.130" style="s2">aus den usa zu kaufen das macht<span style="s4"> auch</span></p>
+<p begin="00:03:40.269" end="00:03:44.349" style="s2">finanzieller hinsicht keinen sinn und</p>
+<p begin="00:03:42.130" end="00:03:45.090" style="s2">das macht auch aus umweltsicht keinen</p>
+<p begin="00:03:44.349" end="00:03:47.920" style="s2">sinn</p>
+<p begin="00:03:45.090" end="00:03:49.510" style="s2">zum schluss will ich noch sagen dass</p>
+<p begin="00:03:47.920" end="00:03:52.989" style="s2">mich die politik der vereinigten staaten</p>
+<p begin="00:03:49.510" end="00:03:55.269" style="s2">hier wirklich sehr befremdet der versuch</p>
+<p begin="00:03:52.989" end="00:03:57.459" style="s2">der politischen bevormundung erinnert an</p>
+<p begin="00:03:55.269" end="00:03:59.260" style="s2">tiefste zeiten des kalten krieges und</p>
+<p begin="00:03:57.459" end="00:03:59.950" style="s2">das sollte eigentlich langsam überwunden</p>
+<p begin="00:03:59.260" end="00:04:02.769" style="s2">sein</p>
+<p begin="00:03:59.950" end="00:04:04.690" style="s2">ich finde wir deutschen sollten alles</p>
+<p begin="00:04:02.769" end="00:04:07.180" style="s2">dafür tun dass wir nie wieder zum</p>
+<p begin="00:04:04.690" end="00:04:08.739" style="s2">spielball der großmächte werden lassen</p>
+<p begin="00:04:07.180" end="00:04:10.870" style="s2">sie uns<span style="s3"> den</span> rücken gerade machen und auf</p>
+<p begin="00:04:08.739" end="00:04:12.640" style="s2">basis von vernunft und internationaler</p>
+<p begin="00:04:10.870" end="00:04:14.769" style="s2">zusammenarbeit unsere legitimen</p>
+<p begin="00:04:12.640" end="00:04:16.830" style="s2">nationalen interessen vertreten<span style="s3"> vielen</span></p>
+<p begin="00:04:14.769" end="00:04:16.830" style="s2"><span style="s3">dank</span></p>
+<p begin="00:04:17.130" end="00:04:24.630" style="s2">jetzt kann man abonnieren und nicht</p>
+<p begin="00:04:19.870" end="00:04:24.630" style="s2">vergessen<span style="s3"> wenn</span><span style="s4"> nach richtigen aktivieren</span></p>
+</div>
+</body>
+</tt>

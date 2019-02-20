@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:05.310" style="s2">liebe freunde<span style="s3"> liebe gäste</span><span style="s4"> liebe</span></p>
+<p begin="00:00:02.909" end="00:00:07.830" style="s2">medienvertreter<span style="s3"> im namen des gesamten</span></p>
+<p begin="00:00:05.310" end="00:00:12.030" style="s2">landesverbandes sachsen begrüße ich sie</p>
+<p begin="00:00:07.830" end="00:00:16.310" style="s2">heute hier in riesa in sachsen zur</p>
+<p begin="00:00:12.030" end="00:00:20.160" style="s2">bundestagswahl haben wir mit<span style="s3"> 27 prozent</span></p>
+<p begin="00:00:16.310" end="00:00:23.430" style="s2"><span style="s4">wählerstimmen</span><span style="s3"> zustimmung</span> gezeigt welches</p>
+<p begin="00:00:20.160" end="00:00:26.670" style="s2"><span style="s4">potenzial</span> unsere partei hat<span style="s3"> und</span> wir</p>
+<p begin="00:00:23.430" end="00:00:28.730" style="s2"><span style="s3">haben</span> eine vorahnung davon erlebt was</p>
+<p begin="00:00:26.670" end="00:00:30.720" style="s2">noch möglich ist</p>
+<p begin="00:00:28.730" end="00:00:33.899" style="s2">unsere erfolge hier in ostdeutschland</p>
+<p begin="00:00:30.720" end="00:00:36.090" style="s2">haben viel mit den lebenserfahrungen und</p>
+<p begin="00:00:33.899" end="00:00:36.710" style="s2">mit der mentalität unserer menschen zu</p>
+<p begin="00:00:36.090" end="00:00:39.660" style="s2">tun</p>
+<p begin="00:00:36.710" end="00:00:43.350" style="s2">ich glaube aber das ist<span style="s3"> genauso</span> wichtig</p>
+<p begin="00:00:39.660" end="00:00:45.270" style="s2">war dass unsere mitglieder nie trotz</p>
+<p begin="00:00:43.350" end="00:00:47.940" style="s2">aller parteiinternen zerwürfnisse</p>
+<p begin="00:00:45.270" end="00:00:50.000" style="s2">vergessen haben dass uns ein gemeinsames</p>
+<p begin="00:00:47.940" end="00:00:53.699" style="s2">ziel<span style="s3"> ein</span></p>
+<p begin="00:00:50.000" end="00:00:56.670" style="s2">die<span style="s4"> afg</span> ist<span style="s3"> eine</span> volkspartei geworden in</p>
+<p begin="00:00:53.699" end="00:00:59.550" style="s2">der sich liberale patrioten<span style="s4"> genauso</span></p>
+<p begin="00:00:56.670" end="00:01:00.890" style="s2">engagieren wie sozial engagierte</p>
+<p begin="00:00:59.550" end="00:01:04.140" style="s2">patrioten</p>
+<p begin="00:01:00.890" end="00:01:06.170" style="s2"><span style="s3">uns</span><span style="s4"> eint der</span><span style="s3"> widerstand</span> gegen die</p>
+<p begin="00:01:04.140" end="00:01:07.880" style="s2">zerstörerische politik der altparteien</p>
+<p begin="00:01:06.170" end="00:01:11.040" style="s2">und der medien</p>
+<p begin="00:01:07.880" end="00:01:13.770" style="s2">uns eint<span style="s3"> der</span> wille unsere sozialen</p>
+<p begin="00:01:11.040" end="00:01:16.439" style="s2">errungenschaften unsere freiheit und</p>
+<p begin="00:01:13.770" end="00:01:18.450" style="s2">unsere kultur vor dem untergang zu</p>
+<p begin="00:01:16.439" end="00:01:23.490" style="s2">bewahren</p>
+<p begin="00:01:18.450" end="00:01:27.700" style="s2">[Applaus]</p>
+<p begin="00:01:23.490" end="00:01:30.069" style="s2"><span style="s3">dieser</span><span style="s4"> gemeinschaft sind</span><span style="s3"> mit</span> viel fleiß</p>
+<p begin="00:01:27.700" end="00:01:33.479" style="s2">und herzblut in die wahlkämpfe getragen</p>
+<p begin="00:01:30.069" end="00:01:36.909" style="s2">das ist die grundlage unserer erfolge</p>
+<p begin="00:01:33.479" end="00:01:38.499" style="s2">und natürlich wollen wir<span style="s3"> sachsen</span> auch</p>
+<p begin="00:01:36.909" end="00:01:40.539" style="s2">bei der jetzt kommenden europawahl</p>
+<p begin="00:01:38.499" end="00:01:41.079" style="s2">wieder das bundesland sein in dem die</p>
+<p begin="00:01:40.539" end="00:01:48.789" style="s2">afd</p>
+<p begin="00:01:41.079" end="00:01:51.219" style="s2">das beste ergebnis einfährt liebe</p>
+<p begin="00:01:48.789" end="00:01:52.719" style="s2">freunde wir werden aus sachsen heraus</p>
+<p begin="00:01:51.219" end="00:01:56.259" style="s2">dazu beitragen dass auch die</p>
+<p begin="00:01:52.719" end="00:01:58.030" style="s2">listenplätze 19 20 21 und weitere plätze</p>
+<p begin="00:01:56.259" end="00:02:01.310" style="s2">die wir heute und am wochenende wählen</p>
+<p begin="00:01:58.030" end="00:02:04.999" style="s2">werden<span style="s3"> aussichtsreiche plätze sind</span></p>
+<p begin="00:02:01.310" end="00:02:04.999" style="s2">[Applaus]</p>
+<p begin="00:02:06.009" end="00:02:10.729" style="s2">sachsen war<span style="s3"> 2014</span><span style="s4"> das</span> erste bundesland in</p>
+<p begin="00:02:09.560" end="00:02:13.760" style="s2">dem die<span style="s4"> afd</span></p>
+<p begin="00:02:10.729" end="00:02:16.069" style="s2"><span style="s4">mit</span> einem paukenschlag<span style="s3"> ergebnis</span> über den</p>
+<p begin="00:02:13.760" end="00:02:16.480" style="s2">erwartungen in einem landtag eingezogen</p>
+<p begin="00:02:16.069" end="00:02:18.830" style="s2">ist</p>
+<p begin="00:02:16.480" end="00:02:21.860" style="s2">von den altparteien wurden wir damals</p>
+<p begin="00:02:18.830" end="00:02:24.350" style="s2">belächelt<span style="s3"> man</span> war<span style="s3"> sich</span> sicher dass das</p>
+<p begin="00:02:21.860" end="00:02:24.730" style="s2">phänomen<span style="s4"> afd</span> bald wieder verschwinden</p>
+<p begin="00:02:24.350" end="00:02:28.370" style="s2">wird</p>
+<p begin="00:02:24.730" end="00:02:31.310" style="s2">nein wir verschwinden nicht wir sind da</p>
+<p begin="00:02:28.370" end="00:02:33.500" style="s2">weil das land uns braucht die<span style="s4"> afg</span> ist</p>
+<p begin="00:02:31.310" end="00:02:35.720" style="s2">schlicht und einfach die politische</p>
+<p begin="00:02:33.500" end="00:02:37.400" style="s2">kraft in deutschland deren zeit jetzt</p>
+<p begin="00:02:35.720" end="00:02:44.459" style="s2">gekommen ist</p>
+<p begin="00:02:37.400" end="00:02:49.000" style="s2">[Applaus]</p>
+<p begin="00:02:44.459" end="00:02:51.940" style="s2"><span style="s4">2019</span><span style="s3"> 30 jahre nach der friedlichen</span></p>
+<p begin="00:02:49.000" end="00:02:54.310" style="s2">revolution in ostdeutschland wollen wir</p>
+<p begin="00:02:51.940" end="00:02:55.060" style="s2">hier in sachsen erneut eine wende</p>
+<p begin="00:02:54.310" end="00:02:58.030" style="s2">einleiten</p>
+<p begin="00:02:55.060" end="00:03:01.260" style="s2">eine politische wende<span style="s3"> nicht</span> nur im osten</p>
+<p begin="00:02:58.030" end="00:03:01.260" style="s2">sondern für ganz deutschland</p>
+<p begin="00:03:01.620" end="00:03:04.789" style="s2">[Applaus]</p>
+<p begin="00:03:05.400" end="00:03:10.720" style="s2">unsere erfolge<span style="s4"> reißen</span> nun die ersten</p>
+<p begin="00:03:08.260" end="00:03:14.349" style="s2">löcher in den etablierten<span style="s4"> alt</span></p>
+<p begin="00:03:10.720" end="00:03:16.840" style="s2"><span style="s4">parteienfilz</span><span style="s3"> unsere</span> erfolge bedeuten für</p>
+<p begin="00:03:14.349" end="00:03:19.150" style="s2">viele von deren berufspolitikern den</p>
+<p begin="00:03:16.840" end="00:03:22.480" style="s2">verlust von mandaten den verlust von</p>
+<p begin="00:03:19.150" end="00:03:24.970" style="s2">einfluss und den verlust von<span style="s4"> 4</span> geld das</p>
+<p begin="00:03:22.480" end="00:03:28.000" style="s2">führt zu frust und auch zu gut auf die</p>
+<p begin="00:03:24.970" end="00:03:30.900" style="s2"><span style="s3">afg</span> als neue politische kraft<span style="s3"> und</span> zum</p>
+<p begin="00:03:28.000" end="00:03:33.850" style="s2">teil wird diese wut nun kriminell</p>
+<p begin="00:03:30.900" end="00:03:35.980" style="s2">liebe freunde das neue jahr hat mit</p>
+<p begin="00:03:33.850" end="00:03:38.430" style="s2">einem bisher nicht bekannten ausmaß an</p>
+<p begin="00:03:35.980" end="00:03:40.420" style="s2">gewalt gegen die<span style="s4"> afg</span> begonnen</p>
+<p begin="00:03:38.430" end="00:03:42.790" style="s2">nicht weit von hier im mittel</p>
+<p begin="00:03:40.420" end="00:03:44.830" style="s2">sächsischen döbeln wurde ein</p>
+<p begin="00:03:42.790" end="00:03:46.810" style="s2">bombenanschlag auf das büro meiner</p>
+<p begin="00:03:44.830" end="00:03:48.810" style="s2"><span style="s4">kollegin</span><span style="s3"> dr</span><span style="s4"> weigand</span> und professor</p>
+<p begin="00:03:46.810" end="00:03:50.739" style="s2">hessenkämper<span style="s4"> verliebt</span> das</p>
+<p begin="00:03:48.810" end="00:03:52.590" style="s2">landeskriminalamt<span style="s3"> bricht</span> von einem</p>
+<p begin="00:03:50.739" end="00:03:55.150" style="s2">echten<span style="s4"> sprengstoffanschlag</span></p>
+<p begin="00:03:52.590" end="00:03:57.340" style="s2">das ist keine<span style="s4"> schwer verletzten</span></p>
+<p begin="00:03:55.150" end="00:04:02.440" style="s2">passanten<span style="s4"> oder</span> anwohner gab war nur</p>
+<p begin="00:03:57.340" end="00:04:04.630" style="s2">großes glück<span style="s3"> und</span><span style="s4"> gleich</span> darauf der feige</p>
+<p begin="00:04:02.440" end="00:04:07.120" style="s2">und hinterhältige anschlag von drei</p>
+<p begin="00:04:04.630" end="00:04:11.049" style="s2">vermummten auf unseren freund frank</p>
+<p begin="00:04:07.120" end="00:04:13.690" style="s2"><span style="s4">mathes</span> in bremen lieber<span style="s3"> fragen</span> ich</p>
+<p begin="00:04:11.049" end="00:04:16.140" style="s2"><span style="s3">wünsche</span> dir im namen des gesamten</p>
+<p begin="00:04:13.690" end="00:04:20.590" style="s2">landesverbandes der<span style="s3"> afg</span> sachsen</p>
+<p begin="00:04:16.140" end="00:04:22.660" style="s2">vollständige genesung und ich möchte dir</p>
+<p begin="00:04:20.590" end="00:04:25.090" style="s2">für deinen mut und<span style="s3"> einen</span> furchtlosen</p>
+<p begin="00:04:22.660" end="00:04:27.850" style="s2"><span style="s3">einsatz</span> für unsere ideale für unsere</p>
+<p begin="00:04:25.090" end="00:04:30.900" style="s2">ziele im<span style="s4"> links-grünen</span> bremen ganz</p>
+<p begin="00:04:27.850" end="00:04:30.900" style="s2">besonders danken</p>
+<p begin="00:04:36.889" end="00:04:41.639" style="s2">die parteifreunde an diesem wochenende</p>
+<p begin="00:04:39.659" end="00:04:43.860" style="s2">wollen wir die liste unserer<span style="s4"> kandidaten</span></p>
+<p begin="00:04:41.639" end="00:04:47.249" style="s2">für das europaparlament zu ende wählen</p>
+<p begin="00:04:43.860" end="00:04:48.469" style="s2">und wir wollen unser<span style="s4"> afd</span> programm</p>
+<p begin="00:04:47.249" end="00:04:51.169" style="s2">verabschieden</p>
+<p begin="00:04:48.469" end="00:04:53.879" style="s2">oft höre ich in diesen tagen die frage</p>
+<p begin="00:04:51.169" end="00:04:55.080" style="s2">warum will die<span style="s4"> afg</span> überhaupt ins</p>
+<p begin="00:04:53.879" end="00:04:57.569" style="s2">europäische parlament</p>
+<p begin="00:04:55.080" end="00:05:00.809" style="s2">wenn sie doch die eu in ihrer jetzigen</p>
+<p begin="00:04:57.569" end="00:05:02.729" style="s2">form ablehnt die antwort ist klar und</p>
+<p begin="00:05:00.809" end="00:05:06.659" style="s2">einfach die<span style="s4"> afg</span> will ins europäische</p>
+<p begin="00:05:02.729" end="00:05:15.209" style="s2">parlament weil wir europa vor dieser eu</p>
+<p begin="00:05:06.659" end="00:05:17.879" style="s2">müssen weil wir das weltweit einmalige</p>
+<p begin="00:05:15.209" end="00:05:20.879" style="s2">kultur mosaik<span style="s3"> europäischer</span> völker und</p>
+<p begin="00:05:17.879" end="00:05:23.719" style="s2">nationen vor der abgehobenen politischen</p>
+<p begin="00:05:20.879" end="00:05:28.379" style="s2">elite retten müssen</p>
+<p begin="00:05:23.719" end="00:05:30.869" style="s2"><span style="s3">vor politikern</span><span style="s4"> und</span><span style="s3"> lobbyisten deren</span></p>
+<p begin="00:05:28.379" end="00:05:33.659" style="s2">deren ziel es ist einen<span style="s3"> undemokratischen</span></p>
+<p begin="00:05:30.869" end="00:05:35.719" style="s2">eu zentralstaat zu schaffen für</p>
+<p begin="00:05:33.659" end="00:05:37.860" style="s2">entmündigte konsumenten</p>
+<p begin="00:05:35.719" end="00:05:39.569" style="s2">ich bin optimistisch dass es uns</p>
+<p begin="00:05:37.860" end="00:05:42.629" style="s2">gelingen wird europa zu retten</p>
+<p begin="00:05:39.569" end="00:05:45.869" style="s2">denn in europa<span style="s3"> in</span> ganz europa beginnen</p>
+<p begin="00:05:42.629" end="00:05:48.360" style="s2">die menschen zu erwachen und sich den</p>
+<p begin="00:05:45.869" end="00:05:52.550" style="s2">ideologen den<span style="s4"> global ist &#39;nen</span> und den</p>
+<p begin="00:05:48.360" end="00:05:52.550" style="s2">demokratie<span style="s3"> feinden</span><span style="s4"> entgegenzustellen</span></p>
+<p begin="00:05:54.310" end="00:06:00.200" style="s2">wir stehen als<span style="s4"> afg</span> an der seite</p>
+<p begin="00:05:57.950" end="00:06:02.170" style="s2">patriotische europäer<span style="s3"> wie</span> der</p>
+<p begin="00:06:00.200" end="00:06:05.390" style="s2">italienischen<span style="s3"> lega</span> von matteo salvini</p>
+<p begin="00:06:02.170" end="00:06:07.960" style="s2"><span style="s3">der</span> fpö von<span style="s4"> heinz christian strache oder</span></p>
+<p begin="00:06:05.390" end="00:06:10.940" style="s2"><span style="s3">der ungarische fidesz von viktor orban</span></p>
+<p begin="00:06:07.960" end="00:06:13.640" style="s2">wir stehen aber auch an der seite all</p>
+<p begin="00:06:10.940" end="00:06:15.860" style="s2">derer die es satt haben<span style="s4"> das</span> immer wieder</p>
+<p begin="00:06:13.640" end="00:06:19.550" style="s2"><span style="s3">über</span> ihre köpfe hinweg entschieden wird</p>
+<p begin="00:06:15.860" end="00:06:22.310" style="s2">wir sind solidarisch mit denen die eine</p>
+<p begin="00:06:19.550" end="00:06:25.250" style="s2">abgehobene politikerkaste lautstark</p>
+<p begin="00:06:22.310" end="00:06:27.800" style="s2">daran erinnern wer der<span style="s4"> souverän in einem</span></p>
+<p begin="00:06:25.250" end="00:06:30.200" style="s2">demokratischen staat ist und die<span style="s4"> sowie</span></p>
+<p begin="00:06:27.800" end="00:06:33.580" style="s2">in<span style="s4"> frankreich</span> mit demonstrationen ihrer</p>
+<p begin="00:06:30.200" end="00:06:33.580" style="s2">mitspracherechte<span style="s4"> einforderung</span></p>
+<p begin="00:06:34.080" end="00:06:37.310" style="s2">[Applaus]</p>
+<p begin="00:06:37.520" end="00:06:42.250" style="s2">liebe freunde wir brauchen endlich</p>
+<p begin="00:06:39.349" end="00:06:45.370" style="s2"><span style="s3">wieder europäische politiker die bürger</span></p>
+<p begin="00:06:42.250" end="00:06:48.020" style="s2">ideologiefrei sachlich und nüchtern</p>
+<p begin="00:06:45.370" end="00:06:50.319" style="s2">entscheiden<span style="s3"> wir</span> brauchen<span style="s4"> menschen</span> die</p>
+<p begin="00:06:48.020" end="00:06:52.669" style="s2">mit<span style="s3"> demokratischen verstand und mit</span></p>
+<p begin="00:06:50.319" end="00:06:54.949" style="s2"><span style="s3">patriotischem</span><span style="s4"> herzen</span> an einem europa der</p>
+<p begin="00:06:52.669" end="00:06:57.169" style="s2">vaterländer bauen und diese menschen</p>
+<p begin="00:06:54.949" end="00:06:58.610" style="s2">wollen wir heute an diesem wochenende</p>
+<p begin="00:06:57.169" end="00:07:00.790" style="s2">aus unseren reihen wählen</p>
+<p begin="00:06:58.610" end="00:07:08.740" style="s2">seien sie herzlich<span style="s3"> willkommen</span> in sachsen</p>
+<p begin="00:07:00.790" end="00:07:08.740" style="s2">[Applaus]</p>
+</div>
+</body>
+</tt>

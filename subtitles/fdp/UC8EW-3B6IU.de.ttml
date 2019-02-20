@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:03.750" style="s2"><span style="s3">grüße</span> aus<span style="s4"> berlin</span> ist es wieder</p>
+<p begin="00:00:02.070" end="00:00:05.730" style="s2">sitzungswoche im hintergrund<span style="s4"> hört ja die</span></p>
+<p begin="00:00:03.750" end="00:00:07.740" style="s2"><span style="s4">klingel</span> die uns darauf hinweist dass wir</p>
+<p begin="00:00:05.730" end="00:00:08.610" style="s2">gleich ins plenum müssen<span style="s4"> eine</span> wahl</p>
+<p begin="00:00:07.740" end="00:00:10.349" style="s2">durchführen</p>
+<p begin="00:00:08.610" end="00:00:11.940" style="s2"><span style="s3">rückblick</span> aufs wochenende in die</p>
+<p begin="00:00:10.349" end="00:00:13.740" style="s2"><span style="s3">handelbarkeit dann auch hier in berlin</span></p>
+<p begin="00:00:11.940" end="00:00:15.389" style="s2"><span style="s3">am</span> nicola beer zu unserer</p>
+<p begin="00:00:13.740" end="00:00:17.400" style="s2">spitzenkandidatin für die so wichtige</p>
+<p begin="00:00:15.389" end="00:00:18.900" style="s2"><span style="s3">europawahl</span> gewählt und<span style="s3"> auch</span> für<span style="s4"> die</span></p>
+<p begin="00:00:17.400" end="00:00:20.539" style="s2"><span style="s4">ostdeutschen</span> landesverbände<span style="s4"> liegt es</span></p>
+<p begin="00:00:18.900" end="00:00:22.529" style="s2"><span style="s4">sehr</span> gut<span style="s4"> unsere gemeinsame</span></p>
+<p begin="00:00:20.539" end="00:00:24.930" style="s2"><span style="s4">spitzenkandidatin robert</span><span style="s3"> mathis</span> montag</p>
+<p begin="00:00:22.529" end="00:00:26.490" style="s2">ist auf listenplatz<span style="s4"> sieben</span> gelandet sehr</p>
+<p begin="00:00:24.930" end="00:00:28.170" style="s2">gutes ergebnis und auch unsere</p>
+<p begin="00:00:26.490" end="00:00:29.750" style="s2"><span style="s3">kandidaten</span> aus<span style="s3"> sachsen-anhalt</span><span style="s4"> guido</span></p>
+<p begin="00:00:28.170" end="00:00:32.099" style="s2">kosmehl konnte die respektable</p>
+<p begin="00:00:29.750" end="00:00:33.750" style="s2">listenplatz nummer 18 erreichen wir</p>
+<p begin="00:00:32.099" end="00:00:35.190" style="s2">freuen uns jetzt auch in europa weiter</p>
+<p begin="00:00:33.750" end="00:00:36.809" style="s2">das waren die guten ergebnisse vom</p>
+<p begin="00:00:35.190" end="00:00:38.219" style="s2">wochenende<span style="s3"> es</span> gab auch schlechte für</p>
+<p begin="00:00:36.809" end="00:00:39.960" style="s2"><span style="s3">sachsen anhalt die</span><span style="s4"> kohle</span> kommission</p>
+<p begin="00:00:38.219" end="00:00:41.579" style="s2"><span style="s4">prominent</span> vertreten<span style="s3"> mitunter</span></p>
+<p begin="00:00:39.960" end="00:00:43.290" style="s2"><span style="s3">ministerpräsidenten haseldorf</span><span style="s4"> den</span></p>
+<p begin="00:00:41.579" end="00:00:46.260" style="s2">ausstieg aus der braunkohle beschlossen</p>
+<p begin="00:00:43.290" end="00:00:48.270" style="s2"><span style="s3">dass</span><span style="s4"> 20 38 das kostet sehr sehr viele</span></p>
+<p begin="00:00:46.260" end="00:00:50.430" style="s2">arbeitsplätze gerade im süden<span style="s3"> sachsen</span></p>
+<p begin="00:00:48.270" end="00:00:51.000" style="s2"><span style="s3">anhalts</span> und wirft die frage auf wie geht</p>
+<p begin="00:00:50.430" end="00:00:52.710" style="s2">es weiter</p>
+<p begin="00:00:51.000" end="00:00:55.110" style="s2"><span style="s4">strukturell</span> wirtschaftlich in dieser</p>
+<p begin="00:00:52.710" end="00:00:59.309" style="s2">region wir lesen<span style="s4"> diesen</span><span style="s3"> kugel</span> komponist</p>
+<p begin="00:00:55.110" end="00:01:01.680" style="s2">ab ich<span style="s4"> bin</span> morgen im plenum zum thema</p>
+<p begin="00:00:59.309" end="00:01:03.329" style="s2">plastik in den weltmeeren<span style="s4"> in</span> der<span style="s3"> bütt</span></p>
+<p begin="00:01:01.680" end="00:01:04.530" style="s2">schwierig so schön sagen<span style="s3"> das</span> ist<span style="s4"> ein</span></p>
+<p begin="00:01:03.329" end="00:01:06.360" style="s2">thema was wirklich wichtig ist wir</p>
+<p begin="00:01:04.530" end="00:01:08.220" style="s2">müssen uns dem thema annehmen immer mehr</p>
+<p begin="00:01:06.360" end="00:01:09.750" style="s2">makro mikro<span style="s4"> plastik</span> also große und</p>
+<p begin="00:01:08.220" end="00:01:11.880" style="s2">kleine<span style="s3"> plastikteile</span> sind<span style="s3"> in</span> den</p>
+<p begin="00:01:09.750" end="00:01:13.470" style="s2">weltmeeren antwort der grünen ist hier</p>
+<p begin="00:01:11.880" end="00:01:14.130" style="s2">jetzt plastik am liebsten komplett zu</p>
+<p begin="00:01:13.470" end="00:01:15.720" style="s2">verbieten</p>
+<p begin="00:01:14.130" end="00:01:16.530" style="s2">wir werden<span style="s3"> nochmal infrage</span><span style="s4"> stellen</span> ob es</p>
+<p begin="00:01:15.720" end="00:01:17.850" style="s2">wirklich in einem land wie deutschland</p>
+<p begin="00:01:16.530" end="00:01:20.700" style="s2"><span style="s3">so</span> werden funktionieren des</p>
+<p begin="00:01:17.850" end="00:01:22.590" style="s2"><span style="s4">kreislaufwirtschafts</span><span style="s3"> system wo es</span></p>
+<p begin="00:01:20.700" end="00:01:24.600" style="s2"><span style="s4">sinnvoll</span> ist hier<span style="s4"> der</span> askese<span style="s4"> und</span></p>
+<p begin="00:01:22.590" end="00:01:26.490" style="s2">verzicht zu propagieren ob er nicht<span style="s3"> er</span></p>
+<p begin="00:01:24.600" end="00:01:28.560" style="s2"><span style="s4">helfen</span> sollen in den ländern wo es damit</p>
+<p begin="00:01:26.490" end="00:01:31.140" style="s2">probleme gibt vernünftige<span style="s4"> recycling</span></p>
+<p begin="00:01:28.560" end="00:01:32.159" style="s2"><span style="s4">systeme</span> aufzubauen<span style="s3"> mit</span><span style="s4"> vielen</span> fragen</p>
+<p begin="00:01:31.140" end="00:01:33.920" style="s2">denen wir auch in den ersten</p>
+<p begin="00:01:32.159" end="00:01:35.750" style="s2">untersuchungsausschuss und verteidigung</p>
+<p begin="00:01:33.920" end="00:01:37.310" style="s2">ausschuss sie<span style="s4"> haben</span> geht es darum die</p>
+<p begin="00:01:35.750" end="00:01:39.320" style="s2"><span style="s3">beraterfirmen</span> verteidigungsministerium</p>
+<p begin="00:01:37.310" end="00:01:40.880" style="s2">aufzuklären und wir<span style="s4"> haben</span> eine gute</p>
+<p begin="00:01:39.320" end="00:01:42.979" style="s2">nachricht für die region leipzig halle</p>
+<p begin="00:01:40.880" end="00:01:45.110" style="s2">nämlich das<span style="s3"> cyber abwehrzentrum der</span></p>
+<p begin="00:01:42.979" end="00:01:46.820" style="s2">bundeswehr mit 200 arbeitsplätzen<span style="s3"> geholt</span></p>
+<p begin="00:01:45.110" end="00:01:48.979" style="s2"><span style="s4">in</span> der<span style="s4"> region</span> angesiedelt und das bringt</p>
+<p begin="00:01:46.820" end="00:01:49.960" style="s2">viele qualifizierte jobs hat dort nach</p>
+<p begin="00:01:48.979" end="00:01:53.000" style="s2">leipzig und halle</p>
+<p begin="00:01:49.960" end="00:01:55.659" style="s2">wir gehen jetzt<span style="s4"> ins</span> plenum<span style="s3"> und</span><span style="s4"> wählen</span></p>
+<p begin="00:01:53.000" end="00:01:57.740" style="s2"><span style="s4">einen</span><span style="s3"> kandidat</span><span style="s4"> oder</span> eine kandidatin und</p>
+<p begin="00:01:55.659" end="00:02:01.810" style="s2"><span style="s3">eigentlich</span><span style="s4"> sein</span><span style="s3"> nächstes</span><span style="s4"> jahr wieder</span></p>
+<p begin="00:01:57.740" end="00:02:01.810" style="s2">alle<span style="s4"> stars</span></p>
+</div>
+</body>
+</tt>

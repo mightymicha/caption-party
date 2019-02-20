@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:02.810" end="00:00:06.920" style="s2">sehr geehrte damen und herren frau</p>
+<p begin="00:00:04.790" end="00:00:08.809" style="s2"><span style="s3">präsidentin ist es</span> eben gesagt<span style="s4"> worden</span></p>
+<p begin="00:00:06.920" end="00:00:11.570" style="s2">dieser tagesordnungspunkt<span style="s3"> es</span> aufgesetzt</p>
+<p begin="00:00:08.809" end="00:00:13.570" style="s2"><span style="s3">wurden</span><span style="s4"> im</span> wege<span style="s3"> der</span> dringlichkeit die</p>
+<p begin="00:00:11.570" end="00:00:16.850" style="s2">mehrheit des hauses hat aufdringlichkeit</p>
+<p begin="00:00:13.570" end="00:00:19.220" style="s2">plädiert und dennoch<span style="s4"> gibt es sehr</span></p>
+<p begin="00:00:16.850" end="00:00:21.320" style="s2">unterschiedliche motivationen diese</p>
+<p begin="00:00:19.220" end="00:00:23.810" style="s2">debatte hier durchzuführen</p>
+<p begin="00:00:21.320" end="00:00:26.679" style="s2"><span style="s4">die</span> als<span style="s3"> links fraktionen wollen</span></p>
+<p begin="00:00:23.810" end="00:00:29.019" style="s2"><span style="s4">aufklärung</span> über<span style="s4"> gewinnorientierte</span></p>
+<p begin="00:00:26.679" end="00:00:30.679" style="s2">sondervergütungen für</p>
+<p begin="00:00:29.019" end="00:00:33.739" style="s2">vorstandsmitglieder der</p>
+<p begin="00:00:30.679" end="00:00:35.990" style="s2">universitätsmedizin rostock eine solche</p>
+<p begin="00:00:33.739" end="00:00:39.440" style="s2">ist wichtig denn es muss ausgeschlossen</p>
+<p begin="00:00:35.990" end="00:00:42.710" style="s2">sein<span style="s4"> dass</span> klingende münzen in den</p>
+<p begin="00:00:39.440" end="00:00:45.700" style="s2">geldbeuteln verantwortlicher krankenhaus</p>
+<p begin="00:00:42.710" end="00:00:47.660" style="s2">chefs die medizinische behandlung</p>
+<p begin="00:00:45.700" end="00:00:49.970" style="s2">vertrauensvoller patientinnen und</p>
+<p begin="00:00:47.660" end="00:00:50.510" style="s2">patienten beeinträchtigen<span style="s4"> es</span> muss klar</p>
+<p begin="00:00:49.970" end="00:00:54.680" style="s2">sein</p>
+<p begin="00:00:50.510" end="00:00:57.470" style="s2">gesundheit darf keine ware<span style="s3"> sein</span> die spd</p>
+<p begin="00:00:54.680" end="00:00:59.990" style="s2">meint in dem thema heute und in dem seit</p>
+<p begin="00:00:57.470" end="00:01:02.030" style="s2">einem jahr debattierten geschehnissen um</p>
+<p begin="00:00:59.990" end="00:01:03.820" style="s2">die unimedizin rostock zumindest<span style="s3"> gelang</span></p>
+<p begin="00:01:02.030" end="00:01:06.740" style="s2"><span style="s4">es so an bei herrn</span><span style="s3"> schulte</span><span style="s4"> am</span> mittwoch</p>
+<p begin="00:01:03.820" end="00:01:09.170" style="s2"><span style="s3">dieser</span> woche missverständnisse zu sehen</p>
+<p begin="00:01:06.740" end="00:01:11.780" style="s2"><span style="s4">es</span> ist<span style="s4"> nur</span> konsequent dann diese</p>
+<p begin="00:01:09.170" end="00:01:15.200" style="s2">ausräumen zu wollen<span style="s4"> und</span> insofern ist es</p>
+<p begin="00:01:11.780" end="00:01:17.109" style="s2">gut dass sie<span style="s3"> auf dringlichkeit hier auch</span></p>
+<p begin="00:01:15.200" end="00:01:20.210" style="s2">votiert hatten</p>
+<p begin="00:01:17.109" end="00:01:22.579" style="s2">für die<span style="s4"> ard ist</span><span style="s3"> es</span> kein dringliches</p>
+<p begin="00:01:20.210" end="00:01:25.520" style="s2">thema wie wir erfuhren sie folgt nur</p>
+<p begin="00:01:22.579" end="00:01:27.740" style="s2">widerstrebend dieser debatte was nicht</p>
+<p begin="00:01:25.520" end="00:01:29.770" style="s2">wundert interessiert sie sich doch für</p>
+<p begin="00:01:27.740" end="00:01:32.600" style="s2">die belange großer kapitalgesellschaften</p>
+<p begin="00:01:29.770" end="00:01:33.759" style="s2">mehr als für die nöte und sorgen der</p>
+<p begin="00:01:32.600" end="00:01:38.569" style="s2">einfachen menschen</p>
+<p begin="00:01:33.759" end="00:01:41.780" style="s2">aber in der tat vielleicht sehe ich das</p>
+<p begin="00:01:38.569" end="00:01:43.999" style="s2">falsch und die diskussion wird etwas</p>
+<p begin="00:01:41.780" end="00:01:46.069" style="s2">anderes zeigen weil ich habe mich<span style="s3"> vorhin</span></p>
+<p begin="00:01:43.999" end="00:01:49.850" style="s2"><span style="s4">sehr</span> gewundert um nicht zu sagen<span style="s4"> nicht</span></p>
+<p begin="00:01:46.069" end="00:01:51.799" style="s2"><span style="s4">raten</span> fährt während<span style="s4"> wir noch zu einem</span></p>
+<p begin="00:01:49.850" end="00:01:54.619" style="s2">anderen tagesordnungspunkt diskutierten</p>
+<p begin="00:01:51.799" end="00:01:57.560" style="s2">wir sehen ja in diesem<span style="s4"> grund</span> immer ganz</p>
+<p begin="00:01:54.619" end="00:02:00.859" style="s2">gut wer was macht wer mit wem redet sich</p>
+<p begin="00:01:57.560" end="00:02:01.729" style="s2"><span style="s3">frau</span> ministerin hesse hier<span style="s4"> hinten rum</span><span style="s3"> zu</span></p>
+<p begin="00:02:00.859" end="00:02:04.999" style="s2"><span style="s3">herrn dr</span></p>
+<p begin="00:02:01.729" end="00:02:06.229" style="s2"><span style="s3">es</span> gehen und hat<span style="s3"> ja</span><span style="s4"> ja</span> klar<span style="s4"> und</span></p>
+<p begin="00:02:04.999" end="00:02:10.340" style="s2">selbstverständlich waren miteinander</p>
+<p begin="00:02:06.229" end="00:02:12.019" style="s2">reden und übergibt<span style="s4"> ihm</span> eine rede und</p>
+<p begin="00:02:10.340" end="00:02:12.710" style="s2">wollte ich denke haben doch nicht wahr</p>
+<p begin="00:02:12.019" end="00:02:16.580" style="s2">sein</p>
+<p begin="00:02:12.710" end="00:02:18.260" style="s2"><span style="s3">gehe</span><span style="s4"> also</span> zu<span style="s4"> herrn</span><span style="s3"> drs</span> und<span style="s3"> fragt drs ist</span></p>
+<p begin="00:02:16.580" end="00:02:21.350" style="s2"><span style="s3">dass</span> die rede der ministerin für<span style="s4"> nachher</span></p>
+<p begin="00:02:18.260" end="00:02:23.900" style="s2">und<span style="s4"> da</span> sagt ja und<span style="s4"> da</span> bin ich doch sehr</p>
+<p begin="00:02:21.350" end="00:02:25.820" style="s2">verwundert weil ich mich frage was</p>
+<p begin="00:02:23.900" end="00:02:27.820" style="s2">werden wir dann nachher<span style="s4"> hören</span> hören wir</p>
+<p begin="00:02:25.820" end="00:02:30.470" style="s2">von der<span style="s4"> afg die position der ministerin</span></p>
+<p begin="00:02:27.820" end="00:02:32.690" style="s2">oder<span style="s4"> von</span> der ministerin die position</p>
+<p begin="00:02:30.470" end="00:02:35.750" style="s2">darf<span style="s3"> de</span> und wie steht&#39;s eigentlich mit</p>
+<p begin="00:02:32.690" end="00:02:36.770" style="s2">loyalität also ist ganz interessant was</p>
+<p begin="00:02:35.750" end="00:02:39.620" style="s2">hier so abläuft</p>
+<p begin="00:02:36.770" end="00:02:42.020" style="s2">ich halte das für hanebüchen muss ich</p>
+<p begin="00:02:39.620" end="00:02:45.860" style="s2">mal so sagen aber um beim<span style="s4"> text zu</span></p>
+<p begin="00:02:42.020" end="00:02:49.010" style="s2">bleiben geht es ja letztendlich um</p>
+<p begin="00:02:45.860" end="00:02:50.780" style="s2">dieses thema und sie haben ja schon</p>
+<p begin="00:02:49.010" end="00:02:53.420" style="s2">vorgelegt und haben gesagt also</p>
+<p begin="00:02:50.780" end="00:02:55.670" style="s2">eigentlich ist die sonde oder sind</p>
+<p begin="00:02:53.420" end="00:02:59.290" style="s2">gewinnorientierte sondervergütung von</p>
+<p begin="00:02:55.670" end="00:03:01.490" style="s2">der pds schon 2001 mit dem<span style="s3"> landes</span></p>
+<p begin="00:02:59.290" end="00:03:03.430" style="s2"><span style="s4">haushaltsgesetz</span> eingefädelt worden</p>
+<p begin="00:03:01.490" end="00:03:06.530" style="s2">da muss ich ihnen folgendes zu sagen</p>
+<p begin="00:03:03.430" end="00:03:07.940" style="s2">also 2001 wenn es um die</p>
+<p begin="00:03:06.530" end="00:03:11.810" style="s2">wirtschaftlichkeit ging es nur</p>
+<p begin="00:03:07.940" end="00:03:14.200" style="s2">nachvollzogen<span style="s4"> worden</span> was seit 1972 zu</p>
+<p begin="00:03:11.810" end="00:03:15.920" style="s2"><span style="s4">brandts</span> zeiten<span style="s4"> als</span> das krankenhaus</p>
+<p begin="00:03:14.200" end="00:03:17.980" style="s2">finanzierungsgesetz des bundes</p>
+<p begin="00:03:15.920" end="00:03:19.960" style="s2">eingeführt wurde oder beschlossen wurde</p>
+<p begin="00:03:17.980" end="00:03:23.330" style="s2"><span style="s4">festgeschrieben wurde wir haben damals</span></p>
+<p begin="00:03:19.960" end="00:03:25.580" style="s2">nachvollzogen und wirtschaftlichkeit ist</p>
+<p begin="00:03:23.330" end="00:03:27.680" style="s2">im übrigen nicht die aufforderung gewinn</p>
+<p begin="00:03:25.580" end="00:03:30.200" style="s2">zu machen wirtschaftlichkeit<span style="s4"> heißt</span> die</p>
+<p begin="00:03:27.680" end="00:03:32.230" style="s2">aufforderung ist die aufforderung keine</p>
+<p begin="00:03:30.200" end="00:03:33.920" style="s2">verluste<span style="s3"> zuzulassen</span></p>
+<p begin="00:03:32.230" end="00:03:35.540" style="s2">angesichts der von einem</p>
+<p begin="00:03:33.920" end="00:03:38.120" style="s2">vorstandsmitglied zur verfügung</p>
+<p begin="00:03:35.540" end="00:03:41.030" style="s2">gestellten zielvereinbarung aus der</p>
+<p begin="00:03:38.120" end="00:03:42.650" style="s2">hervorgeht dass ab erreichen<span style="s3"> eines</span> sind</p>
+<p begin="00:03:41.030" end="00:03:45.350" style="s2">geldeinheiten definierten</p>
+<p begin="00:03:42.650" end="00:03:48.320" style="s2">wirtschaftlichen<span style="s3"> ziels</span> zusätzliches geld</p>
+<p begin="00:03:45.350" end="00:03:51.110" style="s2">winkt ist es gerechtfertigt bestimmte</p>
+<p begin="00:03:48.320" end="00:03:53.920" style="s2">praktiken der vergütung an der<span style="s4"> uni</span></p>
+<p begin="00:03:51.110" end="00:03:57.740" style="s2"><span style="s4">medizin</span> rostock genauer zu hinterfragen</p>
+<p begin="00:03:53.920" end="00:03:59.960" style="s2">die erste frage ist ganz einfach<span style="s4"> gab</span> es</p>
+<p begin="00:03:57.740" end="00:04:01.850" style="s2">bei erreichen eines finanziellen<span style="s3"> ziels</span></p>
+<p begin="00:03:59.960" end="00:04:03.110" style="s2"><span style="s4">für</span> die vorstandsmitglieder mehr geld</p>
+<p begin="00:04:01.850" end="00:04:07.490" style="s2">oder nicht</p>
+<p begin="00:04:03.110" end="00:04:09.800" style="s2">die antwort lautet ja die zweite frage</p>
+<p begin="00:04:07.490" end="00:04:11.840" style="s2">lautet ist es berechtigt wenn die</p>
+<p begin="00:04:09.800" end="00:04:15.380" style="s2">linksfraktion von sondervergütungen</p>
+<p begin="00:04:11.840" end="00:04:17.030" style="s2">spricht oder handelt es sich um den von</p>
+<p begin="00:04:15.380" end="00:04:19.960" style="s2">der landesregierung gebrauchten begriff</p>
+<p begin="00:04:17.030" end="00:04:21.310" style="s2">der variant variablen</p>
+<p begin="00:04:19.960" end="00:04:24.400" style="s2">gehaltsbestandteile</p>
+<p begin="00:04:21.310" end="00:04:27.450" style="s2">die antwort lautet die linksfraktion hat</p>
+<p begin="00:04:24.400" end="00:04:29.050" style="s2">recht denn reguläre variable</p>
+<p begin="00:04:27.450" end="00:04:31.660" style="s2">gehaltsbestandteile werden von</p>
+<p begin="00:04:29.050" end="00:04:33.940" style="s2">vornherein in die personalkosten der</p>
+<p begin="00:04:31.660" end="00:04:35.260" style="s2">jahresplanung eingepreist denn sie</p>
+<p begin="00:04:33.940" end="00:04:37.720" style="s2">können ja fällig werden</p>
+<p begin="00:04:35.260" end="00:04:39.910" style="s2">die hier in rede stehenden<span style="s4"> zahlungen</span></p>
+<p begin="00:04:37.720" end="00:04:42.190" style="s2">jedoch nicht das beweist allein schon</p>
+<p begin="00:04:39.910" end="00:04:44.980" style="s2">die aussage des staatssekretärs schröder</p>
+<p begin="00:04:42.190" end="00:04:49.720" style="s2">in der heutigen<span style="s3"> ostsee-zeitung in der</span></p>
+<p begin="00:04:44.980" end="00:04:51.850" style="s2">ausführt zitat 2017 war die erwartung zu</p>
+<p begin="00:04:49.720" end="00:04:53.680" style="s2">dem zeitpunkt schon erfüllt als die</p>
+<p begin="00:04:51.850" end="00:04:56.979" style="s2">vereinbarung abgeschlossen wurde</p>
+<p begin="00:04:53.680" end="00:04:59.260" style="s2">hätten wir wieder<span style="s3"> 240.000</span> euro genommen</p>
+<p begin="00:04:56.979" end="00:05:00.490" style="s2">wäre kann ein<span style="s3"> rad star</span><span style="s4"> gewesen</span> das</p>
+<p begin="00:04:59.260" end="00:05:03.729" style="s2">ergebnis zu halten</p>
+<p begin="00:05:00.490" end="00:05:06.280" style="s2">zitat ende einmal abgesehen davon dass</p>
+<p begin="00:05:03.729" end="00:05:09.240" style="s2">es nicht um 240.000 euro sondern final</p>
+<p begin="00:05:06.280" end="00:05:12.419" style="s2">um ein plus von 3,6 millionen</p>
+<p begin="00:05:09.240" end="00:05:15.580" style="s2"><span style="s4">eingepreister</span> summe ging millionen ging</p>
+<p begin="00:05:12.419" end="00:05:17.530" style="s2">wird deutlich dass es sich um eine zuvor</p>
+<p begin="00:05:15.580" end="00:05:20.139" style="s2">nicht<span style="s3"> eingepreiste</span> summe also um</p>
+<p begin="00:05:17.530" end="00:05:21.300" style="s2">zusätzliche<span style="s4"> zahlung</span> nach gesonderten</p>
+<p begin="00:05:20.139" end="00:05:23.590" style="s2">kriterien<span style="s4"> ging</span></p>
+<p begin="00:05:21.300" end="00:05:25.180" style="s2">was ist das anderes als eine</p>
+<p begin="00:05:23.590" end="00:05:27.850" style="s2">sondervergütung sehr geehrte damen und</p>
+<p begin="00:05:25.180" end="00:05:30.460" style="s2">herren die dritte frage lautet ist es</p>
+<p begin="00:05:27.850" end="00:05:33.640" style="s2">korrekt von gewinnorientierung zu</p>
+<p begin="00:05:30.460" end="00:05:36.580" style="s2">sprechen wo es doch um<span style="s3"> jahresüberschüsse</span></p>
+<p begin="00:05:33.640" end="00:05:37.770" style="s2">gehen müsse darauf werde ich noch</p>
+<p begin="00:05:36.580" end="00:05:40.210" style="s2"><span style="s4">eingehen</span> denn<span style="s4"> der</span> begriff</p>
+<p begin="00:05:37.770" end="00:05:42.460" style="s2">jahresüberschuss ist aus der buchhaltung</p>
+<p begin="00:05:40.210" end="00:05:45.130" style="s2">und streng normiert während der begriff</p>
+<p begin="00:05:42.460" end="00:05:48.600" style="s2"><span style="s3">gewinn</span><span style="s4"> vom</span> jeweiligen<span style="s4"> definitions</span> zweck</p>
+<p begin="00:05:45.130" end="00:05:50.950" style="s2">abhängt all das zeigt wie komplex und</p>
+<p begin="00:05:48.600" end="00:05:52.990" style="s2">brisant zugleich die geschehnisse an der</p>
+<p begin="00:05:50.950" end="00:05:55.630" style="s2">universitätsmedizin rostock geworden</p>
+<p begin="00:05:52.990" end="00:05:57.700" style="s2">sind vor einem jahr beschäftigte den</p>
+<p begin="00:05:55.630" end="00:06:00.430" style="s2">landtag die schlichte frage nach</p>
+<p begin="00:05:57.700" end="00:06:02.110" style="s2">einzelnen nebentätigkeiten von einzelnen</p>
+<p begin="00:06:00.430" end="00:06:05.020" style="s2">vorständen an der universitätsmedizin</p>
+<p begin="00:06:02.110" end="00:06:07.650" style="s2">rostock heute<span style="s3"> geht es um das handeln von</span></p>
+<p begin="00:06:05.020" end="00:06:10.630" style="s2">vorständen in einem system von</p>
+<p begin="00:06:07.650" end="00:06:12.580" style="s2"><span style="s4">gewinnorientierung</span> an der<span style="s3"> uml</span> und die</p>
+<p begin="00:06:10.630" end="00:06:15.910" style="s2">rolle des aufsichtsrats und der</p>
+<p begin="00:06:12.580" end="00:06:18.039" style="s2">landesregierung hierbei von einem system</p>
+<p begin="00:06:15.910" end="00:06:20.610" style="s2">darf mit fug und recht gesprochen werden</p>
+<p begin="00:06:18.039" end="00:06:24.120" style="s2">weil die universitätsmedizin rostock</p>
+<p begin="00:06:20.610" end="00:06:26.200" style="s2">systematisch auf<span style="s4"> gewinn</span> gebürstet wurde</p>
+<p begin="00:06:24.120" end="00:06:29.380" style="s2">ursächlich hierfür sind verschiedene</p>
+<p begin="00:06:26.200" end="00:06:31.249" style="s2">faktoren eine allgemeine ökonomisierung</p>
+<p begin="00:06:29.380" end="00:06:33.139" style="s2">des gesundheitswesens</p>
+<p begin="00:06:31.249" end="00:06:35.779" style="s2">schwierige rahmenbedingungen für</p>
+<p begin="00:06:33.139" end="00:06:37.279" style="s2">unikliniken davon wird werden wir denke</p>
+<p begin="00:06:35.779" end="00:06:38.619" style="s2">ich mal von der treppe kommission noch</p>
+<p begin="00:06:37.279" end="00:06:41.869" style="s2">einiges auf den tisch bekommen</p>
+<p begin="00:06:38.619" end="00:06:45.379" style="s2">individuelle<span style="s4"> finanzielle</span> anreize für</p>
+<p begin="00:06:41.869" end="00:06:47.709" style="s2">vorstände und weitere beschäftigte<span style="s4"> die</span></p>
+<p begin="00:06:45.379" end="00:06:50.329" style="s2">vordringlich auf wirtschaftsdaten</p>
+<p begin="00:06:47.709" end="00:06:53.179" style="s2">insbesondere<span style="s4"> jahresüberschüsse</span> und</p>
+<p begin="00:06:50.329" end="00:06:55.449" style="s2">letztlich auf gewinne abzielen und nicht</p>
+<p begin="00:06:53.179" end="00:06:56.659" style="s2">zuletzt eine mangelnde</p>
+<p begin="00:06:55.449" end="00:06:58.969" style="s2">investitionsfinanzierung der</p>
+<p begin="00:06:56.659" end="00:07:00.739" style="s2">landesregierung für krankenhäuser<span style="s4"> die es</span></p>
+<p begin="00:06:58.969" end="00:07:02.259" style="s2">allen kliniken schwer macht zumindest</p>
+<p begin="00:07:00.739" end="00:07:05.739" style="s2">eine schwarze null zu erwirtschaften</p>
+<p begin="00:07:02.259" end="00:07:07.699" style="s2"><span style="s4">diese</span> einsicht hat ja jüngst erst</p>
+<p begin="00:07:05.739" end="00:07:10.610" style="s2">gesundheitsminister<span style="s3"> glawe</span> hier an dieser</p>
+<p begin="00:07:07.699" end="00:07:12.889" style="s2">stelle vorgetragen gewinnorientierung</p>
+<p begin="00:07:10.610" end="00:07:14.949" style="s2">sehr geehrte damen und herren ist nicht</p>
+<p begin="00:07:12.889" end="00:07:17.269" style="s2">per se etwas schlechtes</p>
+<p begin="00:07:14.949" end="00:07:19.849" style="s2"><span style="s4">gewinnorientierung</span> im gesundheitswesen</p>
+<p begin="00:07:17.269" end="00:07:22.159" style="s2"><span style="s4">kollidiert</span> jedoch früher oder später mit</p>
+<p begin="00:07:19.849" end="00:07:24.969" style="s2">dem anspruch der patient steht im</p>
+<p begin="00:07:22.159" end="00:07:26.809" style="s2">mittelpunkt ein anspruch den die</p>
+<p begin="00:07:24.969" end="00:07:29.509" style="s2">bildungsministerin im august vergangenen</p>
+<p begin="00:07:26.809" end="00:07:30.849" style="s2">jahres postulierte und den wir immer</p>
+<p begin="00:07:29.509" end="00:07:33.829" style="s2">unterstützt haben</p>
+<p begin="00:07:30.849" end="00:07:36.649" style="s2">wenn von gewinnorientierung die rede ist</p>
+<p begin="00:07:33.829" end="00:07:38.449" style="s2">müssen erlöse von erträgen müssen</p>
+<p begin="00:07:36.649" end="00:07:40.519" style="s2">erträge von<span style="s3"> jahres</span> überschüssen und</p>
+<p begin="00:07:38.449" end="00:07:42.979" style="s2"><span style="s3">jahres überschüssen von</span><span style="s4"> gewinnen</span></p>
+<p begin="00:07:40.519" end="00:07:45.379" style="s2">einerseits<span style="s3"> begriffliche</span> unterschieden</p>
+<p begin="00:07:42.979" end="00:07:47.439" style="s2">werden und andererseits aber auch in</p>
+<p begin="00:07:45.379" end="00:07:49.879" style="s2">einen zusammenhang gestellt werden</p>
+<p begin="00:07:47.439" end="00:07:53.119" style="s2"><span style="s4">erlöse</span> sind geldbeträge die im ergebnis</p>
+<p begin="00:07:49.879" end="00:07:55.029" style="s2"><span style="s3">des sr brings von produkten und</span></p>
+<p begin="00:07:53.119" end="00:07:57.349" style="s2">dienstleistungen eingenommen werden</p>
+<p begin="00:07:55.029" end="00:07:59.409" style="s2">erträge<span style="s3"> sind</span> die summe aller</p>
+<p begin="00:07:57.349" end="00:08:01.969" style="s2">wirtschaftlichen leistungen</p>
+<p begin="00:07:59.409" end="00:08:03.619" style="s2"><span style="s3">jahresüberschüsse</span> sind die sich aus der</p>
+<p begin="00:08:01.969" end="00:08:05.659" style="s2"><span style="s3">gewinn und verlustrechnung</span><span style="s4"> ergebene</span></p>
+<p begin="00:08:03.619" end="00:08:08.439" style="s2">positive differenz aus erträgen und</p>
+<p begin="00:08:05.659" end="00:08:11.599" style="s2">aufwendungen in einer rechnungsperiode</p>
+<p begin="00:08:08.439" end="00:08:13.729" style="s2"><span style="s3">gewinn ist das ausgewiesene ergebnis des</span></p>
+<p begin="00:08:11.599" end="00:08:16.549" style="s2">überschusses der erträge über die</p>
+<p begin="00:08:13.729" end="00:08:19.669" style="s2">aufwendungen und erträge sie lassen sich</p>
+<p begin="00:08:16.549" end="00:08:22.639" style="s2">vor bzw<span style="s3"> nach</span> steuern ermitteln</p>
+<p begin="00:08:19.669" end="00:08:25.099" style="s2">im übrigen<span style="s4"> war</span> das ja immer so in abrede</p>
+<p begin="00:08:22.639" end="00:08:27.289" style="s2">gestellt wurde<span style="s4"> weist</span> die bilanz der</p>
+<p begin="00:08:25.099" end="00:08:30.409" style="s2">universitätsmedizin rostock selbst den</p>
+<p begin="00:08:27.289" end="00:08:32.120" style="s2">posten gewinnrücklagen aus wenn</p>
+<p begin="00:08:30.409" end="00:08:34.189" style="s2">behauptet würde da ging es nicht um</p>
+<p begin="00:08:32.120" end="00:08:35.120" style="s2"><span style="s4">gewinnen</span> dann könnten ja auch keine</p>
+<p begin="00:08:34.189" end="00:08:37.490" style="s2"><span style="s3">gewinnen rücken</span></p>
+<p begin="00:08:35.120" end="00:08:39.020" style="s2"><span style="s3">hagen</span><span style="s4"> entstanden</span> sein weil</p>
+<p begin="00:08:37.490" end="00:08:40.789" style="s2"><span style="s4">jahresüberschüsse der</span></p>
+<p begin="00:08:39.020" end="00:08:43.580" style="s2">betriebswirtschaftliche ausweis von</p>
+<p begin="00:08:40.789" end="00:08:44.600" style="s2">gewinnen sind stimmt es nicht dass es an</p>
+<p begin="00:08:43.580" end="00:08:46.670" style="s2">der uhr mr</p>
+<p begin="00:08:44.600" end="00:08:49.430" style="s2">mit dem besagten zielvereinbarungen</p>
+<p begin="00:08:46.670" end="00:08:51.790" style="s2">lediglich um eine ertragsorientierung</p>
+<p begin="00:08:49.430" end="00:08:55.520" style="s2">sondern<span style="s3"> vielmehr</span> eindeutig um eine</p>
+<p begin="00:08:51.790" end="00:08:57.680" style="s2">gewinnorientierung ging und geht von</p>
+<p begin="00:08:55.520" end="00:08:59.650" style="s2">einer nachhaltigen<span style="s4"> gewinnorientierung</span></p>
+<p begin="00:08:57.680" end="00:09:02.120" style="s2">ist aufgrund der bekannt gewordenen</p>
+<p begin="00:08:59.650" end="00:09:05.020" style="s2">zielvereinbarung an der<span style="s3"> uhr auch</span><span style="s4"> deshalb</span></p>
+<p begin="00:09:02.120" end="00:09:07.040" style="s2">zu sprechen weil mit dem<span style="s3"> eben diesen</span></p>
+<p begin="00:09:05.020" end="00:09:09.650" style="s2"><span style="s4">zielvereinbarungen</span><span style="s3"> ein</span><span style="s4"> mechanismus in</span></p>
+<p begin="00:09:07.040" end="00:09:12.920" style="s2">gang gesetzt wurde der auf immer neue</p>
+<p begin="00:09:09.650" end="00:09:16.029" style="s2">und immer höhere zuschüsse zielt nun<span style="s4"> war</span></p>
+<p begin="00:09:12.920" end="00:09:20.029" style="s2">heute zwar zu lesen dass dies nur für</p>
+<p begin="00:09:16.029" end="00:09:22.910" style="s2">2017 gegolten hat den beweis<span style="s4"> dass</span> es</p>
+<p begin="00:09:20.029" end="00:09:23.690" style="s2"><span style="s4">2018 aber nicht so war haben wir nicht</span></p>
+<p begin="00:09:22.910" end="00:09:27.140" style="s2">vorliegen</p>
+<p begin="00:09:23.690" end="00:09:28.730" style="s2">denn ich will kurz erklären warum ich zu</p>
+<p begin="00:09:27.140" end="00:09:30.710" style="s2">dieser oder warum wir zu dieser aussage</p>
+<p begin="00:09:28.730" end="00:09:33.410" style="s2">kommen das ist ein mechanismus ist der</p>
+<p begin="00:09:30.710" end="00:09:35.420" style="s2">in gang gesetzt wurde<span style="s4"> der</span> durchschnitt</p>
+<p begin="00:09:33.410" end="00:09:37.730" style="s2">des jahresüberschusses der vergangenen</p>
+<p begin="00:09:35.420" end="00:09:39.980" style="s2">vier jahre und der geplanten zwei</p>
+<p begin="00:09:37.730" end="00:09:42.050" style="s2">folgejahre wird zur basis für die</p>
+<p begin="00:09:39.980" end="00:09:44.240" style="s2">wirtschaftliche zielstellung mit den</p>
+<p begin="00:09:42.050" end="00:09:47.029" style="s2">jeweiligen<span style="s4"> vorstandsmitgliedern</span> genommen</p>
+<p begin="00:09:44.240" end="00:09:48.800" style="s2">die zielstellung gilt als dann erfüllt</p>
+<p begin="00:09:47.029" end="00:09:53.660" style="s2">wenn der so ermittelte jahresüberschuss</p>
+<p begin="00:09:48.800" end="00:09:57.680" style="s2">um mindestens<span style="s3"> 240 tausend</span><span style="s4"> 101 euro bis</span></p>
+<p begin="00:09:53.660" end="00:10:00.440" style="s2">maximal drei millionen<span style="s3"> 600 19.000 127</span></p>
+<p begin="00:09:57.680" end="00:10:04.370" style="s2">euro<span style="s3"> überboten</span> wird wird die</p>
+<p begin="00:10:00.440" end="00:10:06.410" style="s2">zielstellung erfüllt gibt es 50 bis 100</p>
+<p begin="00:10:04.370" end="00:10:08.500" style="s2">prozent eines in aussicht gestellten</p>
+<p begin="00:10:06.410" end="00:10:11.209" style="s2">sondern einer in aussicht gestellten</p>
+<p begin="00:10:08.500" end="00:10:13.310" style="s2">sondervergütung dass die betreffenden</p>
+<p begin="00:10:11.209" end="00:10:15.589" style="s2">vorstandsmitglieder<span style="s4"> ehrgeizig</span> alles</p>
+<p begin="00:10:13.310" end="00:10:16.660" style="s2"><span style="s4">daran setzen das ziel zu erreichen liegt</span></p>
+<p begin="00:10:15.589" end="00:10:19.610" style="s2">in der natur der sache</p>
+<p begin="00:10:16.660" end="00:10:21.980" style="s2">mit jeder zielerfüllung steigt so der</p>
+<p begin="00:10:19.610" end="00:10:24.080" style="s2">durchschnittswert der wiederum basis für</p>
+<p begin="00:10:21.980" end="00:10:26.330" style="s2">die nächste<span style="s4"> zielvereinbarung</span> darstellt</p>
+<p begin="00:10:24.080" end="00:10:29.660" style="s2">was ist das anderes als ein mechanismus</p>
+<p begin="00:10:26.330" end="00:10:31.190" style="s2">der gewinnmaximierung eben das wurde in</p>
+<p begin="00:10:29.660" end="00:10:34.430" style="s2">interviews bestritten durch die</p>
+<p begin="00:10:31.190" end="00:10:37.670" style="s2">ministerin im august<span style="s4"> 2008</span><span style="s3"> 10</span><span style="s4"> und</span> durch</p>
+<p begin="00:10:34.430" end="00:10:40.040" style="s2">den staatssekretär im juli<span style="s4"> 2018</span> im</p>
+<p begin="00:10:37.670" end="00:10:41.870" style="s2">fernsehen<span style="s4"> eine antwort der</span></p>
+<p begin="00:10:40.040" end="00:10:45.680" style="s2">landesregierung auf eine kleine anfrage</p>
+<p begin="00:10:41.870" end="00:10:47.540" style="s2">vom 17 august<span style="s3"> 2008 10 offenbart die mit</span></p>
+<p begin="00:10:45.680" end="00:10:49.300" style="s2">der veröffentlichten zielvereinbarung</p>
+<p begin="00:10:47.540" end="00:10:51.680" style="s2">bekannt gewordene praxis</p>
+<p begin="00:10:49.300" end="00:10:53.690" style="s2"><span style="s3">gewinnorientierter</span><span style="s4"> sondervergütung</span> nicht</p>
+<p begin="00:10:51.680" end="00:10:54.709" style="s2">weil immer so getan würde hätten wir</p>
+<p begin="00:10:53.690" end="00:10:58.570" style="s2">alles wissen müssen</p>
+<p begin="00:10:54.709" end="00:11:01.610" style="s2">sie räumt neben der tatsache<span style="s4"> dass</span> es</p>
+<p begin="00:10:58.570" end="00:11:03.740" style="s2">funktional inhaltliche zielstellung gab</p>
+<p begin="00:11:01.610" end="00:11:05.990" style="s2">auch ein dass es<span style="s3"> wirtschaftlicher</span></p>
+<p begin="00:11:03.740" end="00:11:08.750" style="s2">zielstellung gab es wird aber nicht</p>
+<p begin="00:11:05.990" end="00:11:11.900" style="s2">näher definiert welche diese</p>
+<p begin="00:11:08.750" end="00:11:14.660" style="s2">zielstellung in kontexte antwort auf die</p>
+<p begin="00:11:11.900" end="00:11:16.400" style="s2">kleine anfrage ist<span style="s4"> herauszunehmen dass</span></p>
+<p begin="00:11:14.660" end="00:11:19.280" style="s2">die zielstellung allein nicht darin</p>
+<p begin="00:11:16.400" end="00:11:20.410" style="s2">bestand ein ausgeglichenes ergebnis zu</p>
+<p begin="00:11:19.280" end="00:11:24.230" style="s2">erzielen</p>
+<p begin="00:11:20.410" end="00:11:25.459" style="s2"><span style="s3">dass</span> im nachgang<span style="s4"> was</span> uns jetzt hier</p>
+<p begin="00:11:24.230" end="00:11:27.829" style="s2"><span style="s4">zusammen führt zu diesem</span></p>
+<p begin="00:11:25.459" end="00:11:30.800" style="s2">tagesordnungspunkt aber ein ganz anderes</p>
+<p begin="00:11:27.829" end="00:11:31.750" style="s2">prozedere in gang gesetzt war<span style="s4"> war</span> damals</p>
+<p begin="00:11:30.800" end="00:11:35.660" style="s2">schon bekannt</p>
+<p begin="00:11:31.750" end="00:11:38.209" style="s2">denn ausweislich dieser veröffentlichung</p>
+<p begin="00:11:35.660" end="00:11:43.070" style="s2">ist die unterschrift am 31</p>
+<p begin="00:11:38.209" end="00:11:47.120" style="s2">2017 gesetzt<span style="s4"> worden</span> noch<span style="s4"> 2000</span> im august</p>
+<p begin="00:11:43.070" end="00:11:49.279" style="s2"><span style="s4">2008</span><span style="s3"> 10</span> liest sich das aber sie können</p>
+<p begin="00:11:47.120" end="00:11:50.720" style="s2">das alles nachlesen in der antwort der</p>
+<p begin="00:11:49.279" end="00:11:54.800" style="s2">kleinen anfrage von der landesregierung</p>
+<p begin="00:11:50.720" end="00:11:56.690" style="s2">ganz anders sehr geehrte damen und</p>
+<p begin="00:11:54.800" end="00:11:59.060" style="s2">herren alle vor uns liegenden</p>
+<p begin="00:11:56.690" end="00:12:01.490" style="s2">erkenntnisse offenbaren dass es an der</p>
+<p begin="00:11:59.060" end="00:12:03.500" style="s2">spitze der universitätsmedizin rostock</p>
+<p begin="00:12:01.490" end="00:12:06.410" style="s2">hinsichtlich der wirtschaftsergebnisse</p>
+<p begin="00:12:03.500" end="00:12:09.890" style="s2">immer und vordergründig um die erhöhung</p>
+<p begin="00:12:06.410" end="00:12:11.660" style="s2">des sogenannten case mix es ging also</p>
+<p begin="00:12:09.890" end="00:12:14.800" style="s2">letzten endes um eine fallzahl</p>
+<p begin="00:12:11.660" end="00:12:17.200" style="s2">steigerung ohne die<span style="s4"> personalkapazitäten</span></p>
+<p begin="00:12:14.800" end="00:12:20.209" style="s2">anzupassen weil dann der gewinn steigt</p>
+<p begin="00:12:17.200" end="00:12:23.390" style="s2"><span style="s4">erlös</span> steigt kosten bleiben gleich</p>
+<p begin="00:12:20.209" end="00:12:26.390" style="s2">folgerichtig wurde auf die erhöhung der</p>
+<p begin="00:12:23.390" end="00:12:28.420" style="s2">einträglichen fälle bei gleichzeitigem</p>
+<p begin="00:12:26.390" end="00:12:31.270" style="s2">abbau der personalkosten und der</p>
+<p begin="00:12:28.420" end="00:12:33.860" style="s2">personalkostenquote gedrungen</p>
+<p begin="00:12:31.270" end="00:12:35.690" style="s2">unsere erkenntnisse weisen auch darauf</p>
+<p begin="00:12:33.860" end="00:12:37.459" style="s2">hin dass es sowohl innerhalb als auch</p>
+<p begin="00:12:35.690" end="00:12:39.860" style="s2"><span style="s4">außerhalb</span> der universitätsmedizin</p>
+<p begin="00:12:37.459" end="00:12:42.980" style="s2">rostock kritik am fehlen eines</p>
+<p begin="00:12:39.860" end="00:12:44.320" style="s2">schlüssigen außertariflichen<span style="s4"> vergütungs</span></p>
+<p begin="00:12:42.980" end="00:12:47.329" style="s2">konzeptes gab</p>
+<p begin="00:12:44.320" end="00:12:49.430" style="s2">weiterhin ist<span style="s4"> für</span> uns erkennbar<span style="s4"> dass</span> in</p>
+<p begin="00:12:47.329" end="00:12:51.410" style="s2">den<span style="s3"> jahres</span> plänen jeweils eine schwarze</p>
+<p begin="00:12:49.430" end="00:12:53.740" style="s2">null ausgewiesen wurde</p>
+<p begin="00:12:51.410" end="00:12:56.860" style="s2"><span style="s3">wohl wissend dass die jahresergebnisse</span></p>
+<p begin="00:12:53.740" end="00:12:59.860" style="s2">über die jahre hinweg jeweils<span style="s3"> ein</span></p>
+<p begin="00:12:56.860" end="00:13:02.280" style="s2">von 1,5 millionen bis über acht</p>
+<p begin="00:12:59.860" end="00:13:04.240" style="s2">millionen euro auswiesen</p>
+<p begin="00:13:02.280" end="00:13:07.000" style="s2">unrealistische planungen sind somit</p>
+<p begin="00:13:04.240" end="00:13:08.890" style="s2">methode geworden<span style="s3"> um</span> nicht offiziell</p>
+<p begin="00:13:07.000" end="00:13:12.510" style="s2">gegen die<span style="s3"> zielvereinbarung</span><span style="s4"> zwischen</span> dem</p>
+<p begin="00:13:08.890" end="00:13:16.450" style="s2">land und den universitäten zu verstoßen</p>
+<p begin="00:13:12.510" end="00:13:17.860" style="s2">während verstöße entschuldigung während</p>
+<p begin="00:13:16.450" end="00:13:20.560" style="s2">vorstände gewinnorientierte</p>
+<p begin="00:13:17.860" end="00:13:22.950" style="s2"><span style="s3">sondervergütung</span> erhalten beklagen</p>
+<p begin="00:13:20.560" end="00:13:26.380" style="s2">beschäftigte aus dem forschungsbereich</p>
+<p begin="00:13:22.950" end="00:13:29.260" style="s2">uns gegenüber den entzug von laborräumen</p>
+<p begin="00:13:26.380" end="00:13:31.630" style="s2">so<span style="s4"> dass</span> bio medizinische biotechnologie</p>
+<p begin="00:13:29.260" end="00:13:32.430" style="s2"><span style="s3">seit</span> zwei jahren nicht mehr ausgebildet</p>
+<p begin="00:13:31.630" end="00:13:35.140" style="s2">wird</p>
+<p begin="00:13:32.430" end="00:13:37.540" style="s2">während vorstände gewinnorientierte</p>
+<p begin="00:13:35.140" end="00:13:39.640" style="s2"><span style="s3">sondervergütungen</span> erhalten wendet sich</p>
+<p begin="00:13:37.540" end="00:13:41.350" style="s2">eine bundesweite koryphäe der</p>
+<p begin="00:13:39.640" end="00:13:44.200" style="s2">augenheilkunde<span style="s4"> von</span> der</p>
+<p begin="00:13:41.350" end="00:13:46.420" style="s2">universitätsmedizin rostock ab weil sie</p>
+<p begin="00:13:44.200" end="00:13:50.740" style="s2">die erforderliche<span style="s3"> reinvestition</span> für ihre</p>
+<p begin="00:13:46.420" end="00:13:52.270" style="s2">instrumente nicht bezahlt bekommt das</p>
+<p begin="00:13:50.740" end="00:13:54.640" style="s2">unterscheidet den auftrag<span style="s3"> eines</span></p>
+<p begin="00:13:52.270" end="00:13:56.500" style="s2">universitätsklinikums<span style="s3"> im</span> übrigen</p>
+<p begin="00:13:54.640" end="00:13:57.940" style="s2">entschieden von einer privatklinik die</p>
+<p begin="00:13:56.500" end="00:14:00.160" style="s2">eben keine wissenschaftliche</p>
+<p begin="00:13:57.940" end="00:14:01.690" style="s2"><span style="s3">leuchtturmfunktion</span> hat sondern die</p>
+<p begin="00:14:00.160" end="00:14:04.570" style="s2">finanzinteressen ihrer stakeholder</p>
+<p begin="00:14:01.690" end="00:14:06.700" style="s2">bedienen muss es fehlt offenbar<span style="s4"> an</span> einem</p>
+<p begin="00:14:04.570" end="00:14:09.640" style="s2"><span style="s3">zielsystem</span> für die universitätskliniken</p>
+<p begin="00:14:06.700" end="00:14:11.560" style="s2">in<span style="s3"> mecklenburg vorpommern für uns haben</span></p>
+<p begin="00:14:09.640" end="00:14:13.740" style="s2">krankenversorgung lehre und forschung</p>
+<p begin="00:14:11.560" end="00:14:16.530" style="s2">die arbeitsbedingungen der beschäftigten</p>
+<p begin="00:14:13.740" end="00:14:19.350" style="s2">einen höheren stellenwert als gewinn</p>
+<p begin="00:14:16.530" end="00:14:21.280" style="s2"><span style="s4">jenseits</span> der schwarzen null</p>
+<p begin="00:14:19.350" end="00:14:23.440" style="s2">zielvereinbarung der universitäten</p>
+<p begin="00:14:21.280" end="00:14:24.600" style="s2">müssen diese parameter sehr viel stärker</p>
+<p begin="00:14:23.440" end="00:14:27.580" style="s2">berücksichtigen</p>
+<p begin="00:14:24.600" end="00:14:29.710" style="s2">sehr geehrte damen und herren keine</p>
+<p begin="00:14:27.580" end="00:14:32.320" style="s2">übersicht über nebentätigkeiten von</p>
+<p begin="00:14:29.710" end="00:14:35.200" style="s2">vorständen vertuschungen hinsichtlich</p>
+<p begin="00:14:32.320" end="00:14:37.060" style="s2">der sondervergütungen der bevölkerung</p>
+<p begin="00:14:35.200" end="00:14:38.980" style="s2">erklären patienten stünden im</p>
+<p begin="00:14:37.060" end="00:14:40.630" style="s2">mittelpunkt jedoch gewinnorientierung</p>
+<p begin="00:14:38.980" end="00:14:43.390" style="s2">zur wirtschaftlichen zielstellung</p>
+<p begin="00:14:40.630" end="00:14:46.330" style="s2">erheben und dubiose heuschrecken firmen</p>
+<p begin="00:14:43.390" end="00:14:48.460" style="s2">an die universitätsmedizin holen und</p>
+<p begin="00:14:46.330" end="00:14:51.910" style="s2">erforderliche<span style="s4"> investitionen</span> unterlassen</p>
+<p begin="00:14:48.460" end="00:14:54.040" style="s2">die liste des versagens<span style="s3"> langen</span> und weil</p>
+<p begin="00:14:51.910" end="00:14:55.320" style="s2">es aus unserer sicht in erster linie</p>
+<p begin="00:14:54.040" end="00:14:58.510" style="s2">auch ein versagen der</p>
+<p begin="00:14:55.320" end="00:15:01.240" style="s2">aufsichtsratstätigkeit ist verlangen wir</p>
+<p begin="00:14:58.510" end="00:15:03.220" style="s2">erstens<span style="s4"> dass</span> der vorsitzender des</p>
+<p begin="00:15:01.240" end="00:15:05.730" style="s2">aufsichtsrates staatssekretär<span style="s3"> schröder</span></p>
+<p begin="00:15:03.220" end="00:15:08.380" style="s2">von seiner funktion entbunden wird</p>
+<p begin="00:15:05.730" end="00:15:09.550" style="s2"><span style="s4">zweitens dass sich die ministerin das</span></p>
+<p begin="00:15:08.380" end="00:15:11.680" style="s2">ist ja angekündigt</p>
+<p begin="00:15:09.550" end="00:15:14.100" style="s2">heute und hier erklärt welche</p>
+<p begin="00:15:11.680" end="00:15:17.820" style="s2">konsequenzen sie aus den geschehnissen</p>
+<p begin="00:15:14.100" end="00:15:20.860" style="s2">an der universitätsmedizin rostock zieht</p>
+<p begin="00:15:17.820" end="00:15:22.630" style="s2">drittens erwarten wir eine stellungnahme</p>
+<p begin="00:15:20.860" end="00:15:25.320" style="s2">der<span style="s4"> ministerpräsidentin</span></p>
+<p begin="00:15:22.630" end="00:15:28.180" style="s2"><span style="s4">das</span> klargestellt wird dass eine</p>
+<p begin="00:15:25.320" end="00:15:30.550" style="s2">gewinnorientierung im gesundheitsbereich</p>
+<p begin="00:15:28.180" end="00:15:32.430" style="s2">an den einrichtungen unseres landes</p>
+<p begin="00:15:30.550" end="00:15:35.560" style="s2">nicht länger geduldet wird</p>
+<p begin="00:15:32.430" end="00:15:38.410" style="s2">und viertens<span style="s4"> dass</span> die<span style="s3"> danke</span> dass sie<span style="s3"> mir</span></p>
+<p begin="00:15:35.560" end="00:15:40.750" style="s2">das stichwort für<span style="s3"> viertens</span> liefern<span style="s4"> eine</span></p>
+<p begin="00:15:38.410" end="00:15:43.209" style="s2">überarbeitung jeglicher<span style="s4"> zielvereinbarung</span></p>
+<p begin="00:15:40.750" end="00:15:45.610" style="s2">sie müssen vorgaben mehr denn je und</p>
+<p begin="00:15:43.209" end="00:15:46.990" style="s2">erhalten enthalten die die qualität der</p>
+<p begin="00:15:45.610" end="00:15:49.000" style="s2">medizinischen versorgung der</p>
+<p begin="00:15:46.990" end="00:15:50.890" style="s2">patientinnen und patienten in den blick</p>
+<p begin="00:15:49.000" end="00:15:55.930" style="s2">nimmt<span style="s4"> vielen</span><span style="s3"> dank</span> für die aufmerksamkeit</p>
+<p begin="00:15:50.890" end="00:16:00.100" style="s2"><span style="s4">an</span> ich habe jetzt den ausführungen der</p>
+<p begin="00:15:55.930" end="00:16:02.740" style="s2">ministerin sehr wohl<span style="s4"> zugehört</span> und<span style="s4"> ich</span></p>
+<p begin="00:16:00.100" end="00:16:06.339" style="s2">frag jetzt mal ein bonus ist also wenn</p>
+<p begin="00:16:02.740" end="00:16:09.370" style="s2">ich von<span style="s4"> 100 prozent auf 125 prozent gehe</span></p>
+<p begin="00:16:06.339" end="00:16:12.180" style="s2">dann ist es ein bonus es ist kein bonus</p>
+<p begin="00:16:09.370" end="00:16:15.610" style="s2">wenn ich von 75 prozent auf 100 prozent</p>
+<p begin="00:16:12.180" end="00:16:17.950" style="s2"><span style="s4">oder</span><span style="s3"> anders herum bekommt</span><span style="s4"> jemand</span></p>
+<p begin="00:16:15.610" end="00:16:21.850" style="s2">verdient jemand 1000 euro im monat und</p>
+<p begin="00:16:17.950" end="00:16:26.290" style="s2">aufgrund sehr guter leistungen<span style="s4"> 1250</span> dann</p>
+<p begin="00:16:21.850" end="00:16:28.600" style="s2">ist das ein bonus bekommt jemand<span style="s3"> 750.000</span></p>
+<p begin="00:16:26.290" end="00:16:31.959" style="s2"><span style="s3">euro</span> und aufgrund sehr guter leistung</p>
+<p begin="00:16:28.600" end="00:16:34.720" style="s2">eine million dann ist das kein bonus so</p>
+<p begin="00:16:31.959" end="00:16:37.480" style="s2">ist die argumentation gewesen und frau</p>
+<p begin="00:16:34.720" end="00:16:41.680" style="s2">hesse ich würde sagen ihre argumentation</p>
+<p begin="00:16:37.480" end="00:16:44.200" style="s2">hinkt<span style="s3"> genauso</span> wie der umgang mit ihren</p>
+<p begin="00:16:41.680" end="00:16:45.250" style="s2">reden und ich möchte dazu<span style="s4"> noch</span><span style="s3"> mal</span></p>
+<p begin="00:16:44.200" end="00:16:48.670" style="s2">ausführen</p>
+<p begin="00:16:45.250" end="00:16:50.770" style="s2">herr schulte es geht nicht darum<span style="s4"> dass</span></p>
+<p begin="00:16:48.670" end="00:16:53.440" style="s2">frau hesse oder sonst<span style="s4"> welche</span> minister</p>
+<p begin="00:16:50.770" end="00:16:56.410" style="s2">mit der<span style="s3"> afg</span><span style="s4"> redet</span> darum geht es</p>
+<p begin="00:16:53.440" end="00:17:00.100" style="s2">überhaupt nicht es geht darum<span style="s4"> dass</span> frau</p>
+<p begin="00:16:56.410" end="00:17:03.070" style="s2">hesse ihre komplette rede an herrn</p>
+<p begin="00:17:00.100" end="00:17:06.339" style="s2">doktor<span style="s3"> yes</span> gegeben hat darum geht dass</p>
+<p begin="00:17:03.070" end="00:17:09.370" style="s2">wir finden<span style="s4"> das</span> beschämend als fraktion</p>
+<p begin="00:17:06.339" end="00:17:11.949" style="s2">wir finden es<span style="s4"> alarmierend</span> dass eine</p>
+<p begin="00:17:09.370" end="00:17:14.110" style="s2">bildungsministerin ihre ausführungen von</p>
+<p begin="00:17:11.949" end="00:17:16.790" style="s2"><span style="s4">der</span><span style="s3"> afg</span> wahrscheinlich absegnen lässt</p>
+<p begin="00:17:14.110" end="00:17:18.980" style="s2">und wir sind der meinung<span style="s3"> das</span> ist</p>
+<p begin="00:17:16.790" end="00:17:20.780" style="s2">einmalig einmalig in<span style="s4"> den</span></p>
+<p begin="00:17:18.980" end="00:17:23.210" style="s2">parlamentarischen alltag der</p>
+<p begin="00:17:20.780" end="00:17:27.430" style="s2">bundesrepublik und meine fraktion</p>
+<p begin="00:17:23.210" end="00:17:30.370" style="s2"><span style="s3">fordert</span> die<span style="s4"> ministerpräsidentin</span> auf</p>
+<p begin="00:17:27.430" end="00:17:33.410" style="s2">meine fraktion<span style="s4"> fordert die</span></p>
+<p begin="00:17:30.370" end="00:17:36.710" style="s2">ministerpräsidentin auf dies innerhalb</p>
+<p begin="00:17:33.410" end="00:17:40.490" style="s2">der koalition und innerhalb des</p>
+<p begin="00:17:36.710" end="00:17:43.160" style="s2">kabinetts auszuwerten und hier in der</p>
+<p begin="00:17:40.490" end="00:17:44.670" style="s2">nächsten landtagssitzung dazu stellung</p>
+<p begin="00:17:43.160" end="00:17:48.029" style="s2">zu beziehen<span style="s4"> herzlichen dank</span></p>
+<p begin="00:17:44.670" end="00:17:48.029" style="s2">[Applaus]</p>
+</div>
+</body>
+</tt>

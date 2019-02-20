@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.110" end="00:00:04.529" style="s2">sehr geehrter herr präsident<span style="s3"> sind die</span></p>
+<p begin="00:00:02.250" end="00:00:06.180" style="s2"><span style="s3">kollegen</span> die regierung möchte<span style="s3"> dass</span></p>
+<p begin="00:00:04.529" end="00:00:08.370" style="s2">deutschland in zukunft beim thema</p>
+<p begin="00:00:06.180" end="00:00:10.679" style="s2">künstliche intelligenz an der weltspitze</p>
+<p begin="00:00:08.370" end="00:00:12.240" style="s2">mitspielt<span style="s3"> dafür</span> hat sie letztes jahr</p>
+<p begin="00:00:10.679" end="00:00:15.420" style="s2"><span style="s3">hier</span><span style="s4"> so genannte strategiepapier</span></p>
+<p begin="00:00:12.240" end="00:00:17.010" style="s2">vorgelegt nein ich korrigiere mich nicht</p>
+<p begin="00:00:15.420" end="00:00:18.650" style="s2">die bundesregierung hat dieses papier</p>
+<p begin="00:00:17.010" end="00:00:20.550" style="s2">vorgelegt sondern die</p>
+<p begin="00:00:18.650" end="00:00:23.039" style="s2">unternehmensberatungsgesellschaft roland</p>
+<p begin="00:00:20.550" end="00:00:25.140" style="s2">berger hat das getan<span style="s4"> wie</span> so oft<span style="s3"> fehlt es</span></p>
+<p begin="00:00:23.039" end="00:00:26.970" style="s2"><span style="s4">der</span> regierung anscheinend an fachkräften</p>
+<p begin="00:00:25.140" end="00:00:27.840" style="s2">den verstand muss man sich von außen</p>
+<p begin="00:00:26.970" end="00:00:29.580" style="s2">einkaufen</p>
+<p begin="00:00:27.840" end="00:00:31.410" style="s2">vielleicht sollte sie bei der nächsten</p>
+<p begin="00:00:29.580" end="00:00:33.210" style="s2">bundestagswahl von anfang an</p>
+<p begin="00:00:31.410" end="00:00:33.840" style="s2">unternehmensberater als kandidaten</p>
+<p begin="00:00:33.210" end="00:00:35.820" style="s2">aufstellen</p>
+<p begin="00:00:33.840" end="00:00:37.590" style="s2">das wäre ehrlicher und<span style="s3"> würde</span> den</p>
+<p begin="00:00:35.820" end="00:00:40.010" style="s2">steuerzahler<span style="s3"> viel</span> geld sparen meine</p>
+<p begin="00:00:37.590" end="00:00:40.010" style="s2">damen und herren</p>
+<p begin="00:00:40.730" end="00:00:45.059" style="s2"><span style="s3">aber</span> kommen<span style="s3"> wir</span> zu ihrem papier von</p>
+<p begin="00:00:43.170" end="00:00:46.050" style="s2">einer strategie kann und möchte ich hier</p>
+<p begin="00:00:45.059" end="00:00:48.539" style="s2">nicht wirklich sprechen</p>
+<p begin="00:00:46.050" end="00:00:50.250" style="s2">es ist<span style="s4"> eher</span> stückwerk<span style="s3"> künstliche</span></p>
+<p begin="00:00:48.539" end="00:00:52.620" style="s2">intelligenz ist einer der wichtigsten</p>
+<p begin="00:00:50.250" end="00:00:54.899" style="s2">schlüsseltechnologien der zukunft für</p>
+<p begin="00:00:52.620" end="00:00:56.940" style="s2">manche ist es sogar die stunde null der</p>
+<p begin="00:00:54.899" end="00:00:58.620" style="s2">wirtschaft hier sind massive</p>
+<p begin="00:00:56.940" end="00:01:00.300" style="s2">investitionen nötig um<span style="s3"> unser land nach</span></p>
+<p begin="00:00:58.620" end="00:01:02.010" style="s2">vorne zu bringen<span style="s4"> um</span> sich<span style="s3"> den</span></p>
+<p begin="00:01:00.300" end="00:01:05.309" style="s2">herausforderungen stellen zu können</p>
+<p begin="00:01:02.010" end="00:01:06.689" style="s2">china und die usa machen es vor<span style="s3"> die</span></p>
+<p begin="00:01:05.309" end="00:01:10.619" style="s2">regierung will nun wie wir gehört haben</p>
+<p begin="00:01:06.689" end="00:01:11.610" style="s2">bis 2025 500 millionen euro pro jahr zur</p>
+<p begin="00:01:10.619" end="00:01:14.670" style="s2">verfügung stellen</p>
+<p begin="00:01:11.610" end="00:01:16.740" style="s2">ein tropfen auf den heißen stein es ist</p>
+<p begin="00:01:14.670" end="00:01:18.750" style="s2">bei weitem nicht genug um die</p>
+<p begin="00:01:16.740" end="00:01:19.259" style="s2">angekündigt ganz vorne mitspielen zu</p>
+<p begin="00:01:18.750" end="00:01:22.430" style="s2">können</p>
+<p begin="00:01:19.259" end="00:01:25.439" style="s2">zum vergleich in china sollen bis 2030</p>
+<p begin="00:01:22.430" end="00:01:26.430" style="s2">umgerechnet 150 milliarden dollar</p>
+<p begin="00:01:25.439" end="00:01:28.740" style="s2">investiert werden</p>
+<p begin="00:01:26.430" end="00:01:30.960" style="s2">rechnen sie sich aus welches land in</p>
+<p begin="00:01:28.740" end="00:01:33.350" style="s2">zukunft führender standort für<span style="s4"> ki</span> sein</p>
+<p begin="00:01:30.960" end="00:01:33.350" style="s2">wird</p>
+<p begin="00:01:34.060" end="00:01:38.979" style="s2">die zweite baustelle<span style="s4"> die</span> bilder und die</p>
+<p begin="00:01:36.909" end="00:01:40.869" style="s2">bundesregierung möchte 100<span style="s3"> professoren</span></p>
+<p begin="00:01:38.979" end="00:01:43.450" style="s2">schaffen<span style="s4"> die</span> wir<span style="s3"> gehört</span> haben klingt gut</p>
+<p begin="00:01:40.869" end="00:01:45.430" style="s2">und woher kommen diese top<span style="s3"> professoren</span></p>
+<p begin="00:01:43.450" end="00:01:45.970" style="s2">und welche gehälter wollen sie ihnen</p>
+<p begin="00:01:45.430" end="00:01:48.100" style="s2">zahlen</p>
+<p begin="00:01:45.970" end="00:01:50.049" style="s2">glauben sie dass<span style="s4"> kathi</span> spezialisten für</p>
+<p begin="00:01:48.100" end="00:01:51.189" style="s2"><span style="s3">typisch deutsche uni gehälter nach</span></p>
+<p begin="00:01:50.049" end="00:01:52.750" style="s2">deutschland kommen werden</p>
+<p begin="00:01:51.189" end="00:01:55.720" style="s2">während<span style="s3"> sich andere länder um sie reißen</span></p>
+<p begin="00:01:52.750" end="00:01:56.799" style="s2"><span style="s3">von</span> der regierung kein einziges wort zur</p>
+<p begin="00:01:55.720" end="00:01:59.140" style="s2">konkreten umsetzung</p>
+<p begin="00:01:56.799" end="00:02:01.030" style="s2">sie wollen zitat international</p>
+<p begin="00:01:59.140" end="00:02:03.549" style="s2">attraktive und konkurrenzfähige</p>
+<p begin="00:02:01.030" end="00:02:05.560" style="s2">arbeitsbedingungen prima<span style="s3"> aber</span><span style="s4"> wie</span> sollen</p>
+<p begin="00:02:03.549" end="00:02:06.850" style="s2">die konkret aussehen auch darüber kein</p>
+<p begin="00:02:05.560" end="00:02:09.399" style="s2">wort in ihrem papier</p>
+<p begin="00:02:06.850" end="00:02:11.950" style="s2">nächster punkt der datenschutz<span style="s3"> ohne</span></p>
+<p begin="00:02:09.399" end="00:02:14.560" style="s2">daten<span style="s4"> kein</span> lernen<span style="s3"> ohne</span> lernen keine</p>
+<p begin="00:02:11.950" end="00:02:16.540" style="s2">künstliche intelligenz kaum ein wort der</p>
+<p begin="00:02:14.560" end="00:02:18.760" style="s2">bundesregierung zu einer daten politik</p>
+<p begin="00:02:16.540" end="00:02:19.750" style="s2">die nicht nur<span style="s4"> den</span> bürger schützt sondern</p>
+<p begin="00:02:18.760" end="00:02:22.900" style="s2">auch die entwicklung der künstlichen</p>
+<p begin="00:02:19.750" end="00:02:24.370" style="s2">intelligenz entgegenkommt<span style="s4"> stattdessen</span></p>
+<p begin="00:02:22.900" end="00:02:27.160" style="s2"><span style="s3">schaffen</span> wir uns mit verordnungen<span style="s3"> wieder</span></p>
+<p begin="00:02:24.370" end="00:02:29.110" style="s2"><span style="s4">dsgv</span> immer mehr hemmnisse<span style="s3"> dass</span> die dafür</p>
+<p begin="00:02:27.160" end="00:02:31.049" style="s2">sorgen dass wir den ansprüchen der<span style="s4"> ki</span></p>
+<p begin="00:02:29.110" end="00:02:34.230" style="s2">gar nicht gerecht werden können</p>
+<p begin="00:02:31.049" end="00:02:34.230" style="s2">auch hier</p>
+<p begin="00:02:34.480" end="00:02:38.709" style="s2">auch hier sind andere länder weiter ist</p>
+<p begin="00:02:36.670" end="00:02:40.120" style="s2"><span style="s4">der mindset</span><span style="s3"> der</span> gesellschaft ein anderer</p>
+<p begin="00:02:38.709" end="00:02:41.769" style="s2">sie glauben deutschland und die eu</p>
+<p begin="00:02:40.120" end="00:02:44.230" style="s2"><span style="s4">setzen</span> standard in sachen datenschutz</p>
+<p begin="00:02:41.769" end="00:02:46.060" style="s2">und andere werden<span style="s3"> in blockieren mit</span></p>
+<p begin="00:02:44.230" end="00:02:48.610" style="s2">verlaub das ist eine genauso gerne<span style="s3"> wie</span></p>
+<p begin="00:02:46.060" end="00:02:50.920" style="s2">bei der deutschen energiewende der</p>
+<p begin="00:02:48.610" end="00:02:52.540" style="s2">regierung viel schlichter ehrgeiz für</p>
+<p begin="00:02:50.920" end="00:02:54.430" style="s2">das thema künstliche intelligenz mit</p>
+<p begin="00:02:52.540" end="00:02:56.560" style="s2">diesem papier schafft<span style="s4"> sich</span> keine wende</p>
+<p begin="00:02:54.430" end="00:02:58.480" style="s2">mit diesem papier wird sie die menschen</p>
+<p begin="00:02:56.560" end="00:03:00.879" style="s2">da draußen nicht begeistern ihnen die</p>
+<p begin="00:02:58.480" end="00:03:03.340" style="s2">ängste nicht nehmen und genau das wäre</p>
+<p begin="00:03:00.879" end="00:03:06.010" style="s2">doch eigentlich nötig die vorschläge der</p>
+<p begin="00:03:03.340" end="00:03:07.870" style="s2"><span style="s4">afg</span> schaffen<span style="s4"> sie</span> ein bis zwei themen</p>
+<p begin="00:03:06.010" end="00:03:09.730" style="s2">offene<span style="s3"> leuchten und projekte mit</span></p>
+<p begin="00:03:07.870" end="00:03:12.220" style="s2">ordentlichen<span style="s3"> budget zwecks</span></p>
+<p begin="00:03:09.730" end="00:03:14.019" style="s2">internationaler sichtbarkeit<span style="s4"> dichten</span> sie</p>
+<p begin="00:03:12.220" end="00:03:15.819" style="s2">die nationale förderung der<span style="s3"> forschung</span></p>
+<p begin="00:03:14.019" end="00:03:18.250" style="s2">themen<span style="s4"> offene</span> auf denken sie an</p>
+<p begin="00:03:15.819" end="00:03:19.989" style="s2"><span style="s3">gesundheit pflege sicherheit schaffen</span></p>
+<p begin="00:03:18.250" end="00:03:21.700" style="s2">sie endlich die voraussetzungen für die</p>
+<p begin="00:03:19.989" end="00:03:24.420" style="s2"><span style="s4">verständnisvoll gelungen</span><span style="s3"> in</span> schulen</p>
+<p begin="00:03:21.700" end="00:03:26.950" style="s2">nehmen sie mehr geld in die hand</p>
+<p begin="00:03:24.420" end="00:03:28.870" style="s2">versprechen sie finanzierungsinstrumente</p>
+<p begin="00:03:26.950" end="00:03:31.299" style="s2">wie den<span style="s4"> sektor</span><span style="s3"> fand</span> nicht nur planen sie</p>
+<p begin="00:03:28.870" end="00:03:33.549" style="s2">die gelder auch im haushalt ein<span style="s4"> weiten</span></p>
+<p begin="00:03:31.299" end="00:03:34.780" style="s2"><span style="s3">sie die spezifische</span> unterstützung von</p>
+<p begin="00:03:33.549" end="00:03:39.970" style="s2">kleinen und mittleren unternehmen</p>
+<p begin="00:03:34.780" end="00:03:41.799" style="s2">deutlich aus<span style="s3"> richten</span> sie richten sie zur</p>
+<p begin="00:03:39.970" end="00:03:43.060" style="s2">förderung von<span style="s4"> technologie transfer und</span></p>
+<p begin="00:03:41.799" end="00:03:44.680" style="s2">unternehmensgründung nicht nur</p>
+<p begin="00:03:43.060" end="00:03:46.989" style="s2">internationale und über regionale</p>
+<p begin="00:03:44.680" end="00:03:49.419" style="s2">kompetenzzentren<span style="s4"> ein</span> sondern auch</p>
+<p begin="00:03:46.989" end="00:03:51.010" style="s2">regionale innovationscluster<span style="s3"> bestes</span></p>
+<p begin="00:03:49.419" end="00:03:53.489" style="s2"><span style="s4">beispiel</span> das<span style="s3"> cyber</span><span style="s4"> rallye</span> in<span style="s4"> baden</span></p>
+<p begin="00:03:51.010" end="00:03:55.450" style="s2"><span style="s4">württemberg</span> unterstützt<span style="s4"> sie</span> bestehende</p>
+<p begin="00:03:53.489" end="00:03:57.700" style="s2"><span style="s4">initiativen</span> von open data und open</p>
+<p begin="00:03:55.450" end="00:03:59.650" style="s2">access fördern sie normung und</p>
+<p begin="00:03:57.700" end="00:04:01.450" style="s2">standardisierung fördern sie den</p>
+<p begin="00:03:59.650" end="00:04:03.489" style="s2">unternehmergeist in deutschland</p>
+<p begin="00:04:01.450" end="00:04:05.769" style="s2"><span style="s4">verstärkte</span><span style="s3"> die</span> gesellschaftliche debatte</p>
+<p begin="00:04:03.489" end="00:04:08.319" style="s2">über<span style="s4"> ki machen sie den menschen mut</span></p>
+<p begin="00:04:05.769" end="00:04:10.780" style="s2">zeigen sie ehrgeiz und wagen sie einmal</p>
+<p begin="00:04:08.319" end="00:04:12.790" style="s2">wirklich einen großen wurf nur so können</p>
+<p begin="00:04:10.780" end="00:04:14.849" style="s2">wir tatsächlich vorne mitspielen vielen</p>
+<p begin="00:04:12.790" end="00:04:14.849" style="s2">dank</p>
+<p begin="00:04:16.250" end="00:04:22.650" style="s2">jetzt<span style="s3"> kanal</span> abonnieren und nicht</p>
+<p begin="00:04:18.989" end="00:04:28.709" style="s2">vergessen<span style="s3"> wenn</span> nach richtigen aktivieren</p>
+<p begin="00:04:22.650" end="00:04:28.709" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

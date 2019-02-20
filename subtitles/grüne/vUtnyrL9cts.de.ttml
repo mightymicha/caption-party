@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.140" end="00:00:05.279" style="s2">herr präsident sehr geehrte damen und</p>
+<p begin="00:00:02.490" end="00:00:07.620" style="s2">herren studenten sollen studierende<span style="s3"> der</span></p>
+<p begin="00:00:05.279" end="00:00:09.690" style="s2"><span style="s3">hersteller</span><span style="s4"> eine</span> so spießig biedere</p>
+<p begin="00:00:07.620" end="00:00:12.210" style="s2"><span style="s3">antrag</span> überschrift es so gar nicht erst</p>
+<p begin="00:00:09.690" end="00:00:15.179" style="s2">ihr ja ich bitte sie<span style="s4"> die zielrichtung</span></p>
+<p begin="00:00:12.210" end="00:00:16.800" style="s2">des<span style="s4"> antrags</span> ist doch klar<span style="s3"> sie</span> wollen die</p>
+<p begin="00:00:15.179" end="00:00:18.330" style="s2">studentische selbstverwaltung und</p>
+<p begin="00:00:16.800" end="00:00:20.100" style="s2">mitbestimmung an den hochschulen des</p>
+<p begin="00:00:18.330" end="00:00:22.320" style="s2">landes erst mal erheblich schwächen</p>
+<p begin="00:00:20.100" end="00:00:24.390" style="s2">letztlich aber zerschlagen</p>
+<p begin="00:00:22.320" end="00:00:26.279" style="s2">dann seien sie doch nicht so hasenfüßig</p>
+<p begin="00:00:24.390" end="00:00:28.429" style="s2">dann schreiben sie das doch auch in der</p>
+<p begin="00:00:26.279" end="00:00:31.170" style="s2">nötigen klarheit<span style="s3"> ein</span></p>
+<p begin="00:00:28.429" end="00:00:32.009" style="s2">die entdemokratisierung des<span style="s4"> senats</span></p>
+<p begin="00:00:31.170" end="00:00:34.590" style="s2">starke einschnitte für</p>
+<p begin="00:00:32.009" end="00:00:36.000" style="s2">studierendenschaft sind ja neben ihrem</p>
+<p begin="00:00:34.590" end="00:00:38.820" style="s2">üblichen<span style="s3"> problem</span><span style="s4"> mit</span> der gleichstellung</p>
+<p begin="00:00:36.000" end="00:00:41.820" style="s2">der geschlechter<span style="s3"> der</span> kern ihres antrages</p>
+<p begin="00:00:38.820" end="00:00:44.129" style="s2"><span style="s4">das</span> woran sie da die akten legen wollen</p>
+<p begin="00:00:41.820" end="00:00:46.350" style="s2"><span style="s4">ist</span> allerdings das grundprinzip unserer</p>
+<p begin="00:00:44.129" end="00:00:47.309" style="s2">gesellschaft nichts geringeres als das</p>
+<p begin="00:00:46.350" end="00:00:50.100" style="s2">demokratieprinzip</p>
+<p begin="00:00:47.309" end="00:00:52.260" style="s2">unter den talaren der muff von 1000</p>
+<p begin="00:00:50.100" end="00:00:54.300" style="s2">jahren wenn man ihre<span style="s3"> position der drt</span></p>
+<p begin="00:00:52.260" end="00:00:55.440" style="s2"><span style="s3">stärker zusammenfasst diese</span> hier so zu</p>
+<p begin="00:00:54.300" end="00:00:58.530" style="s2">den verschiedensten fragestellungen</p>
+<p begin="00:00:55.440" end="00:01:00.570" style="s2">schon geäußert haben und<span style="s3"> äußern</span> wollen</p>
+<p begin="00:00:58.530" end="00:01:02.879" style="s2">sie eigentlich zügig zurück ins<span style="s3"> 19</span></p>
+<p begin="00:01:00.570" end="00:01:05.250" style="s2"><span style="s4">jahrhundert</span> sie<span style="s3"> möchten</span><span style="s4"> diesen</span> muss das</p>
+<p begin="00:01:02.879" end="00:01:06.750" style="s2">ist der punkt wo man sagen dass 90 der</p>
+<p begin="00:01:05.250" end="00:01:09.240" style="s2">100 stieg<span style="s4"> nur allerdings auch schon</span></p>
+<p begin="00:01:06.750" end="00:01:10.369" style="s2">etwas zurück die herausforderungen für</p>
+<p begin="00:01:09.240" end="00:01:12.750" style="s2">die gesellschaft des einundzwanzigsten</p>
+<p begin="00:01:10.369" end="00:01:14.970" style="s2"><span style="s4">jahrhundert</span> sind nicht nicht einmal im</p>
+<p begin="00:01:12.750" end="00:01:17.610" style="s2">ansatz mit<span style="s4"> den mitteln des</span><span style="s3"> neunzehnten</span></p>
+<p begin="00:01:14.970" end="00:01:19.590" style="s2">jahrhunderts zu beantworten sie<span style="s3"> ergehen</span></p>
+<p begin="00:01:17.610" end="00:01:21.509" style="s2"><span style="s4">sich</span><span style="s3"> in</span> anachronistischen<span style="s3"> schwärmereien</span></p>
+<p begin="00:01:19.590" end="00:01:23.430" style="s2"><span style="s3">und wüten</span><span style="s4"> gegen eingetretene</span></p>
+<p begin="00:01:21.509" end="00:01:25.229" style="s2">veränderungen die entwicklung der<span style="s4"> 19</span></p>
+<p begin="00:01:23.430" end="00:01:26.820" style="s2">60er jahre und<span style="s3"> früher</span><span style="s4"> der</span> minister<span style="s3"> hat</span></p>
+<p begin="00:01:25.229" end="00:01:29.159" style="s2"><span style="s3">ausgeführt insbesondere an den</span></p>
+<p begin="00:01:26.820" end="00:01:31.049" style="s2">hochschulen war nicht ein unfall in der</p>
+<p begin="00:01:29.159" end="00:01:32.759" style="s2">geschichte<span style="s3"> nein sie sind ausdruck</span> der</p>
+<p begin="00:01:31.049" end="00:01:33.479" style="s2">eingetretenen gesellschaftlichen</p>
+<p begin="00:01:32.759" end="00:01:35.640" style="s2">veränderungen</p>
+<p begin="00:01:33.479" end="00:01:36.900" style="s2">wir wollen unsere<span style="s4"> hochschulen</span> nicht</p>
+<p begin="00:01:35.640" end="00:01:40.290" style="s2">zurückführen ins<span style="s3"> neunzehnte</span> jahrhundert</p>
+<p begin="00:01:36.900" end="00:01:41.369" style="s2">wir wollen moderne leistungsstarke ja</p>
+<p begin="00:01:40.290" end="00:01:43.259" style="s2">aber natürlich auch<span style="s3"> weltoffene</span></p>
+<p begin="00:01:41.369" end="00:01:45.060" style="s2">hochschulen die auch fest in unserer</p>
+<p begin="00:01:43.259" end="00:01:47.210" style="s2">demokratischen gesellschaft verankert</p>
+<p begin="00:01:45.060" end="00:01:47.210" style="s2">sind</p>
+<p begin="00:01:48.080" end="00:01:53.810" style="s2">hier ihr antrag steht für das exakte</p>
+<p begin="00:01:51.860" end="00:01:56.570" style="s2">gegenteil deswegen lehnen wir ihn ab</p>
+<p begin="00:01:53.810" end="00:01:58.640" style="s2">in kürze wird die novellierung des</p>
+<p begin="00:01:56.570" end="00:02:00.050" style="s2">hochschulgesetzes den landtag den</p>
+<p begin="00:01:58.640" end="00:02:03.760" style="s2">landtag beschäftigen ich bin mir</p>
+<p begin="00:02:00.050" end="00:02:03.760" style="s2">ziemlich sicher sie werden das hassen</p>
+</div>
+</body>
+</tt>

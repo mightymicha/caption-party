@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:07.430" end="00:00:12.920" style="s2">so meine sehr verehrten damen und herren</p>
+<p begin="00:00:10.250" end="00:00:15.360" style="s2"><span style="s3">werte kollegen</span><span style="s4"> liebe</span> steuerzahler</p>
+<p begin="00:00:12.920" end="00:00:17.610" style="s2">ich<span style="s3"> muss</span><span style="s4"> schon</span> zuvor debatte sagen</p>
+<p begin="00:00:15.360" end="00:00:20.040" style="s2">immerhin ihr gesetzentwurf von der fdp</p>
+<p begin="00:00:17.610" end="00:00:22.199" style="s2">ist sprachlich über dem niveau der</p>
+<p begin="00:00:20.040" end="00:00:23.820" style="s2">vorschule was man<span style="s3"> den</span> der regierung</p>
+<p begin="00:00:22.199" end="00:00:25.410" style="s2">meistens wie auch inhaltlich nun nicht</p>
+<p begin="00:00:23.820" end="00:00:27.480" style="s2">zu<span style="s4"> belegen</span> kann heute sprechen wir also</p>
+<p begin="00:00:25.410" end="00:00:30.029" style="s2">über ihren chancen<span style="s3"> statt</span><span style="s4"> belastungs</span></p>
+<p begin="00:00:27.480" end="00:00:32.850" style="s2"><span style="s3">tarif und die fdp wir sagen es wenn</span></p>
+<p begin="00:00:30.029" end="00:00:35.220" style="s2"><span style="s3">etwas</span><span style="s4"> gut</span> ist hat in dieser frage völlig</p>
+<p begin="00:00:32.850" end="00:00:36.900" style="s2">recht denn es wird so recht der schnelle</p>
+<p begin="00:00:35.220" end="00:00:39.420" style="s2">anstieg der steuerlast in<span style="s3"> einem</span></p>
+<p begin="00:00:36.900" end="00:00:40.470" style="s2">progressiven<span style="s4"> steuertarif</span> kritisiert und</p>
+<p begin="00:00:39.420" end="00:00:41.489" style="s2">wenn man sie alle so hört auch die</p>
+<p begin="00:00:40.470" end="00:00:43.199" style="s2">kollegen von der fdp</p>
+<p begin="00:00:41.489" end="00:00:45.120" style="s2">sie kennen ja unseren tarif auf rädern</p>
+<p begin="00:00:43.199" end="00:00:46.199" style="s2">und hatten den sogar kopiert nur mit</p>
+<p begin="00:00:45.120" end="00:00:48.210" style="s2">einem früheren datum</p>
+<p begin="00:00:46.199" end="00:00:50.190" style="s2">sie kannten ihn<span style="s3"> aufräumen</span><span style="s4"> und dass sie</span></p>
+<p begin="00:00:48.210" end="00:00:51.510" style="s2">sich auf technische details hier an der</p>
+<p begin="00:00:50.190" end="00:00:53.400" style="s2">jungen partei<span style="s4"> mal</span> passieren kann hier</p>
+<p begin="00:00:51.510" end="00:00:54.900" style="s2"><span style="s4">versteifen ist er nicht und traurig und</span></p>
+<p begin="00:00:53.400" end="00:00:56.220" style="s2"><span style="s4">heißt</span> sie<span style="s3"> setzen</span><span style="s4"> sich</span> nicht mit unseren</p>
+<p begin="00:00:54.900" end="00:00:59.610" style="s2">guten argumenten auseinander</p>
+<p begin="00:00:56.220" end="00:01:01.559" style="s2">sie können es nicht<span style="s4"> und</span> wenn ich<span style="s3"> ihre</span></p>
+<p begin="00:00:59.610" end="00:01:03.449" style="s2">töpferwerkstatt zu den neuen programmen</p>
+<p begin="00:01:01.559" end="00:01:04.890" style="s2"><span style="s3">sehen</span><span style="s4"> und</span> auch die<span style="s3"> anträge</span> der fdp<span style="s4"> da</span></p>
+<p begin="00:01:03.449" end="00:01:06.090" style="s2">muss man ja den eindruck gewinnen</p>
+<p begin="00:01:04.890" end="00:01:08.580" style="s2">mittlerweile liegt unser</p>
+<p begin="00:01:06.090" end="00:01:10.770" style="s2">grundsatzprogramm bei fdp und cdu als</p>
+<p begin="00:01:08.580" end="00:01:11.910" style="s2">kleiner katechismus im<span style="s4"> nachttisch</span> damit</p>
+<p begin="00:01:10.770" end="00:01:13.410" style="s2">sie<span style="s4"> ihnen</span> wenn sie mal wieder keine</p>
+<p begin="00:01:11.910" end="00:01:18.420" style="s2">ideen haben<span style="s4"> rausnehmen</span> können<span style="s4"> um</span> zu</p>
+<p begin="00:01:13.410" end="00:01:20.220" style="s2">wissen was man tun könnte und<span style="s4"> ich sagte</span></p>
+<p begin="00:01:18.420" end="00:01:21.720" style="s2"><span style="s4">dass</span> bereits<span style="s4"> in</span> meiner rede zum<span style="s4"> familien</span></p>
+<p begin="00:01:20.220" end="00:01:24.090" style="s2">entlastungsgesetz dass sie hier</p>
+<p begin="00:01:21.720" end="00:01:26.640" style="s2">lediglich das tun was das</p>
+<p begin="00:01:24.090" end="00:01:28.590" style="s2">bundesverfassungsgericht<span style="s4"> vorgibt</span> was<span style="s4"> es</span></p>
+<p begin="00:01:26.640" end="00:01:31.620" style="s2"><span style="s3">ihnen</span> von ihnen abverlangt damit sie die</p>
+<p begin="00:01:28.590" end="00:01:33.000" style="s2"><span style="s4">familien</span> vom existenzminimum freistellen</p>
+<p begin="00:01:31.620" end="00:01:34.500" style="s2">und leider meine damen und herren das</p>
+<p begin="00:01:33.000" end="00:01:36.300" style="s2">kann<span style="s3"> ich der großen</span><span style="s4"> koalition</span> wie immer</p>
+<p begin="00:01:34.500" end="00:01:39.300" style="s2">nicht zu billigen<span style="s3"> muss</span> man an dieser</p>
+<p begin="00:01:36.300" end="00:01:41.070" style="s2">stelle sagen<span style="s4"> sie</span> schaffen es nicht große</p>
+<p begin="00:01:39.300" end="00:01:42.690" style="s2">koalition<span style="s3"> wenn</span> man die<span style="s3"> verstärkte</span> spd</p>
+<p begin="00:01:41.070" end="00:01:44.310" style="s2">fragen sie<span style="s4"> sich</span> mal wie<span style="s4"> sozial</span> sie</p>
+<p begin="00:01:42.690" end="00:01:46.500" style="s2">wirklich sind warum sie nur noch bei 15</p>
+<p begin="00:01:44.310" end="00:01:48.120" style="s2">prozent und den neuen ländern<span style="s4"> bei</span><span style="s3"> 9%</span></p>
+<p begin="00:01:46.500" end="00:01:49.650" style="s2"><span style="s4">hängen da kommen</span> ja auch gleich darauf</p>
+<p begin="00:01:48.120" end="00:01:52.020" style="s2">zu meine damen und herren</p>
+<p begin="00:01:49.650" end="00:01:53.760" style="s2">sie schaffen es nicht und ihre kollegen</p>
+<p begin="00:01:52.020" end="00:01:56.100" style="s2">haben es entlarvt sie haben nämlich eben</p>
+<p begin="00:01:53.760" end="00:01:58.080" style="s2">gesagt leistung muss sich wieder lohnen</p>
+<p begin="00:01:56.100" end="00:01:59.670" style="s2">der kollege<span style="s4"> schwarze</span> wie auch der</p>
+<p begin="00:01:58.080" end="00:02:01.140" style="s2">kollege<span style="s3"> stracke</span> es ist<span style="s4"> das banale</span></p>
+<p begin="00:01:59.670" end="00:02:03.090" style="s2">eingestellt ist<span style="s3"> dass</span><span style="s4"> seit</span> sie<span style="s4"> hier</span></p>
+<p begin="00:02:01.140" end="00:02:04.560" style="s2">regieren in dieser<span style="s4"> gruppe</span> leistung in</p>
+<p begin="00:02:03.090" end="00:02:08.170" style="s2">diesem land sich eben nicht mehr lohnt</p>
+<p begin="00:02:04.560" end="00:02:12.050" style="s2">sondern es<span style="s3"> lies essen ist es lohnt sich</span></p>
+<p begin="00:02:08.170" end="00:02:13.070" style="s2">an dieser stelle er nichts zu tun und</p>
+<p begin="00:02:12.050" end="00:02:14.090" style="s2">meine damen und herren ist es eine</p>
+<p begin="00:02:13.070" end="00:02:15.860" style="s2">bankrotterklärung der</p>
+<p begin="00:02:14.090" end="00:02:17.720" style="s2">bundesfinanzminister olaf scholz sieht</p>
+<p begin="00:02:15.860" end="00:02:21.500" style="s2">mittlerweile 1 25 milliarden</p>
+<p begin="00:02:17.720" end="00:02:23.420" style="s2">haushaltsloch bis 20 23 auf uns zukommen</p>
+<p begin="00:02:21.500" end="00:02:25.910" style="s2">hier sind die aktuellen pläne der</p>
+<p begin="00:02:23.420" end="00:02:27.890" style="s2">regierung mit der<span style="s4"> gießkanne</span> vorzugehen</p>
+<p begin="00:02:25.910" end="00:02:28.570" style="s2">noch gar nicht enthalten und warum tun</p>
+<p begin="00:02:27.890" end="00:02:30.830" style="s2">sie das</p>
+<p begin="00:02:28.570" end="00:02:32.390" style="s2">sie tun<span style="s4"> es</span> weil sie einen blauen</p>
+<p begin="00:02:30.830" end="00:02:34.640" style="s2">erdrutsch in den neuen ländern</p>
+<p begin="00:02:32.390" end="00:02:36.410" style="s2">befürchten natürlich wollen sie hier</p>
+<p begin="00:02:34.640" end="00:02:37.370" style="s2">jetzt mit<span style="s4"> angeblichen</span> wahlgeschenken</p>
+<p begin="00:02:36.410" end="00:02:39.410" style="s2"><span style="s3">unschön</span> schleifen</p>
+<p begin="00:02:37.370" end="00:02:41.180" style="s2">das schlimmste für cdu und spd noch</p>
+<p begin="00:02:39.410" end="00:02:43.700" style="s2">verhindern und das handelsblatt hat es</p>
+<p begin="00:02:41.180" end="00:02:46.040" style="s2">richtig genannt<span style="s4"> die</span> gestrige ausgabe<span style="s4"> die</span></p>
+<p begin="00:02:43.700" end="00:02:47.840" style="s2"><span style="s3">teure</span> profilierung wieder einmal eine</p>
+<p begin="00:02:46.040" end="00:02:49.820" style="s2"><span style="s4">teure</span> profilierung zu lasten<span style="s4"> des</span></p>
+<p begin="00:02:47.840" end="00:02:51.230" style="s2"><span style="s4">steuerzahlers</span> aber wie die<span style="s3"> kulisse es</span></p>
+<p begin="00:02:49.820" end="00:02:53.959" style="s2">ausgeführt<span style="s3"> hat</span> auch die kollegen</p>
+<p begin="00:02:51.230" end="00:02:56.840" style="s2">wirkungslos verpufft meine damen und</p>
+<p begin="00:02:53.959" end="00:02:57.500" style="s2">herren und kommen<span style="s4"> dazu</span> den nackten</p>
+<p begin="00:02:56.840" end="00:03:00.980" style="s2">zahlen</p>
+<p begin="00:02:57.500" end="00:03:05.450" style="s2"><span style="s4">hier</span> heißt es die steuerquote wird im</p>
+<p begin="00:03:00.980" end="00:03:07.070" style="s2">jahr<span style="s4"> 20</span> 18<span style="s3"> uhr auf 22,8 des nominalen</span></p>
+<p begin="00:03:05.450" end="00:03:08.090" style="s2">bruttoinlandsprodukts ansteigen oder</p>
+<p begin="00:03:07.070" end="00:03:10.550" style="s2">angestiegen<span style="s3"> sein</span></p>
+<p begin="00:03:08.090" end="00:03:12.380" style="s2">im jahr 2005 sowie zu ihrer angeblichen</p>
+<p begin="00:03:10.550" end="00:03:15.650" style="s2"><span style="s4">profession</span> die sie abbauen</p>
+<p begin="00:03:12.380" end="00:03:17.000" style="s2">lag diese quote noch bei<span style="s3"> 19,6</span> und es ist</p>
+<p begin="00:03:15.650" end="00:03:18.680" style="s2">nur die eine seite und da sind sie</p>
+<p begin="00:03:17.000" end="00:03:20.030" style="s2"><span style="s3">unehrlich</span> der medaille die andere heißt</p>
+<p begin="00:03:18.680" end="00:03:21.950" style="s2">nämlich<span style="s4"> abgaben</span> und<span style="s3"> da</span><span style="s4"> komme</span> ich zum</p>
+<p begin="00:03:20.030" end="00:03:23.239" style="s2"><span style="s3">steuerzahler gedenktag der</span><span style="s4"> im</span> letzten</p>
+<p begin="00:03:21.950" end="00:03:24.769" style="s2">jahr<span style="s4"> am</span> 18<span style="s4"> juli</span> war</p>
+<p begin="00:03:23.239" end="00:03:27.170" style="s2">wenn sie hier in deutschland einen euro</p>
+<p begin="00:03:24.769" end="00:03:29.000" style="s2">verdienen dann bleiben in der<span style="s3"> volks</span> 45,7</p>
+<p begin="00:03:27.170" end="00:03:31.100" style="s2"><span style="s3">eurocent</span> meine damen und herren wo soll</p>
+<p begin="00:03:29.000" end="00:03:32.959" style="s2"><span style="s3">sich</span><span style="s4"> denn da noch leistungen</span><span style="s3"> rollen</span></p>
+<p begin="00:03:31.100" end="00:03:34.310" style="s2">sie sind robin hood aber nicht für die</p>
+<p begin="00:03:32.959" end="00:03:35.840" style="s2">die hier leistungen erbringen meine</p>
+<p begin="00:03:34.310" end="00:03:39.799" style="s2">damen und herren sie sind<span style="s3"> hoving hot von</span></p>
+<p begin="00:03:35.840" end="00:03:42.320" style="s2">überholtes europa fangen sie<span style="s4"> also</span></p>
+<p begin="00:03:39.799" end="00:03:44.390" style="s2">endlich an den steuertarif auf rädern</p>
+<p begin="00:03:42.320" end="00:03:46.100" style="s2">von uns zu akzeptieren und auch</p>
+<p begin="00:03:44.390" end="00:03:48.160" style="s2">einzuführen denn dann ist er ihrer</p>
+<p begin="00:03:46.100" end="00:03:50.180" style="s2">beliebigkeit ihren jährlichen</p>
+<p begin="00:03:48.160" end="00:03:51.530" style="s2">operationen die<span style="s3"> ja viel</span><span style="s4"> laufen</span> wie die</p>
+<p begin="00:03:50.180" end="00:03:53.810" style="s2">nackten zahlen einfach eine klare</p>
+<p begin="00:03:51.530" end="00:03:55.310" style="s2">sprache sprechen nämlich entzogen es ist</p>
+<p begin="00:03:53.810" end="00:03:56.900" style="s2">mir belieben in denen sie<span style="s4"> stellen</span> meine</p>
+<p begin="00:03:55.310" end="00:03:58.940" style="s2">damen und herren<span style="s4"> und</span> ein weiterer</p>
+<p begin="00:03:56.900" end="00:04:01.670" style="s2">wichtiger grund für<span style="s4"> diese sogenannte</span></p>
+<p begin="00:03:58.940" end="00:04:03.170" style="s2">kalte progression ist natürlich auch die</p>
+<p begin="00:04:01.670" end="00:04:05.810" style="s2">inflation und meine damen und herren</p>
+<p begin="00:04:03.170" end="00:04:07.250" style="s2">wenn sie das alles zusammen nehmen dann</p>
+<p begin="00:04:05.810" end="00:04:08.600" style="s2">ist dieser rechts<span style="s4"> verschiebung</span><span style="s3"> ist</span> sie</p>
+<p begin="00:04:07.250" end="00:04:09.560" style="s2">sehen rechts<span style="s3"> verschiebung</span> kann manchmal</p>
+<p begin="00:04:08.600" end="00:04:11.180" style="s2">auch schön<span style="s4"> sein</span> nicht nur im</p>
+<p begin="00:04:09.560" end="00:04:13.100" style="s2">finanziellen bereich ich denke auch im</p>
+<p begin="00:04:11.180" end="00:04:15.019" style="s2">gesellschaftlichen<span style="s4"> dann</span> ist<span style="s4"> dieser</span></p>
+<p begin="00:04:13.100" end="00:04:16.709" style="s2">rechts<span style="s3"> verschiebung doch von</span><span style="s4"> 1000</span> euro</p>
+<p begin="00:04:15.019" end="00:04:18.479" style="s2"><span style="s4">nur</span> billiges wahlkampf</p>
+<p begin="00:04:16.709" end="00:04:20.549" style="s2">auch von ihnen vielleicht damit sie über</p>
+<p begin="00:04:18.479" end="00:04:22.620" style="s2"><span style="s3">fünf prozent auch in den neuen ländern</span></p>
+<p begin="00:04:20.549" end="00:04:25.410" style="s2">kommen schließen sie sich unserem antrag</p>
+<p begin="00:04:22.620" end="00:04:27.360" style="s2">an<span style="s4"> dem</span> tarif<span style="s4"> auf</span> rädern geißeln sie</p>
+<p begin="00:04:25.410" end="00:04:29.550" style="s2">nicht einen guten antrag der kollegen</p>
+<p begin="00:04:27.360" end="00:04:31.319" style="s2">vom bund der steuerzahler<span style="s4"> der</span> sehr</p>
+<p begin="00:04:29.550" end="00:04:32.639" style="s2">durchdacht ist und den wir übernommen</p>
+<p begin="00:04:31.319" end="00:04:34.860" style="s2">haben wir hören nämlich anders als sie</p>
+<p begin="00:04:32.639" end="00:04:37.319" style="s2"><span style="s4">auf den kirchhoff</span> auf fachleute und</p>
+<p begin="00:04:34.860" end="00:04:39.930" style="s2">nehmen uns<span style="s4"> rat</span> guter fachleute an dieser</p>
+<p begin="00:04:37.319" end="00:04:41.759" style="s2">rat ist gut und er wäre endlich wieder</p>
+<p begin="00:04:39.930" end="00:04:44.190" style="s2">die rückkehr sozialen marktwirtschaft</p>
+<p begin="00:04:41.759" end="00:04:45.419" style="s2">der cdu dann machen sie endlich das<span style="s4"> war</span></p>
+<p begin="00:04:44.190" end="00:04:46.979" style="s2"><span style="s4">was</span> sie hier in ihrem programm haben</p>
+<p begin="00:04:45.419" end="00:04:48.690" style="s2"><span style="s3">gehen</span> sie<span style="s4"> mit</span> uns den schritt</p>
+<p begin="00:04:46.979" end="00:04:53.550" style="s2">beschließen sie den tarif auf rädern</p>
+<p begin="00:04:48.690" end="00:04:55.650" style="s2"><span style="s3">danke</span><span style="s4"> jetzt kann man</span> abonnieren<span style="s4"> und</span></p>
+<p begin="00:04:53.550" end="00:04:57.450" style="s2">nicht vergessen<span style="s3"> nach</span><span style="s4"> richtigen</span></p>
+<p begin="00:04:55.650" end="00:05:03.499" style="s2">aktivieren</p>
+<p begin="00:04:57.450" end="00:05:03.499" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

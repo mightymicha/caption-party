@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:03.750" style="s2">also ich war zunächst sehr geschockt</p>
+<p begin="00:00:01.829" end="00:00:05.100" style="s2">über die mitteilung dass<span style="s3"> herr</span><span style="s4"> martens</span></p>
+<p begin="00:00:03.750" end="00:00:07.140" style="s2"><span style="s3">stark</span> verletzt worden<span style="s3"> ist</span> habe die</p>
+<p begin="00:00:05.100" end="00:00:09.120" style="s2"><span style="s4">bilder</span> gesehen<span style="s4"> hat</span><span style="s3"> nicht massiv</span></p>
+<p begin="00:00:07.140" end="00:00:10.590" style="s2">beeindruckt war jetzt mal wirklich es</p>
+<p begin="00:00:09.120" end="00:00:12.719" style="s2">mir die worte fehlten</p>
+<p begin="00:00:10.590" end="00:00:14.429" style="s2">ich plane auch meistens so dass<span style="s4"> ich</span></p>
+<p begin="00:00:12.719" end="00:00:16.710" style="s2">damit<span style="s3"> ein</span> auto wenn<span style="s4"> überhaupt wohl</span></p>
+<p begin="00:00:14.429" end="00:00:18.720" style="s2"><span style="s4">hinfahre</span> und wenn ich<span style="s3"> mir abends noch</span></p>
+<p begin="00:00:16.710" end="00:00:20.449" style="s2">mit der bahn unterwegs sein muss<span style="s4"> wenn</span> es</p>
+<p begin="00:00:18.720" end="00:00:22.439" style="s2"><span style="s3">meistens</span> auch eine begleitung mit dabei</p>
+<p begin="00:00:20.449" end="00:00:24.630" style="s2">ich habe zum beispiel<span style="s4"> jetzt</span><span style="s3"> auch</span><span style="s4"> in</span><span style="s3"> der</span></p>
+<p begin="00:00:22.439" end="00:00:26.099" style="s2"><span style="s3">polizei haben extra nummer mit unter</span></p>
+<p begin="00:00:24.630" end="00:00:28.019" style="s2"><span style="s4">anderen</span> die ich<span style="s3"> dann noch wählen kann</span></p>
+<p begin="00:00:26.099" end="00:00:30.480" style="s2"><span style="s3">man</span> hat<span style="s3"> an meinem geburtstag vor</span> zwei</p>
+<p begin="00:00:28.019" end="00:00:32.969" style="s2">jahren hat man mir das haus mit</p>
+<p begin="00:00:30.480" end="00:00:35.579" style="s2">farbflaschen beworfen<span style="s3"> ja</span> die fenster</p>
+<p begin="00:00:32.969" end="00:00:37.200" style="s2">fast kaputt gemacht und da haben die die</p>
+<p begin="00:00:35.579" end="00:00:39.120" style="s2">enkel geschlafen in den räumen</p>
+<p begin="00:00:37.200" end="00:00:41.100" style="s2">man hat mir das auto vollkommen kaputt</p>
+<p begin="00:00:39.120" end="00:00:42.239" style="s2">gemacht alle scheiben eingeschlagen<span style="s4"> die</span></p>
+<p begin="00:00:41.100" end="00:00:44.250" style="s2">reifen zerstochen</p>
+<p begin="00:00:42.239" end="00:00:46.410" style="s2">also berlin ist auch ein sehr heißes</p>
+<p begin="00:00:44.250" end="00:00:48.590" style="s2">pflaster<span style="s3"> seitdem</span> habe ich regelmäßig</p>
+<p begin="00:00:46.410" end="00:00:50.190" style="s2"><span style="s4">bestreifung</span><span style="s3"> meines</span> hauses<span style="s3"> es</span><span style="s4"> ist wahr</span></p>
+<p begin="00:00:48.590" end="00:00:51.840" style="s2"><span style="s4">oberbürgermeisterkandidaten</span><span style="s3"> potsdam</span></p>
+<p begin="00:00:50.190" end="00:00:52.860" style="s2">dort wurden mehrfach unsere stände</p>
+<p begin="00:00:51.840" end="00:00:53.730" style="s2">überfallen wir hatten zum glück</p>
+<p begin="00:00:52.860" end="00:00:55.469" style="s2">polizeischutz</p>
+<p begin="00:00:53.730" end="00:00:57.420" style="s2">aber in kürzester zeit war bei einem</p>
+<p begin="00:00:55.469" end="00:00:59.250" style="s2">stand fast 120 linksextremen die dann</p>
+<p begin="00:00:57.420" end="00:01:01.109" style="s2">auch den bus mit flaschen beworfen haben</p>
+<p begin="00:00:59.250" end="00:01:02.520" style="s2">dann wurde ich letztes jahr schon einmal</p>
+<p begin="00:01:01.109" end="00:01:03.899" style="s2">von drei vermummten zusammen meiner</p>
+<p begin="00:01:02.520" end="00:01:05.129" style="s2">freundin<span style="s4"> in potsdam überfallen am</span></p>
+<p begin="00:01:03.899" end="00:01:07.200" style="s2"><span style="s3">gleichen</span> tage</p>
+<p begin="00:01:05.129" end="00:01:08.640" style="s2">das ist nichts was neu wäre natürlich</p>
+<p begin="00:01:07.200" end="00:01:10.290" style="s2">ist die qualität eine andere</p>
+<p begin="00:01:08.640" end="00:01:14.610" style="s2">ich habe<span style="s4"> mein vertragsfreie immer dabei</span></p>
+<p begin="00:01:10.290" end="00:01:16.020" style="s2">und dieses ja<span style="s3"> diesen</span> peripherie</p>
+<p begin="00:01:14.610" end="00:01:17.640" style="s2">fernblick den<span style="s3"> man</span> einfach<span style="s4"> auch</span></p>
+<p begin="00:01:16.020" end="00:01:19.310" style="s2">entwickelt den halte ich für ganz</p>
+<p begin="00:01:17.640" end="00:01:21.689" style="s2">besonders wichtig dass man<span style="s4"> eben</span></p>
+<p begin="00:01:19.310" end="00:01:23.340" style="s2">aufmerksam ist<span style="s3"> mensch welche personen</span></p>
+<p begin="00:01:21.689" end="00:01:24.630" style="s2">sind ja schon länger in der umgebung</p>
+<p begin="00:01:23.340" end="00:01:25.979" style="s2">welche laufen<span style="s3"> haben</span> vielleicht hinterher</p>
+<p begin="00:01:24.630" end="00:01:28.320" style="s2">dass man<span style="s3"> das einfach so ein bisschen mit</span></p>
+<p begin="00:01:25.979" end="00:01:30.390" style="s2">wahrnimmt ich<span style="s4"> erwarte</span> mir<span style="s3"> von</span> einem</p>
+<p begin="00:01:28.320" end="00:01:32.909" style="s2">bundeskanzlerin dass<span style="s3"> sie</span> stellung nehmen</p>
+<p begin="00:01:30.390" end="00:01:35.070" style="s2">dazu<span style="s3"> wenn</span> man dazu stellung nehmen kann</p>
+<p begin="00:01:32.909" end="00:01:36.750" style="s2"><span style="s3">das</span> zum beispiel was sehr sehr traurig</p>
+<p begin="00:01:35.070" end="00:01:38.670" style="s2"><span style="s3">ist</span> ein neunjähriger junge in<span style="s4"> der</span> nähe</p>
+<p begin="00:01:36.750" end="00:01:40.350" style="s2">gestorben ist<span style="s3"> dann</span> denke ich muss man</p>
+<p begin="00:01:38.670" end="00:01:41.780" style="s2">auch als kanzlerin stellung dazu nehmen</p>
+<p begin="00:01:40.350" end="00:01:43.950" style="s2">wenn ein bundestagsabgeordneter</p>
+<p begin="00:01:41.780" end="00:01:46.350" style="s2">überfallen wird<span style="s3"> um</span> beinahe zu tode kommt</p>
+<p begin="00:01:43.950" end="00:01:47.579" style="s2"><span style="s4">das ja auch immer der nase</span> vorwurf kommt</p>
+<p begin="00:01:46.350" end="00:01:50.820" style="s2">und was er sich das finde ich auch</p>
+<p begin="00:01:47.579" end="00:01:52.560" style="s2">gerade<span style="s3"> wenn</span> also die nationalsozialisten</p>
+<p begin="00:01:50.820" end="00:01:56.310" style="s2">sind ja schon wirklich</p>
+<p begin="00:01:52.560" end="00:01:57.689" style="s2">das schlimmste ende<span style="s3"> sozusagen haben die</span></p>
+<p begin="00:01:56.310" end="00:01:59.369" style="s2">schlimmsten dinge getan<span style="s3"> und</span> dann</p>
+<p begin="00:01:57.689" end="00:02:00.990" style="s2">heutzutage hinzugehen und leuten weil</p>
+<p begin="00:01:59.369" end="00:02:02.220" style="s2">die politische meinung nicht gefällt das</p>
+<p begin="00:02:00.990" end="00:02:03.360" style="s2">gleiche zu unterstellen das ist halt</p>
+<p begin="00:02:02.220" end="00:02:04.140" style="s2">ganz schön heftig und<span style="s4"> das ist auch eine</span></p>
+<p begin="00:02:03.360" end="00:02:06.630" style="s2"><span style="s4">verharmlosung</span></p>
+<p begin="00:02:04.140" end="00:02:08.340" style="s2">ganz davon abgesehen<span style="s4"> wie erlebens</span><span style="s3"> auch</span></p>
+<p begin="00:02:06.630" end="00:02:09.929" style="s2">im bundestag dass der ton rauer wird</p>
+<p begin="00:02:08.340" end="00:02:12.090" style="s2">nicht von unserer seite sondern von der</p>
+<p begin="00:02:09.929" end="00:02:14.280" style="s2">des politischen gegners<span style="s3"> und</span> wir<span style="s4"> müssen</span></p>
+<p begin="00:02:12.090" end="00:02:16.709" style="s2">natürlich<span style="s4"> dann</span> sind in einer position in</p>
+<p begin="00:02:14.280" end="00:02:18.150" style="s2">der wir uns sehr stark<span style="s4"> zurücknehmen</span></p>
+<p begin="00:02:16.709" end="00:02:20.400" style="s2"><span style="s3">musste</span> und auch genau auf diese dinge</p>
+<p begin="00:02:18.150" end="00:02:21.599" style="s2">aufmerksam machen müssen weil<span style="s4"> solange</span></p>
+<p begin="00:02:20.400" end="00:02:23.160" style="s2">der bürger auch von solchen dingen nicht</p>
+<p begin="00:02:21.599" end="00:02:24.420" style="s2">bescheid was unter<span style="s4"> den leitmedien</span><span style="s3"> wird</span></p>
+<p begin="00:02:23.160" end="00:02:27.209" style="s2">einfach viel zu viel verschwiegen von</p>
+<p begin="00:02:24.420" end="00:02:27.810" style="s2">diesen tätigkeiten kann der bürger das</p>
+<p begin="00:02:27.209" end="00:02:30.540" style="s2">auch gar nicht</p>
+<p begin="00:02:27.810" end="00:02:32.420" style="s2"><span style="s3">nimmt</span> er<span style="s3"> das</span> gar nicht wahr ich denke</p>
+<p begin="00:02:30.540" end="00:02:34.620" style="s2">dass es irgendwann zum knall<span style="s4"> kommen</span></p>
+<p begin="00:02:32.420" end="00:02:36.840" style="s2"><span style="s4">hoffe</span><span style="s3"> aber</span> gerade<span style="s4"> das</span><span style="s3"> durch unsere</span></p>
+<p begin="00:02:34.620" end="00:02:38.310" style="s2"><span style="s3">partei</span> ist<span style="s4"> den</span><span style="s3"> ausgleich</span><span style="s4"> heimbringen</span></p>
+<p begin="00:02:36.840" end="00:02:40.799" style="s2">dass<span style="s4"> wir</span> auch<span style="s4"> für</span> viele<span style="s3"> leute da</span><span style="s4"> noch</span></p>
+<p begin="00:02:38.310" end="00:02:42.569" style="s2"><span style="s4">mal</span><span style="s3"> die</span> hoffnung<span style="s4"> geben</span><span style="s3"> das</span> ist auch</p>
+<p begin="00:02:40.799" end="00:02:44.700" style="s2">parlamentarisch gerade<span style="s4"> es</span> wir was</p>
+<p begin="00:02:42.569" end="00:02:46.620" style="s2">umsetzen können<span style="s3"> dass</span> wir dem</p>
+<p begin="00:02:44.700" end="00:02:48.989" style="s2">entgegenwirken können<span style="s3"> diesen</span> linken</p>
+<p begin="00:02:46.620" end="00:02:50.519" style="s2">waren vorstellungen und<span style="s4"> das</span> ist meine</p>
+<p begin="00:02:48.989" end="00:02:52.830" style="s2">hoffnung<span style="s4"> nachdem</span><span style="s3"> man</span> jetzt so<span style="s3"> zwei drei</span></p>
+<p begin="00:02:50.519" end="00:02:55.080" style="s2">tage drüber geschlafen hat kommt dann</p>
+<p begin="00:02:52.830" end="00:02:57.090" style="s2">doch eher<span style="s4"> der mut zurück</span><span style="s3"> dass</span> man<span style="s4"> alte</span></p>
+<p begin="00:02:55.080" end="00:02:58.859" style="s2"><span style="s3">jetzt</span> erst recht und dadurch lassen sich</p>
+<p begin="00:02:57.090" end="00:03:01.350" style="s2">einschüchtern<span style="s3"> wir</span> müssen weiter unsere</p>
+<p begin="00:02:58.859" end="00:03:04.230" style="s2">ideale nach vorne tragen<span style="s4"> für</span> unser<span style="s3"> land</span></p>
+<p begin="00:03:01.350" end="00:03:05.700" style="s2">für europa ebenfalls kämpfen und<span style="s4"> treffen</span></p>
+<p begin="00:03:04.230" end="00:03:07.829" style="s2">uns<span style="s4"> von</span> solchen rückschlägen<span style="s4"> lässt sich</span></p>
+<p begin="00:03:05.700" end="00:03:10.530" style="s2"><span style="s4">nicht</span> beeindrucken<span style="s3"> lassen</span><span style="s4"> denn</span> wir<span style="s3"> sind</span></p>
+<p begin="00:03:07.829" end="00:03:12.660" style="s2"><span style="s3">letztlich</span> die einzige alternative die es</p>
+<p begin="00:03:10.530" end="00:03:14.579" style="s2">noch gibt es einen<span style="s3"> halt</span> parteien jetzt</p>
+<p begin="00:03:12.660" end="00:03:16.049" style="s2"><span style="s4">ganz klar jetzt nur</span> noch<span style="s3"> nach vorne</span><span style="s4"> der</span></p>
+<p begin="00:03:14.579" end="00:03:19.140" style="s2"><span style="s4">politischen</span> gegner bekommt<span style="s4"> immer</span> mehr</p>
+<p begin="00:03:16.049" end="00:03:21.090" style="s2">angst wir werden immer stärker und das</p>
+<p begin="00:03:19.140" end="00:03:24.560" style="s2">letzte mittel<span style="s3"> ist</span> dann nur noch die</p>
+<p begin="00:03:21.090" end="00:03:24.560" style="s2">gewalt weil sie keine argumente haben</p>
+</div>
+</body>
+</tt>

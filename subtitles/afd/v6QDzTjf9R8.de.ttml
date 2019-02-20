@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.650" style="s2">der deutsche arbeitsmarkt kommt nicht</p>
+<p begin="00:00:01.860" end="00:00:06.420" style="s2">ohne zuwanderung aus zu diesem schluss</p>
+<p begin="00:00:04.650" end="00:00:08.309" style="s2">kommt die bertelsmann stiftung in einer</p>
+<p begin="00:00:06.420" end="00:00:10.710" style="s2">heute veröffentlichten studie</p>
+<p begin="00:00:08.309" end="00:00:12.690" style="s2">um den bedarf zu decken sollen künftig</p>
+<p begin="00:00:10.710" end="00:00:14.160" style="s2">noch mehr migranten aus nicht eu ländern</p>
+<p begin="00:00:12.690" end="00:00:16.109" style="s2">nach deutschland kommen</p>
+<p begin="00:00:14.160" end="00:00:18.500" style="s2">der arbeitsmarkt brauche<span style="s3"> mittel</span> und</p>
+<p begin="00:00:16.109" end="00:00:23.160" style="s2">langfristig jedes jahr mindestens</p>
+<p begin="00:00:18.500" end="00:00:25.109" style="s2"><span style="s3">260.000</span> zuwanderer<span style="s3"> 10</span> millionen bis 2060</p>
+<p begin="00:00:23.160" end="00:00:26.880" style="s2">die fdp fraktion im deutschen bundestag</p>
+<p begin="00:00:25.109" end="00:00:29.189" style="s2">kann über die erkenntnisse dieser</p>
+<p begin="00:00:26.880" end="00:00:29.670" style="s2">regierungsnahen stiftung nur den kopf</p>
+<p begin="00:00:29.189" end="00:00:31.470" style="s2">schütteln</p>
+<p begin="00:00:29.670" end="00:00:33.809" style="s2">hier wird<span style="s4"> mit</span> dringend benötigten</p>
+<p begin="00:00:31.470" end="00:00:36.090" style="s2">fachkräften argumentiert die aus<span style="s3"> nicht</span></p>
+<p begin="00:00:33.809" end="00:00:37.500" style="s2"><span style="s3">eu staaten zu uns kommen und</span><span style="s4"> unsere</span></p>
+<p begin="00:00:36.090" end="00:00:39.600" style="s2"><span style="s4">wirtschaft</span> retten sollen</p>
+<p begin="00:00:37.500" end="00:00:40.700" style="s2">mittlerweile<span style="s4"> weiß</span> aber jedes kind<span style="s4"> das</span> in</p>
+<p begin="00:00:39.600" end="00:00:42.930" style="s2">deutschland hauptsächlich</p>
+<p begin="00:00:40.700" end="00:00:45.000" style="s2"><span style="s3">unqualifizierte</span> asylbewerber stranden</p>
+<p begin="00:00:42.930" end="00:00:46.579" style="s2"><span style="s4">die</span> sich<span style="s3"> soziale</span><span style="s4"> sicherheit</span> und ein</p>
+<p begin="00:00:45.000" end="00:00:48.930" style="s2">besseres leben wünschen</p>
+<p begin="00:00:46.579" end="00:00:50.129" style="s2">vielmehr muss die bundesregierung dafür</p>
+<p begin="00:00:48.930" end="00:00:51.989" style="s2">sorgen dass nicht noch mehr</p>
+<p begin="00:00:50.129" end="00:00:54.239" style="s2"><span style="s4">hochqualifizierte</span><span style="s3"> deutscher</span> fachkräfte</p>
+<p begin="00:00:51.989" end="00:00:55.710" style="s2"><span style="s4">das</span> land verlassen weil sie hier keine</p>
+<p begin="00:00:54.239" end="00:00:57.780" style="s2">perspektive mehr sehen</p>
+<p begin="00:00:55.710" end="00:00:59.940" style="s2">in wahrheit soll die bertelsmann</p>
+<p begin="00:00:57.780" end="00:01:02.550" style="s2">untersuchung der regierung merkel dabei</p>
+<p begin="00:00:59.940" end="00:01:05.010" style="s2">helfen das unsinnige einwanderungsgesetz</p>
+<p begin="00:01:02.550" end="00:01:07.140" style="s2">möglichst schnell absegnen zu lassen</p>
+<p begin="00:01:05.010" end="00:01:09.479" style="s2">sie wird als vermeintlich objektive</p>
+<p begin="00:01:07.140" end="00:01:11.729" style="s2">quelle herangezogen um noch mehr kultur</p>
+<p begin="00:01:09.479" end="00:01:13.300" style="s2"><span style="s4">fremde</span> einwanderung nach deutschland zu</p>
+<p begin="00:01:11.729" end="00:01:15.610" style="s2">ermöglichen</p>
+<p begin="00:01:13.300" end="00:01:20.340" style="s2">jetzt<span style="s4"> kanal</span> abonnieren und nicht</p>
+<p begin="00:01:15.610" end="00:01:20.340" style="s2">vergessen<span style="s3"> wenn</span><span style="s4"> nach</span> richtigen aktivieren</p>
+<p begin="00:01:20.730" end="00:01:23.870" style="s2">[Musik]</p>
+</div>
+</body>
+</tt>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.740" style="s2">25 jahre<span style="s3"> rot rot in brandenburg</span></p>
+<p begin="00:00:02.270" end="00:00:05.540" style="s2"><span style="s3">verlorene</span> jahre brandenburg lebt von der</p>
+<p begin="00:00:04.740" end="00:00:07.440" style="s2">substanz</p>
+<p begin="00:00:05.540" end="00:00:08.849" style="s2">deshalb ist es wichtig dass es eine</p>
+<p begin="00:00:07.440" end="00:00:10.410" style="s2">alternative gibt jetzt gibt es diese</p>
+<p begin="00:00:08.849" end="00:00:10.860" style="s2">alternative auf die menschen gewartet</p>
+<p begin="00:00:10.410" end="00:00:13.170" style="s2">haben</p>
+<p begin="00:00:10.860" end="00:00:15.480" style="s2">deshalb steht die<span style="s4"> afg</span> in brandenburg</p>
+<p begin="00:00:13.170" end="00:00:17.039" style="s2">sehr gut da ein grund ist sicher auch</p>
+<p begin="00:00:15.480" end="00:00:18.480" style="s2">die geschlossenheit der partei die wir</p>
+<p begin="00:00:17.039" end="00:00:20.369" style="s2">in brandenburg haben und der<span style="s4"> fraktion</span></p>
+<p begin="00:00:18.480" end="00:00:21.029" style="s2"><span style="s3">ist</span> bin ich zuversichtlich und freue</p>
+<p begin="00:00:20.369" end="00:00:23.430" style="s2">mich auf<span style="s4"> den</span> balkan</p>
+<p begin="00:00:21.029" end="00:00:24.600" style="s2"><span style="s3">was wären denn da</span> so die vielleicht</p>
+<p begin="00:00:23.430" end="00:00:27.000" style="s2">entscheidenden themen<span style="s4"> sein</span></p>
+<p begin="00:00:24.600" end="00:00:29.160" style="s2">es ist ein bunter<span style="s3"> dem strauß den wir im</span></p>
+<p begin="00:00:27.000" end="00:00:31.289" style="s2">grunde haben weil<span style="s4"> rot rot an allen ecken</span></p>
+<p begin="00:00:29.160" end="00:00:33.210" style="s2">und enden versagt hat man kann im grunde</p>
+<p begin="00:00:31.289" end="00:00:35.370" style="s2">die versagens liste abarbeiten am</p>
+<p begin="00:00:33.210" end="00:00:37.950" style="s2">rot-roten koalitionsvertrag wenn wir uns</p>
+<p begin="00:00:35.370" end="00:00:38.840" style="s2">anschauen infrastruktur ist völlig</p>
+<p begin="00:00:37.950" end="00:00:41.520" style="s2">hinüber es gibt<span style="s4"> immense</span></p>
+<p begin="00:00:38.840" end="00:00:43.590" style="s2">investitionsrückstau beitragsfreie kita</p>
+<p begin="00:00:41.520" end="00:00:44.309" style="s2">plätze von rot-rot gefordert gibt es</p>
+<p begin="00:00:43.590" end="00:00:46.260" style="s2">immer noch nicht</p>
+<p begin="00:00:44.309" end="00:00:48.420" style="s2">wir haben die situation in brandenburg</p>
+<p begin="00:00:46.260" end="00:00:49.649" style="s2"><span style="s4">dass</span> die polizei kaputtgespart wurde</p>
+<p begin="00:00:48.420" end="00:00:52.050" style="s2">wir haben die situation in brandenburg</p>
+<p begin="00:00:49.649" end="00:00:53.190" style="s2"><span style="s3">dass</span> auch der abschiebungen von illegal</p>
+<p begin="00:00:52.050" end="00:00:54.989" style="s2">hier<span style="s4"> befindliche flüchtlinge</span><span style="s3"> nicht</span></p>
+<p begin="00:00:53.190" end="00:00:56.640" style="s2">funktionieren die liste ließe sich</p>
+<p begin="00:00:54.989" end="00:00:59.670" style="s2">beliebig fortsetzen und<span style="s4"> da</span><span style="s3"> rede</span> ich<span style="s4"> noch</span></p>
+<p begin="00:00:56.640" end="00:01:01.079" style="s2">gar nicht<span style="s3"> vom</span> br<span style="s3"> von</span> der<span style="s4"> größten skandal</span></p>
+<p begin="00:00:59.670" end="00:01:04.170" style="s2"><span style="s3">baustelle</span> die sich diese republik</p>
+<p begin="00:01:01.079" end="00:01:05.430" style="s2">leistet<span style="s3"> apropos</span><span style="s4"> ber</span><span style="s3"> was</span><span style="s4"> wäre</span><span style="s3"> da</span> ihr</p>
+<p begin="00:01:04.170" end="00:01:07.350" style="s2">rezept einfach zu machen</p>
+<p begin="00:01:05.430" end="00:01:09.330" style="s2">ich denke man muss<span style="s3"> sich</span> das mal</p>
+<p begin="00:01:07.350" end="00:01:11.340" style="s2">anschauen und dann feststellen dass man</p>
+<p begin="00:01:09.330" end="00:01:13.049" style="s2">sich nicht weiter<span style="s4"> auffällt</span> wir müssen</p>
+<p begin="00:01:11.340" end="00:01:14.820" style="s2">überlegen ob wir lösungen finden<span style="s4"> das</span></p>
+<p begin="00:01:13.049" end="00:01:16.920" style="s2">bedeutet wir sind als fdp konsequent</p>
+<p begin="00:01:14.820" end="00:01:19.530" style="s2">dafür<span style="s4"> zusagen</span><span style="s3"> titel</span> bleibt auf auch</p>
+<p begin="00:01:16.920" end="00:01:20.970" style="s2">schönefeld alt bleibt auf und dann nutzt</p>
+<p begin="00:01:19.530" end="00:01:22.590" style="s2">man nicht<span style="s3"> stark bahn baut</span> vielleicht</p>
+<p begin="00:01:20.970" end="00:01:24.570" style="s2"><span style="s4">zwei drei shelter</span> hin und nimmt das in</p>
+<p begin="00:01:22.590" end="00:01:27.060" style="s2">betrieb anstatt das zu nutzen als</p>
+<p begin="00:01:24.570" end="00:01:28.530" style="s2">parkplatz für autos von volkswagen<span style="s4"> linie</span></p>
+<p begin="00:01:27.060" end="00:01:29.790" style="s2">fahren dürfen also sie wollen noch mehr</p>
+<p begin="00:01:28.530" end="00:01:30.920" style="s2">pragmatismus dann wieder die</p>
+<p begin="00:01:29.790" end="00:01:32.579" style="s2">landespolitik</p>
+<p begin="00:01:30.920" end="00:01:34.380" style="s2">selbstverständlich es geht nicht darum</p>
+<p begin="00:01:32.579" end="00:01:35.640" style="s2">in schönheit zu sterben es geht darum</p>
+<p begin="00:01:34.380" end="00:01:36.899" style="s2">lösungen zu finden für die menschen in</p>
+<p begin="00:01:35.640" end="00:01:37.170" style="s2">dem land und<span style="s3"> erwarten</span> die<span style="s4"> mannschaft</span></p>
+<p begin="00:01:36.899" end="00:01:39.180" style="s2"><span style="s3">drauf</span></p>
+<p begin="00:01:37.170" end="00:01:40.680" style="s2">wie schätzen<span style="s4"> sie</span> das tableau der</p>
+<p begin="00:01:39.180" end="00:01:42.780" style="s2">weiteren kandidaten dass sie als</p>
+<p begin="00:01:40.680" end="00:01:45.960" style="s2">spitzenkandidat ja<span style="s3"> anführen</span> 1 ist die</p>
+<p begin="00:01:42.780" end="00:01:47.729" style="s2"><span style="s4">afg</span> in<span style="s3"> brandenburg</span> gut aufgestellt ich</p>
+<p begin="00:01:45.960" end="00:01:49.439" style="s2">bin sehr zufrieden mit der liste die wir</p>
+<p begin="00:01:47.729" end="00:01:51.750" style="s2">haben wenn man sich<span style="s3"> mal die beruflichen</span></p>
+<p begin="00:01:49.439" end="00:01:53.549" style="s2">tätigkeiten die<span style="s4"> qualifikationen</span><span style="s3"> anschaut</span></p>
+<p begin="00:01:51.750" end="00:01:56.009" style="s2">stellen wir fest<span style="s4"> dass</span><span style="s3"> sind</span> alle dabei</p>
+<p begin="00:01:53.549" end="00:01:59.340" style="s2">von<span style="s4"> kraftwerks arbeitern akademiker</span></p>
+<p begin="00:01:56.009" end="00:02:01.380" style="s2">ärzte<span style="s4"> das</span> ist runde<span style="s3"> sache das</span><span style="s4"> sind leute</span></p>
+<p begin="00:01:59.340" end="00:02:02.579" style="s2">die aus dem leben kommen und das</p>
+<p begin="00:02:01.380" end="00:02:03.780" style="s2">einbringen können in die</p>
+<p begin="00:02:02.579" end="00:02:05.369" style="s2">parlamentarische arbeit ich bin</p>
+<p begin="00:02:03.780" end="00:02:07.229" style="s2">zufrieden sie sind jetzt schon<span style="s4"> gleich</span></p>
+<p begin="00:02:05.369" end="00:02:09.239" style="s2"><span style="s4">auch</span> mit<span style="s3"> der</span> regierenden<span style="s4"> partei</span><span style="s3"> mit den</span></p>
+<p begin="00:02:07.229" end="00:02:11.130" style="s2">sozialdemokraten<span style="s3"> da</span> ist das ziel dann</p>
+<p begin="00:02:09.239" end="00:02:12.900" style="s2">wahrscheinlich der<span style="s4"> wahlsieg</span><span style="s3"> oder</span> das</p>
+<p begin="00:02:11.130" end="00:02:15.180" style="s2">ziel<span style="s4"> der fdp in</span><span style="s3"> brandenburg</span><span style="s4"> ist</span> ganz</p>
+<p begin="00:02:12.900" end="00:02:17.420" style="s2">klar stärkste kraft zu werden ohne wenn</p>
+<p begin="00:02:15.180" end="00:02:17.420" style="s2">und aber</p>
+</div>
+</body>
+</tt>

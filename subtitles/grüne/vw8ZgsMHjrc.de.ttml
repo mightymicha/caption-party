@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#E5E5E5"/>
+<style xml:id="s4" tts:color="#CCCCCC"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:00.000" end="00:00:04.589" style="s2">frau präsidentin liebe kolleginnen und</p>
+<p begin="00:00:02.790" end="00:00:06.120" style="s2">kollegen während die allermeisten</p>
+<p begin="00:00:04.589" end="00:00:08.639" style="s2">menschen<span style="s3"> und</span> wahrscheinlich auch die</p>
+<p begin="00:00:06.120" end="00:00:11.790" style="s2">allermeisten von uns silvester feierten</p>
+<p begin="00:00:08.639" end="00:00:13.349" style="s2">und das neue jahr<span style="s3"> begrüßten</span> während wir</p>
+<p begin="00:00:11.790" end="00:00:15.150" style="s2">und viele andere auf öffentlichen</p>
+<p begin="00:00:13.349" end="00:00:17.400" style="s2">plätzen unterwegs<span style="s3"> waren</span> mit freunden<span style="s4"> und</span></p>
+<p begin="00:00:15.150" end="00:00:19.800" style="s2">familienangehörigen das feuerwerk</p>
+<p begin="00:00:17.400" end="00:00:21.359" style="s2">anschauen wollten<span style="s3"> da</span> raste ein mann in</p>
+<p begin="00:00:19.800" end="00:00:22.800" style="s2">die menschenmengen offenbar mit der</p>
+<p begin="00:00:21.359" end="00:00:24.510" style="s2">klaren absicht menschen mit</p>
+<p begin="00:00:22.800" end="00:00:27.390" style="s2">migrationshintergrund zu töten</p>
+<p begin="00:00:24.510" end="00:00:30.840" style="s2">laut polizeiangaben lenkte der täter</p>
+<p begin="00:00:27.390" end="00:00:32.669" style="s2">sein auto gezielt an 13 orten in bottrop</p>
+<p begin="00:00:30.840" end="00:00:34.860" style="s2">oberhausen und in essen</p>
+<p begin="00:00:32.669" end="00:00:36.030" style="s2"><span style="s3">zehn</span> menschen<span style="s3"> wurden</span> verletzt darunter</p>
+<p begin="00:00:34.860" end="00:00:38.640" style="s2">zwei kinder</p>
+<p begin="00:00:36.030" end="00:00:40.770" style="s2"><span style="s3">mindestens</span> 70 weitere menschen wurden</p>
+<p begin="00:00:38.640" end="00:00:44.460" style="s2">von diesen taten<span style="s3"> geschädigt</span> und<span style="s3"> das</span></p>
+<p begin="00:00:40.770" end="00:00:46.289" style="s2">motiv des täters war rassismus das hat</p>
+<p begin="00:00:44.460" end="00:00:48.300" style="s2">er in den vernehmungen selbst so</p>
+<p begin="00:00:46.289" end="00:00:49.829" style="s2"><span style="s3">angegeben</span> und mein herz in dieser</p>
+<p begin="00:00:48.300" end="00:00:51.989" style="s2">silvesternacht wieder einmal sehen</p>
+<p begin="00:00:49.829" end="00:00:53.820" style="s2">können welche<span style="s4"> tödliche</span> absichten<span style="s3"> sich</span></p>
+<p begin="00:00:51.989" end="00:00:56.160" style="s2">aus rassistischen und</p>
+<p begin="00:00:53.820" end="00:00:58.320" style="s2">menschenverachtenden gedankengut<span style="s3"> ergeben</span></p>
+<p begin="00:00:56.160" end="00:00:59.820" style="s2">können und ich finde es wichtig dass wir</p>
+<p begin="00:00:58.320" end="00:01:02.489" style="s2">hier ein gemeinsames zeichen der</p>
+<p begin="00:00:59.820" end="00:01:04.619" style="s2">demokratischen kräfte gegen jede form</p>
+<p begin="00:01:02.489" end="00:01:05.410" style="s2">von rechtsextremismus und rassismus</p>
+<p begin="00:01:04.619" end="00:01:10.110" style="s2">setzen</p>
+<p begin="00:01:05.410" end="00:01:13.600" style="s2">[Applaus]</p>
+<p begin="00:01:10.110" end="00:01:15.340" style="s2">der anschlag von essen bottrop und</p>
+<p begin="00:01:13.600" end="00:01:17.229" style="s2">oberhausen<span style="s4"> bereits</span> sich ein in eine</p>
+<p begin="00:01:15.340" end="00:01:19.420" style="s2">reihe<span style="s4"> rechtsextremer</span> anschläge hier in</p>
+<p begin="00:01:17.229" end="00:01:21.400" style="s2"><span style="s4">nordrhein westfalen</span><span style="s3"> zu beginn der 90er</span></p>
+<p begin="00:01:19.420" end="00:01:23.409" style="s2">jahre gab es eine serie von anschlägen</p>
+<p begin="00:01:21.400" end="00:01:24.670" style="s2">auf flüchtlingsunterkünfte<span style="s4"> auf</span></p>
+<p begin="00:01:23.409" end="00:01:27.430" style="s2"><span style="s3">wohnhäuser</span> von menschen mit</p>
+<p begin="00:01:24.670" end="00:01:28.330" style="s2">migrationshintergrund<span style="s3"> die</span> beiden taten</p>
+<p begin="00:01:27.430" end="00:01:30.580" style="s2">die im öffentlichen gedächtnis</p>
+<p begin="00:01:28.330" end="00:01:33.460" style="s2">wahrscheinlich am präsentesten sind ist</p>
+<p begin="00:01:30.580" end="00:01:37.119" style="s2">der anschlag von<span style="s4"> jüngste</span> im oktober<span style="s3"> 91</span></p>
+<p begin="00:01:33.460" end="00:01:39.640" style="s2"><span style="s3">und</span><span style="s4"> von</span> solingen im jahr 1993<span style="s3"> im</span> jahr</p>
+<p begin="00:01:37.119" end="00:01:44.259" style="s2">2000 erschoss ein neonazi in dortmund</p>
+<p begin="00:01:39.640" end="00:01:46.960" style="s2">drei polizisten<span style="s3"> in</span> 2001 und 2004<span style="s3"> verübte</span></p>
+<p begin="00:01:44.259" end="00:01:50.679" style="s2"><span style="s3">der</span> rechtsterroristische nsu anschläge</p>
+<p begin="00:01:46.960" end="00:01:53.429" style="s2">in köln am<span style="s3"> 14</span> april 2004 wurde<span style="s3"> mehr</span> mit</p>
+<p begin="00:01:50.679" end="00:01:56.470" style="s2"><span style="s4">kubasik in dortmund grausam ermordet in</span></p>
+<p begin="00:01:53.429" end="00:01:58.830" style="s2">2015 und 2016 gab es eine deutliche</p>
+<p begin="00:01:56.470" end="00:02:00.520" style="s2">zunahme von anschlägen auf</p>
+<p begin="00:01:58.830" end="00:02:02.259" style="s2">flüchtlingsunterkünfte hier in<span style="s3"> nordrhein</span></p>
+<p begin="00:02:00.520" end="00:02:04.780" style="s2"><span style="s3">westfalen</span> und das ist nur eine auswahl</p>
+<p begin="00:02:02.259" end="00:02:06.039" style="s2">von rechtsextremen anschlägen und von</p>
+<p begin="00:02:04.780" end="00:02:08.500" style="s2">rechtsextremen morgen in<span style="s4"> nordrhein</span></p>
+<p begin="00:02:06.039" end="00:02:10.780" style="s2"><span style="s4">westfalen</span><span style="s3"> die</span> wie ich finde aber sehr</p>
+<p begin="00:02:08.500" end="00:02:13.299" style="s2">deutlich machen was für eine kontinuität</p>
+<p begin="00:02:10.780" end="00:02:14.980" style="s2">von rechtsextremer gewalt in diesem land</p>
+<p begin="00:02:13.299" end="00:02:17.200" style="s2">vorhanden ist und es handelt sich eben</p>
+<p begin="00:02:14.980" end="00:02:19.690" style="s2">nicht um einzelfälle<span style="s4"> zu machen</span><span style="s3"> sich</span> der</p>
+<p begin="00:02:17.200" end="00:02:22.200" style="s2">täter aus dem ruhrgebiet offenbar selbst</p>
+<p begin="00:02:19.690" end="00:02:25.120" style="s2">als vollstrecker eines vermeintlichen</p>
+<p begin="00:02:22.200" end="00:02:27.549" style="s2">volkswillens gesehen<span style="s3"> habe im übrigen</span></p>
+<p begin="00:02:25.120" end="00:02:30.100" style="s2">ähnlich wie die täter in solingen oder</p>
+<p begin="00:02:27.549" end="00:02:31.840" style="s2">auch der nsu<span style="s3"> und im übrigen um das</span> hier</p>
+<p begin="00:02:30.100" end="00:02:34.420" style="s2">auch<span style="s4"> nochmal</span><span style="s3"> deutlich</span><span style="s4"> zu</span> sagen</p>
+<p begin="00:02:31.840" end="00:02:36.250" style="s2"><span style="s3">psychische</span> erkrankungen und rassistische</p>
+<p begin="00:02:34.420" end="00:02:37.870" style="s2">einstellungen und die taten die sich aus</p>
+<p begin="00:02:36.250" end="00:02:40.060" style="s2">diesen einstellungen ergeben können</p>
+<p begin="00:02:37.870" end="00:02:41.709" style="s2">schließen sich nicht aus und deshalb</p>
+<p begin="00:02:40.060" end="00:02:44.530" style="s2">verbietet sich auch eine relativierung</p>
+<p begin="00:02:41.709" end="00:02:50.260" style="s2">durch verweis auf diese psychische</p>
+<p begin="00:02:44.530" end="00:02:51.970" style="s2">erkrankung im jahr 2017 wurden 206</p>
+<p begin="00:02:50.260" end="00:02:53.799" style="s2">politisch rechts motivierte</p>
+<p begin="00:02:51.970" end="00:02:56.790" style="s2">gewaltdelikte in<span style="s4"> nordrhein westfalen</span></p>
+<p begin="00:02:53.799" end="00:02:58.470" style="s2">verzeichnet davon 172</p>
+<p begin="00:02:56.790" end="00:03:00.579" style="s2">körperverletzungsdelikte</p>
+<p begin="00:02:58.470" end="00:03:02.620" style="s2"><span style="s3">rechtsextremismus</span><span style="s4"> ist</span> also eine echte</p>
+<p begin="00:03:00.579" end="00:03:04.750" style="s2">bedrohung eine echte gefahr für all</p>
+<p begin="00:03:02.620" end="00:03:07.209" style="s2">diejenigen in unserem land die aufgrund</p>
+<p begin="00:03:04.750" end="00:03:08.950" style="s2">ihres aussehens ihrer herkunft ihrer</p>
+<p begin="00:03:07.209" end="00:03:10.660" style="s2">sexuellen identität jedes geschlecht</p>
+<p begin="00:03:08.950" end="00:03:12.549" style="s2">oder ihres engagement gegen</p>
+<p begin="00:03:10.660" end="00:03:14.739" style="s2">rechtsextremismus nicht in das</p>
+<p begin="00:03:12.549" end="00:03:17.260" style="s2">menschenverachtende weltbild der</p>
+<p begin="00:03:14.739" end="00:03:18.519" style="s2"><span style="s3">rechtsextremen</span> passen und wir sind als</p>
+<p begin="00:03:17.260" end="00:03:20.560" style="s2">politikerinnen und politiker</p>
+<p begin="00:03:18.519" end="00:03:21.170" style="s2">aufgefordert zu handeln<span style="s3"> und für die</span></p>
+<p begin="00:03:20.560" end="00:03:22.220" style="s2">sicherheit</p>
+<p begin="00:03:21.170" end="00:03:24.170" style="s2">also auch für die innere sicherheit</p>
+<p begin="00:03:22.220" end="00:03:26.660" style="s2">dieser menschen zu sorgen</p>
+<p begin="00:03:24.170" end="00:03:28.069" style="s2">ich finde diese<span style="s3"> verantwortung</span> liebe</p>
+<p begin="00:03:26.660" end="00:03:32.900" style="s2">kolleginnen und kollegen müssen wir</p>
+<p begin="00:03:28.069" end="00:03:34.099" style="s2">gemeinsam tragen<span style="s3"> die</span> gefahr durch</p>
+<p begin="00:03:32.900" end="00:03:36.140" style="s2">rechtsextremismus durch</p>
+<p begin="00:03:34.099" end="00:03:38.000" style="s2">rechtsterrorismus<span style="s3"> ist</span> nicht neu<span style="s3"> das</span> habe</p>
+<p begin="00:03:36.140" end="00:03:40.760" style="s2">ich gerade anhand der zahlen<span style="s4"> die</span><span style="s3"> auch</span></p>
+<p begin="00:03:38.000" end="00:03:42.530" style="s2">noch<span style="s4"> mal</span> verdeutlicht<span style="s4"> aber</span> seit einigen</p>
+<p begin="00:03:40.760" end="00:03:46.280" style="s2">jahren haben wir<span style="s4"> es</span> durchaus mit einem</p>
+<p begin="00:03:42.530" end="00:03:48.019" style="s2">neuen phänomen zu tun als 2015 und 2016</p>
+<p begin="00:03:46.280" end="00:03:49.730" style="s2">eine vielzahl von anschlägen auf</p>
+<p begin="00:03:48.019" end="00:03:52.489" style="s2">flüchtlingsunterkünfte begangen wurden</p>
+<p begin="00:03:49.730" end="00:03:55.100" style="s2">waren etwa zwei drittel der täter den</p>
+<p begin="00:03:52.489" end="00:03:57.800" style="s2">behörden vorher nicht bekannt nicht als</p>
+<p begin="00:03:55.100" end="00:03:59.830" style="s2"><span style="s4">neonazis</span> bekannt nicht durch rechte</p>
+<p begin="00:03:57.800" end="00:04:01.340" style="s2">straftaten durch politisch motivierte</p>
+<p begin="00:03:59.830" end="00:04:03.440" style="s2">straftaten bekannt</p>
+<p begin="00:04:01.340" end="00:04:05.269" style="s2">das heißt im umkehrschluss dass die</p>
+<p begin="00:04:03.440" end="00:04:07.580" style="s2">polarisierung in der gesellschaft über</p>
+<p begin="00:04:05.269" end="00:04:09.950" style="s2">die frage der aufnahme von geflüchteten</p>
+<p begin="00:04:07.580" end="00:04:12.230" style="s2">menschen zu einer<span style="s4"> deutlichen</span> und<span style="s3"> auch</span> zu</p>
+<p begin="00:04:09.950" end="00:04:13.730" style="s2">einer schnellen radikalisierung geführt</p>
+<p begin="00:04:12.230" end="00:04:16.100" style="s2">hat und das macht es für die behörden</p>
+<p begin="00:04:13.730" end="00:04:18.260" style="s2">natürlich so unheimlich schwer<span style="s3"> solche</span></p>
+<p begin="00:04:16.100" end="00:04:19.970" style="s2">taten im vorfeld zu verhindern</p>
+<p begin="00:04:18.260" end="00:04:21.680" style="s2">aber was heißt das für uns als</p>
+<p begin="00:04:19.970" end="00:04:23.750" style="s2">politikerinnen und politiker ich finde</p>
+<p begin="00:04:21.680" end="00:04:26.210" style="s2">das heißt für uns dass wir uns bewusst</p>
+<p begin="00:04:23.750" end="00:04:28.310" style="s2">darüber sein müssen welche fatalen</p>
+<p begin="00:04:26.210" end="00:04:31.010" style="s2">auswirkungen<span style="s4"> eine</span><span style="s3"> ausgrenzenden</span> politik</p>
+<p begin="00:04:28.310" end="00:04:33.680" style="s2">und populistisch geführte<span style="s4"> debatte</span><span style="s3"> über</span></p>
+<p begin="00:04:31.010" end="00:04:35.330" style="s2"><span style="s4">migration über integration haben und</span></p>
+<p begin="00:04:33.680" end="00:04:37.010" style="s2">deshalb stehen wir auch hier gemeinsam</p>
+<p begin="00:04:35.330" end="00:04:39.080" style="s2">in der verantwortung als demokratische</p>
+<p begin="00:04:37.010" end="00:04:40.729" style="s2">kräfte gegen eine weitere polarisierung</p>
+<p begin="00:04:39.080" end="00:04:43.720" style="s2">und spaltung in der gesellschaft</p>
+<p begin="00:04:40.729" end="00:04:43.720" style="s2">vorzugehen</p>
+<p begin="00:04:45.650" end="00:04:50.180" style="s2">und deshalb liebe kolleginnen und</p>
+<p begin="00:04:48.199" end="00:04:52.790" style="s2">kollegen von der cdu und von der fdp</p>
+<p begin="00:04:50.180" end="00:04:54.410" style="s2">finde ich es außerordentlich schade<span style="s3"> dass</span></p>
+<p begin="00:04:52.790" end="00:04:56.210" style="s2"><span style="s4">sie</span> unsere unser angebot nicht</p>
+<p begin="00:04:54.410" end="00:04:58.070" style="s2">angenommen haben dass wir<span style="s4"> hier</span> einen</p>
+<p begin="00:04:56.210" end="00:04:59.650" style="s2">gemeinsamen antrag oder wenigstens einen</p>
+<p begin="00:04:58.070" end="00:05:01.520" style="s2">gemeinsamen entschließungsantrag</p>
+<p begin="00:04:59.650" end="00:05:04.100" style="s2">formuliert ich finde das wirklich sehr</p>
+<p begin="00:05:01.520" end="00:05:06.620" style="s2">bedauerlich ich glaube das wäre</p>
+<p begin="00:05:04.100" end="00:05:08.360" style="s2">angemessen gewesen<span style="s4"> noch</span> so<span style="s4"> einen</span> rechts</p>
+<p begin="00:05:06.620" end="00:05:09.910" style="s2">terroristischen anschlag in<span style="s4"> nordrhein</span></p>
+<p begin="00:05:08.360" end="00:05:11.979" style="s2"><span style="s4">westfalen</span></p>
+<p begin="00:05:09.910" end="00:05:14.180" style="s2">[Applaus]</p>
+<p begin="00:05:11.979" end="00:05:15.710" style="s2">und ich möchte<span style="s3"> noch</span> einmal betonen dass</p>
+<p begin="00:05:14.180" end="00:05:17.500" style="s2">wir ja in der vergangenen</p>
+<p begin="00:05:15.710" end="00:05:19.039" style="s2">legislaturperiode ein nsu</p>
+<p begin="00:05:17.500" end="00:05:20.990" style="s2"><span style="s3">untersuchungsausschuss</span> hatten wo wir die</p>
+<p begin="00:05:19.039" end="00:05:23.419" style="s2">verbrechen des rechts terroristischen</p>
+<p begin="00:05:20.990" end="00:05:25.340" style="s2">nsu hier in nordrhein westfalen</p>
+<p begin="00:05:23.419" end="00:05:28.850" style="s2">untersucht haben und wir haben es</p>
+<p begin="00:05:25.340" end="00:05:31.030" style="s2">geschafft aus diesem<span style="s3"> aus</span> dieser aus dem</p>
+<p begin="00:05:28.850" end="00:05:33.470" style="s2"><span style="s3">ns untersuchungsausschuss gemeinsame</span></p>
+<p begin="00:05:31.030" end="00:05:36.139" style="s2">interfraktionelle handlungsempfehlungen</p>
+<p begin="00:05:33.470" end="00:05:37.669" style="s2">zu erarbeiten<span style="s4"> aus den erkenntnissen die</span></p>
+<p begin="00:05:36.139" end="00:05:39.199" style="s2">wir<span style="s3"> dort</span> gewonnen haben und viele von</p>
+<p begin="00:05:37.669" end="00:05:40.669" style="s2">denen die damals<span style="s4"> mitgearbeitet</span> haben</p>
+<p begin="00:05:39.199" end="00:05:43.370" style="s2"><span style="s3">sind</span> ja immer noch da also zum beispiel</p>
+<p begin="00:05:40.669" end="00:05:47.080" style="s2">peter biesenbach<span style="s4"> cdu fraktion frau</span></p>
+<p begin="00:05:43.370" end="00:05:48.979" style="s2">gebauer herstammt herr cousins die</p>
+<p begin="00:05:47.080" end="00:05:50.419" style="s2"><span style="s4">drittletzte</span> von<span style="s4"> den</span> piraten ist nicht</p>
+<p begin="00:05:48.979" end="00:05:51.919" style="s2">mehr dabei<span style="s4"> aber</span><span style="s3"> zum</span> beispiel sven<span style="s4"> wolf</span></p>
+<p begin="00:05:50.419" end="00:05:53.750" style="s2">als ausschussvorsitzender meine kollegin</p>
+<p begin="00:05:51.919" end="00:05:55.490" style="s2"><span style="s3">monika</span><span style="s4"> düker hat sich</span> also viele von uns</p>
+<p begin="00:05:53.750" end="00:05:57.650" style="s2">haben daran mitgearbeitet dass wir</p>
+<p begin="00:05:55.490" end="00:06:00.710" style="s2">gemeinsame handlungsempfehlungen hier</p>
+<p begin="00:05:57.650" end="00:06:02.389" style="s2">erstellt haben<span style="s4"> uns</span> um ein beispiel zu</p>
+<p begin="00:06:00.710" end="00:06:03.800" style="s2">nennen was in diesen handlungsempfehlung</p>
+<p begin="00:06:02.389" end="00:06:05.270" style="s2">steht wir haben uns damit opferschutz</p>
+<p begin="00:06:03.800" end="00:06:08.150" style="s2">beschäftigt mit den ermittlungsbehörden</p>
+<p begin="00:06:05.270" end="00:06:10.099" style="s2"><span style="s4">mit</span> dem ausbau der präventionsarbeit um</p>
+<p begin="00:06:08.150" end="00:06:12.590" style="s2">ein konkretes beispiel zu nennen</p>
+<p begin="00:06:10.099" end="00:06:14.900" style="s2">im bereich des opferschutzes sollten</p>
+<p begin="00:06:12.590" end="00:06:17.060" style="s2">opfer rechter gewalt<span style="s4"> proaktiv</span> von der</p>
+<p begin="00:06:14.900" end="00:06:19.250" style="s2">polizei auf die spezialisierten</p>
+<p begin="00:06:17.060" end="00:06:21.470" style="s2"><span style="s4">beratungsstelle</span> hingewiesen werden<span style="s3"> das</span></p>
+<p begin="00:06:19.250" end="00:06:23.539" style="s2">kostet<span style="s3"> nichts</span> und<span style="s3"> heraus</span> sie könnten das</p>
+<p begin="00:06:21.470" end="00:06:26.060" style="s2">mit einer unterschrift morgen im prinzip</p>
+<p begin="00:06:23.539" end="00:06:28.010" style="s2">erledigen also das wäre leicht zu machen</p>
+<p begin="00:06:26.060" end="00:06:29.960" style="s2">für die opfer würde es bedeuten dass es</p>
+<p begin="00:06:28.010" end="00:06:31.550" style="s2">mehr hilfe gibt mehr unterstützung gibt</p>
+<p begin="00:06:29.960" end="00:06:33.860" style="s2">und ich finde<span style="s4"> das</span> ist<span style="s4"> doch</span> so ein punkt</p>
+<p begin="00:06:31.550" end="00:06:37.030" style="s2">wo wir doch gemeinsam eigentlich<span style="s4"> dass</span></p>
+<p begin="00:06:33.860" end="00:06:37.030" style="s2">jetzt auch umsetzen könnten</p>
+<p begin="00:06:37.830" end="00:06:42.250" style="s2">ja klar klar ist auch dass die umsetzung</p>
+<p begin="00:06:40.960" end="00:06:43.750" style="s2">dieser handlungsempfehlung</p>
+<p begin="00:06:42.250" end="00:06:45.520" style="s2">wahrscheinlich die tat der</p>
+<p begin="00:06:43.750" end="00:06:47.260" style="s2">silvesternacht nicht verhindert hätte</p>
+<p begin="00:06:45.520" end="00:06:49.330" style="s2">zumindest wissen wir<span style="s3"> dass</span> nicht<span style="s3"> wir</span></p>
+<p begin="00:06:47.260" end="00:06:51.520" style="s2">können von glück reden dass dort niemand</p>
+<p begin="00:06:49.330" end="00:06:53.410" style="s2">aufgrund der verletzungen gestorben ist</p>
+<p begin="00:06:51.520" end="00:06:55.150" style="s2">aber unser ziel muss doch sein<span style="s3"> das</span></p>
+<p begin="00:06:53.410" end="00:06:57.580" style="s2">risiko<span style="s4"> solcher</span> taten aber auch die</p>
+<p begin="00:06:55.150" end="00:06:59.410" style="s2">alltägliche rechtsextreme gewalt die es</p>
+<p begin="00:06:57.580" end="00:07:00.940" style="s2">in diesem land gibt zu verhindern und</p>
+<p begin="00:06:59.410" end="00:07:03.130" style="s2">wir haben uns wirklich viele gedanken</p>
+<p begin="00:07:00.940" end="00:07:05.229" style="s2">über diese handlungsempfehlung gemacht</p>
+<p begin="00:07:03.130" end="00:07:07.419" style="s2">und deshalb fordere ich sie auf liebe</p>
+<p begin="00:07:05.229" end="00:07:09.100" style="s2">kolleginnen und kollegen von cdu und fdp</p>
+<p begin="00:07:07.419" end="00:07:10.660" style="s2">auch wenn sie<span style="s4"> diesem</span> antrag heute nicht</p>
+<p begin="00:07:09.100" end="00:07:12.430" style="s2"><span style="s3">zustimmen</span> was ich es wirklich sehr</p>
+<p begin="00:07:10.660" end="00:07:13.930" style="s2">bedauerlich finde auch dass wir hier</p>
+<p begin="00:07:12.430" end="00:07:15.700" style="s2">keinen gemeinsamen entschließungsantrag</p>
+<p begin="00:07:13.930" end="00:07:17.380" style="s2">gemacht haben ich lade sie trotzdem</p>
+<p begin="00:07:15.700" end="00:07:19.060" style="s2">herzlich zu gesprächen ein</p>
+<p begin="00:07:17.380" end="00:07:20.830" style="s2">lassen sie uns gemeinsam an diesem thema</p>
+<p begin="00:07:19.060" end="00:07:22.690" style="s2">weiter arbeiten<span style="s3"> dafür</span><span style="s4"> ist</span> das thema</p>
+<p begin="00:07:20.830" end="00:07:24.400" style="s2">wichtig genug und ich finde<span style="s3"> dieser</span></p>
+<p begin="00:07:22.690" end="00:07:26.320" style="s2">rassistische dieser<span style="s3"> rechtsextreme</span></p>
+<p begin="00:07:24.400" end="00:07:28.060" style="s2">anschlag in der silvesternacht sollte</p>
+<p begin="00:07:26.320" end="00:07:29.889" style="s2">doch eigentlich anlass genug sein die</p>
+<p begin="00:07:28.060" end="00:07:31.320" style="s2">gemeinsam jetzt weiter an dem thema zu</p>
+<p begin="00:07:29.889" end="00:07:33.470" style="s2">arbeiten herzlichen dank</p>
+<p begin="00:07:31.320" end="00:07:33.470" style="s2">[Applaus]</p>
+</div>
+</body>
+</tt>

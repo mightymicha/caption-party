@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tt xml:lang="de" xmlns="http://www.w3.org/ns/ttml" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:profile="http://www.w3.org/TR/profile/sdp-us" >
+<head>
+<styling>
+<style xml:id="s1" tts:textAlign="center" tts:extent="90% 90%" tts:origin="5% 5%" tts:displayAlign="after"/>
+<style xml:id="s2" tts:fontSize=".72c" tts:backgroundColor="black" tts:color="white"/>
+<style xml:id="s3" tts:color="#CCCCCC"/>
+<style xml:id="s4" tts:color="#E5E5E5"/>
+</styling>
+<layout>
+<region xml:id="r1" style="s1"/>
+</layout>
+</head>
+<body region="r1">
+<div>
+<p begin="00:00:01.780" end="00:00:05.290" style="s2">liebe freundinnen und freunde herzlich</p>
+<p begin="00:00:03.400" end="00:00:07.210" style="s2">willkommen im jahr<span style="s3"> 2019</span></p>
+<p begin="00:00:05.290" end="00:00:10.419" style="s2">die bundesspitze<span style="s3"> hatte</span> auf ihrer klausur</p>
+<p begin="00:00:07.210" end="00:00:12.099" style="s2"><span style="s4">in</span><span style="s3"> frankfurt oder gesagt lasst</span> uns in</p>
+<p begin="00:00:10.419" end="00:00:14.230" style="s2"><span style="s4">austin rocken und genau das haben wir</span></p>
+<p begin="00:00:12.099" end="00:00:16.240" style="s2">mit euch da draußen<span style="s3"> 2009/10</span> hier in</p>
+<p begin="00:00:14.230" end="00:00:19.090" style="s2">sachsen vor<span style="s3"> machen</span><span style="s4"> nie</span> waren wir so</p>
+<p begin="00:00:16.240" end="00:00:22.180" style="s2">viele mitglieder über 1900 noch<span style="s4"> nie</span></p>
+<p begin="00:00:19.090" end="00:00:24.250" style="s2">haben so viele parteilose menschen</p>
+<p begin="00:00:22.180" end="00:00:25.030" style="s2">dieses bundesland auf unseren listen</p>
+<p begin="00:00:24.250" end="00:00:26.530" style="s2"><span style="s3">kandidieren</span></p>
+<p begin="00:00:25.030" end="00:00:29.320" style="s2">denn wir werden in den nächsten wochen</p>
+<p begin="00:00:26.530" end="00:00:31.540" style="s2">und monaten unsere direktkandidaten für</p>
+<p begin="00:00:29.320" end="00:00:33.640" style="s2">die landtagswahl unsere listen für die</p>
+<p begin="00:00:31.540" end="00:00:35.109" style="s2"><span style="s3">kommunal</span> und<span style="s4"> die</span> landtagswahlen und die</p>
+<p begin="00:00:33.640" end="00:00:37.239" style="s2">gemeinderatswahlen aufstellen</p>
+<p begin="00:00:35.109" end="00:00:39.730" style="s2">zusammen mit<span style="s4"> euch</span> wollen wir mit</p>
+<p begin="00:00:37.239" end="00:00:42.460" style="s2">unbändiger leidenschaft und optimismus</p>
+<p begin="00:00:39.730" end="00:00:45.120" style="s2">für das<span style="s4"> andere</span> sachsen streiten und<span style="s4"> in</span></p>
+<p begin="00:00:42.460" end="00:00:45.120" style="s2"><span style="s4">austin rocken</span></p>
+</div>
+</body>
+</tt>
