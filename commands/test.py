@@ -46,3 +46,22 @@ for video in get_playlist_items(handle, playlist_id, after_date, before_date, 10
 
 
 pd.read_csv("rsc/datdfa.csv")
+
+
+
+playlist_id = get_channel_uploads_id(handle, "UC-sMkrfoQDH-xzMxPNckGFw")
+get_playlist_items(handle, "UC-sMkrfoQDH-xzMxPNckGFw", from_date, until_date, -1)
+get_playlist_items(handle,'UU-sMkrfoQDH-xzMxPNckGFw', from_date, until_date, -1)
+playlist_id = get_channel_uploads_id(handle, "UC5AagLvRz7ejBrONZVaA13Q")
+
+from_date= datetime.strptime('27.05.2017', '%d.%m.%Y')
+until_date = datetime.strptime('29.10.2018', '%d.%m.%Y')
+
+    json_result = handle.playlistItems().list(part='contentDetails',
+                                              maxResults=50,
+                                              playlistId=playlist_id).execute()
+video = json_result['items'][0]
+time_str = video['contentDetails']['videoPublishedAt'][:10]
+time = datetime.strptime(time_str, "%Y-%m-%d")
+from_date < time
+time < until_date

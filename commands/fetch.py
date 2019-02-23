@@ -44,12 +44,12 @@ You can acquire an OAuth 2.0 client ID and client secret from
 the GoogleCloud Console at https://cloud.google.com/console.
 Default: "rsc/client_secret.json"
 
---after_date(string):
+--from-date(string):
 Download subtitles from videos uploaded on or after a specific date.
 Specification: `<DAY>.<MONTH>.<YEAR>`
 Default: 01.06.2017
 
---before_date(string):
+--until-date(string):
 Download subtitles from videos uploaded on or before a specific date.
 Specification: `<DAY>.<MONTH>.<YEAR>`
 Default: 01.01.2100
@@ -83,15 +83,15 @@ except ImportError:
 @click.option('--key',
               default='rsc/client_secret.json',
               type=click.Path(exists=True))
-@click.option('--after-date', default="01.06.2017")
-@click.option('--before-date', default="01.01.2100")
-@click.option('--dataset', default='rsc/data.csv', type=click.Path(exists=True))
+@click.option('--from-date', default="01.06.2017")
+@click.option('--until-date', default="01.01.2100")
+@click.option('--dataset', default='rsc/data.csv', type=click.Path())
 def fetch(parties,
           channels_resource,
           videos_per_channel,
           key,
-          after_date,
-          before_date,
+          from_date,
+          until_date,
           dataset):
     # Get specified parties
     party_channels = load_json(channels_resource)
@@ -106,14 +106,14 @@ def fetch(parties,
         return
     try:
         # Format date
-        after_date = datetime.strptime(after_date, '%d.%m.%Y')
-        before_date = datetime.strptime(before_date, '%d.%m.%Y')
+        from_date = datetime.strptime(from_date, '%d.%m.%Y')
+        until_date = datetime.strptime(until_date, '%d.%m.%Y')
     except ValueError:
         print(usage, "connect.py fetch [OPTIONS] PARTIES...")
         print(bold_blue("Datetime: ") + "{DAY}.{MONTH}.{YEAR}")
         return
     # Print script information
-    print_information(parties, videos_per_channel, after_date, before_date)
+    print_information(parties, videos_per_channel, from_date, until_date)
     # Get Google Dev handle
     handle = get_handle(key)
     # Download subtitles and data
@@ -123,7 +123,7 @@ def fetch(parties,
         for channel in party_channels[party]:
             print(status + "Channel: ", bold_blue(channel['name']))
             playlist_id = get_channel_uploads_id(handle, channel['id'])
-            for video_id in get_playlist_items(handle, playlist_id, after_date, before_date, videos_per_channel):
+            for video_id in get_playlist_items(handle, playlist_id, from_date, until_date, videos_per_channel):
                 print(status + "Scraping and processing video:", video_id)
                 # Subtitles
                 subtitle_path = os.path.join(
@@ -133,30 +133,34 @@ def fetch(parties,
                     subtitle = filter_subtitles(subtitle_path)
                 except FileNotFoundError:
                     print(warning + "Subtitles couldn't be downloaded.")
-                    continue
+                    subtitle = None
                 # Other video data
                 raw_video_json = get_raw_video_json(handle, video_id)
                 # Merge to datarow
-                data_row = create_datarow(video_id, party, channel['region'],raw_video_json, subtitle)
+                data_row = create_datarow(
+                    video_id, party, channel['region'], raw_video_json, subtitle)
                 rows.append(data_row)
     updating_and_saving(rows, dataset)
 
+
 def updating_and_saving(rows, csv_path):
-    # Check whether a dataset already exists
-    old_dataset = None
+    new_dataset = pd.DataFrame(rows).set_index("videoId")
+    # Convert time
+    new_dataset['publishedAt'] = pd.to_datetime(
+        new_dataset['publishedAt'], format='%Y-%m-%dT%H:%M:%S.%fZ')  # ISO-8601 format
+    new_dataset['updated'] = pd.to_datetime(
+        new_dataset['updated'], format='%Y-%m-%d %H:%M:%S.%f')
+    # Updating old dataset
     try:
         old_dataset = pd.read_csv(csv_path).set_index("videoId")
+        new_dataset = new_dataset.combine_first(old_dataset)
         print(status + "Dataset found. Updating entries.")
     except FileNotFoundError as e:
         print(warning + "No dataset found. Creating new csv file: " + csv_path)
     except EmptyDataError as e:
         print(warning + "Empty dataset found. Overwriting.")
-
-    new_dataset = pd.DataFrame(rows).set_index("videoId")
-    if old_dataset:
-        new_dataset = new_dataset.combine_first(old_dataset)
+    # Saving
     new_dataset.to_csv(csv_path)
-
 
 
 def download_sub(party, video_id, path):
@@ -175,6 +179,7 @@ def download_sub(party, video_id, path):
         "--sub-format ttml",
         # "--exec 'mv -v {} " + video_id + ".txt'",
         "-o '{}'".format(path),
+        "--", # Importent to prevent video id's starting with - to be interpreted as an option
         video_id
     ]
     # print(" ".join(cmd))
@@ -192,6 +197,7 @@ def filter_subtitles(path):
     text = re.sub(r'\s+', ' ', text).strip()
     with open(path, "w+") as f:
         f.write(text)
+    os.remove(real_path)
     return text
 
 
@@ -217,8 +223,8 @@ def filter_subs(directory):
 
 def get_playlist_items(handle,
                        playlist_id,
-                       after_date,
-                       before_date,
+                       from_date,
+                       until_date,
                        max_videos):
     """ Returns list of video IDs for given Playlist ID and filters.
 
@@ -226,9 +232,9 @@ def get_playlist_items(handle,
         handle(object):  Youtube handle for authorizing requests to the
             Youtube API. See function `get_handle` for further details.
         playlist_id(str): Unique Youtube Playlist ID
-        after_date(str): Date in the format `dd.mm.YYYY`. Returned videos
+        from_date(str): Date in the format `dd.mm.YYYY`. Returned videos
             were uploaded on or after this date.
-        before_date(str): Date in the format `dd.mm.YYYY`. Returned videos
+        until_date(str): Date in the format `dd.mm.YYYY`. Returned videos
             were uploaded on or before this date.
         max_videos(int): Specifies how many videos at most get returned.
     """
@@ -239,7 +245,7 @@ def get_playlist_items(handle,
         for video in json_list:
             time_str = video['contentDetails']['videoPublishedAt'][:10]
             time = datetime.strptime(time_str, "%Y-%m-%d")
-            if after_date < time and time < before_date:
+            if from_date < time and time < until_date:
                 items.append(video['contentDetails']['videoId'])
         return items
 
@@ -250,7 +256,7 @@ def get_playlist_items(handle,
     filtered_videos.extend(get_video_ids(json_result['items']))
 
     nextPageToken = json_result.get('nextPageToken')
-    while nextPageToken is not None and len(filtered_videos) < max_videos:
+    while nextPageToken is not None and (max_videos < 0 or len(filtered_videos) < max_videos):
         nextPage = handle.playlistItems().list(part="contentDetails",
                                                playlistId=playlist_id,
                                                maxResults=50,
@@ -283,8 +289,8 @@ def create_datarow(video_id, party, region, json, subtitle):
            "subtitle": subtitle,
            "party": party,
            "region": region,
-           "fetched": str(datetime.now())}
-    unwanted = ["thumbnails", "localized"]
+           "updated": str(datetime.now())}
+    unwanted = [] # everyone loves raw data
     for key in unwanted:
         row.pop(key, None)
     return row
@@ -324,13 +330,13 @@ def get_handle(key):
         host='localhost',
         port=8080,
         authorization_prompt_message='Please visit this URL:\n{url}',
-        success_message='Auth flow is complete; you may close this window.',
+        success_message='Auth flow is complete! Starting to crawl videos now.\nYou may close this window.',
         open_browser=True)
     # credentials = flow.run_console()
     return build(api_service_name, api_version, credentials=credentials)
 
 
-def print_information(parties, videos_per_channel, after_date, before_date):
+def print_information(parties, videos_per_channel, from_date, until_date):
     """Prints command line tool information along with parameters."""
 
     print("==============================")
@@ -341,6 +347,6 @@ def print_information(parties, videos_per_channel, after_date, before_date):
         print("Subtitles per channel: unlimited")
     else:
         print("Subtitles per channel: " + str(videos_per_channel))
-    print("Uploaded after: " + str(after_date))
-    print("Uploaded before: " + str(before_date))
+    print("Uploaded after: " + str(from_date))
+    print("Uploaded before: " + str(until_date))
     print("==============================\n")

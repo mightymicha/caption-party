@@ -1,8 +1,8 @@
 """
 combine:
-    Combines the captions in `captions/{party}` to a file
-    `captions/{party}/combined.txt`. Use argument `all` to combine
-    captions from all fetched parties.
+    Combines the subtitles in `subtitles/{party}` to a file
+    `subtitles/{party}/combined.txt`. Use argument `all` to combine
+    subtitles from all fetched parties.
 
 Options:
 
@@ -77,11 +77,11 @@ def combine(parties, channels_resource, from_date, until_date):
         print(usage, "connect.py fetch [OPTIONS] PARTIES...")
         print(bold_blue("Datetime: ") + "{DAY}.{MONTH}.{YEAR}")
         return
-    # Combine captions of each party
+    # Combine subtitles of each party
     for party in parties:
         print(status + "Combining: ", bold_blue(party.upper()))
         combined_tokens = []
-        for caption in os.listdir(os.path.join("captions", party)):
+        for caption in os.listdir(os.path.join("subtitles", party)):
             # Check file validity
             if not caption.lower().endswith(".txt") or caption == "combined.txt":
                 continue
@@ -93,11 +93,11 @@ def combine(parties, channels_resource, from_date, until_date):
                 return
             if not from_date <= upload_date or not upload_date <= until_date:
                 continue
-            caption_path = os.path.join("captions", party, caption)
+            caption_path = os.path.join("subtitles", party, caption)
             raw_caption = open(caption_path, 'r').read()
             combined_tokens.extend(nltk.word_tokenize(raw_caption))
         # Saving combined dataset
         print(status + "Combined: {}: {} words!".format(bold_blue(party.upper()),
                                                         len(combined_tokens)))
-        with open(os.path.join("captions", party, "combined.txt"), 'w') as f:
+        with open(os.path.join("subtitles", party, "combined.txt"), 'w') as f:
             f.write(" ".join(combined_tokens))

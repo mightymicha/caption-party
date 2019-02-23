@@ -19,7 +19,7 @@ class color:
 status = color.BOLD + color.PURPLE + "[STATUS] " + color.END
 usage = color.BOLD + color.YELLOW + "[USAGE] " + color.END
 error = color.BOLD + color.RED + "[ERROR] " + color.END
-warning = color.BOLD + color.YELLOW + "[ERROR] " + color.END
+warning = color.BOLD + color.YELLOW + "[WARNING] " + color.END
 
 
 def bold_blue(txt):
