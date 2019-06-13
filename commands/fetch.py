@@ -60,15 +60,16 @@ import sys
 import re
 import glob
 import pandas as pd
-from pandas.errors import EmptyDataError
 from datetime import datetime
 from helper import status, usage, error, warning, bold_purple, bold_blue, load_json, VERSION
 try:
     import click
+    from sqlalchemy import create_engine
     from apiclient.discovery import build
     from google_auth_oauthlib.flow import InstalledAppFlow
 except ImportError:
     sys.exit(error + """Install the following python packages:
+                sqlalchemy
                 click
                 apiclient
                 google_auth_oauthlib""")
@@ -85,14 +86,14 @@ except ImportError:
               type=click.Path(exists=True))
 @click.option('--from-date', default="01.06.2017")
 @click.option('--until-date', default="01.01.2100")
-@click.option('--dataset', default='rsc/data.csv', type=click.Path())
+@click.option('--database', default='rsc/caption_party.db', type=click.Path())
 def fetch(parties,
           channels_resource,
           videos_per_channel,
           key,
           from_date,
           until_date,
-          dataset):
+          database):
     # Get specified parties
     party_channels = load_json(channels_resource)
     available_parties = list(party_channels.keys())
@@ -140,27 +141,33 @@ def fetch(parties,
                 data_row = create_datarow(
                     video_id, party, channel['region'], raw_video_json, subtitle)
                 rows.append(data_row)
-    updating_and_saving(rows, dataset)
+    updating_and_saving(rows, database)
 
 
-def updating_and_saving(rows, csv_path):
-    new_dataset = pd.DataFrame(rows).set_index("videoId")
+def updating_and_saving(rows, database_path):
     # Convert time
-    new_dataset['publishedAt'] = pd.to_datetime(
-        new_dataset['publishedAt'], format='%Y-%m-%dT%H:%M:%S.%fZ')  # ISO-8601 format
-    new_dataset['updated'] = pd.to_datetime(
-        new_dataset['updated'], format='%Y-%m-%d %H:%M:%S.%f')
-    # Updating old dataset
-    try:
-        old_dataset = pd.read_csv(csv_path).set_index("videoId")
-        new_dataset = new_dataset.combine_first(old_dataset)
-        print(status + "Dataset found. Updating entries.")
-    except FileNotFoundError as e:
-        print(warning + "No dataset found. Creating new csv file: " + csv_path)
-    except EmptyDataError as e:
-        print(warning + "Empty dataset found. Overwriting.")
-    # Saving
-    new_dataset.to_csv(csv_path)
+    iso = '%Y-%m-%dT%H:%M:%S.%f'  # ISO-8601 format
+    new_df = pd.DataFrame(rows).set_index("videoId")
+    new_df['publishedAt'] = pd.to_datetime(new_df['publishedAt'], format=iso)
+    new_df['updated'] = pd.to_datetime(new_df['updated'], format=iso)
+    # Load dataset
+    engine = create_engine("sqlite:///" + database_path)
+    conn = engine.connect()
+    loaded_df = pd.read_sql_query("SELECT * from tab", conn)
+    loaded_df.set_index('videoId', inplace=True)
+    loaded_df['publishedAt'] = pd.to_datetime(loaded_df['publishedAt'], format=iso)
+    loaded_df['updated'] = pd.to_datetime(loaded_df['updated'], format=iso)
+    # Update dataset
+    updated_df = new_df.combine_first(loaded_df)
+    # Make incompatible types compatible
+    updated_df['tags'] = updated_df['tags'].astype(str)
+    updated_df['localized'] = updated_df['localized'].astype(str)
+    updated_df['thumbnails'] = updated_df['thumbnails'].astype(str)
+    updated_df['projection'] = updated_df['projection'].astype(str)
+    updated_df['publishedAt'] = updated_df['publishedAt'].astype(str)
+    updated_df.to_sql('tab', engine, if_exists='replace', index=True)
+    conn.close()
+    print(status + "Dataset found. Updating entries.")
 
 
 def download_sub(party, video_id, path):
@@ -179,7 +186,7 @@ def download_sub(party, video_id, path):
         "--sub-format ttml",
         # "--exec 'mv -v {} " + video_id + ".txt'",
         "-o '{}'".format(path),
-        "--", # Importent to prevent video id's starting with - to be interpreted as an option
+        "--",  # Importent to prevent video id's starting with - to be interpreted as an option
         video_id
     ]
     # print(" ".join(cmd))
@@ -290,7 +297,7 @@ def create_datarow(video_id, party, region, json, subtitle):
            "party": party,
            "region": region,
            "updated": str(datetime.now())}
-    unwanted = [] # everyone loves raw data
+    unwanted = []
     for key in unwanted:
         row.pop(key, None)
     return row
