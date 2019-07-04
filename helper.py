@@ -25,8 +25,10 @@ warning = color.BOLD + color.YELLOW + "[WARNING] " + color.END
 def bold_blue(txt):
     return color.BOLD + color.BLUE + txt + color.END
 
+
 def bold_purple(txt):
     return color.BOLD + color.PURPLE + txt + color.END
+
 
 def load_json(path):
     """Opens a json file and returns the content as a python dictonary.

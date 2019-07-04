@@ -32,7 +32,6 @@ except ImportError:
     sys.exit(error + "You need the following python packages: click")
 
 
-
 @click.group()
 @click.version_option(version=VERSION)
 def main():

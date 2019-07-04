@@ -148,23 +148,19 @@ def updating_and_saving(rows, database_path):
     # Convert time
     iso = '%Y-%m-%dT%H:%M:%S.%f'  # ISO-8601 format
     new_df = pd.DataFrame(rows).set_index("videoId")
-    new_df['publishedAt'] = pd.to_datetime(new_df['publishedAt'], format=iso)
-    new_df['updated'] = pd.to_datetime(new_df['updated'], format=iso)
+    new_df['publishedAt'] = pd.to_datetime(new_df['publishedAt'], format=iso, utc=True)
+    new_df['updated'] = pd.to_datetime(new_df['updated'], format=iso, utc=True)
     # Load dataset
     engine = create_engine("sqlite:///" + database_path)
     conn = engine.connect()
     loaded_df = pd.read_sql_query("SELECT * from tab", conn)
     loaded_df.set_index('videoId', inplace=True)
-    loaded_df['publishedAt'] = pd.to_datetime(loaded_df['publishedAt'], format=iso)
-    loaded_df['updated'] = pd.to_datetime(loaded_df['updated'], format=iso)
+    loaded_df['publishedAt'] = pd.to_datetime(loaded_df['publishedAt'], format=iso, utc=True)
+    loaded_df['updated'] = pd.to_datetime(loaded_df['updated'], format=iso, utc=True)
     # Update dataset
     updated_df = new_df.combine_first(loaded_df)
     # Make incompatible types compatible
-    updated_df['tags'] = updated_df['tags'].astype(str)
-    updated_df['localized'] = updated_df['localized'].astype(str)
-    updated_df['thumbnails'] = updated_df['thumbnails'].astype(str)
-    updated_df['projection'] = updated_df['projection'].astype(str)
-    updated_df['publishedAt'] = updated_df['publishedAt'].astype(str)
+    updated_df = updated_df.astype(str)
     updated_df.to_sql('tab', engine, if_exists='replace', index=True)
     conn.close()
     print(status + "Dataset found. Updating entries.")
