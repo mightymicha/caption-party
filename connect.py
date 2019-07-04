@@ -25,7 +25,7 @@ Options:
 
 import sys
 from helper import error, VERSION
-from commands import combine, analyze, fetch
+from commands import fetch
 try:
     import click
 except ImportError:
@@ -39,8 +39,6 @@ def main():
 
 
 main.add_command(fetch.fetch)
-main.add_command(combine.combine)
-main.add_command(analyze.analyze)
 
 
 if __name__ == '__main__':
