@@ -190,7 +190,6 @@ def download_sub(party, video_id, path):
 
 
 def filter_subtitles(path):
-    # TODO: Workaround until youtube-dl fix
     real_path = path.split('.')[0] + ".de.ttml"
     with open(real_path, "r") as f:
         text = f.read()
