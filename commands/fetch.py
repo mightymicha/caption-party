@@ -139,7 +139,7 @@ def fetch(parties,
                 raw_video_json = get_raw_video_json(handle, video_id)
                 # Merge to datarow
                 data_row = create_datarow(
-                    video_id, party, channel['region'], raw_video_json, subtitle)
+                    video_id, party, channel['state'], raw_video_json, subtitle)
                 rows.append(data_row)
     updating_and_saving(rows, database)
 
@@ -278,7 +278,7 @@ def get_raw_video_json(handle, video_id):
     return json_result
 
 
-def create_datarow(video_id, party, region, json, subtitle):
+def create_datarow(video_id, party, state, json, subtitle):
     if json['pageInfo']['totalResults'] >= 2:
         raise ValueError("Videos have only one result!")
     snippet = json['items'][0]['snippet']
@@ -290,7 +290,7 @@ def create_datarow(video_id, party, region, json, subtitle):
            **statistics,
            "subtitle": subtitle,
            "party": party,
-           "region": region,
+           "state": state,
            "updated": str(datetime.now())}
     unwanted = []
     for key in unwanted:
