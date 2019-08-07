@@ -3,177 +3,212 @@
         {
             "name": "AfD Kompakt TV",
             "id": "UCq2rogaxLtQFrYG3X3KYNww",
-            "state": "DE"
+            "state": "DE",
+            "faction": false
         },
         {
             "name": "AfD Kanal",
             "id": "UCpNEDEQJUzhvMYMgFNz5TRQ",
-            "state": "DE"
+            "state": "DE",
+            "faction": false
         },
         {
             "name": "AfD-Fraktion Bundestag",
             "id": "UC_dZp8bZipnjntBGLVHm6rw",
-            "state": "DE"
+            "state": "DE",
+            "faction": true
         },
         {
             "name": "AfD-Fraktion Baden-Württemberg",
             "id": "UCuac-ageqsLJ4GiB5NEYEeA",
-            "state": "BW"
+            "state": "BW",
+            "faction": true
         },
         {
             "name": "AfD Baden-Württemberg",
             "id": "UCu19Fy6sqVAC-Jfg102jo0Q",
-            "state": "BW"
+            "state": "BW",
+            "faction": false
         },
         {
             "name": "AfD Bayern TV",
             "id": "UCNz-EGSd5BXEoTcLcYCGsig",
-            "state": "BY"
+            "state": "BY",
+            "faction": false
         },
         {
             "name": "AfD-Fraktion Landtag Bayern",
             "id": "UCtWlDp6ZKQwp177Mxu3fI-A",
-            "state": "BY"
+            "state": "BY",
+            "faction": true
         },
         {
             "name": "AfD Fraktion Abgeordnetenhaus Berlin",
             "id": "UCsys2EX3mERoBzRrPN-FmJg",
-            "state": "BE"
+            "state": "BE",
+            "faction": true
         },
         {
             "name": "AfD Berlin",
             "id": "UCRW6VnUM3QI9cAFFrFhO4xQ",
-            "state": "BE"
+            "state": "BE",
+            "faction": false
         },
         {
             "name": "AfD-Fraktion Brandenburg",
             "id": "UCTM3TcPBOQlb9bgO5QoyuXQ",
-            "state": "BB"
+            "state": "BB",
+            "faction": true
         },
         {
             "name": "AfD Brandenburg",
             "id": "UCk8tuJhugsIDmTe9R-bApqA",
-            "state": "BB"
+            "state": "BB",
+            "faction": false
         },
         {
             "name": "AfD-Fraktion Hamburg",
             "id": "UCuBI3Juo3t8u2brDgXvviYw",
-            "state": "HH"
+            "state": "HH",
+            "faction": true
         },
         {
             "name": "AfD Hamburg",
             "id": "UC-cvpI5CcI3uZUZ9kO0YERw",
-            "state": "HH"
+            "state": "HH",
+            "faction": false
         },
         {
             "name": "AfD Hessen",
             "id": "UCr67dBBj1HRqQWvcybNrR2w",
-            "state": "HE"
+            "state": "HE",
+            "faction": false
         },
         {
             "name": "AfD-Fraktion im Hessischen Landtag",
             "id": "UC5fklSsgh1pUbgxVTcJ-7BQ",
-            "state": "HE"
+            "state": "HE",
+            "faction": true
         },
         {
             "name": "AfD-Fraktion MV",
             "id": "UCKGwbGNh1xwA8S8Q9fGmBbQ",
-            "state": "MV"
+            "state": "MV",
+            "faction": true
         },
         {
             "name": "AfD Mecklenburg-Vorpommern",
             "id": "UCtjb0LbyVjiqeAISxP-7G4A",
-            "state": "MV"
+            "state": "MV",
+            "faction": false
         },
         {
             "name": "AfD-Fraktion Niedersachsen",
             "id": "UCWfH9YQNq0kos1a-UIA0wOQ",
-            "state": "NI"
+            "state": "NI",
+            "faction": true
         },
         {
             "name": "AfD Niedersachsen",
             "id": "UCImJ65Ko_eWBJ2RRAVNtcSQ",
-            "state": "NI"
+            "state": "NI",
+            "faction": false
         },
         {
             "name": "AfD-Landtagsfraktion NRW",
             "id": "UCeP-mETJStV6mg34dfUl6rA",
-            "state": "NW"
+            "state": "NW",
+            "faction": true
         },
         {
             "name": "AfD NRW",
             "id": "UCaOZLR6ZgWVRrphym8sPV5g",
-            "state": "NW"
+            "state": "NW",
+            "faction": false
         },
         {
             "name": "AfD NRW",
             "id": "UC37gEYD_5AQuoxxFZIKwkVw",
-            "state": "NW"
+            "state": "NW",
+            "faction": false
         },
         {
             "name": "AfD Rheinland-Pfalz",
             "id": "UC_BlT2L1RgHqDI8_1wdK4iQ",
-            "state": "RP"
+            "state": "RP",
+            "faction": false
         },
         {
             "name": "AfD Rheinland-Pfalz",
             "id": "UCtedtC0VQHRRgd4JEJKcytg",
-            "state": "RP"
+            "state": "RP",
+            "faction": false
         },
         {
             "name": "AfD TV Rheinland-Pfalz",
             "id": "UC79jhtvGKMxOjg8yu42ctLA",
-            "state": "RP"
+            "state": "RP",
+            "faction": false
         },
         {
             "name": "AfD-Fraktion Rheinland-Pfalz",
             "id": "UCyz0RNyWuM_ZRoUGYp--X7w",
-            "state": "RP"
+            "state": "RP",
+            "faction": true
         },
         {
             "name": "AfD Saarland",
             "id": "UC-DaxZXlxdjop7bytVt7dZA",
-            "state": "SL"
+            "state": "SL",
+            "faction": false
         },
         {
             "name": "afdfraktionsaar",
             "id": "UC1DDMvLsst0fVyhe1Muvcjg",
-            "state": "SL"
+            "state": "SL",
+            "faction": true
         },
         {
             "name": "AfD-Fraktion im Sächsischen Landtag",
             "id": "UCVXqMg5NOK5z8dwtzqRcMNg",
-            "state": "SN"
+            "state": "SN",
+            "faction": true
         },
         {
             "name": "AfD LV Sachsen",
             "id": "UCvTP3QVVf-_o_r_sUwHKAvA",
-            "state": "SN"
+            "state": "SN",
+            "faction": false
         },
         {
             "name": "AfD-Fraktion Sachsen-Anhalt",
             "id": "UCC1lqQiOeDls7-yJhXUTXgw",
-            "state": "ST"
+            "state": "ST",
+            "faction": true
         },
         {
             "name": "AfD-Fraktion Schleswig-Holstein",
             "id": "UCn-zMWPr9pmGFi9NzrVPcrg",
-            "state": "SH"
+            "state": "SH",
+            "faction": true
         },
         {
             "name": "AfD Schleswig-Holstein",
             "id": "UC0muOdTL6587mBgKgcVUyPw",
-            "state": "SH"
+            "state": "SH",
+            "faction": false
         },
         {
             "name": "Afd-Landtags-TV",
             "id": "UC1PO45tNfIfTDEqXMiiCqmQ",
-            "state": "TH"
+            "state": "TH",
+            "faction": true
         },
         {
             "name": "AfD Thüringen",
             "id": "UC-LF4kRAQ95-MuZvnum6UdQ",
-            "state": "TH"
+            "state": "TH",
+            "faction": false
         }
     ],
 
@@ -181,137 +216,164 @@
         {
             "name": "SPD",
             "id": "UCSmbK1WtpYn2sOGLvSSXkKw",
-            "state": "DE"
+            "state": "DE",
+            "faction": false
         },
         {
             "name": "Videos der SPD-Bundestagsfraktion",
             "id": "UCUVSxH8r5fj3Uki5uAcyQaw",
-            "state": "DE"
+            "state": "DE",
+            "faction": true
         },
         {
             "name": "SPD-Landtagsfraktion Baden-Württemberg",
             "id": "UCAFTMnauUt4zPNnaO9aFWOA",
-            "state": "BW"
+            "state": "BW",
+            "faction": true
         },
         {
             "name": "SPDBW",
             "id": "UCwu93j6LeTu4Io74yxqNH5Q",
-            "state": "BW"
+            "state": "BW",
+            "faction": false
         },
         {
             "name": "SPDBayernLandtag",
             "id": "UC0xypF4uFifUeg4wkEMzG9g",
-            "state": "BY"
+            "state": "BY",
+            "faction": true
         },
         {
             "name": "BayernSPD",
             "id": "UC2YrVWMEnK2CVMl0R51oShg",
-            "state": "BY"
+            "state": "BY",
+            "faction": false
         },
         {
             "name": "SPD Berlin",
             "id": "UCXYEhmlfWS_qBiCVHr4ZtCQ",
-            "state": "BE"
+            "state": "BE",
+            "faction": false
         },
         {
             "name": "SPD-Fraktion Berlin",
             "id": "UCtg21dH4ef1yWuOa0KVRLvA",
-            "state": "BE"
+            "state": "BE",
+            "faction": true
         },
         {
             "name": "SPDBrandenburg",
             "id": "UCgqoJfoFUc7FFAS7vqwAVGQ",
-            "state": "BB"
+            "state": "BB",
+            "faction": false
         },
         {
             "name": "SPD-Landtagsfraktion Brandenburg",
             "id": "UCVDePOx7yzCGUctNLBCQw8w",
-            "state": "BB"
+            "state": "BB",
+            "faction": true
         },
         {
             "name": "spdhamburg",
             "id": "UCDujVW4852YxSpDSA6oKhFw",
-            "state": "HH"
+            "state": "HH",
+            "faction": false
         },
         {
             "name": "SPD-Fraktion in der Hamburgischen Bürgerschaft",
             "id": "UCpZxpbH8wmaCH08jT6nq7xQ",
-            "state": "HH"
+            "state": "HH",
+            "faction": true
         },
         {
             "name": "spdhessen",
             "id": "UCVC0CEnEM_Id7zK_lLh9fHA",
-            "state": "HE"
+            "state": "HE",
+            "faction": false
         },
         {
             "name": "SPD-Landtagsfraktion Mecklenburg-Vorpommern",
             "id": "UCBXBbqkLwyBP4lwtaizUNWg",
-            "state": "MV"
+            "state": "MV",
+            "faction": true
         },
         {
             "name": "SPD Mecklenburg-Vorpommern",
             "id": "UCuuVX32AGbXsLJGt6gECjEQ",
-            "state": "MV"
+            "state": "MV",
+            "faction": false
         },
         {
             "name": "SPD Landesverband Niedersachsen",
             "id": "UCcUC6XC0tWyS7qZirTIzIzw",
-            "state": "NI"
+            "state": "NI",
+            "faction": false
         },
         {
             "name": "SPD Fraktion Niedersachsen",
             "id": "UC0en6rKJ4gslWU23ds84YBg",
-            "state": "NI"
+            "state": "NI",
+            "faction": true
         },
         {
             "name": "SPD Landtagsfraktion NRW",
             "id": "UCuMEI1uW4MZmpNG8r45uR1w",
-            "state": "NW"
+            "state": "NW",
+            "faction": true
         },
         {
             "name": "nrwspdvideo",
             "id": "UCTSx1ly2lTH7Kn5DYHcATxQ",
-            "state": "NW"
+            "state": "NW",
+            "faction": false
         },
         {
             "name": "SPDrlpVision",
             "id": "UCEBb8Rn8gFLEs39VmNE-QPg",
-            "state": "RP"
+            "state": "RP",
+            "faction": false
         },
         {
             "name": "wirmachensTV",
             "id": "UCQbAWZBqevLcmKhNikQazpg",
-            "state": "SL"
+            "state": "SL",
+            "faction": false
         },
         {
             "name": "SPDSachsen",
             "id": "UCIEthnaXGu_WrKLYs1ncKmA",
-            "state": "SN"
+            "state": "SN",
+            "faction": false
         },
         {
             "name": "SPD-Fraktion im Sächsischen Landtag",
             "id": "UCj1OdNY1voKPdFY84212scg",
-            "state": "SN"
+            "state": "SN",
+            "faction": true
         },
         {
             "name": "SPD Sachsen-Anhalt",
             "id": "UCQpYYUcJGVgERtFH8uj6_SQ",
-            "state": "ST"
+            "state": "ST",
+            "faction": false
         },
         {
             "name": "SPD Schleswig-Holstein",
             "id": "UC7t8a9CPcKmdH0vZw23Cr8g",
-            "state": "SH"
+            "state": "SH",
+            "faction": false
         },
         {
             "name": "SPD-Fraktion im Thüringer Landtag",
             "id": "UC1f4-dfMnYj9AucyrmL9YWw",
-            "state": "TH"
+            "state": "TH",
+            "faction": true
         },
         {
             "name": "SPD Thüringen",
             "id": "UCqIuSHOoxDL1TTQcS46bC6w",
-            "state": "TH"
+            "state": "TH",
+            "faction": false
         }
     ],
 
@@ -319,112 +381,134 @@
         {
             "name": "DIE LINKE",
             "id": "UCA95T5bSGxNOAODBdbR2rYQ",
-            "state": "DE"
+            "state": "DE",
+            "faction": false
         },
         {
             "name": "Fraktion DIE LINKE. im Bundestag",
             "id": "UCF2SPLBq18sL88yZw9m-GZQ",
-            "state": "DE"
+            "state": "DE",
+            "faction": true
         },
         {
             "name": "Linksfraktion Berlin",
             "id": "UCU3OREONGjYx0t4xiqtRylw",
-            "state": "BE"
+            "state": "BE",
+            "faction": true
         },
         {
             "name": "DIE LINKE.Berlin",
             "id": "UCwBleIOIkr2CsdWV23w7NDg",
-            "state": "BE"
+            "state": "BE",
+            "faction": false
         },
         {
             "name": "DIE LINKE in Bremen und Bremerhaven",
             "id": "UCFwkrLlQFvkWWVWmA74SLIw",
-            "state": "HB"
+            "state": "HB",
+            "faction": false
         },
         {
             "name": "Linksfraktion Bremen",
             "id": "UCkNUAXTB5jW2k_AdI5MSdRQ",
-            "state": "HB"
+            "state": "HB",
+            "faction": true
         },
         {
             "name": "DIELINKEBayern",
             "id": "UC2i_NxR4rVtI28jtT-7XG9Q",
-            "state": "BY"
+            "state": "BY",
+            "faction": false
         },
         {
             "name": "DIE LINKE. Brandenburg",
             "id": "UCJE3ku0hSgurjmGkt8G1A6g",
-            "state": "BB"
+            "state": "BB",
+            "faction": false
         },
         {
             "name": "DIE LINKE. Hamburg",
             "id": "UCuVFBnKLFWeJCQOpdwoGrMg",
-            "state": "HH"
+            "state": "HH",
+            "faction": false
         },
         {
             "name": "Linksfraktion Hamburg",
             "id": "UCVl16j_SGBjNUUqeHGO1uRQ",
-            "state": "HH"
+            "state": "HH",
+            "faction": true
         },
         {
             "name": "LINKE Hessen",
             "id": "UCxkREYqV2zWvqs8ikf0fjuw",
-            "state": "HE"
+            "state": "HE",
+            "faction": false
         },
         {
             "name": "LinksfraktionMV",
             "id": "UC_pNrYdYyv0J5TLfLKjLjzw",
-            "state": "MV"
+            "state": "MV",
+            "faction": true
         },
         {
             "name": "dielinkends",
             "id": "UCPIfruO246xLllS-ECNwQbw",
-            "state": "NI"
+            "state": "NI",
+            "faction": false
         },
         {
             "name": "DIE LINKE. NRW",
             "id": "UC5iBOWkp__1Y1rUUEkwDUBA",
-            "state": "NW"
+            "state": "NW",
+            "faction": false
         },
         {
             "name": "DIE LINKE RLP",
             "id": "UCe8r9EFiaaPeq98Bimh-0og",
-            "state": "RP"
+            "state": "RP",
+            "faction": false
         },
         {
             "name": "Linksfraktion Saar",
             "id": "UCiCVqdRRA7HGHSedzz-xWpg",
-            "state": "SL"
+            "state": "SL",
+            "faction": true
         },
         {
             "name": "DIE LINKE. Sachsen",
             "id": "UCjUMeHH_vr3ycKVU5x0koAg",
-            "state": "SN"
+            "state": "SN",
+            "faction": false
         },
         {
             "name": "DIE LINKE. Sachsen-Anhalt",
             "id": "UCB00ly95vBQf2C3ExE9Rr7g",
-            "state": "ST"
+            "state": "ST",
+            "faction": false
         },
         {
             "name": "dielinkelsa",
             "id": "UCqcejAssPglJfyggPzU9m2Q",
-            "state": "ST"
+            "state": "ST",
+            "faction": true
         },
         {
             "name": "DIE LINKE. Landesverband Schleswig-Holstein",
             "id": "UCadwb95yFooGqWZLemeXMGQ",
-            "state": "SH"
+            "state": "SH",
+            "faction": false
         },
         {
             "name": "DIE LINKE. Thüringen",
             "id": "UCXrfb7xN-St9DVrA0wU5-jQ",
-            "state": "TH"
+            "state": "TH",
+            "faction": false
         },
         {
             "name": "LinksfraktionTHL",
             "id": "UCKjck2_oh54Qc8d_k8FjH2w",
-            "state": "TH"
+            "state": "TH",
+            "faction": true
         }
     ],
 
@@ -432,330 +516,395 @@
         {
             "name": "BÜNDNIS 90/DIE GRÜNEN",
             "id": "UC7TAA2WYlPfb6eDJCeX4u0w",
-            "state": "DE"
+            "state": "DE",
+            "faction": true
         },
         {
             "name": "Grüne Brandenburg",
             "id": "UCku7SU-mpdtVNhKWR-Zi1lQ",
-            "state": "BB"
+            "state": "BB",
+            "faction": false
         },
         {
             "name": "Grüne Fraktion Brandenburg",
             "id": "UCTdW7IY_On9Az4V5266MKhA",
-            "state": "BB"
+            "state": "BB",
+            "faction": true
         },
         {
             "name": "BÜNDNIS 90/DIE GRÜNEN BERLIN",
             "id": "UClNx6sNPjHiwoBciST8Dnlg",
-            "state": "BE"
+            "state": "BE",
+            "faction": false
         },
         {
             "name": "Grüne Fraktion Berlin",
             "id": "UC4_54f8IVq522DR0y5y5xSg",
-            "state": "BE"
+            "state": "BE",
+            "faction": true
         },
         {
             "name": "GrueneBW",
             "id": "UCzvYlUI2PUopzkB-SFmixvQ",
-            "state": "BW"
+            "state": "BW",
+            "faction": false
         },
         {
             "name": "Grüne Fraktion BW",
             "id": "UCx5-pLfZujsqv2SkQl--3lg",
-            "state": "BW"
+            "state": "BW",
+            "faction": true
         },
         {
             "name": "GRÜNE Bayern",
             "id": "UCxFQPuawQuv4N7L4o-XSMGw",
-            "state": "BY"
+            "state": "BY",
+            "faction": false
         },
         {
             "name": "Grüne Fraktion Bayern",
             "id": "UC70yW54lkdiptVay7R4XE5w",
-            "state": "BY"
+            "state": "BY",
+            "faction": true
         },
         {
             "name": "Grüne Bremen",
             "id": "UC_cx1NVaCWgJqmS9DwVY30Q",
-            "state": "HB"
+            "state": "HB",
+            "faction": false
         },
         {
             "name": "gruefrabremen",
             "id": "UCwValNI3wUzpXaCe_WZD5sA",
-            "state": "HB"
+            "state": "HB",
+            "faction": true
         },
         {
             "name": "hessengruen",
             "id": "UCDRU08xlp02M9-QOXlP_SCQ",
-            "state": "HE"
+            "state": "HE",
+            "faction": false
         },
         {
             "name": "GRÜNE Hamburg",
             "id": "UCOxYpjr1k7oTlX7RydB6wsw",
-            "state": "HH"
+            "state": "HH",
+            "faction": true
         },
         {
             "name": "PÖFF Grüne",
             "id": "UChG6hIMRZnxga_m0uXKEIkQ",
-            "state": "MV"
+            "state": "MV",
+            "faction": true
         },
         {
             "name": "Grüne M-V",
             "id": "UCCvSydcqHEeig2kZQ0lX7sw",
-            "state": "MV"
+            "state": "MV",
+            "faction": false
         },
         {
             "name": "BÜNDNIS 90/DIE GRÜNEN Niedersachsen",
             "id": "UC_MXBApWStvHm21cdy3YCyg",
-            "state": "NI"
+            "state": "NI",
+            "faction": false
         },
         {
             "name": "Grüne Landtagsfraktion Niedersachsen",
             "id": "UCT4KtKcG7WqiAmruOsnSy6Q",
-            "state": "NI"
+            "state": "NI",
+            "faction": true
         },
         {
             "name": "BÜNDNIS 90/DIE GRÜNEN Nordrhein-Westfalen",
             "id": "UCseJNQvNLGGPNpQfyhQ-3fA",
-            "state": "NW"
+            "state": "NW",
+            "faction": false
         },
         {
             "name": "Grüne Fraktion NRW",
             "id": "UClHEeyiZ_uRpjFMoPHAc2QA",
-            "state": "NW"
+            "state": "NW",
+            "faction": true
         },
         {
             "name": "gruenerlp",
             "id": "UCMSZuB-NtrEz1xoAha6pAeA",
-            "state": "RP"
+            "state": "RP",
+            "faction": false
         },
         {
             "name": "BÜNDNIS 90/DIE GRÜNEN im Landtag Rheinland-Pfalz",
             "id": "UCZfvNwA03jro_R7AASZ2O6A",
-            "state": "RP"
+            "state": "RP",
+            "faction": true
         },
         {
             "name": "GrueneSH",
             "id": "UCqiLoWt87go5nbptYPrhlkg",
-            "state": "SH"
+            "state": "SH",
+            "faction": false
         },
         {
             "name": "Grüne Fraktion Schleswig-Holstein",
             "id": "UC3Jl-Ig65AwACMDaWOCk5QQ",
-            "state": "SH"
+            "state": "SH",
+            "faction": true
         },
         {
             "name": "Bündnis 90/Die Grünen Saarland",
             "id": "UC8BpWCbE5lBIu9VlLhdZi-A",
-            "state": "SL"
+            "state": "SL",
+            "faction": false
         },
         {
             "name": "Grüne Fraktion Saar",
             "id": "UC9MM9RHjioXmr4vT7U1O7bQ",
-            "state": "SL"
+            "state": "SL",
+            "faction": true
         },
         {
             "name": "GRÜNE Sachsen",
             "id": "UCStjIha7BIAB1rc__KqX1wg",
-            "state": "SN"
+            "state": "SN",
+            "faction": false
         },
         {
             "name": "GRÜNE-Landtagsfraktion Sachsen",
             "id": "UCE4iryl41cekCw7oqkSVxOA",
-            "state": "SN"
+            "state": "SN",
+            "faction": true
         },
         {
             "name": "Grüne Sachsen-Anhalt",
             "id": "UCN6jGPejmrTcV1qr2xfSwDA",
-            "state": "ST"
+            "state": "ST",
+            "faction": false
         },
         {
             "name": "Grüne Fraktion Sachsen-Anhalt",
             "id": "UCOcPqTYTpflzla44RA4Lprg",
-            "state": "ST"
+            "state": "ST",
+            "faction": true
         },
         {
             "name": "Grüne Thüringen",
             "id": "UCsdgei6gP8OJEWGGM4Olrgg",
-            "state": "TH"
+            "state": "TH",
+            "faction": false
         },
         {
             "name": "Grüne Landtagsfraktion Thüringen",
             "id": "UC7nfPpQED8OR7l5FE-_Wa4w",
-            "state": "TH"
+            "state": "TH",
+            "faction": true
         }
     ],
 
-    "cdu": [
+    "union": [
         {
             "name": "cdutv",
             "id": "UCKyWIEse3u7ExKfAWuDMVnw",
-            "state": "DE"
+            "state": "DE",
+            "faction": false
         },
         {
             "name": "CDU/CSU-Bundestagsfraktion",
             "id": "UCWpop4RlpejOFLebR0C1YaQ",
-            "state": "DE"
+            "state": "DE",
+            "faction": true
         },
         {
             "name": "CDUBrandenburg",
             "id": "UCekGHzAs8RZX1bUFpEZeing",
-            "state": "BB"
+            "state": "BB",
+            "faction": false
         },
         {
             "name": "CDUFraktionBB",
             "id": "UCnX18czjaWtxFA4Sf57v2PQ",
-            "state": "BB"
+            "state": "BB",
+            "faction": true
         },
         {
             "name": "CDU Berlin",
             "id": "UC8hPYw9QivZepnW9DxxTSeQ",
-            "state": "BE"
+            "state": "BE",
+            "faction": false
         },
         {
             "name": "CDU-Fraktion Berlin",
             "id": "UC-4onk8__sPkKmCZXgglOTw",
-            "state": "BE"
+            "state": "BE",
+            "faction": true
         },
         {
             "name": "CDU Baden-Württemberg",
             "id": "UCgHjOjTNqusf5G7ZEqPIchg",
-            "state": "BW"
+            "state": "BW",
+            "faction": false
         },
         {
             "name": "CDUFraktionBW",
             "id": "UC3XaPUto87ydZF0JICibILQ",
-            "state": "BW"
+            "state": "BW",
+            "faction": true
         },
         {
             "name": "CSUtv",
             "id": "UC5AagLvRz7ejBrONZVaA13Q",
-            "state": "BY"
+            "state": "BY",
+            "faction": false
         },
         {
             "name": "FraktionsTV",
             "id": "UC1kmMYUfnStsQ--l7F6LMZQ",
-            "state": "BY"
+            "state": "BY",
+            "faction": true
         },
         {
             "name": "CDULandBremen",
             "id": "UCwpgHkq9OHTOuwlsjrh9OKw",
-            "state": "HB"
+            "state": "HB",
+            "faction": false
         },
         {
             "name": "CDU-Bürgerschaftsfraktion Bremen",
             "id": "UCZPQ_qxDbFS8eS5LvxTHQJg",
-            "state": "HB"
+            "state": "HB",
+            "faction": true
         },
         {
             "name": "cduhessentv",
             "id": "UC4tbEgi2bYRISwWW-NzAeQw",
-            "state": "HE"
+            "state": "HE",
+            "faction": false
         },
         {
             "name": "cdufraktionhessen",
             "id": "UCrw9jowvqVPyr3S6J6s0yvg",
-            "state": "HE"
+            "state": "HE",
+            "faction": true
         },
         {
             "name": "CDU-Fraktion Hamburg",
             "id": "UCYkL2oH8YJcG4jy3TccbS2A",
-            "state": "HH"
+            "state": "HH",
+            "faction": true
         },
         {
             "name": "CDUHamburgTV",
             "id": "UCD-OOnefH5OAGjNLZGkXXuA",
-            "state": "HH"
+            "state": "HH",
+            "faction": false
         },
         {
             "name": "cduMV",
             "id": "UCE99iZni9bZrUFWvzjVFV0w",
-            "state": "MV"
+            "state": "MV",
+            "faction": false
         },
         {
             "name": "cdufraktionmv",
             "id": "UCk38Rntx4jZzf5HtkTAEClw",
-            "state": "MV"
+            "state": "MV",
+            "faction": true
         },
         {
             "name": "CDUNiedersachsen",
             "id": "UCyuhIPMdJHSClSe5Sl_tCNQ",
-            "state": "NI"
+            "state": "NI",
+            "faction": false
         },
         {
             "name": "CDUFraktionNRW",
             "id": "UCaZl7C8tr-UlAlldCjYaHzg",
-            "state": "NW"
+            "state": "NW",
+            "faction": true
         },
         {
             "name": "CDUNRWpodcast",
             "id": "UCUmW-4iQ78PvNyQyksW3zFQ",
-            "state": "NW"
+            "state": "NW",
+            "faction": false
         },
         {
             "name": "CDU Rheinland-Pfalz",
             "id": "UCFRT782IKdO__tNs0p1B7Jw",
-            "state": "RP"
+            "state": "RP",
+            "faction": false
         },
         {
             "name": "CDUFraktionRLP",
             "id": "UCAHIg9mpuhsCdbIePowkHlw",
-            "state": "RP"
+            "state": "RP",
+            "faction": true
         },
         {
             "name": "CDUSaarTV",
             "id": "UCTKckYtsLDrN2Jd3hHL-irQ",
-            "state": "SL"
+            "state": "SL",
+            "faction": false
         },
         {
             "name": "CDU Landtagsfraktion Saar",
             "id": "UCAeNiFVtI7jxJV2JWMochsQ",
-            "state": "SL"
+            "state": "SL",
+            "faction": true
         },
         {
             "name": "cdusachsen",
             "id": "UCsekFnyJxM9n0gy_vSEeMjA",
-            "state": "SN"
+            "state": "SN",
+            "faction": false
         },
         {
             "name": "CDU-Fraktion des Sächsischen Landtages",
             "id": "UCkZqKyE-1iesihH5VZq469Q",
-            "state": "SN"
+            "state": "SN",
+            "faction": true
         },
         {
             "name": "CDU Sachsen-Anhalt",
             "id": "UCiKRP266-QLVpxUCJDZHR0w",
-            "state": "ST"
+            "state": "ST",
+            "faction": false
         },
         {
             "name": "cdufraktion",
             "id": "UCU5Il-QKrG5u1ivqHpJ1CEg",
-            "state": "ST"
+            "state": "ST",
+            "faction": true
         },
         {
             "name": "cduschleswigholstein",
             "id": "UCTO1EZi2AVDSUOWTFXJrmgg",
-            "state": "SH"
+            "state": "SH",
+            "faction": false
         },
         {
             "name": "Die CDU-Bundestagsabgeordneten aus Thüringen",
             "id": "UC-ZLvbHlFhiIrEMLbr7Xkag",
-            "state": "TH"
+            "state": "TH",
+            "faction": true
         },
         {
             "name": "CDU Thüringen",
             "id": "UCI-Pspd-qHG5ifBxKslOJDQ",
-            "state": "TH"
+            "state": "TH",
+            "faction": false
         },
         {
             "name": "CDU-Fraktion im Thüringer Landtag",
             "id": "UCLR_dhEPws3ha9GKFrOKkZg",
-            "state": "TH"
+            "state": "TH",
+            "faction": true
         },
         {
             "name": "CDU-Fraktion im Thüringer Landtag",
             "id": "UCGeEd61EzojK_gsNrEsvxkQ",
-            "state": "TH"
+            "state": "TH",
+            "faction": true
         }
     ],
 
@@ -763,137 +912,164 @@
         {
             "name": "FDP",
             "id": "UC-sMkrfoQDH-xzMxPNckGFw",
-            "state": "DE"
+            "state": "DE",
+            "faction": false
         },
         {
             "name": "Fraktion der Freien Demokraten",
             "id": "UC2TCluB4jcrJqis5rzGcCbw",
-            "state": "DE"
+            "state": "DE",
+            "faction": true
         },
         {
             "name": "FDP Bundesverband",
             "id": "UCHcjzLDoQiYQCttrkjLrC0w",
-            "state": "DE"
+            "state": "DE",
+            "faction": false
         },
         {
             "name": "FDP Brandenburg",
             "id": "UCya1c4OA5D9zqDY0FmLr4pQ",
-            "state": "BB"
+            "state": "BB",
+            "faction": false
         },
         {
             "name": "FDP Berlin",
             "id": "UCTU3a3F_kpibB_X1Jw2PYmg",
-            "state": "BE"
+            "state": "BE",
+            "faction": false
         },
         {
             "name": "FDP Fraktion Berlin",
             "id": "UCRayTZOCXHIeeKeoBIkjpoA",
-            "state": "BE"
+            "state": "BE",
+            "faction": true
         },
         {
             "name": "FDP Baden-Württemberg",
             "id": "UCYzqkxULCU8Y8rBK9ygtigA",
-            "state": "BW"
+            "state": "BW",
+            "faction": false
         },
         {
             "name": "fdpdvp",
             "id": "UChwA-ib_nZDgQTQ_mIbY0bA",
-            "state": "BW"
+            "state": "BW",
+            "faction": true
         },
         {
             "name": "fdpbayern",
             "id": "UCc3FeL_413nIBeFGhrVDEow",
-            "state": "BY"
+            "state": "BY",
+            "faction": false
         },
         {
             "name": "FDP Bremen",
             "id": "UC4iyXDt3XQhXq5RdNboj-Lw",
-            "state": "HB"
+            "state": "HB",
+            "faction": false
         },
         {
             "name": "fdpfraktionbremen",
             "id": "UClnpdVH4w2vkzYgB_VUgMgA",
-            "state": "HB"
+            "state": "HB",
+            "faction": true
         },
         {
             "name": "FDP Hessen",
             "id": "UC2dT3tQ4LE5NooDvVHzBArg",
-            "state": "HE"
+            "state": "HE",
+            "faction": false
         },
         {
             "name": "Freie Demokraten im Hessischen Landtag",
             "id": "UCcTwpWq-K4ZF1JuVtC_II_Q",
-            "state": "HE"
+            "state": "HE",
+            "faction": true
         },
         {
             "name": "fdpfraktionhh",
             "id": "UCMUn_y79ewl2Ssc2m_Nzh1Q",
-            "state": "HH"
+            "state": "HH",
+            "faction": true
         },
         {
             "name": "FDP Mecklenburg-Vorpommern",
             "id": "UCmhHg5Go28CIgv1xf4V9BAg",
-            "state": "MV"
+            "state": "MV",
+            "faction": false
         },
         {
             "name": "FDP Fraktion Niedersachsen",
             "id": "UCgDpxy9J64_yPOhAy1cdgmw",
-            "state": "NI"
+            "state": "NI",
+            "faction": true
         },
         {
             "name": "FDP Niedersachsen",
             "id": "UCJkCrC6ENOqfvT6SMIS25Xg",
-            "state": "NI"
+            "state": "NI",
+            "faction": false
         },
         {
             "name": "FDPLandesverbandNRW",
             "id": "UC183k0W5D4BKy_j27h1-eDg",
-            "state": "NW"
+            "state": "NW",
+            "faction": false
         },
         {
             "name": "FDPFraktionNRW",
             "id": "UCyvio0DtGtcgirafv6jV4Lg",
-            "state": "NW"
+            "state": "NW",
+            "faction": true
         },
         {
             "name": "FDP-Fraktion Rheinland-Pfalz",
             "id": "UCJT4zWJ9esES0TY-zeBj1Kw",
-            "state": "RP"
+            "state": "RP",
+            "faction": true
         },
         {
             "name": "FDPRLP",
             "id": "UC6ZgDKpSlQka9-0jXmIN0PA",
-            "state": "RP"
+            "state": "RP",
+            "faction": false
         },
         {
             "name": "FDP Schleswig-Holstein",
             "id": "UClpQIK9ARTUb8v1mS9ma5Tg",
-            "state": "SH"
+            "state": "SH",
+            "faction": false
         },
         {
             "name": "FDPLTSH",
             "id": "UCzCcYggtj78XeEkFniRpNGw",
-            "state": "SH"
+            "state": "SH",
+            "faction": true
         },
         {
             "name": "FDPSAAR",
             "id": "UCy06EghkdRhjnTbmyzlGhRQ",
-            "state": "SL"
+            "state": "SL",
+            "faction": false
         },
         {
             "name": "FDP SACHSEN",
             "id": "UCPCU71uAUNvv0TplP6YHtcQ",
-            "state": "SN"
+            "state": "SN",
+            "faction": false
         },
         {
             "name": "FDP Sachsen-Anhalt",
             "id": "UCFUhg3e95XoK3DBueJXsZpA",
-            "state": "ST"
+            "state": "ST",
+            "faction": false
         },
         {
             "name": "Fdp Thüringen",
             "id": "UCIIGfqjnS1Sr7aSVJ3nt1_w",
-            "state": "TH"
+            "state": "TH",
+            "faction": false
         }
     ]
 }

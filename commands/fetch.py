@@ -2,7 +2,7 @@
 fetch:
 Download video subtitles from one or multiple parties to
 `subtitles\{party}\{video}`. Use argument `all` to fetch videos
-from every party specified in the json file.
+from every party specified in the JSON file.
 
 Options:
 
@@ -61,7 +61,14 @@ import re
 import glob
 import pandas as pd
 from datetime import datetime
-from helper import status, usage, error, warning, bold_purple, bold_blue, load_json, VERSION
+from helper import status,\
+                   usage,\
+                   error,\
+                   warning,\
+                   bold_purple,\
+                   bold_blue,\
+                   load_json,\
+                   VERSION
 try:
     import click
     from sqlalchemy import create_engine
@@ -77,33 +84,32 @@ except ImportError:
 
 @click.command()
 @click.argument('parties', nargs=-1)
-@click.option('--channels-resource',
-              default='rsc/channels.json',
-              type=click.Path(exists=True))
+@click.option(
+    '--channels-resource',
+    default='rsc/channels.json',
+    type=click.Path(exists=True))
 @click.option('--videos-per-channel', default=20)
-@click.option('--key',
-              default='rsc/client_secret.json',
-              type=click.Path(exists=True))
+@click.option(
+    '--key', default='rsc/client_secret.json', type=click.Path(exists=True))
 @click.option('--from-date', default="01.06.2017")
 @click.option('--until-date', default="01.01.2100")
 @click.option('--database', default='rsc/caption_party.db', type=click.Path())
-def fetch(parties,
-          channels_resource,
-          videos_per_channel,
-          key,
-          from_date,
-          until_date,
-          database):
+def fetch(parties, channels_resource, videos_per_channel, key, from_date,
+          until_date, database):
     # Get specified parties
     party_channels = load_json(channels_resource)
     available_parties = list(party_channels.keys())
     # Check input
+
     if len(parties) == 1 and parties[0] == "all":
         parties = available_parties
-    elif not parties or not all(party in available_parties for party in parties):
+    elif not parties or not all(party in available_parties
+                                for party in parties):
         print(usage, "connect.py fetch [OPTIONS] PARTIES...")
-        print(bold_blue("Available parties: ") +
-              ", ".join(["all"] + available_parties))
+        print(
+            bold_blue("Available parties: ") +
+            ", ".join(["all"] + available_parties))
+
         return
     try:
         # Format date
@@ -112,6 +118,7 @@ def fetch(parties,
     except ValueError:
         print(usage, "connect.py fetch [OPTIONS] PARTIES...")
         print(bold_blue("Datetime: ") + "{DAY}.{MONTH}.{YEAR}")
+
         return
     # Print script information
     print_information(parties, videos_per_channel, from_date, until_date)
@@ -119,27 +126,42 @@ def fetch(parties,
     handle = get_handle(key)
     # Download subtitles and data
     rows = []
+
     for party in parties:
         print(status + "Party: ", bold_purple(party.upper()))
+
         for channel in party_channels[party]:
             print(status + "Channel: ", bold_blue(channel['name']))
+
+            # Get uploads
             playlist_id = get_channel_uploads_id(handle, channel['id'])
-            for video_id in get_playlist_items(handle, playlist_id, from_date, until_date, videos_per_channel):
+            playlist_items = get_playlist_items(handle,
+                                                playlist_id,
+                                                from_date,
+                                                until_date,
+                                                videos_per_channel)
+
+            for video_id in playlist_items:
                 print(status + "Scraping and processing video:", video_id)
-                # Subtitles
-                subtitle_path = os.path.join(
-                    "subtitles", party, video_id + ".txt")
+                # Get subtitle
+                subtitle_path = os.path.join("subtitles", party,
+                                             video_id + ".txt")
                 download_sub(party, video_id, subtitle_path)
                 try:
                     subtitle = filter_subtitles(subtitle_path)
                 except FileNotFoundError:
                     print(warning + "Subtitles couldn't be downloaded.")
                     subtitle = None
-                # Other video data
+                # Get video data
                 raw_video_json = get_raw_video_json(handle, video_id)
-                # Merge to datarow
-                data_row = create_datarow(
-                    video_id, party, channel['state'], raw_video_json, subtitle)
+
+                # Merge to data row
+                data_row = create_datarow(video_id,
+                                          party,
+                                          channel['state'],
+                                          channel['faction'],
+                                          raw_video_json,
+                                          subtitle)
                 rows.append(data_row)
     updating_and_saving(rows, database)
 
@@ -148,15 +170,18 @@ def updating_and_saving(rows, database_path):
     # Convert time
     iso = '%Y-%m-%dT%H:%M:%S.%f'  # ISO-8601 format
     new_df = pd.DataFrame(rows).set_index("videoId")
-    new_df['publishedAt'] = pd.to_datetime(new_df['publishedAt'], format=iso, utc=True)
+    new_df['publishedAt'] = pd.to_datetime(
+        new_df['publishedAt'], format=iso, utc=True)
     new_df['updated'] = pd.to_datetime(new_df['updated'], format=iso, utc=True)
     # Load dataset
     engine = create_engine("sqlite:///" + database_path)
     conn = engine.connect()
     loaded_df = pd.read_sql_query("SELECT * from tab", conn)
     loaded_df.set_index('videoId', inplace=True)
-    loaded_df['publishedAt'] = pd.to_datetime(loaded_df['publishedAt'], format=iso, utc=True)
-    loaded_df['updated'] = pd.to_datetime(loaded_df['updated'], format=iso, utc=True)
+    loaded_df['publishedAt'] = pd.to_datetime(
+        loaded_df['publishedAt'], format=iso, utc=True)
+    loaded_df['updated'] = pd.to_datetime(
+        loaded_df['updated'], format=iso, utc=True)
     # Update dataset
     updated_df = new_df.combine_first(loaded_df)
     # Make incompatible types compatible
@@ -182,7 +207,7 @@ def download_sub(party, video_id, path):
         "--sub-format ttml",
         # "--exec 'mv -v {} " + video_id + ".txt'",
         "-o '{}'".format(path),
-        "--",  # Importent to prevent video id's starting with - to be interpreted as an option
+        "--",  # Important to prevent video id's starting with - to be interpreted as an option
         video_id
     ]
     # print(" ".join(cmd))
@@ -200,6 +225,7 @@ def filter_subtitles(path):
     with open(path, "w+") as f:
         f.write(text)
     os.remove(real_path)
+
     return text
 
 
@@ -211,6 +237,7 @@ def filter_subs(directory):
     """
 
     unfiltered_files = glob.glob(os.path.join(directory, "*.ttml"))
+
     for cap in unfiltered_files:
         with open(cap, "r") as f:
             text = f.read()
@@ -223,11 +250,7 @@ def filter_subs(directory):
         os.remove(cap)
 
 
-def get_playlist_items(handle,
-                       playlist_id,
-                       from_date,
-                       until_date,
-                       max_videos):
+def get_playlist_items(handle, playlist_id, from_date, until_date, max_videos):
     """ Returns list of video IDs for given Playlist ID and filters.
 
     Parameters:
@@ -244,25 +267,31 @@ def get_playlist_items(handle,
     def get_video_ids(json_list):
         items = []
         # Filter time
+
         for video in json_list:
             time_str = video['contentDetails']['videoPublishedAt'][:10]
             time = datetime.strptime(time_str, "%Y-%m-%d")
+
             if from_date < time and time < until_date:
                 items.append(video['contentDetails']['videoId'])
+
         return items
 
     filtered_videos = []
-    json_result = handle.playlistItems().list(part='contentDetails',
-                                              maxResults=50,
-                                              playlistId=playlist_id).execute()
+    json_result = handle.playlistItems().list(
+        part='contentDetails', maxResults=50,
+        playlistId=playlist_id).execute()
     filtered_videos.extend(get_video_ids(json_result['items']))
 
     nextPageToken = json_result.get('nextPageToken')
-    while nextPageToken is not None and (max_videos < 0 or len(filtered_videos) < max_videos):
-        nextPage = handle.playlistItems().list(part="contentDetails",
-                                               playlistId=playlist_id,
-                                               maxResults=50,
-                                               pageToken=nextPageToken).execute()
+
+    while nextPageToken is not None and (max_videos < 0
+                                         or len(filtered_videos) < max_videos):
+        nextPage = handle.playlistItems().list(
+            part="contentDetails",
+            playlistId=playlist_id,
+            maxResults=50,
+            pageToken=nextPageToken).execute()
         filtered_videos.extend(get_video_ids(nextPage['items']))
         nextPageToken = nextPage.get('nextPageToken')
 
@@ -278,23 +307,28 @@ def get_raw_video_json(handle, video_id):
     return json_result
 
 
-def create_datarow(video_id, party, state, json, subtitle):
-    if json['pageInfo']['totalResults'] >= 2:
+def create_datarow(video_id, party, state, faction, json, subtitle):
+    if json is None or json['pageInfo']['totalResults'] >= 2:
+        print(error + "No API results!")
         raise ValueError("Videos have only one result!")
     snippet = json['items'][0]['snippet']
     statistics = json['items'][0]['statistics']
     contentDetails = json['items'][0]['contentDetails']
-    row = {"videoId": video_id,
-           **snippet,
-           **contentDetails,
-           **statistics,
-           "subtitle": subtitle,
-           "party": party,
-           "state": state,
-           "updated": str(datetime.now())}
+    row = {
+        "videoId": video_id,
+        **snippet,
+        **contentDetails,
+        **statistics, "subtitle": subtitle,
+        "party": party,
+        "state": state,
+        "faction": state,
+        "updated": str(datetime.now())
+    }
     unwanted = []
+
     for key in unwanted:
         row.pop(key, None)
+
     return row
 
 
@@ -311,7 +345,9 @@ def get_channel_uploads_id(handle, channel_id):
 
     json_result = handle.channels().list(
         part='snippet,contentDetails', id=channel_id).execute()
-    return json_result['items'][0]['contentDetails']['relatedPlaylists']['uploads']
+
+    return json_result['items'][0]['contentDetails']['relatedPlaylists'][
+        'uploads']
 
 
 def get_handle(key):
@@ -332,9 +368,11 @@ def get_handle(key):
         host='localhost',
         port=8080,
         authorization_prompt_message='Please visit this URL:\n{url}',
-        success_message='Auth flow is complete! Starting to crawl videos now.\nYou may close this window.',
+        success_message=
+        'Auth flow is complete! Starting to crawl videos now.\nYou may close this window.',
         open_browser=True)
     # credentials = flow.run_console()
+
     return build(api_service_name, api_version, credentials=credentials)
 
 
@@ -345,6 +383,7 @@ def print_information(parties, videos_per_channel, from_date, until_date):
     print("==== ", bold_purple("CAPTION PARTY v" + str(VERSION)), " ====")
     print("==============================")
     print("Fetching: " + ", ".join(parties))
+
     if videos_per_channel < 0:
         print("Subtitles per channel: unlimited")
     else:
