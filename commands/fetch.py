@@ -184,6 +184,7 @@ def updating_and_saving(rows, database_path):
         loaded_df['updated'], format=iso, utc=True)
     # Update dataset
     updated_df = new_df.combine_first(loaded_df)
+
     # Make incompatible types compatible
     updated_df = updated_df.astype(str)
     updated_df.to_sql('tab', engine, if_exists='replace', index=True)
@@ -218,14 +219,10 @@ def filter_subtitles(path):
     real_path = path.split('.')[0] + ".de.ttml"
     with open(real_path, "r") as f:
         text = f.read()
-    text = re.sub(r'<[^>]*>', '', text)
-    text = re.sub(r'\[[^\]]*\]', '', text)
+    text = re.sub(r'<[^>]*>', ' ', text)
+    text = re.sub(r'\[[^\]]*\]', ' ', text)
     # text = re.sub(r'[^a-zA-ZäöüÄÖÜß\s]*', '', text)
     text = re.sub(r'\s+', ' ', text).strip()
-    with open(path, "w+") as f:
-        f.write(text)
-    os.remove(real_path)
-
     return text
 
 
@@ -241,8 +238,8 @@ def filter_subs(directory):
     for cap in unfiltered_files:
         with open(cap, "r") as f:
             text = f.read()
-        text = re.sub(r'<[^>]*>', '', text)
-        text = re.sub(r'\[[^\]]*\]', '', text)
+        text = re.sub(r'<[^>]*>', ' ', text)
+        text = re.sub(r'\[[^\]]*\]', ' ', text)
         # text = re.sub(r'[^a-zA-ZäöüÄÖÜß\s]*', '', text)
         text = re.sub(r'\s+', ' ', text).strip()
         with open(cap[:-8] + ".txt", "w+") as f:
