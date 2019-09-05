@@ -62,13 +62,13 @@ import glob
 import pandas as pd
 from datetime import datetime
 from helper import status,\
-                   usage,\
-                   error,\
-                   warning,\
-                   bold_purple,\
-                   bold_blue,\
-                   load_json,\
-                   VERSION
+    usage,\
+    error,\
+    warning,\
+    bold_purple,\
+    bold_blue,\
+    load_json,\
+    VERSION
 try:
     import click
     from sqlalchemy import create_engine
@@ -107,6 +107,10 @@ def fetch(parties, channels_resource, videos_per_channel, key, from_date,
                                 for party in parties):
         print(usage, "connect.py fetch [OPTIONS] PARTIES...")
         print(
+            bold_blue("[Example] ") +
+            "connect.py fetch afd union --from-date '01.01.2019' --videos-per-channel -1"
+        )
+        print(
             bold_blue("Available parties: ") +
             ", ".join(["all"] + available_parties))
 
@@ -135,11 +139,8 @@ def fetch(parties, channels_resource, videos_per_channel, key, from_date,
 
             # Get uploads
             playlist_id = get_channel_uploads_id(handle, channel['id'])
-            playlist_items = get_playlist_items(handle,
-                                                playlist_id,
-                                                from_date,
-                                                until_date,
-                                                videos_per_channel)
+            playlist_items = get_playlist_items(handle, playlist_id, from_date,
+                                                until_date, videos_per_channel)
 
             for video_id in playlist_items:
                 print(status + "Scraping and processing video:", video_id)
@@ -156,11 +157,8 @@ def fetch(parties, channels_resource, videos_per_channel, key, from_date,
                 raw_video_json = get_raw_video_json(handle, video_id)
 
                 # Merge to data row
-                data_row = create_datarow(video_id,
-                                          party,
-                                          channel['state'],
-                                          channel['faction'],
-                                          raw_video_json,
+                data_row = create_datarow(video_id, party, channel['state'],
+                                          channel['faction'], raw_video_json,
                                           subtitle)
                 rows.append(data_row)
     updating_and_saving(rows, database)
@@ -178,10 +176,8 @@ def updating_and_saving(rows, database_path):
     conn = engine.connect()
     loaded_df = pd.read_sql_query("SELECT * from tab", conn)
     loaded_df.set_index('videoId', inplace=True)
-    loaded_df['publishedAt'] = pd.to_datetime(
-        loaded_df['publishedAt'], format=iso, utc=True)
-    loaded_df['updated'] = pd.to_datetime(
-        loaded_df['updated'], format=iso, utc=True)
+    loaded_df['publishedAt'] = pd.to_datetime(loaded_df['publishedAt'], format=iso, utc=True)
+    loaded_df['updated'] = pd.to_datetime(loaded_df['updated'], format=iso, utc=True)
     # Update dataset
     updated_df = new_df.combine_first(loaded_df)
 
@@ -223,6 +219,7 @@ def filter_subtitles(path):
     text = re.sub(r'\[[^\]]*\]', ' ', text)
     # text = re.sub(r'[^a-zA-ZäöüÄÖÜß\s]*', '', text)
     text = re.sub(r'\s+', ' ', text).strip()
+
     return text
 
 
@@ -301,6 +298,7 @@ def get_playlist_items(handle, playlist_id, from_date, until_date, max_videos):
 def get_raw_video_json(handle, video_id):
     json_result = handle.videos().list(
         part='snippet,contentDetails,statistics', id=video_id).execute()
+
     return json_result
 
 
@@ -318,7 +316,7 @@ def create_datarow(video_id, party, state, faction, json, subtitle):
         **statistics, "subtitle": subtitle,
         "party": party,
         "state": state,
-        "faction": state,
+        "faction": faction,
         "updated": str(datetime.now())
     }
     unwanted = []
